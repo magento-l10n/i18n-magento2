@@ -1,0 +1,4 @@
+"Please correct the data sent.","전송될 데이터를 수정해주십시오."
+"Entity type model '%1' is not found","Entity type model '%1' is not found"
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","엔터티 타입 모델은 반드시 \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType의 인스턴스여야 합니다."
+"There are no product types available for export","내보낼 수 있는 상품 타입이 없습니다."
