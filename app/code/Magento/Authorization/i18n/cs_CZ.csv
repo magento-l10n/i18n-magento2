@@ -1,0 +1,3 @@
+"We can't find the role for the user you wanted.","Požadovanou roli pro uživatele nelze najít."
+"Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Při kompilaci seznamu povolených zdrojů nastala chyba. Více informací naleznete v protokolu výjimek."
+"The role wasn't found for the user. Verify the role and try again.","Role pro uživatele nebyla nalezena. Ověřte roli a zkuste to znovu."
