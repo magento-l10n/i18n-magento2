@@ -1,0 +1,7 @@
+"""Entity type should be specified","""Entity type should be specified"
+"""Attribute code should be specified","""Attribute code should be specified"
+"Attribute code %1 of entity type %2 not configured to have a type.","کد ویژگی %1 از نوع ورودی %2 برای یک نوع پیکربندی نشده است."
+"Invalid entity_type specified: %1","Entity_type نامعتبر مشخص شده است: %1"
+"Missing %1 for the input %2.","گم کردن %1 برای ورودی %2."
+"Type %1 has no internal representation declared.","Type %1 has no internal representation declared."
+"Cannot resolve EAV type","Cannot resolve EAV type"
