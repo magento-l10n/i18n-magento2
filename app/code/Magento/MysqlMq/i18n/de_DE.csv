@@ -1,0 +1,8 @@
+"Message has been rejected: %1","Nachricht wurde abgewiesen: %1"
+"MySQL Message Queue Cleanup","MySQL Message Queue aufräumen"
+"All the times are in minutes. Use ""0"" if you want to skip automatic clearance.","Alle Zeiten sind in Minuten angegeben. Verwenden Sie ""0"", wenn Sie die automatische Freigabe überspringen wollen."
+"Retry Messages In Progress After","Wiederholnachrichten laufen nach"
+"Successful Messages Lifetime","Gültigkeit für Success-Messages"
+"Failed Messages Lifetime","Gültigkeit für fehlgeschlagene Nachrichten"
+"New Messages Lifetime","Gültigkeit für neue Nachrichten"
+"MySQL Message Queue Cleanup - all the times are in minutes. Use ""0"" if you want to skip automatic clearance","MySQL Message Queue Cleanup - all the times are in minutes. Use ""0"" if you want to skip automatic clearance"
