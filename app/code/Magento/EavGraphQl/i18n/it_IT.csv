@@ -1,0 +1,7 @@
+"""Entity type should be specified","""Tipo di entità"" deve essere specificato"
+"""Attribute code should be specified","""Codice attributo deve essere specificato"
+"Attribute code %1 of entity type %2 not configured to have a type.","Il codice attributo %1 del tipo di entità %2 non è configurato per avere un tipo."
+"Invalid entity_type specified: %1","Entity_type non è valido: %1"
+"Missing %1 for the input %2.","Manca %1 per il campo %2."
+"Type %1 has no internal representation declared.","Type %1 has no internal representation declared."
+"Cannot resolve EAV type","Impossibile risolvere il tipo EAV"
