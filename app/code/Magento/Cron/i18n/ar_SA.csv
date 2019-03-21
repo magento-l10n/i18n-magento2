@@ -1,0 +1,27 @@
+"We can't save the cron expression.","We can't save the cron expression.
+"
+"Daily","يوميا"
+"Weekly","إسبوعياً"
+"Monthly","شهريا"
+"Invalid cron expression: %1","قيمة المهمة المجدولة غير صالحة: %1"
+"Invalid cron expression, expecting 'match/modulus': %1","Invalid cron expression, expecting 'match/modulus': %1
+"
+"Invalid cron expression, expecting numeric modulus: %1","قيمة المهمة المجدولة غير صالحة, المتوقع قيمة عددية"
+"Invalid cron expression, expecting 'from-to' structure: %1","Invalid cron expression, expecting 'from-to' structure: %1
+"
+"Some error","خطأ ما"
+"Invalid callback: Not_Existed_Class::execute can't be called","استدعاء غير صالح: كلاس_غير_موجودة::لا يمكن استدعائها"
+"Test exception","استثناء للاختبار"
+"Cron (Scheduled Tasks)","المهام المجدولة"
+"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.","لعمل روابط المهام المجدولة التي تم انشائها بالشكل الصحيح رجاءً تاكد من انها وضعت بالشكل الصحيح,جميع الاوقات بالدقائق."
+"Cron configuration options for group:","خيارات تكوين اجراءات ألية لمجموعة:"
+"Generate Schedules Every","توليد جداول كل"
+"Schedule Ahead for","مهمة مجدولة لـ"
+"Missed if Not Run Within","مفقود اذا لم يتم التشغيل من تلقاء نفسها"
+"History Cleanup Every","تنظيف السجل (الكاش)كل"
+"Success History Lifetime","نجاح سجل التاريخ منذ البدء"
+"Failure History Lifetime","فشل سجل التاريخ منذ البدء"
+"Use Separate Process","استخدام عملية منفصلة"
+"Cron (Scheduled Tasks) - all the times are in minutes","Cron (Scheduled Tasks) -كل الأوقات بالدقائق"
+"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.","For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.
+"
