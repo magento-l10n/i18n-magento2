@@ -1,0 +1,3 @@
+"RPC call failed, connection timed out after %time_out.","RPC 调用失败，连接%time_out 后超时。"
+"Message has been rejected: %1","消息被拒绝: %1"
+"Error while checking if topic is synchronous","检查是否主题是否同步时出错"
