@@ -1,0 +1,29 @@
+"Conditions Combination","Combinazione di condizioni"
+"Product Attribute","Attributo Prodotto"
+"SKU","Cod.Art."
+"Please choose a condition to add.","Si prega di scegliere una condizione da aggiungere."
+"Add to Cart","Aggiungi al Carrello"
+"In stock","Disponibile"
+"Out of stock","Non Disponibile"
+"Add to Wish List","Aggiungi alla lista desideri"
+"Add to Compare","Aggiungi al confronto"
+"Catalog Products List","Elenco prodotti catalogo"
+"List of Products","Elenco di prodotti"
+"Title","Titolo"
+"Display Page Control","Mostra controllo pagina"
+"Number of Products per Page","Numero di prodotti per pagina"
+"Number of Products to Display","Numero di prodotti da visualizzare"
+"Template","Template"
+"Products Grid Template","Template griglia prodotti"
+"Cache Lifetime (Seconds)","Durata della cache (secondi)"
+"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 di default, se non impostato. Per aggiornare immediatamente, cancellare la cache dell'Output HTML dei blocchi."
+"Conditions","Condizioni"
+"
+                    Time in seconds between the widget updates.
+                    <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
+                    <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.
+                ","
+Tempo in secondi tra gli aggiornamenti del widget.
+<br/>Se non impostato, è uguale a 86.400 secondi (24 ore). Per aggiornare immediatamente il widget, andare in Gestione della Cache e selezionare Svuota cache di Output HTML.
+<br/>Il widget non mostrerà i prodotti che iniziano a soddisfare le condizioni specificate fino a quando la cache non sarà aggiornata.
+                "
