@@ -1,0 +1,4 @@
+"Please correct the data sent.","Παρακαλώ διορθώστε τα απεσταλμένα δεδομένα."
+"Entity type model '%1' is not found","Τύπος μοντέλο οντότητας '%1' δεν βρέθηκε"
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Ο τύπος μοντέλου οντότητας πρέπει να είναι ένα παράδειγμα του \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType"
+"There are no product types available for export","Δεν Υπάρχουν τύποι προϊόντος για εξαγωγή"
