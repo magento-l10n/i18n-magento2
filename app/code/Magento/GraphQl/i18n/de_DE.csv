@@ -1,0 +1,3 @@
+"Request content type must be application/json","Der Anfragetyp muss application/json sein"
+"Store code %1 does not exist","Store-Code %1 existiert nicht"
+"Entity code %1 does not exist.","Entitätscode %1 existiert nicht."
