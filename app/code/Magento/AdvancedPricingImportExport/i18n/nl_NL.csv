@@ -1,0 +1,4 @@
+"Please correct the data sent.","Corrigeer de gegevens die zijn verzonden."
+"Entity type model '%1' is not found","Type entiteitsmodel '%1' is niet gevonden"
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Entiteitstype model moet onderdeel zijn van\Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType"
+"There are no product types available for export","Er zijn geen product-typen beschikbaar om te exporteren"
