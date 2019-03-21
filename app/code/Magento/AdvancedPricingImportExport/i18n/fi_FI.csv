@@ -1,0 +1,4 @@
+"Please correct the data sent.","Ole hyvä ja korjaa lähetetty tieto."
+"Entity type model '%1' is not found","Entiteetin tyyppimallia '%1' ei löydy"
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Entiteetin tyyppimallin on oltava \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType instanssi"
+"There are no product types available for export","Vietäviä tuotetyyppejä ei ole saatavilla"
