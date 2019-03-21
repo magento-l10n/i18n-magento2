@@ -1,0 +1,45 @@
+"Approved","Approvato"
+"Declined","Rifiutato"
+"Pending","In attesa"
+"Canceled","Cancellato"
+"In Review","In Revisione"
+"Unrequested","Non richiesta"
+"Learn more","Ulteriori informazioni"
+"This order already has associated case entity","Questo ordine ha già associato entità case"
+"The case entity should not be empty.","Il Caso non può essere vuoto."
+"Cannot update Case entity.","Non è possibile aggiornare il Caso."
+"The ""%1"" should not be empty.","Il ""%1"" non deve essere vuoto."
+"Case entity not found.","Caso non trovato."
+"Case Update: New score for the order is %1. Previous score was %2.","Aggiornamento sul Caso: il Nuovo punteggio per l'ordine è %1. Il punteggio precedente era %2."
+"Awaiting the Signifyd guarantee disposition.","In attesa delle disposizioni del garante Signifyd."
+"Only single entrance of ""%1"" node is required.","Richiesto un solo ingresso al nodo ""%1""."
+"Not empty value for ""%1"" node is required.","Il nodo ""%1"" richiede un valore non vuoto."
+"%1 must implement %2","%1 deve implementare %2"
+"Error","Errore"
+"Cannot generate message.","Non è possibile generare il messaggio."
+"Message is generated.","Il messaggio è stato generato."
+"Case with the same order id already exists.","Esiste già un caso con lo stesso id ordine."
+"Fraud Protection Information","Informazione sulla Protezione Frodi"
+"Signifyd Guarantee Decision","Decisione del Garante Signifyd"
+"Fraud Protection Section","Sezione Protezione Frodi"
+"Fraud Protection","Protezione Frodi"
+"Protect your store from fraud with Guaranteed Fraud Protection by Signifyd.","Proteggi il tuo Negozio da frodi con la Protezione da Frodi Garantita da Signifyd."
+"Configuration","Configurazione"
+"Enable this Solution","Abilita questa soluzione"
+"API Key","Chiave API"
+"API URL","URL API"
+"Debug","Debug"
+"Webhook URL","URL del webhook"
+"Signifyd automatically reviews your orders for fraud, telling you in seconds which orders to ship, and which to reject.
+                    We back our approvals with 100% chargeback protection, reimbursing you the full order amount plus fees should you ever receive a fraudulent chargeback.
+                    <p>Benefits:<ul>
+                    <li>Grow your business without fear of fraud</li>
+                    <li>Accept more orders and maximize your revenue</li>
+                    <li>Automate order review and shift fraud off your plate</li></ul></p>","Signifyd automatically reviews your orders for fraud, telling you in seconds which orders to ship, and which to reject.
+                    We back our approvals with 100% chargeback protection, reimbursing you the full order amount plus fees should you ever receive a fraudulent chargeback.
+                    <p>Benefits:<ul>
+                    <li>Grow your business without fear of fraud</li>
+                    <li>Accept more orders and maximize your revenue</li>
+                    <li>Automate order review and shift fraud off your plate</li></ul></p>"
+"<a href=""https://www.signifyd.com/resources/manual/magento-2/signifyd-on-magento-integration-guide/"" target=""_blank"">View our setup guide</a> for step-by-step instructions on how to integrate Signifyd with Magento.<br />For support contact <a href=""mailto:support@signifyd.com"">support@signifyd.com</a>.","<a href=""https://www.signifyd.com/resources/manual/magento-2/signifyd-on-magento-integration-guide/"" target=""_blank"">View our setup guide</a> for step-by-step instructions on how to integrate Signifyd with Magento.<br />For support contact <a href=""mailto:support@signifyd.com"">support@signifyd.com</a>."
+"Your webhook URL will be used to <a href=""https://app.signifyd.com/settings/notifications"" target=""_blank"">configure</a> a guarantee completed webhook in Signifyd. Webhooks are used to sync Signifyd`s guarantee decisions back to Magento.","Your webhook URL will be used to <a href=""https://app.signifyd.com/settings/notifications"" target=""_blank"">configure</a> a guarantee completed webhook in Signifyd. Webhooks are used to sync Signifyd`s guarantee decisions back to Magento."
