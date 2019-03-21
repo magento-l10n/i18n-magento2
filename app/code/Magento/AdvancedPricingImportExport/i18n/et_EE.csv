@@ -1,0 +1,4 @@
+"Please correct the data sent.","Palun korrigeerige andmeid."
+"Entity type model '%1' is not found","Olemi tüübi mudelit ""%1"" ei leitud"
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Olemi tüübi mudel peab olema näiteks """" \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType"
+"There are no product types available for export","Ekspordiks vajalikke tootetüüpe ei ole"
