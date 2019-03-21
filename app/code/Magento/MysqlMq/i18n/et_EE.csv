@@ -1,0 +1,8 @@
+"Message has been rejected: %1","Sõnum on tagasi lükatud: %1"
+"MySQL Message Queue Cleanup","MySQL sõnumi järjekorda puhastamine"
+"All the times are in minutes. Use ""0"" if you want to skip automatic clearance.","Kõik ajad on minutites. Kasuta ""0"", kui soovite jätta vahele automaatse puhastamise."
+"Retry Messages In Progress After","Retry Messages In Progress After"
+"Successful Messages Lifetime","Successful Messages Lifetime"
+"Failed Messages Lifetime","Failed Messages Lifetime"
+"New Messages Lifetime","New Messages Lifetime"
+"MySQL Message Queue Cleanup - all the times are in minutes. Use ""0"" if you want to skip automatic clearance","MySQL sõnumite järjekorra puhastus - Kõik ajad on minutites. Kasuta ""0"", kui soovite jätta vahele automaatse puhastamise"
