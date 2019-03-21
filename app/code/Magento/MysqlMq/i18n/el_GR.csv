@@ -1,0 +1,8 @@
+"Message has been rejected: %1","Μήνυμα που απορρίφθηκε: %1"
+"MySQL Message Queue Cleanup","Εκκαθάρισης Ουράς μηνυμάτων MySQL"
+"All the times are in minutes. Use ""0"" if you want to skip automatic clearance.","Όλοι οι χρόνοι είναι μέσα σε λίγα λεπτά. Χρήση ""0"" αν θέλετε να παρακάμψετε την αυτόματη εκκαθάριση."
+"Retry Messages In Progress After","Επανάληψη Μηνυμάτων σε Εξέλιξη Μετά από"
+"Successful Messages Lifetime","Διάρκεια ζωής Επιτυχών Μηνυμάτων"
+"Failed Messages Lifetime","Διάρκεια ζωής Αποτυχημένων Μηνυμάτων"
+"New Messages Lifetime","Διάρκεια ζωής Νέων Μηνυμάτων"
+"MySQL Message Queue Cleanup - all the times are in minutes. Use ""0"" if you want to skip automatic clearance","MySQL μήνυμα εκκαθάρισης ουράς - όλοι οι χρόνοι είναι μέσα σε λεπτά. Χρήση ""0"" αν θέλετε να παρακάμψετε την αυτόματη εκκαθάριση"
