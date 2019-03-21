@@ -1,0 +1,73 @@
+"Now Shopping by","걸러보기 옵션"
+"Previous","이전"
+"Remove","삭제"
+"Remove This Item","항목 삭제"
+"Shop By","정렬순서"
+"Clear All","모두 지우기"
+"Shopping Options","쇼핑 옵션"
+"Welcome to %store_name","%store_name 에 오신 것을 환영합니다."
+"%name,","%name,"
+"Welcome to %store_name.","%store_name에 오신 것을 환영합니다."
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">
+ My Account</a>
+ page:"
+"Email:","이메일: "
+"Password:","비밀번호: "
+"Password you set when creating account","계정 생성시 만든 비밀번호"
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","비밀번호를 잊으셨나요? <a href=""%reset_url"">여기를 클릭</a>해서 재설정 할 수 있습니다."
+"When you sign in to your account, you will be able to:","로그인을 하시면 다음 사항들을 하실 수 있습니다:"
+"Quick Checkout","빠른 주문 결제"
+"Proceed through checkout faster","간편한 결제 과정"
+"Order Status","주문 진행상태"
+"Check the status of orders","주문 상태 확인"
+"Manage Addresses","주소 관리"
+"Store alternative addresses","Store alternative addresses"
+"For shipping to multiple family members and friends","For shipping to multiple family members and friends"
+"Order History","Order History"
+"View past orders","주문 내역 확인"
+"Footer","꼬리말"
+"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>우리는...</a>"
+"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>고객 서비스</a>"
+"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">
+ %store_phone</a>
+ "
+"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Hours of Operation:<br />
+ <span class=""no-link"">
+ %store_hours</span>
+ ."
+"Credit memo for your %store_name order","Credit memo for your %store_name order"
+"Thank you for your order from %store_name.","Thank you for your order from %store_name."
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","<a href=""%account_url"">
+ 계정에 로그인</a>
+ 하여 주문 상태를 확인할 수 있습니다."
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","If you have questions about your order, you can email us at <a href=""mailto:%store_email"">
+ %store_email</a>
+ ."
+"Your Credit Memo #%creditmemo_id for Order #%order_id","#%order_id 주문에 대한 환불 정보 #%creditmemo_id"
+"Billing Info","결제 정보"
+"Shipping Info","배송 정보"
+"Payment Method","결제방법"
+"Shipping Method","배송 방법"
+"Update to your %store_name credit memo","%store_name 환불 정보를 업데이트 하세요"
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","고객님의 주문번호 %increment_id의 상태가 <strong>%order_status</strong> 로 변경되었습니다."
+"Invoice for your %store_name order","%store_name 주문 결제 정보"
+"Your Invoice #%invoice_id for Order #%order_id","주문번호 %order_id 에 대한 청구서 번호 %invoice_id"
+"Update to your %store_name invoice","%store_name 결제 정보를 업데이트 하세요"
+"Your %store_name order confirmation","%store_name 주문 확인"
+"%customer_name,","%customer_name,"
+"Once your package ships we will send you a tracking number.","배송이 시작되면 트래킹 번호를 보내드립니다."
+"Your Order <span class=""no-link"">#%increment_id</span>","주문번호 <span class=""no-link"">%increment_id</span>"
+"Placed on <span class=""no-link"">%created_at</span>","Placed on <span class=""no-link"">
+ %created_at</span>
+ "
+"Update to your %store_name order","%store_name 주문 정보를 업데이트 하세요"
+"Your %store_name order has shipped","%store_name 에서 주문하신 상품의 배송이 시작되었습니다."
+"Your shipping confirmation is below. Thank you again for your business.","배송에 관한 정보는 아래를 참조하십시오. 주문해주셔서 다시 한번 감사드립니다."
+"Your Shipment #%shipment_id for Order #%order_id","주문번호 %order_id의 배송이 시작되었습니다. 배송번호는 %shipment_id 입니다."
+"Update to your %store_name shipment","%store_name 배송정보를 업데이트 하세요"
+"Account Dashboard","계정 대시보드"
+"Address Book","주소록"
+"Account Information","계정 정보"
+"About Us","About Us"
+"Customer Service","Customer Service"
+"My Account","내 계정"
