@@ -1,0 +1,4 @@
+"Please correct the data sent.","נא תקן את הנתונים שנשלחו."
+"Entity type model '%1' is not found","סוג דגם '%1' לא נמצא"
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","סוג מודל חייב להיות מופע של \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType"
+"There are no product types available for export","סוגי המוצרים לא זמינים עבור ייצוא"
