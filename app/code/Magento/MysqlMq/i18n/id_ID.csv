@@ -1,0 +1,8 @@
+"Message has been rejected: %1","Pesan telah ditolak:%1"
+"MySQL Message Queue Cleanup","Pembersihan Antrian Pesan MySQL"
+"All the times are in minutes. Use ""0"" if you want to skip automatic clearance.","Semua waktu dalam beberapa menit. Gunakan ""0"" jika Anda ingin melewatkan izin otomatis."
+"Retry Messages In Progress After","Coba Lagi Pesan Sedang Berjalan Setelah"
+"Successful Messages Lifetime","Pesan Sukses Seumur Hidup"
+"Failed Messages Lifetime","Gagal Pesan Seumur Hidup"
+"New Messages Lifetime","Pesan Baru Seumur Hidup"
+"MySQL Message Queue Cleanup - all the times are in minutes. Use ""0"" if you want to skip automatic clearance","MySQL Message Queue Cleanup - semua waktu ada dalam hitungan menit. Gunakan ""0"" jika Anda ingin melewatkan izin otomatis"
