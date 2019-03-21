@@ -1,0 +1,45 @@
+"Approved","Approuvé"
+"Declined","Refusé"
+"Pending","En attente"
+"Canceled","Annulée"
+"In Review","En examen"
+"Unrequested","Non sollicité"
+"Learn more","En savoir plus"
+"This order already has associated case entity","Cette commande a déjà une association d'entité d'affaire"
+"The case entity should not be empty.","L'entité d'affaire ne peut pas être vide."
+"Cannot update Case entity.","Impossible de mettre à jour une entité affaire."
+"The ""%1"" should not be empty.","Le ""%1"" ne doit pas être vide."
+"Case entity not found.","Entité d'affaire introuvable."
+"Case Update: New score for the order is %1. Previous score was %2.","Mise à jour : Nouveau score pour cette commande est %1. Note précédente était %2."
+"Awaiting the Signifyd guarantee disposition.","En attendant la disposition de garantie Signifyd."
+"Only single entrance of ""%1"" node is required.","Une seule entrée de nœud ""%1"" est demandé."
+"Not empty value for ""%1"" node is required.","Une valeur non vide pour nœud de «%1» est obligatoire."
+"%1 must implement %2","%1 doit implémenter %2"
+"Error","Erreur"
+"Cannot generate message.","Ne peut pas générer le message."
+"Message is generated.","Message généré."
+"Case with the same order id already exists.","Affaire avec le même id de commande existe déjà."
+"Fraud Protection Information","Information Protection fraude"
+"Signifyd Guarantee Decision","Décision Signifyd garantie"
+"Fraud Protection Section","Section de Protection de fraude"
+"Fraud Protection","Protection contre la fraude"
+"Protect your store from fraud with Guaranteed Fraud Protection by Signifyd.","Protéger votre magasin de la fraude avec protection garantie contre la fraude par Signifyd."
+"Configuration","Configuration"
+"Enable this Solution","Activer cette solution"
+"API Key","Clé d'API"
+"API URL","URL d'API"
+"Debug","Déboguage"
+"Webhook URL","URL du webhook"
+"Signifyd automatically reviews your orders for fraud, telling you in seconds which orders to ship, and which to reject.
+                    We back our approvals with 100% chargeback protection, reimbursing you the full order amount plus fees should you ever receive a fraudulent chargeback.
+                    <p>Benefits:<ul>
+                    <li>Grow your business without fear of fraud</li>
+                    <li>Accept more orders and maximize your revenue</li>
+                    <li>Automate order review and shift fraud off your plate</li></ul></p>","Signifyd automatically reviews your orders for fraud, telling you in seconds which orders to ship, and which to reject.
+                    We back our approvals with 100% chargeback protection, reimbursing you the full order amount plus fees should you ever receive a fraudulent chargeback.
+                    <p>Benefits:<ul>
+                    <li>Grow your business without fear of fraud</li>
+                    <li>Accept more orders and maximize your revenue</li>
+                    <li>Automate order review and shift fraud off your plate</li></ul></p>"
+"<a href=""https://www.signifyd.com/resources/manual/magento-2/signifyd-on-magento-integration-guide/"" target=""_blank"">View our setup guide</a> for step-by-step instructions on how to integrate Signifyd with Magento.<br />For support contact <a href=""mailto:support@signifyd.com"">support@signifyd.com</a>.","<a href=""https://www.signifyd.com/resources/manual/magento-2/signifyd-on-magento-integration-guide/"" target=""_blank"">View our setup guide</a> for step-by-step instructions on how to integrate Signifyd with Magento.<br />For support contact <a href=""mailto:support@signifyd.com"">support@signifyd.com</a>."
+"Your webhook URL will be used to <a href=""https://app.signifyd.com/settings/notifications"" target=""_blank"">configure</a> a guarantee completed webhook in Signifyd. Webhooks are used to sync Signifyd`s guarantee decisions back to Magento.","Your webhook URL will be used to <a href=""https://app.signifyd.com/settings/notifications"" target=""_blank"">configure</a> a guarantee completed webhook in Signifyd. Webhooks are used to sync Signifyd`s guarantee decisions back to Magento."
