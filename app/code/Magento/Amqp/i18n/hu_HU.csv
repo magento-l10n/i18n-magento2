@@ -1,0 +1,3 @@
+"RPC call failed, connection timed out after %time_out.","RPC-hívás sikertelen, kapcsolat idő túllépés %time_out után."
+"Message has been rejected: %1","Üzenet visszautasítva: %1"
+"Error while checking if topic is synchronous","Hiba téma szinkronitás ellenőrzése során"
