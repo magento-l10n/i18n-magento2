@@ -1,0 +1,29 @@
+"Conditions Combination","Conditions Combination"
+"Product Attribute","產品屬性"
+"SKU","商品編號"
+"Please choose a condition to add.","Please choose a condition to add."
+"Add to Cart","加到購物車"
+"In stock","有貨"
+"Out of stock","缺貨"
+"Add to Wish List","添加至願望清單"
+"Add to Compare","加入比較"
+"Catalog Products List","Catalog Products List"
+"List of Products","List of Products"
+"Title","標題"
+"Display Page Control","Display Page Control"
+"Number of Products per Page","Number of Products per Page"
+"Number of Products to Display","Number of Products to Display"
+"Template","範本"
+"Products Grid Template","Products Grid Template"
+"Cache Lifetime (Seconds)","Cache Lifetime (Seconds)"
+"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache."
+"Conditions","條件"
+"
+                    Time in seconds between the widget updates.
+                    <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
+                    <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.
+                ","
+                    Time in seconds between the widget updates.
+                    <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
+                    <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.
+                "
