@@ -1,0 +1,8 @@
+"Message has been rejected: %1","Bericht is afgekeurd: %1"
+"MySQL Message Queue Cleanup","MySQL Message Queue Opschonen"
+"All the times are in minutes. Use ""0"" if you want to skip automatic clearance.","Tijden zijn in minuten. Gebruik ""0"" om automatische goedkeuring over te slaan."
+"Retry Messages In Progress After","Berichten Die In Behandeling Zijn Opnieuw Proberen Na"
+"Successful Messages Lifetime","Levensduur Van Succesvolle Berichten"
+"Failed Messages Lifetime","Onbestelbare berichten levensduur"
+"New Messages Lifetime","Levensduur Van Nieuwe Berichten"
+"MySQL Message Queue Cleanup - all the times are in minutes. Use ""0"" if you want to skip automatic clearance","MySQL bericht wachtrij Cleanup - alle de tijden zijn in minuten. ""0"" gebruiken als u automatische goedkeuring wilt overslaan"
