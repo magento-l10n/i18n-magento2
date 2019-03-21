@@ -1,0 +1,4 @@
+"Please correct the data sent.","請更正發送的資料。"
+"Entity type model '%1' is not found","找不到實體類型模型 '%1'"
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","實體類型必須屬於 \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType 裡的其中一個類型"
+"There are no product types available for export","無產品類型可輸出"
