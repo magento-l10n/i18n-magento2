@@ -1,0 +1,18 @@
+"Invalid domain name: %1","Невалидно домейн име: %1"
+"Invalid cookie lifetime: %1","Невалидна бисквитка живот: %1"
+"Invalid cookie path","Невалиден път за бисквитка
+
+"
+"We use cookies to make your experience better.","Ние използваме бисквитки за да направят вашия опит по-добър."
+"To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.","Да се съобрази с новата директива за електронните комуникации, ние трябва да поиска за вашето съгласие да установите бисквитки."
+"<a href=""%1"">Learn more</a>.","<a href=""%1""> Научете повече</a>."
+"Allow Cookies","Разрешаване на бисквитки"
+"Default Cookie Settings","Настройки на Бисквитките по подразбиране"
+"Cookie Lifetime","Живот на бисквитката"
+"Cookie Path","Път на бисквитката"
+"Cookie Domain","Домейн на бисквитката"
+"Use HTTP Only","Използвайте HTTP само"
+"Cookie Restriction Mode","Ограничен режим на Бисквитките"
+"<strong style=""color:red"">Warning</strong>:  Do not set to ""No"". User security could be compromised.","<strong style=""color:red"">Warning</strong>:  Do not set to ""No"". User security could be compromised."
+"'Invalid domain name: ' .","'Invalid domain name: ' ."
+"'Invalid cookie lifetime: ' .","'Invalid cookie lifetime: ' ."
