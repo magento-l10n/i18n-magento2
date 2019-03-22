@@ -1,0 +1,8 @@
+"Message has been rejected: %1","El mensaje ha sido rechazado: %1"
+"MySQL Message Queue Cleanup","Limpieza de cola de mensajes de MySQL"
+"All the times are in minutes. Use ""0"" if you want to skip automatic clearance.","Todos los tiempos están en minutos. Utilice ""0"" si desea saltar la limpieza automática."
+"Retry Messages In Progress After","Reintentar mensajes en curso después de"
+"Successful Messages Lifetime","Tiempo de vida de mensajes existosos"
+"Failed Messages Lifetime","Tiempo de vida de mensajes fallados"
+"New Messages Lifetime","Tiempo de vida de nuevos mensajes"
+"MySQL Message Queue Cleanup - all the times are in minutes. Use ""0"" if you want to skip automatic clearance","Limpieza de cola mensaje de MySQL - todos los tiempos están en minutos. Utilice ""0"" si desea saltar el borrado automático"
