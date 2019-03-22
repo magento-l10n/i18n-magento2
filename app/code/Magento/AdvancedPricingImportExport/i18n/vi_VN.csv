@@ -1,0 +1,4 @@
+"Please correct the data sent.","Xin vui lòng sửa các dữ liệu được gửi."
+"Entity type model '%1' is not found","Mô hình thực thể loại '%1' không được tìm thấy"
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Loại thực thể mẫu phải là ví dụ của \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType"
+"There are no product types available for export","Không có sẵn loại sản phẩm để xuất khẩu"
