@@ -33,7 +33,7 @@
 "Product with id ""%1"" does not contain required attribute ""%2"".","Produkt mit Id ""%1"" enthält kein das erforderliche Attribut ""%2"" nicht."
 "Products ""%1"" and ""%2"" have the same set of attribute values.","Produkte ""%1"" und %2 haben den gleichen Satz von Attributwerten."
 "You can't add the item to shopping cart.","Sie können dieses Produkt nicht dem Warenkorb hinzufügen."
-"You need to choose options for your item.","Sie müssen eine Optionen für Ihren Artikel wählen."
+"You need to choose options for your item.","Sie müssen Optionen für Ihren Artikel wählen."
 "Some product variations fields are not valid.","Einige Felder der Produktvariationen sind ungültig."
 "Configuration must have specified attributes","Konfiguration muss spezifizierte Attribute haben"
 "Type %1 is not an instance of %2","Typ %1 ist keine Instanz von %2"
