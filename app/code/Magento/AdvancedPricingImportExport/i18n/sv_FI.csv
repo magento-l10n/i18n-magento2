@@ -1,0 +1,4 @@
+"Please correct the data sent.","Vänligen korrigera datan som skickats."
+"Entity type model '%1' is not found","Enhet av modell '%1' finns inte"
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Entity type model måste vara en instans av \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType"
+"There are no product types available for export","Det finns ingen produkttyper för export"
