@@ -1,0 +1,4 @@
+"Please correct the data sent.","Будь ласка, виправте відправлені дані."
+"Entity type model '%1' is not found","Модель типу об'єкта '%1' не знайдено"
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Модель типу об\'єкта повинна бути екземпляром \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType"
+"There are no product types available for export","Немає типів продуктів доступних для експорту"
