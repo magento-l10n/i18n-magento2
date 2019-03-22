@@ -1,0 +1,3 @@
+"Web API Security","Seguridad de API Web"
+"Allow Anonymous Guest Access","Permitir acceso a visitante anónimo"
+"This feature applies only to CMS, Catalog and Store APIs. Please consult your developers for details on potential security risks.","Esta función solo se aplica a las APIs de CMS, Catálogo y Tienda. Consulte a sus desarrolladores para obtener detalles sobre los posibles riesgos de seguridad."
