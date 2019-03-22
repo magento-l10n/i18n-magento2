@@ -1,0 +1,3 @@
+"RPC call failed, connection timed out after %time_out.","A chamada RPC falhou, o tempo de conexão excedeu o limite após %time_out."
+"Message has been rejected: %1","A mensagem foi rejeitada: %1"
+"Error while checking if topic is synchronous","Erro durante a verificação se tópico é síncrono"
