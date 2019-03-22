@@ -1,0 +1,8 @@
+"Message has been rejected: %1","Meldingen ble avvist: %1"
+"MySQL Message Queue Cleanup","MySQL meldingkø-opprydding"
+"All the times are in minutes. Use ""0"" if you want to skip automatic clearance.","Alle tider er i minutter. Bruk ""0"" hvis du vil hoppe over automatisk klaring."
+"Retry Messages In Progress After","Retry Messages In Progress After"
+"Successful Messages Lifetime","Successful Messages Lifetime"
+"Failed Messages Lifetime","Levetid for mislykkede meldinger"
+"New Messages Lifetime","Levetid for nye meldinger"
+"MySQL Message Queue Cleanup - all the times are in minutes. Use ""0"" if you want to skip automatic clearance","MySQL meldingskø opprydding - alle tidene er i minutter. Bruk ""0"" hvis du vil hoppe over automatisk opprydding"
