@@ -1,0 +1,45 @@
+"Approved","Onaylandı"
+"Declined","Yüklenmedi"
+"Pending","Bekliyor"
+"Canceled","İptal Edildi"
+"In Review","İncelemede"
+"Unrequested","Gereksiz"
+"Learn more","Daha fazlasını öğren"
+"This order already has associated case entity","Girilen kullanıcı hesabı hatalı"
+"The case entity should not be empty.","İşlem alanı boş olmamalıdır."
+"Cannot update Case entity.","İşleminiz güncelleme yapılamıyor."
+"The ""%1"" should not be empty.","""%1"" alanı boş olmamalıdır."
+"Case entity not found.","İşlem türü bulunamadı."
+"Case Update: New score for the order is %1. Previous score was %2.","Durum Güncelleme: İşlemin yeni öğesi %1. Önceki öğe adı %2."
+"Awaiting the Signifyd guarantee disposition.","Signifyd'a uyumlu uygulama bekleniyor."
+"Only single entrance of ""%1"" node is required.","""%1"" öğesi için bir kullanıcı hesabı gerekmektedir."
+"Not empty value for ""%1"" node is required.","""%1"" öğesi için boş olmayan bir uygulama gerekiyor."
+"%1 must implement %2","%1 ve %2 uygulanmalıdır"
+"Error","Hata"
+"Cannot generate message.","Mesaj oluşturulamadı."
+"Message is generated.","Mesaj oluşturuldu."
+"Case with the same order id already exists.","Kullanıcı kimlik hesabınız zaten mevcut."
+"Fraud Protection Information","Dolandırıcı Koruma Bilgisi"
+"Signifyd Guarantee Decision","Signifyd Garanti Belgesi"
+"Fraud Protection Section","Dolandırıcı Koruma Bölümü"
+"Fraud Protection","Virüs Uygulaması"
+"Protect your store from fraud with Guaranteed Fraud Protection by Signifyd.","Signifyd uygulaması hesabınızın tehlikelere karşı korunacağını garanti eder."
+"Configuration","Yapılandırma"
+"Enable this Solution","Bu Çözümü Etkinleştir"
+"API Key","API anahtarı"
+"API URL","URL ekle"
+"Debug","Hata düzeltme"
+"Webhook URL","Webhook URL"
+"Signifyd automatically reviews your orders for fraud, telling you in seconds which orders to ship, and which to reject.
+                    We back our approvals with 100% chargeback protection, reimbursing you the full order amount plus fees should you ever receive a fraudulent chargeback.
+                    <p>Benefits:<ul>
+                    <li>Grow your business without fear of fraud</li>
+                    <li>Accept more orders and maximize your revenue</li>
+                    <li>Automate order review and shift fraud off your plate</li></ul></p>","Signifyd automatically reviews your orders for fraud, telling you in seconds which orders to ship, and which to reject.
+                    We back our approvals with 100% chargeback protection, reimbursing you the full order amount plus fees should you ever receive a fraudulent chargeback.
+                    <p>Benefits:<ul>
+                    <li>Grow your business without fear of fraud</li>
+                    <li>Accept more orders and maximize your revenue</li>
+                    <li>Automate order review and shift fraud off your plate</li></ul></p>"
+"<a href=""https://www.signifyd.com/resources/manual/magento-2/signifyd-on-magento-integration-guide/"" target=""_blank"">View our setup guide</a> for step-by-step instructions on how to integrate Signifyd with Magento.<br />For support contact <a href=""mailto:support@signifyd.com"">support@signifyd.com</a>.","<a href=""https://www.signifyd.com/resources/manual/magento-2/signifyd-on-magento-integration-guide/"" target=""_blank"">View our setup guide</a> for step-by-step instructions on how to integrate Signifyd with Magento.<br />For support contact <a href=""mailto:support@signifyd.com"">support@signifyd.com</a>."
+"Your webhook URL will be used to <a href=""https://app.signifyd.com/settings/notifications"" target=""_blank"">configure</a> a guarantee completed webhook in Signifyd. Webhooks are used to sync Signifyd`s guarantee decisions back to Magento.","Your webhook URL will be used to <a href=""https://app.signifyd.com/settings/notifications"" target=""_blank"">configure</a> a guarantee completed webhook in Signifyd. Webhooks are used to sync Signifyd`s guarantee decisions back to Magento."
