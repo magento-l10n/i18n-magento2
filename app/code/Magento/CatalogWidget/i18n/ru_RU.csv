@@ -1,0 +1,29 @@
+"Conditions Combination","Сочетание условий"
+"Product Attribute","Атрибут товара"
+"SKU","Артикул"
+"Please choose a condition to add.","Please choose a condition to add."
+"Add to Cart","Добавить в корзину"
+"In stock","В наличии"
+"Out of stock","Нет в наличии"
+"Add to Wish List","Добавить в список желаний"
+"Add to Compare","Добавить в сравнение"
+"Catalog Products List","Catalog Products List"
+"List of Products","Список товаров"
+"Title","Заголовок"
+"Display Page Control","Контроль экранной страницы"
+"Number of Products per Page","Количество продуктов на страницу"
+"Number of Products to Display","Количество продуктов для отображения"
+"Template","Шаблон"
+"Products Grid Template","Products Grid Template"
+"Cache Lifetime (Seconds)","Время жизни кэша (в секундах)"
+"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache."
+"Conditions","Условия"
+"
+                    Time in seconds between the widget updates.
+                    <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
+                    <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.
+                ","
+                    Time in seconds between the widget updates.
+                    <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
+                    <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.
+                "
