@@ -1,0 +1,4 @@
+"Please correct the data sent.","Iltimos, yuborilgan ma'lumotlarni to'g'rilang."
+"Entity type model '%1' is not found","Entity type model '%1' is not found"
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Ob'ekt turi namunasi bo'lishi kerak \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType"
+"There are no product types available for export","Eksport uchun mavjud mahsulot turlari yo'q"
