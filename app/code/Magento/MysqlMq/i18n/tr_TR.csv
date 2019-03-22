@@ -1,0 +1,8 @@
+"Message has been rejected: %1","İleti reddedildi: %1"
+"MySQL Message Queue Cleanup","MySQL Message Queue Temizleme"
+"All the times are in minutes. Use ""0"" if you want to skip automatic clearance.","Her zaman, bir kaç dakika içinde. Otomatik boşluğu atlamak isterseniz ""0"" kullanın."
+"Retry Messages In Progress After","Ardından İletileri Tekrar Dene"
+"Successful Messages Lifetime","Ömür boyu başarılı mesajlar"
+"Failed Messages Lifetime","Başarısız Mesajların Yaşam Süresi"
+"New Messages Lifetime","Yeni Mesajların Yaşam Süresi"
+"MySQL Message Queue Cleanup - all the times are in minutes. Use ""0"" if you want to skip automatic clearance","MySQL Message Queue Cleanup - her zaman birkaç dakika içinde. Otomatik boşaltma atlamak istiyorsanız ""0"" kullanın"

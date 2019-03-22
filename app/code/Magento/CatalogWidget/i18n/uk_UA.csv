@@ -1,0 +1,29 @@
+"Conditions Combination","Умови комбінації"
+"Product Attribute","Атрибут товару"
+"SKU","Артикул"
+"Please choose a condition to add.","Please choose a condition to add."
+"Add to Cart","Додати в кошик"
+"In stock","В наявності"
+"Out of stock","Немає у наявності"
+"Add to Wish List","Додати до Списку Бажань"
+"Add to Compare","Додати до порівняння"
+"Catalog Products List","Catalog Products List"
+"List of Products","List of Products"
+"Title","Назва"
+"Display Page Control","Відображати органи керування сторінкою"
+"Number of Products per Page","Кількість товарів на сторінці"
+"Number of Products to Display","Кількість товарів для показу"
+"Template","Шаблон"
+"Products Grid Template","Products Grid Template"
+"Cache Lifetime (Seconds)","Строк життя кешу (секунд)"
+"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","Якщо не вказано, то типове значення 86400. Щоб оновити миттєво, очистіть кеш виводу блочного HTML."
+"Conditions","Умови"
+"
+                    Time in seconds between the widget updates.
+                    <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
+                    <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.
+                ","
+                    Time in seconds between the widget updates.
+                    <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
+                    <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.
+                "

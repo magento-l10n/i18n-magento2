@@ -1,0 +1,4 @@
+"Please correct the data sent.","Пожалуйста, исправьте отправленные данные."
+"Entity type model '%1' is not found","Введеный тип модели '%1' не найден"
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Модель типа сущности должна быть экземпляром \ Magento \ CatalogImportExport \ Model \ Export \ Product \ Type \ AbstractType"
+"There are no product types available for export","Нет типов продуктов, доступных для экспорта"

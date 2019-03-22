@@ -1,0 +1,3 @@
+"RPC call failed, connection timed out after %time_out.","RPC-anropet misslyckades, anslutningen avbröts efter %time_out."
+"Message has been rejected: %1","Meddelande har avvisats: %1"
+"Error while checking if topic is synchronous","Fel vid kontroll om ämnet är synkront"

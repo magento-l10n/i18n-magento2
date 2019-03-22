@@ -1,0 +1,4 @@
+"Please correct the data sent.","请更正发送的数据。"
+"Entity type model '%1' is not found","实体型模式必须是一个实例 \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType"
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","实体模类型型必须是实例 \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType"
+"There are no product types available for export","没有可以导出的产品类型"

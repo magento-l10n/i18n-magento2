@@ -1,0 +1,29 @@
+"Conditions Combination","الجمع بين الشروط"
+"Product Attribute","سمة المنتج"
+"SKU","رمز المنتج"
+"Please choose a condition to add.","من فضلك اختر شرطا لاضافتة."
+"Add to Cart","أضف لسلة التسوق"
+"In stock","متوفر"
+"Out of stock","غير متوفر بالمخزن"
+"Add to Wish List","أضف لقائمة الرغبات"
+"Add to Compare","إضافة إلى المقارنة"
+"Catalog Products List","قائمة المنتجات"
+"List of Products","قائمة المنتجات"
+"Title","العنوان"
+"Display Page Control","عرض عنصر التحكم في الصفحة"
+"Number of Products per Page","عدد المنتجات في الصفحة"
+"Number of Products to Display","عدد من المنتجات للعرض"
+"Template","قالب"
+"Products Grid Template","قالب الشبكة للمنتجات"
+"Cache Lifetime (Seconds)","عمر ذاكرة التخزين المؤقت (بالثواني)"
+"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","الافتراضي 86400، إن لم يعيين. للتحديث الفوري، قم بمسح ذاكرة التخزين المؤقت لـ HTML."
+"Conditions","الحالات"
+"
+                    Time in seconds between the widget updates.
+                    <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
+                    <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.
+                ","
+                    Time in seconds between the widget updates.
+                    <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
+                    <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.
+                "

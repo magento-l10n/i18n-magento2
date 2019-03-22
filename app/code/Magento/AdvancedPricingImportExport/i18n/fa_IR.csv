@@ -1,0 +1,6 @@
+"Please correct the data sent.","لطفا داده های ارسال شده را اصلاح کنید."
+"Entity type model '%1' is not found","مدل نوع entity '%1' یافت نشد"
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","مدل نوع شیء باید یک نمونه از
+\Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType
+باشد"
+"There are no product types available for export","هيچ نوع محصولی براي صادرات وجود ندارد"

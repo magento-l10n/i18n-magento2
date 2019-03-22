@@ -1,0 +1,4 @@
+"Please correct the data sent.","Prosím opravte chyby."
+"Entity type model '%1' is not found","Model entít typu ""%1"" nebol nájdený"
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Model typu Entita musí byť inštanciou \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType"
+"There are no product types available for export","K dispozícii nie sú žiadne typy produktov na exportovanie"

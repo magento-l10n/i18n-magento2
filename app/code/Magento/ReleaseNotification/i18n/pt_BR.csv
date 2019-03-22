@@ -1,0 +1,191 @@
+"It is impossible to log user action","It is impossible to log user action"
+"Error message","Mensagem de erro"
+"An error occurred while logging process.","An error occurred while logging process."
+"Release Notification","Release Notification"
+"What’s new with Magento 2.2.4","O que há de novo com Magento 2.2.4"
+"
+                        <p>Magento 2.2.4 provides powerful new tools to help reduce cart abandonment and simplify store operations:</p>
+                        <br />
+                        <div class=""trusted-payments-highlight"">
+                        <h3>Trusted Payment Options</h3>
+                        <p>Online or on the go, your shoppers can easily purchase in a familiar, trusted way with Amazon Pay.</p>
+                        </div>
+                        <div class=""flexible-payments-highlight"">
+                        <h3>Flexible Payment Terms</h3>
+                        <p>Increase sales by providing shoppers with the flexibility to pay now, later, or in installments using Klarna&#8217;s integrated payment option.</p>
+                        </div>
+                        <div class=""tax-automation-highlight"">
+                        <h3>Sales and Use Tax Automation</h3>
+                        <p>Merchants can now automatically perform instant and accurate sales tax calculations on shopping cart items with Vertex Cloud.</p>
+                        </div>
+                        <p>To learn more, see the <a href=""http://devdocs.magento.com/guides/v2.2/release-notes/bk-release-notes.html"" target=""_blank"">Release Notes</a> and the <a href=""http://docs.magento.com/m2/ce/user_guide/getting-started.html"" target=""_blank"">Magento User Guide</a>.</p>
+                        ","
+<p>Magento 2.2.4 fornece novas ferramentas poderosas para ajudar a reduzir o abandono do carrinho e simplificar as operações da loja:</p>
+<br />
+<div class=""trusted-payments-highlight"">
+<h3>Opções de Pagamento Confiável</h3>
+<p>Os seus compradores pode facilmente comprar Online de forma familiarizada com o confiavel Amazon Pay.</p>
+</div>
+<div class=""flexible-payments-highlight"">
+<h3>Termos de Pagamento Flexíve</h3>
+<p>Aumentar as vendas, fornecendo aos clientes a flexibilidade de pagar agora, mais tarde, ou em prestações usando Klarna&#8217;s integrado nas opções de pagamento.</p>
+</div>
+<div class=""tax-automation-highlight"">
+<h3>Vendas e Automatização de Taxas Ficais</h3>
+<p>Comerciantes podem agora automaticamente executar cálculos de imposto de forma instantânea e precisa sobre os itens a vender no carrinho de compras com Vertex Cloud.</p>
+</div>
+<p>Para saber mais, consulte <a href=""http://devdocs.magento.com/guides/v2.2/release-notes/bk-release-notes.html"" target=""_blank"">Release Notes</a> e <a href=""http://docs.magento.com/m2/ce/user_guide/getting-started.html"" target=""_blank"">> Magento User Guide</a>.</p>                        "
+"Trusted Payment Options","Opções de pagamento confiável"
+"<p>With <a href=""http://docs.magento.com/m2/ce/user_guide/payment/amazon-pay.html"" target=""_blank"">Amazon Pay</a>, we make it simple for the hundreds of millions of Amazon customers worldwide to easily log in and purchase from your store using information already stored their Amazon account. With easy setup in Magento 2.2.4, Amazon Pay provides your customers with a trusted and familiar checkout experience. In just a few taps, they can complete a transaction without ever leaving your site.</p>
+                        <ul>
+                        <li><span>Your customers use one familiar login to identify themselves and transact anywhere Amazon Pay is offered.</span></li>
+                        <li><span>Checkout experience is covered by the Amazon A-to-z Guarantee at no additional cost.</span></li>
+                        <li><span>Built on years of Amazon eCommerce innovation, and trusted by merchants and buyers alike.</span></li>
+                        <li><span>Available across platforms and devices, in the home and on the go.</span></li>
+                        </ul>
+                        ","<p> Com <a href=""http://docs.magento.com/m2/ce/user_guide/payment/amazon-pay.html"" target=""_blank""> Amazon Pay </a>, simplificamos para que as centenas de milhões de clientes da Amazon em todo o mundo acedam e comprem facilmente na sua loja usando informações já armazenadas na sua conta da Amazon. Com uma fácil configuração no Magento 2.2.4, o Amazon Pay oferece aos seus clientes uma experiência de compra confiável e familiar. Em apenas alguns toques, podem concluir a transação sem sair do site. </p>
+                        <ul>
+                        <li> <span> Seus clientes usam um login familiar para se identificar e transacionar em qualquer lugar onde o Amazon Pay é oferecido. </span> </li>
+                        <li> <span>A experiência Checkout é coberta pela Garantia Amazon A-to-z sem nenhum custo adicional.</span> </li>
+                        <li> <span>Criado a partir de anos de inovação do Amazon eCommerce e reconhecido por comerciantes e compradores como confiável. </span> </li>
+                        <li> <span> Disponível em todas as plataformas e dispositivos, em casa e em trânsito. </span> </li>
+                        </ul>                        "
+"Flexible Payment Terms","Condições de pagamento flexíveis"
+"
+                        <p>With <a href=""http://docs.magento.com/m2/ce/user_guide/payment/klarna.html"" target=""_blank"">Klarna</a>, reduce purchase stress and improve your shopping experience with several retail finance and direct-payment options that are easily integrated into your existing buying journey. Shoppers can choose to pay now by online payment or direct debit, pay later by invoice, or pay in installments.</p>
+                        <ul>
+                        <li><span>Customers never leave your site, and enjoy a smoother shopping experience.</span></li>
+                        <li><span>Easy application process with the ability to pay over time increases average order value and conversion rates.</span></li>
+                        <li><span>Assumes all credit and fraud risk, and ensures you are paid for ordered goods.</span></li>
+                        <li><span>Ready for all devices, and enables shoppers to use their Klarna account at any Klarna merchant with just a few clicks.</span></li>
+                        <li><span>Fast and easy setup, right from the Magento Admin.</span></li>
+                        </ul>
+                        ","
+<p> Com o <a href=""http://docs.magento.com/m2/ce/user_guide/payment/klarna.html"" target=""_blank"">Klarna</a>, reduza o stress na compra e melhore as experiências de compra com várias opções de financiamento e pagamento direto que são facilmente integradas forma de compra existente. Os compradores podem optar por pagar agora com pagamento on-line ou débito direto, pagar posteriormente por fatura ou pagar parceladamente. </p> <ul> <li> <span> Os clientes nunca saem do site e desfrutam de uma experiência de compra mais tranquila.</span> </li> <li> <span> O processo de inscrição fácil com a capacidade de pagar ao longo do tempo aumenta o valor médio dos pedidos e as taxas de conversão.</span></li> <li> <span> Assume todo o risco de crédito e de fraude garantindo que você é pago pelos produtos pedidos.</span></li> <li> <span>Preparado para todos os dispositivos, permitindo que os compradores usem sua conta do Klarna em qualquer comerciante Klarna com apenas alguns cliques. </span></li> <li> <span>Rápida e fácil configuração, diretamente no Magento Admin.</span></li></ul>                        "
+"Sales and Use Tax Automation","Vendas e Uso de Automação de Imposto"
+"
+                        <p><a href=""http://docs.magento.com/m2/ce/user_guide/tax/vertex.html"" target=""_blank"">Vertex Cloud</a> combines sophisticated software with an exceptional team of tax experts to help Magento merchants simplify the sales tax process, and comply with ever-changing tax laws. Merchants can easily access and configure Vertex Cloud from the Magento Admin to meet complex tax challenges.</p>
+                        <ul>
+                        <li><span>Seamless integration with award-winning support for simple-to-complex tax needs.</span></li>
+                        <li><span>Automatically comply with the latest tax rules for each product and every jurisdiction.</span></li>
+                        <li><span>Perform tax calculations and generate signature-ready PDF returns in one solution.</span></li>
+                        <li><span>No penalty to merchants for tax estimates from abandoned carts.</span></li>
+                        <li><span>Flexible deployment options fit the needs of your organization in the cloud, or on premises.</span></li>
+                        </ul>
+                        ","
+<p><a href=""http://docs.magento.com/m2/ce/user_guide/tax/vertex.html"" target=""_blank""> A Vertex Cloud </a> combina software sofisticado com uma equipe excepcional de especialistas em impostos para ajudar os comerciantes Magento a simplificar o processo de impostos sobre vendas e cumprir as leis tributárias em constante mudança. Os comerciantes podem acedder e configurar facilmente o Vertex Cloud a partir do Magento Admin para atender aos complexos desafios fiscais. </p><ul><li><span>Integração perfeita com suporte premiado para necessidades tributárias simples e complexas.</span ></li><li><span>Cumpra as regras fiscais mais recentes para cada produto e jurisdição de forma automática.</span></li><li><span>Permite a realização do cálculos de impostos e geração de PDF de retorno prontos para assinatura como uma solução.</span></li><li><span>Nenhuma penalidade para os comerciantes por estimativas de impostos de carrinhos abandonados.</span></li><li><span>As opções de implantação flexíveis atendem às necessidades do seu organização na nuvem ou nas instalações.</span></li></ul>                        "
+"What's new with Magento 2.2.2","O que há de novo com Magento 2.2.2"
+"
+                        <p>Magento 2.2.2 offers advanced new features, including:</p>
+                        <br />
+                        <div class=""analytics-highlight"">
+                        <h3>Advanced Reporting</h3>
+                        <p>Gain valuable insights through a dynamic suite of product, order, and customer reports,
+                        powered by Magento Business Intelligence.</p>
+                        </div>
+                        <div class=""instant-purchase-highlight"">
+                        <h3>Instant Purchase</h3>
+                        <p>Simplify ordering and boost conversion rates by allowing your customers to use stored
+                        payment and shipping information to skip tedious checkout steps.</p>
+                        </div>
+                        <div class=""email-marketing-highlight"">
+                        <h3>Email Marketing Automation</h3>
+                        <p>Send smarter, faster email campaigns with marketing automation from dotmailer, powered by
+                        your Magento store's live data.</p>
+                        </div>
+                        <p>Release notes and additional details can be found at
+                        <a href=""http://devdocs.magento.com/"" target=""_blank"">Magento DevDocs</a>.
+                        </p>
+                        ","
+ <p>Magento 2.2.2 oferece novos recursos avançados, incluindo:</p>
+ <br />
+<div class=""analytics-highlight"">
+<h3>Relatórios Avançados</h3>
+<p>Obtenha informações valiosas por meio de um conjunto dinâmico de relatórios sobre produtos, pedidos de compras e clientes, suportado pelo Magento Business Intelligence.</p>
+ </div>
+<div class=""instant-purchase-highlight"">
+<h3>Compras imediatas</h3>
+<p>Simplifique os pedidos e aumente as taxas de conversão, permitindo que seus clientes usem as informações de pagamento e envio armazenadas para pular etapas de check-out nonotonas. </p>
+</div>
+<div class=""email-marketing-highlight"">
+<h3>Automatização de Email Marketing</h3>
+<p>Envie campanhas de e-mail inteligentes e mais rápidas com automação de marketing do dotmailer, com base nos dados em tempo real da sua loja Magento.</p> </div>
+<p>Notas de lançamento e detalhes adicionais podem ser encontrados no <a href=""http://devdocs.magento.com/"" target=""_blank"">Magento DevDocs</a>.</p>                        "
+"Advanced Reporting","Relatórios Avançados"
+"<p>Advanced Reporting
+                        provides you with a dynamic suite of reports with rich insights about the health of your
+                        business.</p><br /><p>As part of the Advanced Reporting service, we may also use your customer
+                        data for such purposes as benchmarking, improving our products and services, and providing you
+                        with new and improved analytics.</p><br /><p>By using Magento 2.2.2, you agree to the Advanced
+                        Reporting <a href=""https://magento.com/legal/terms/privacy"" target=""_blank"">Privacy Policy</a>
+                        and <a href=""https://magento.com/legal/terms/cloud-terms"" target=""_blank"">Terms
+                        of Service</a>. You may opt out at any time from the Stores Configuration page.</p>
+                        ","<p> Relatórios avançados fornece um conjunto dinâmico de relatórios com informações detalhadas sobre a integridade do seu negócios.</p><br />
+<p>Como parte do serviço Advanced Reporting, também podemos usar dados dos seus cliente para fins de benchmarking, melhoria de nossos produtos e serviços e fornecimento de análises novas e aprimoradas.</p><br />
+<p>Usando o Magento 2.2.2, você concorda com o Termos da <a href=""https://magento.com/legal/terms/privacy"" target=""_blank""> Política de Privacidade </a>
+ assim como os <a href=""https://magento.com/legal/terms/cloud-terms"" target=""_blank""> Termos
+ de serviço</a>. Você pode optar por sair a qualquer momento na página ""Configuração de Lojas"".</p>                        "
+"Instant Purchase","Compra instantânea"
+"
+                        <p>Now you can deliver an Amazon-like experience with a new, streamlined checkout option.
+                        Logged-in customers can use previously-stored payment credentials and shipping information
+                        to skip steps, making the process faster and easier, especially for mobile shoppers. Key
+                        features include:
+                        </p>
+                        <ul>
+                        <li><span>Configurable “Instant Purchase” button to place orders.</span></li>
+                        <li><span>Support for all payment solutions using Braintree Vault, including Braintree Credit
+                        Card, Braintree PayPal, and PayPal Payflow Pro.</span></li>
+                        <li><span>Shipping to the customer’s default address using the lowest cost, available shipping
+                        method.</span></li>
+                        <li><span>Ability for developers to customize the Instant Purchase business logic to meet
+                        merchant needs.</span></li>
+                        </ul>
+                        ","
+<p> Agora, você pode oferecer uma experiência semelhante à da Amazon com uma nova opção simplificada de check-out. Os clientes registrados podem usar credenciais de pagamento e informações de envio armazenadas anteriormente para saltar etapas, tornando o processo mais rápido e fácil, especialmente para compradores em dispositivos móveis. Os principais recursos incluem:</p>
+<ul><li><span>Botão ""Compra instantânea"" configurável para fazer pedidos.</span></li>
+<li><span>Suporte para todas as soluções de pagamento usando o Braintree Vault, incluindo o Braintree Credit Card, o Braintree PayPal e o PayPal Payflow Pro.</span></li>
+<li><span>Envio para o endereço padrão do cliente usando o método de envio mais barato e disponível.</span></li><li> <span>Capacidade de os desenvolvedores personalizarem a lógica comercial de compra instantânea para atender às necessidades dos comerciantes.</span></li></ul>                        "
+"Email Marketing Automation","Automação de Email Marketing"
+"
+                        <p>Unlock an unparalleled level of insight and control of your eCommerce marketing with
+                        dotmailer Email Marketing Automation. Included with Magento 2.2.2 for easy set-up, dotmailer
+                        ensures every customer’s journey is captured, segmented, and personalized, enabling you to
+                        deliver customer-centric campaigns that beat your results over and over again. Benefits include:
+                        </p>
+                        <ul>
+                        <li><span>No obligation 14-day trial.</span></li>
+                        <li><span>Automation campaigns using your live Magento store data that drive revenue,
+                        including abandoned cart, abandoned browse, product replenishment, and many more.</span></li>
+                        <li><span>Built-in solution for transactional emails.</span></li>
+                        <li><span>Telephone support and advice from marketing experts included.</span></li>
+                        </ul>
+                        ","
+<p>Desbloqueie um nível incomparável de percepção e controle do seu marketing de comércio eletrônico com o dotmailer Email Marketing Automation. Incluído no Magento 2.2.2 para fácil configuração, o dotmailer garante que percurso de cada cliente seja capturada, segmentada e personalizada, permitindo que você ofereça campanhas centradas no cliente que melhoram os seus resultados repetidas vezes. Os benefícios incluem:</p>
+<ul><li><span>Sem compromisso por 14 dias.</span></li>
+<li><span>Campanhas de automação que usam seus dados da loja do Magento em temo real que geram receita, incluindo carrinho abandonado, navegação abandonada, reposiçãoo de produtos e muito mais.</span></li>
+<li><span>Solução integrada para emails transacionais.</span> </li>
+<li><span>Suporte telefonico e aconselhamento de especialistas em marketing incluídos.</span></li></ul>                        "
+"Sorry, we had a problem loading our “What’s new” content.","Sorry, we had a problem loading our “What’s new” content."
+"
+                        <p>We’ll try to show it again the next time you sign in to Magento Admin.</p>
+                        <p>To learn more about new features, see our latest Release Notes in
+                        <a href=""http://devdocs.magento.com/magento-release-information.html""
+                        target=""_blank"">DevDocs' Release Information</a>.
+                        </p>","
+                        <p>We’ll try to show it again the next time you sign in to Magento Admin.</p>
+                        <p>To learn more about new features, see our latest Release Notes in
+                        <a href=""http://devdocs.magento.com/magento-release-information.html""
+                        target=""_blank"">DevDocs' Release Information</a>.
+                        </p>"
+"
+                        <p>We’ll try to show it again the next time you sign in to Magento Admin.</p>
+                        <p>To learn more about new features, see our latest Release Notes in
+                        <a href=""https://devdocs.magento.com/magento-release-information.html""
+                        target=""_blank"">DevDocs' Release Information</a>.
+                        </p>","
+                        <p>We’ll try to show it again the next time you sign in to Magento Admin.</p>
+                        <p>To learn more about new features, see our latest Release Notes in
+                        <a href=""https://devdocs.magento.com/magento-release-information.html""
+                        target=""_blank"">DevDocs' Release Information</a>.
+                        </p>"

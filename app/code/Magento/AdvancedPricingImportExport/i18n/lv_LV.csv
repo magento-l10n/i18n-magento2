@@ -1,0 +1,5 @@
+"Please correct the data sent.","Izlabojiet nosūtītos datus."
+"Entity type model '%1' is not found","Produkta veida modelis '%1' nav atrasts"
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Produkta veida modelim jābūt piemēram
+\Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType"
+"There are no product types available for export","Eksportam nav pieejami produkta veidi"

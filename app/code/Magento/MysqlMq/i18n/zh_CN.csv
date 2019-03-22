@@ -1,0 +1,8 @@
+"Message has been rejected: %1","消息被拒绝: %1"
+"MySQL Message Queue Cleanup","MySQL 消息队列清理"
+"All the times are in minutes. Use ""0"" if you want to skip automatic clearance.","所有的时间都是在几分钟内。使用""0""，如果你想要跳过自动过关。"
+"Retry Messages In Progress After","重试后进展中的消息"
+"Successful Messages Lifetime","成功消息有效期"
+"Failed Messages Lifetime","失败的消息有效期"
+"New Messages Lifetime","新消息有效期"
+"MySQL Message Queue Cleanup - all the times are in minutes. Use ""0"" if you want to skip automatic clearance","新邮件寿命"

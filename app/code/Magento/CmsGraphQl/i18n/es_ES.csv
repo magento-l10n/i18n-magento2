@@ -1,0 +1,3 @@
+"""identifiers"" of CMS blocks should be specified","Se deben especificar ""identificadores"" de los bloques de CMS"
+"""Page id should be specified","""Id de la página debe ser especificado"
+"The CMS block with the ""%1"" ID doesn't exist.","El bloque CMS con el ID ""%1"" no existe."

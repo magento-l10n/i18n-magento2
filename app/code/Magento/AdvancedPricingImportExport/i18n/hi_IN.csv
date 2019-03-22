@@ -1,0 +1,4 @@
+"Please correct the data sent.","कृपया भेजे गए डेटा को सुधारें ।"
+"Entity type model '%1' is not found","निकाय प्रकार मॉडल '%1' नहीं मिला है"
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","इकाई प्रकार मॉडल \ Magento \ CatalogImportExport \ Model \ Export \ Product \ Type \ AbstractType का एक उदाहरण होना चाहिए"
+"There are no product types available for export","निर्यात के लिए कोई उत्पाद प्रकार उपलब्ध नहीं है"

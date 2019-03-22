@@ -1,0 +1,8 @@
+"Message has been rejected: %1","ההודעה נדחתה: %1"
+"MySQL Message Queue Cleanup","ההודעה לתור ניקוי ב-MySQL"
+"All the times are in minutes. Use ""0"" if you want to skip automatic clearance.","כל הזמנים מוצגים בתור דקות. השתמש ב-""0"", אם ברצונך לדלג על הסיווג האוטומטי."
+"Retry Messages In Progress After","ניסיון חוזר של הודעות בתהליך לאחר"
+"Successful Messages Lifetime","הודעות הצלחה לאורך כל הזמן"
+"Failed Messages Lifetime","הודעות כשלון לכל תקופת הזמן"
+"New Messages Lifetime","הודעות חדשות לאורך כל הזמן"
+"MySQL Message Queue Cleanup - all the times are in minutes. Use ""0"" if you want to skip automatic clearance","ההודעה מבסיס הנתונים עבור ניקוי - כל הפעמים הם בתוך דקות. להשתמש ""0"", אם ברצונך לדלג על הניקיון אוטומטי"

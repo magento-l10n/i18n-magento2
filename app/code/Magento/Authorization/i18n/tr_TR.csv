@@ -1,0 +1,3 @@
+"We can't find the role for the user you wanted.","İstediğin kullanıcı için rol bulamıyoruz."
+"Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","İzin verilen kaynaklar listesi derleme sırasında bir şeyler ters gitti. Özel durumlar günlüğünde daha fazla bilgi bulabilirsiniz."
+"The role wasn't found for the user. Verify the role and try again.","Bu kullanıcı için kullanıcı rolü bulunamadı. Doğruladıktan sonra tekrar deneyiniz."

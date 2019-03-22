@@ -1,0 +1,4 @@
+"Please correct the data sent.","Silahkan perbaiki data yang dikirim."
+"Entity type model '%1' is not found","Entity type model '%1' is not found"
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Model jenis entitas harus berupa instance dari \ Magento \ katalog imporEkspor\ Model \ Ekspor \ Produk \ Type \Tipe Abstrak"
+"There are no product types available for export","Tidak ada jenis produk yang tersedia untuk diekspor"

@@ -1,0 +1,3 @@
+"RPC call failed, connection timed out after %time_out.","RPC volanie zlyhalo, pripojenie uplynulo po %time_out."
+"Message has been rejected: %1","Správa odmietnutá: %1"
+"Error while checking if topic is synchronous","Chyba pri kontrole synchrónnosti témy"

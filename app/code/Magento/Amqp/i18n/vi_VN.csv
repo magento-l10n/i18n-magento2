@@ -1,0 +1,3 @@
+"RPC call failed, connection timed out after %time_out.","RPC kết nối không thành công, kết nối bị ngắt quãng sau khi %time_out."
+"Message has been rejected: %1","Tin nhắn đã bị từ chối: %1"
+"Error while checking if topic is synchronous","Error while checking if topic is synchronous"

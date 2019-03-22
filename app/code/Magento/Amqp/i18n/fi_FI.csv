@@ -1,0 +1,3 @@
+"RPC call failed, connection timed out after %time_out.","RPC-kutsu epäonnistui, yhteys aikakatkaistiin %time_out jälkeen."
+"Message has been rejected: %1","Viesti on hylätty: %1"
+"Error while checking if topic is synchronous","Virhe tarkistettaessa, onko aihe on synkroninen"

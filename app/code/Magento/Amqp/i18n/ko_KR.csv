@@ -1,0 +1,3 @@
+"RPC call failed, connection timed out after %time_out.","RPC 호출에 실패했습니다. %time_out후에 연결이 끊어집니다."
+"Message has been rejected: %1","메세지가 거부되었습니다: %1"
+"Error while checking if topic is synchronous","주제는 동기 확인 중 오류 발생"

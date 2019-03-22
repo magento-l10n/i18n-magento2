@@ -1,0 +1,8 @@
+"Message has been rejected: %1","تم رفض الرسالة: %1"
+"MySQL Message Queue Cleanup","تنظيف قائمة انتظار MySQL"
+"All the times are in minutes. Use ""0"" if you want to skip automatic clearance.","كل الأوقات بالدقائق. استخدام ""0"" إذا كنت ترغب في تخطي الإزالة التلقائية."
+"Retry Messages In Progress After","محاولة الرسائل في التقدم بعد"
+"Successful Messages Lifetime","رسائل النجاح مدى الحياة"
+"Failed Messages Lifetime","عمر الرسائل التي فشل إرسالها"
+"New Messages Lifetime","عمر الرسائل الجديدة"
+"MySQL Message Queue Cleanup - all the times are in minutes. Use ""0"" if you want to skip automatic clearance","تنظيف قائمة انتظار الرسالة الخلية-جميع الأوقات في دقائق. استخدام ""0"" إذا كنت ترغب في تخطي الإزالة التلقائية"

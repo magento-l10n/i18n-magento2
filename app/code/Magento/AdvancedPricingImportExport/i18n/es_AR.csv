@@ -1,0 +1,4 @@
+"Please correct the data sent.","Por favor, corrija los datos enviados."
+"Entity type model '%1' is not found","No se encuentra el tipo de entidad modelo '%1'"
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","El tipo de entidad modelo debe ser una instancia de \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType"
+"There are no product types available for export","No hay tipos de artículos disponibles para la exportación"

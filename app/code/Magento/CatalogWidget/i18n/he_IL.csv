@@ -1,0 +1,29 @@
+"Conditions Combination","שילוב תנאים"
+"Product Attribute","תכונות מוצר"
+"SKU","מק''ט"
+"Please choose a condition to add.","יש לבחור בתנאי להוספה."
+"Add to Cart","הוסף לסל"
+"In stock","במלאי"
+"Out of stock","אזל מהמלאי"
+"Add to Wish List","הוספה למועדפים"
+"Add to Compare","הוסף להשוואה"
+"Catalog Products List","רשימת המוצרים של קטלוג"
+"List of Products","רשימת המוצרים"
+"Title","כותרת"
+"Display Page Control","הצג דף בקרה"
+"Number of Products per Page","מספר המוצרים לכל עמוד"
+"Number of Products to Display","מספר המוצרים להצגה"
+"Template","תבנית"
+"Products Grid Template","מוצרי רשת לתבנית"
+"Cache Lifetime (Seconds)","תקופת חיים של המטמון (שניות)"
+"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 לפי ברירת מחדל, אם לא על הוגדר. כדי לרענן באופן מיידי, נקה את המטמון של הפלט של בלוקי ה-HTML."
+"Conditions","תנאים"
+"
+                    Time in seconds between the widget updates.
+                    <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
+                    <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.
+                ","
+                    Time in seconds between the widget updates.
+                    <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
+                    <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.
+                "

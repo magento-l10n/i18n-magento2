@@ -1,0 +1,7 @@
+"""Entity type should be specified","""Jenis entitas harus dimasukkan"
+"""Attribute code should be specified","""Kode atribut harus diisi"
+"Attribute code %1 of entity type %2 not configured to have a type.","Kode atribut %1 dari tipe entitas %2 tidak dikonfigurasi untuk memiliki tipe."
+"Invalid entity_type specified: %1","Entity_type tidak valid dimasukkan: %1"
+"Missing %1 for the input %2.","Masukan %2 belum atau tidak ada %1."
+"Type %1 has no internal representation declared.","Type %1 has no internal representation declared."
+"Cannot resolve EAV type","Tidak dapat menemukan tipe EAV"
