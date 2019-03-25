@@ -275,7 +275,7 @@
 "Cannot Delete Customer","Cannot Delete Customer"
 "Set Inactive","Set Inactive"
 "Select Delete to permanently delete the user account and content. User's orders and quotes are still visible for the merchant. Select Set Inactive to temporarily lock the user. The user’s content is still available to parent users.","Select Delete to permanently delete the user account and content. User's orders and quotes are still visible for the merchant. Select Set Inactive to temporarily lock the user. The user’s content is still available to parent users."
-"User with this email already exists in the system. Enter a different email address to continue. If you want to use your current account as an administrator account, please contact the seller.","User with this email already exists in the system. Enter a different email address to continue. If you want to use your current account as an administrator account, please contact the seller."
+"User with this email already exists in the system. Enter a different email address to continue. If you want to use your current account as an administrator account, please contact the seller.","Użytkownik o podanym adresie email jest już zarejestrowany. Podaj inny adres email aby kontynuować. Jeśli chcesz użyć istniejącego konta w roli administratora, skontaktuj się ze sprzedawcą."
 "Enable Company","Enable Company"
 "Company Configuration","Company Configuration"
 "General","Ogólne"
