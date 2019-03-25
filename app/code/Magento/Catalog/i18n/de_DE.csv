@@ -357,7 +357,7 @@
 "We can't add the product to the cart because of an option validation issue.","Wir können den Artikel aufgrund eines Validierungsproblems einer Option nicht zum Warenkorb hinzufügen."
 "%1 doesn't extends \Magento\Catalog\Model\Product\Option\Type\DefaultType","%1 erweitert nicht \Magento\Catalog\Model\Product\Option\Type\DefaultType"
 "The file options format is not valid.","Das Datei-Optionsformat ist nicht gültig."
-"px.","aufklappen"
+"px.","px."
 "The file '%1' for '%2' has an invalid extension.","Die Datei '%1' für '%2' hat eine ungültige Erweiterung."
 "The maximum allowed image size for '%1' is %2x%3 px.","Die maximal erlaubte Bildgröße für '%1' ist %2x%3 px."
 "The file '%1' you uploaded is larger than the %2 megabytes allowed by our server.","Die Datei '%1' die Sie hochgeladen haben ist größer als die %2 Megabytes, die von unserem Server erlaubt sind."
