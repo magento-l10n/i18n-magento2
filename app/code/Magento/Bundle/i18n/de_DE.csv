@@ -26,7 +26,7 @@
 "Product with specified sku: %1 is not a bundle product","Produkt mit der angegebenen sku: %1 ist kein Bundle Produkt"
 "Requested bundle option product doesn't exist","Angefordertes Bundle Option Produkt existiert nicht"
 "%fieldName is a required field.","%fieldName ist ein Pflichtfeld."
-"Requested option doesn't exist","Requested option doesn't exist"
+"Requested option doesn't exist","Angeforderte Option existiert nicht"
 "Cannot delete option with id %1","Option mit id %1 kann nicht gelöscht werden"
 "Could not save option","Konnte Option nicht speichern"
 "Price Range","Preisbereich"
