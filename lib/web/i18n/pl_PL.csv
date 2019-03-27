@@ -52,7 +52,7 @@
 "Please enter a valid email address (Ex: johndoe@domain.com).","Podaj poprawny adres email (Ex: johndoe@domain.com)."
 "Please enter 6 or more characters. Leading and trailing spaces will be ignored.","Prosimy o wprowadzenie 6 lub więcej znaków. Początkowe lub końcowe spacje zostaną zignorowane."
 "Please enter 7 or more characters, using both numeric and alphabetic.","Proszę wpisać 7 lub więcej znaków, zarówno litery i cyfry."
-"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored."
+"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","Minimalna ilość znaków w tym polu musi być równa lub większa %1. Spacje początkowe i końcowe są ignorowane."
 "Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Minimalna różność klas w haśle to %1. Klasy postaci: małe znaki, wielkie znaki, cyfry, znaki specjalne."
 "Please enter a valid URL. Protocol is required (http://, https:// or ftp://).","Prosimy o wprowadzenie poprawnego URL. Wymagany jest protokół (http://, https:// lub ftp://)."
 "Please enter a valid URL. For example http://www.example.com or www.example.com.","Prosimy o wprowadzenie poprawnego URL. Dla przykładu: http://www.strona.pl lub www.strona.pl."

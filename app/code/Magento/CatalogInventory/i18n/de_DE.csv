@@ -72,7 +72,7 @@
 "Allow Multiple Boxes for Shipping","Versand in mehreren Lieferungen zulassen"
 "Display products availability in stock on Storefront.","Lagerbestand im Frontend anzeigen."
 "Use Deferred Stock Update","Zurückgestellte Lager-Aktualisierung verwenden"
-"Changing can take some time due to processing whole catalog.","Changing can take some time due to processing whole catalog."
+"Changing can take some time due to processing whole catalog.","Die Änderung kann einige Zeit dauern, da der gesamte Katalog verarbeitet wird."
 "The Product stock item is invalid. Verify the stock item and try again.","Der Lagerartikel ist ungültig. Überprüfen Sie den Lagerartikel und versuchen Sie es erneut."
 "The stock item was unable to be saved. Please try again.","Der Artikelbestand konnte nicht gespeichert werden. Bitte versuchen Sie es erneut."
 "The stock item with the ""%1"" ID wasn't found. Verify the ID and try again.","Der Lagerartikel mit der ID ""%1"" wurde nicht gefunden. Überprüfen Sie die ID und versuchen Sie es erneut."

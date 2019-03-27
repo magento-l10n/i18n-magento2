@@ -19,7 +19,7 @@
 "Parent product does not have configurable product options","Übergeordnetes Produkt hat keine konfigurierbaren Produktoptionen"
 "Child product does not have attribute value %1","Kindprodukt hat den Attributwert %1 nicht"
 "Product with specified sku: %1 is not a configurable product","Produkt mit der Sku %1 ist kein konfigurierbares Produkt"
-"Requested option doesn't exist","Requested option doesn't exist"
+"Requested option doesn't exist","Angeforderte Option existiert nicht"
 "Requested option doesn't exist: %1","Angeforderte Option existiert nicht"
 "Cannot delete variations from product: %1","Variationen von Produkt %1 können nicht gelöscht werden"
 "Cannot delete option with id: %1","Option mit id %1 kann nicht gelöscht werden"
