@@ -12,5 +12,5 @@
 "Use HTTP Only","Nur HTTP verwenden"
 "Cookie Restriction Mode","Cookie Beschränkter Modus"
 "<strong style=""color:red"">Warning</strong>:  Do not set to ""No"". User security could be compromised.","<strong style=""color:red"">Warnung</strong>:  Nicht auf ""Nein"" setzen. Benutzersicherheit könnte beeinträchtigt werden."
-"'Invalid domain name: ' .","'Invalid domain name: ' ."
-"'Invalid cookie lifetime: ' .","'Invalid cookie lifetime: ' ."
+"'Invalid domain name: ' .","'Ungültiger Domain-Name: ' ."
+"'Invalid cookie lifetime: ' .","'Ungültige Cookie-Lebensdauer: ' ."
