@@ -18,6 +18,6 @@
 "History Cleanup Every","History Cleanup Every"
 "Success History Lifetime","Success History Lifetime"
 "Failure History Lifetime","Failure History Lifetime"
-"Use Separate Process","Use Separate Process"
+"Use Separate Process","Käytä erillistä prosessia"
 "Cron (Scheduled Tasks) - all the times are in minutes","Cron (Scheduled Tasks) - all the times are in minutes"
 "For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.","For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set."
