@@ -21,7 +21,7 @@
 "More permissions are needed to delete the ""%1"" item.","تحتاج إلى مزيد من الصلاحيات لحذف العنصر ""%1""."
 "This entity needs to be assigned to a store view. Verify the entity assignment and try again.","This entity needs to be assigned to a store view. Verify the entity assignment and try again."
 "Orders can only be completed in an active store. Verify the store and try again.","لا يمكن إتمام الطلبات إلا في متجر نشط. تحقق من المتجر وحاول مرة أخرى."
-"This item needs to be assigned to a store view. Assign item and try again.","This item needs to be assigned to a store view. Assign item and try again."
+"This item needs to be assigned to a store view. Assign item and try again.","يحتاج المنتج لتعينه مع وجهة المتجر. فعل التعين ثم حاول مره اخرى."
 "More permissions are needed to save this item.","يلزم مزيد من الصلاحيات لحفظ هذا العنصر."
 "More permissions are needed to delete this item.","تحتاج إلى مزيد من الصلاحيات لحذف هذا العنصر."
 "More permissions are needed to view this item.","يلزم مزيد من الصلاحيات لعرض هذا العنصر."
