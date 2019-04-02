@@ -26,7 +26,7 @@
 "Shipments","Lähetykset"
 "We can't initialize shipment for adding tracking number.","We can't initialize shipment for adding tracking number."
 "Cannot add tracking number.","Seurantakoodia ei voida lisätä."
-"You created the shipping label.","You created the shipping label."
+"You created the shipping label.","Osoitekortti luotiin."
 "An error occurred while creating shipping label.","An error occurred while creating shipping label."
 "An email confirming the order is underway has been sent to the customer.","Asiakkaalle lähetettiin sähköposti, jossa vahvistetaan tilauksen lähetys."
 "Cannot send shipment information.","Cannot send shipment information."
