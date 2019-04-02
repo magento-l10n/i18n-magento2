@@ -28,7 +28,7 @@
 "Cannot add tracking number.","Seurantakoodia ei voida lisätä."
 "You created the shipping label.","You created the shipping label."
 "An error occurred while creating shipping label.","An error occurred while creating shipping label."
-"An email confirming the order is underway has been sent to the customer.","An email confirming the order is underway has been sent to the customer."
+"An email confirming the order is underway has been sent to the customer.","Asiakkaalle lähetettiin sähköposti, jossa vahvistetaan tilauksen lähetys."
 "Cannot send shipment information.","Cannot send shipment information."
 "There are no shipping labels related to selected orders.","There are no shipping labels related to selected orders."
 "New Shipment","Uusi lähetys"

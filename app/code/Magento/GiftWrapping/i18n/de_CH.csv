@@ -33,7 +33,7 @@
 "None","Keine"
 "The image content must be valid data.","Der Bildinhalt muss eine gültige Datei sein."
 "The image extension ""%1"" not allowed.","Die Bilderweiterung ""%1"" ist nicht erlaubt."
-"Provided image name contains forbidden characters.","Der Bilddateiname enthält nicht erlaubte Zeichen."
+"Provided image name contains forbidden characters.","Der angegebene BIldname enthält ungültige Zeichen."
 "The image MIME type is not valid or not supported.","Der Bild-MIME-Typ ist nicht gültig oder wird nicht unterstützt."
 "Gift Wrapping with specified ID ""%1"" not found.","Geschenkverpackung mit der ID ""%1"" wurde nicht gefunden."
 "Please enter valid currency code: %1","Bitte geben Sie einen gültigen Währungscode ein: %1"
