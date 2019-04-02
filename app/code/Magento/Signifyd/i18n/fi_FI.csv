@@ -26,8 +26,8 @@
 "Protect your store from fraud with Guaranteed Fraud Protection by Signifyd.","Protect your store from fraud with Guaranteed Fraud Protection by Signifyd."
 "Configuration","Konfigurointi"
 "Enable this Solution","Ota lisäosa käyttöön"
-"API Key","API Key"
-"API URL","API URL"
+"API Key","API avain"
+"API URL","API-osoite"
 "Debug","Vianselvitys"
 "Webhook URL","Webhook URL"
 "Signifyd automatically reviews your orders for fraud, telling you in seconds which orders to ship, and which to reject.
