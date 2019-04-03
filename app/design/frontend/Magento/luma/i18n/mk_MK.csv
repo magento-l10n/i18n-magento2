@@ -42,7 +42,7 @@
 "Invoice for your %store_name order","Фактура за %store_name нарачка"
 "Your Invoice #%invoice_id for Order #%order_id","Вашата фактура #%invoice_id за нарачка #%order_id"
 "Update to your %store_name invoice","Update to your %store_name invoice"
-"Your %store_name order confirmation","Your %store_name order confirmation"
+"Your %store_name order confirmation","Потврда за нарачка - вашата %store_name"
 "%customer_name,","%customer_name,"
 "Once your package ships we will send you a tracking number.","Веднаш штом ќе ја испорачаме вашата нарачка ќе ве известиме."
 "Your Order <span class=""no-link"">#%increment_id</span>","Вашата нарачка <span class=""no-link"">#%increment_id</span>"
