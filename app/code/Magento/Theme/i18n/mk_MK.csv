@@ -125,7 +125,7 @@
 "Hour","Час"
 "Minute","Минута"
 "%name,","%name,"
-"Welcome to %store_name.","Добредојдовте на веб продавницата на %store_name."
+"Welcome to %store_name.","Добредојдовте на %store_name."
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Да се најавите на нашата онлајн продавница, користете ги овие податоци. <a href=""%customer_url"">Мојот Профил</a>:"
 "Email:","Емаил:"
 "Password:","Лозинка:"
