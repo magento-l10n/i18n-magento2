@@ -394,7 +394,7 @@
 "Thanks,<br>%store_name","Благодариме,<br>%store_name"
 "Your %store_name email and password has been changed","Your %store_name email and password has been changed"
 "We have received a request to change the following information associated with your account at %store_name: email, password.","Добивме барање за промена на на следните информации во врска во вашиот профил на %store_name: емаил, лозинка."
-"Reset your %store_name password","Reset your %store_name password"
+"Reset your %store_name password","Ресетирајте ја вашата лозинка - %store_name"
 "There was recently a request to change the password for your account.","Неодамна беше побарано да ја смените лозинката за вашиот профил."
 "If you requested this change, set a new password here:","Доколку вие го поднесовте барање за оваа промене, поставете нова лозинка овде:"
 "If you did not make this request, you can ignore this email and your password will remain the same.","Доколку не го поднесовте вие ова барање, игнорирајте ја оваа порака и вашата лозинка ќе остане иста."
