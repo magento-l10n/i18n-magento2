@@ -252,18 +252,18 @@
 "Dynamic descriptors are sent on a per-transaction basis and define what will appear on your customers credit card statements for a specific purchase.
                             The clearer the description of your product, the less likely customers will issue chargebacks due to confusion or non-recognition.
                             Dynamic descriptors are not enabled on all accounts by default. If you receive a validation error of 92203 or if your dynamic descriptors are not displaying as expected,
-                            please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>.","Dynamic descriptors are sent on a per-transaction basis and define what will appear on your customers credit card statements for a specific purchase.
-                            The clearer the description of your product, the less likely customers will issue chargebacks due to confusion or non-recognition.
-                            Dynamic descriptors are not enabled on all accounts by default. If you receive a validation error of 92203 or if your dynamic descriptors are not displaying as expected,
-                            please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>."
+                            please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>.","Dinamiskie apraksti tiek nosūtīti katrai transakcijai un tie definē kas tiks attēlots klienta kredītkartes atskaitēs attiecīgajam pirkumam.
+                            Jo skaidrāks preces apraksts, jo mazāk iespēju ka klients nesaprotot aprakstu pieprasīs atmaksu.
+                            Dinamiskie apraksti pēc noklusējuma nav ieslēgti visiem kontiem. Jā notiek kļūda 92203 vai neparādās paredzētie apraksti,
+                            sazinieties ar <a href=""mailto:support@getbraintree.com"">Braintree atbalstu</a>."
 "The value in the business name field of a customer's statement. Company name/DBA section must be either 3, 7 or 12 characters
                                 and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters).","Kompānijas nosaukuma lauks klienta paziņojumā. Kompānijas nosaukumam/DBA sadaļai jābūt 3, 7 vai 12 simboliem
                                 un produkta apraksts attiecīgi var būt līdz 18, 14 vai 9 simbolu garš (ieskaitot * starp apraksta nosaukuma 22 simboliem)."
 "The value in the phone number field of a customer's statement. Phone must be 10-14 characters and can only contain numbers, dashes, parentheses and periods.","Telefona lauks klienta paziņojumā. Telefona numuram jābūt 10-14 simboliem un tas var saturēt tikai ciparus, domuzīmes, iekavas un punktus."
 "The value in the URL/web address field of a customer's statement. The URL must be 13 characters or shorter.","Veikala web adreses lauks klienta paziņojumā. Saitei jābūt 13 simboliem vai īsākai."
-"The Payment Token is not available to perform the request.","The Payment Token is not available to perform the request."
-"Checkout failed to initialize. Verify and try again.","Checkout failed to initialize. Verify and try again."
-"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","The order wasn't placed. First, agree to the terms and conditions, then try placing your order again."
+"The Payment Token is not available to perform the request.","Pirkuma marķieris nav pieejams lai veiktu pieprasījumu."
+"Checkout failed to initialize. Verify and try again.","Pirkuma inicializācija neizdevās. Pārbaudiet un mēģiniet vēlreiz."
+"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","Pasūtījums nav veikts. Vispirms piekrītiet veikala noteikumiem un mēģiniet pirkumu veikt vēlreiz."
 "Paypal account","Paypal konts"
 "Coinbase account","Coinbase konts"
 "Europe bank account","Eiropas bankas konts"
