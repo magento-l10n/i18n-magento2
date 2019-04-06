@@ -16,7 +16,7 @@
 "Billing Address","Billing Address"
 "Payment Method","Payment Method"
 "Shipping Method","Shipping Method"
-"Enabled","Enabled"
+"Enabled","સક્ષમ"
 "Button Text","Button Text"
 "Payment method with vault and instant purchase support should be enabled.","Payment method with vault and instant purchase support should be enabled."
 "A payment method isn't defined for instance purchase. Verify and try again.","A payment method isn't defined for instance purchase. Verify and try again."
