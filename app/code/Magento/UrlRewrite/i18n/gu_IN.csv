@@ -52,7 +52,7 @@
 "Anchor symbol (#) is not supported in url rewrite suffix.","Anchor symbol (#) is not supported in url rewrite suffix."
 "URL key for specified store already exists","URL key for specified store already exists"
 "Exception instance doesn't match %1 type","Exception instance doesn't match %1 type"
-"No","No"
+"No","ના"
 "Temporary (302)","Temporary (302)"
 "Permanent (301)","Permanent (301)"
 "Request Path for Specified Store","Request Path for Specified Store"
