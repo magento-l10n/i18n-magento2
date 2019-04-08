@@ -1,3 +1,3 @@
-"""identifiers"" of CMS blocks should be specified","""identifiers"" of CMS blocks should be specified"
-"""Page id should be specified","""Page id should be specified"
-"The CMS block with the ""%1"" ID doesn't exist.","The CMS block with the ""%1"" ID doesn't exist."
+"""identifiers"" of CMS blocks should be specified","सीएमएस ब्लॉकों के ""पहचानकर्ताओं"" निर्दिष्ट किया जाना चाहिए"
+"""Page id should be specified","""पेज आईडी निर्दिष्ट की जानी चाहिए"
+"The CMS block with the ""%1"" ID doesn't exist.","""%1"" ID वाला CMS ब्लॉक मौजूद नहीं है।"

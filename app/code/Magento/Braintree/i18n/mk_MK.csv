@@ -171,7 +171,7 @@
 "New Credit Card","New Credit Card"
 "There was error during saving card data","There was error during saving card data"
 "We can't place the order.","We can't place the order."
-"Incorrect payment method.","Incorrect payment method."
+"Incorrect payment method.","Неточен начин на плаќање."
 "We can't initialize checkout review.","We can't initialize checkout review."
 "We can't update shipping method.","We can't update shipping method."
 "The processor declined your transaction, please re-enter your payment information","The processor declined your transaction, please re-enter your payment information"

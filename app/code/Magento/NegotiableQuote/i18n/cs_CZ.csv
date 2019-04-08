@@ -394,7 +394,7 @@
 "Attached files","Attached files"
 "File formats for upload","File formats for upload"
 "Separate each file extension with a comma. Special symboles like dots, converted commas, asterisk, etc. are not allowed.","Separate each file extension with a comma. Special symboles like dots, converted commas, asterisk, etc. are not allowed."
-"Maximum file size","Maximum file size"
+"Maximum file size","Maximální velikost souboru"
 "File size in MB. Note that this setting can be overridden by the server settings.","File size in MB. Note that this setting can be overridden by the server settings."
 "Enabled","Zapnuto"
 "Updated Quote Template (to Buyer)","Updated Quote Template (to Buyer)"
