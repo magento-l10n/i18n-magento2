@@ -100,7 +100,7 @@
 "SKU number","SKU number"
 "Upload File","Upload File"
 "Your csv file must include ""sku"" and ""qty"" columns.","Your csv file must include ""sku"" and ""qty"" columns."
-"Reset","Reset"
+"Reset","रीसेट"
 "SKU: ","SKU: "
 "Only <span id=""%1_max_allowed"">%2</span> in stock","केवल < div class = ""notranslate"" > 0 </div> < div class = ""notranslate"" > 1 </div> < div class = ""notranslate"" > 2 </div> स्टॉक में"
 "Item","Item"

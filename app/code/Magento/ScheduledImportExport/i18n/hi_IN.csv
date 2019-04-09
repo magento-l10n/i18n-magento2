@@ -12,7 +12,7 @@
 "File Directory","File Directory"
 "For Type ""Local Server"" use relative path to Magento installation, e.g. var/export, var/import, var/export/some/dir","For Type ""Local Server"" use relative path to Magento installation, e.g. var/export, var/import, var/export/some/dir"
 "FTP Host[:Port]","FTP Host[:Port]"
-"User Name","User Name"
+"User Name","उपयोगकर्ता नाम"
 "Password","पासवर्ड"
 "File Mode","File Mode"
 "Passive Mode","Passive Mode"
