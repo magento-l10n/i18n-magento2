@@ -55,7 +55,7 @@
 "This customer has no tokens.","This customer has no tokens."
 "Inactive","Inactive"
 "Active","Active"
-"Reset","Reset"
+"Reset","रीसेट"
 "Integration with name '%1' exists.","Integration with name '%1' exists."
 "Integration with ID '%1' does not exist.","Integration with ID '%1' does not exist."
 "One or more <a href=""%1"">integrations</a> have been reset because of a change to their xml configs.","One or more <a href=""%1"">integrations</a> have been reset because of a change to their xml configs."
