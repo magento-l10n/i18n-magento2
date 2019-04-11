@@ -120,7 +120,7 @@
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation.","Si vous êtes un client avec TVA enregistrée, merci de <a href=""%1"">cliquez ici</a> pour entrer votre adresse de facturation pour le calcul de la TVA."
 "Account Information","Informations du compte"
 "You saved the account information.","Vous avez sauvegardé les informations du compte."
-"You did not sign in correctly or your account is temporarily disabled.","Tu l'as fait ne pas se connecter correctement ou votre compte est temporairement handicapé."
+"You did not sign in correctly or your account is temporarily disabled.","Erreur dans les paramètres de connexion ou votre compte est temporairement désactivé."
 "Password confirmation doesn't match entered password.","Confirmation de mot de passe ne correspond pas au mot de passe entré."
 "The password doesn't match this account.","Le mot de passe ne correspond pas avec ce compte."
 "Please correct the email address.","S'il vous plaît corriger l'adresse e-mail."
