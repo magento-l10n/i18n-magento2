@@ -10,7 +10,7 @@
 "The account is locked.","Dieses Konto ist gesperrt."
 "This account isn't confirmed. Verify and try again.","Dieses Konto ist nicht bestätigt. Überprüfen Sie das Konto und versuchen Sie es erneut."
 "A customer with the same email address already exists in an associated website.","A customer with the same email address already exists in an associated website."
-"Provide the current ""password"" to change ""email"".","Provide the current ""password"" to change ""email""."
+"Provide the current ""password"" to change ""email"".","Geben Sie das aktuelle ""Passwort"" ein, um ""E-Mail"" zu ändern."
 "Specify the ""currentPassword"" value.","Geben Sie den Wert ""currentPassword"" an."
 "Specify the ""newPassword"" value.","Geben Sie den Wert ""newPassword"" an."
 """input"" value should be specified","""input"" Wert sollte angegeben werden"
