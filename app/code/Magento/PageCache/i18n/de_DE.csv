@@ -19,7 +19,7 @@
 "Public content cache lifetime in seconds. If field is empty default value 86400 will be saved.","Cache-Lebensdauer für öffentlichen Inhalt in Sekunden. Wenn das Feld leer ist, wird der Standardwert 86400 gespeichert."
 "Page Cache","Seiten-Cache"
 "Full page caching","Seiten-Caching"
-"Export VCL for Varnish ","Export VCL for Varnish "
+"Export VCL for Varnish ","VCL für Varnish exportieren "
 "Built-in Application (Not Recommended for Production Use)","Integrierte Anwendung (Nicht für den Produktiv-Einsatz empfohlen)"
 "Varnish Caching","Varnish Caching"
 "Full page caching.","Full Page Caching."
