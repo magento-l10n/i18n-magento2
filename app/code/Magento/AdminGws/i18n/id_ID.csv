@@ -17,7 +17,7 @@
 "You need more permissions to save this setting.","Anda perlu izin tambahan untuk menyimpan pengaturan ini."
 "Role Scopes","Peran cakupan"
 "Custom","Adat"
-"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view"
+"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","Anda tidak memiliki izin untuk menyimpan item ini dalam lingkup tampilan toko saat ini. Silakan, beralih untuk mengizinkan tampilan toko"
 "More permissions are needed to delete the ""%1"" item.","Izin lain diperlukan untuk menghapus item ""%1""."
 "This entity needs to be assigned to a store view. Verify the entity assignment and try again.","Entitas ini perlu ditetapkan ke tampilan toko. Periksa penetapan entitas dan coba lagi."
 "Orders can only be completed in an active store. Verify the store and try again.","Pesanan hanya dapat diselesaikan pada toko yang aktif. Periksa toko dan coba lagi."
