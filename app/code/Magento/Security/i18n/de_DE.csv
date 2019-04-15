@@ -27,4 +27,4 @@
 "Min Time Between Password Reset Requests","Mindestdauer zwischen Passwort-Reset-Anfragen"
 "Delay in minutes between password reset requests. Use 0 to disable.","Verzögerung zwischen Passwort-Reset-Anfragen in Minuten. 0 für Deaktivierung."
 "Your account is temporarily disabled. Please try again later.","Ihr Konto ist vorübergehend deaktiviert. Bitte versuchen Sie es später erneut."
-"We received too many requests for password resets. Please wait and try again later or contact %1.","We received too many requests for password resets. Please wait and try again later or contact %1."
+"We received too many requests for password resets. Please wait and try again later or contact %1.","Wir haben zu viele Anfragen für das Zurücksetzen des Passworts erhalten. Bitte warten Sie und versuchen Sie es später erneut oder kontaktieren Sie %1."
