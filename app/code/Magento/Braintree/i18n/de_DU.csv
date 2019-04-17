@@ -113,7 +113,7 @@
 "Credit card number must be 12-19 digits.","Credit card number must be 12-19 digits."
 "Cardholder name is too long.","Der Name des Karteninhabers ist zu lang."
 "CVV verification failed.","CVV verification failed."
-"Postal code verification failed.","Postal code verification failed."
+"Postal code verification failed.","Postleitzahl-Überprüfung ist fehlgeschlagen."
 "Credit card number is prohibited.","Kreditkartennummer ist verboten."
 "Addresses must have at least one field filled in.","Adressen benötigen mindestens ein ausgefülltes Feld."
 "Company is too long.","Firma ist zu lang."
