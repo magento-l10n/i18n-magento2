@@ -214,6 +214,6 @@
 "Billing Address","Faktureringsadresse"
 "Something went wrong with your request. Please try again later.","Noget gik galt med din forespørgsel. Prøv igen senere."
 "The shipping method is missing. Select the shipping method and try again.","Leveringsmetoden mangler. Vælg en leveringsmetode og prøv igen."
-"Show Cross-sell Items in the Shopping Cart","Show Cross-sell Items in the Shopping Cart"
+"Show Cross-sell Items in the Shopping Cart","Vis krydssalgsvarer i indkøbskurven"
 "Unable to place order. Please try again later.","Vi kan desværre ikke modtage din ordre. Prøv venligst igen."
-"Please specify a regionId in shipping address.","Please specify a regionId in shipping address."
+"Please specify a regionId in shipping address.","Angiv venligst en region i leveringsadresse."
