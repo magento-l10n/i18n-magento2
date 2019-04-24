@@ -17,7 +17,7 @@
 "You need more permissions to save this setting.","Du har ikke rettigheder til at gemme ændringen."
 "Role Scopes","Forretningsvisnings roller"
 "Custom","Brugerdefineret"
-"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view"
+"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","Du har ikke tilladelse til at gemme dette i anvendelsesområdet for den aktuelle butiks visning. Skift venligst til den korrekte butiks visning"
 "More permissions are needed to delete the ""%1"" item.","More permissions are needed to delete the ""%1"" item."
 "This entity needs to be assigned to a store view. Verify the entity assignment and try again.","This entity needs to be assigned to a store view. Verify the entity assignment and try again."
 "Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again."
