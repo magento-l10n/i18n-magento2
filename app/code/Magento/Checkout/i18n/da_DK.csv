@@ -202,7 +202,7 @@
 "Maximum Display Recently Added Item(s)","Maksimale visningen for nylig tilføjet produk(er)"
 "of","af"
 "Something went wrong while saving the page. Please refresh the page and try again.","Noget gik galt da vi prøvede at gemme siden. Prøv af genindlæse den og prøv igen."
-"You added %1 to your <a href=""%2"">shopping cart</a>.","Du har lagt %1 i din <a href=""%2"">indkøbskurv</a>."
+"You added %1 to your <a href=""%2"">shopping cart</a>.","Du har tilføjet %1 til din <a href=""%2"">indkøbskurv</a>."
 "Please select at least one product to add to cart","Vælg venligst mindst ét produkt der skal lægges i indkøbskurven"
 "The quote item isn't found. Verify the item and try again.","Varen kunne ikke findes. Verificer varen og prøv igen."
 "The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","Ordren blev ikke afgivet. Først, accepter vilkår og betingelser, og dernæst forsøg igen at afgive din ordre."
