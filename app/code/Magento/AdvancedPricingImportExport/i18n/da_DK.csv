@@ -1,4 +1,4 @@
 "Please correct the data sent.","Venligst korrigere data, der sendes."
-"Entity type model '%1' is not found","Entity type model '%1' is not found"
+"Entity type model '%1' is not found","Enheds type model '%1' findes ikke"
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Enhedstypemodellern skal være følgende typer\Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType"
 "There are no product types available for export","Der er ingen varetyper til eksport"
