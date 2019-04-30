@@ -46,7 +46,7 @@
 "%customer_name,","%customer_name,"
 "Once your package ships we will send you a tracking number.","荷物が配送された後に追跡番号をお送りします。"
 "Your Order <span class=""no-link"">#%increment_id</span>","あなたの注文 <span class=""no-link"">#%increment_id</span>"
-"Placed on <span class=""no-link"">%created_at</span>","手配された日は <span class=""no-link"">%created_at</span>"
+"Placed on <span class=""no-link"">%created_at</span>","ご注文日 <span class=""no-link"">%created_at</span>"
 "Update to your %store_name order","%store_name 注文を更新"
 "Your %store_name order has shipped","%store_name 注文が出荷されました"
 "Your shipping confirmation is below. Thank you again for your business.","配送確認は以下です。お買い上げありがとうございました。"

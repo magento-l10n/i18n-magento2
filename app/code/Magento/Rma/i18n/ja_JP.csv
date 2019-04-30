@@ -322,7 +322,7 @@
 "If you have any questions about your return, please contact us at <a href=""mailto:%support_email"">%support_email</a>.","あなたの返品についてご不明な点がございましたら、<a href=""mailto:%support_email"">%support_email</a>にご連絡ください。"
 "%store_name: Return #%increment_id update","%store_name: 戻り値 # %increment_id 更新"
 "We received your return request. You will be notified when your request is reviewed.","私たちはあなたの返品要求を受け取りました。 リクエストが審査されたときに通知されます。"
-"Placed on %created_at","%created_atに配置されました"
+"Placed on %created_at","ご注文日 %created_at"
 "Click Details for more required fields.","さらに必要なフィールドについては、「詳細」をクリックします。"
 "Ok","OK"
 "Create Packages","パッケージを作成"
