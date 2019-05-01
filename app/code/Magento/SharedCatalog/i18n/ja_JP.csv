@@ -18,7 +18,7 @@
 "The companies have been reassigned.","会社が再割り当てされました。"
 "Error while reassigning the company.","会社の再割り当て中にエラーが発生しました。"
 "Discount value cannot be outside the range 0-100","ディスカウント値は0〜100の範囲でなければなりません"
-"We found a duplicate website, tier price or quantity.","複製ウェブサイト、tierプライス もしくは 量が見つかりました。"
+"We found a duplicate website, tier price or quantity.","重複したウェブサイト、段階的価格または数量が見つかりました。"
 "The selected items are being processed. You can continue to work in the meantime.","選択した項目が処理されています。 その間も作業を続けることができます。"
 "The selected changes have been applied to the shared catalog.","選択した変更が共有カタログに適用されました。"
 "New Shared Catalog","新しい共有カタログ"
@@ -81,7 +81,7 @@
 "Assign Companies","会社を割り当てる"
 "General Settings","全般設定"
 "Delete ""${ $.$data.name }""","""${ $.$data.name }"" を削除"
-"Catalog and Tier Price","カタログとTier価格"
+"Catalog and Tier Price","カタログと段階的価格"
 "Group or Catalog","グループもしくはカタログ"
 "You must enable the <a href=""%1"" data-role=""notification-dialog"">shared catalog</a> feature in 
         Stores -> Configuration -> B2B Features to use the shared catalogs in the storefront.
