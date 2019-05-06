@@ -32,6 +32,8 @@ use Symfony\Component\Console\Output\OutputInterface;
             $pdir = $input->getArgument('dir');;
             chdir($pdir);
 
+            exec('git config --global user.name "Magento Translations"');
+            exec('git config --global user.email  "magento-l10n@adobe.com"');
             exec('git add . && git commit -am "Updating translations from Crowdin."');
             exec('git push origin master');
 

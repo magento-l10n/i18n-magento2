@@ -43,6 +43,9 @@ jobs:
       - attach_workspace:
           at: workspace
       - run:
+          name: "[Workaround] Enable GitHub SSH connection"
+          command: mkdir ~/.ssh/ && echo -e "Host github.com\n\tStrictHostKeyChecking no\n" > ~/.ssh/config
+      - run:
           name: "Fetch Translation Packages"
           command: |
             mkdir workspace/packages
@@ -85,6 +88,9 @@ jobs:
     steps:
       - attach_workspace:
           at: workspace
+      - run:
+          name: "[Workaround] Enable GitHub SSH connection"
+          command: mkdir ~/.ssh/ && echo -e "Host github.com\n\tStrictHostKeyChecking no\n" > ~/.ssh/config
       - run:
           name: "Version Translation Packages"
           command: |
