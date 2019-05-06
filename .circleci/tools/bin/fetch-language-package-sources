@@ -20,7 +20,7 @@ use Symfony\Component\Console\Output\OutputInterface;
             )['version'] ?? 'UNKNOWN';
     })()
 ))
-    ->register('fetch-language-package-source')
+    ->register('fetch-language-package-sources')
     ->addArgument(
         'origin',
         InputArgument::REQUIRED,
