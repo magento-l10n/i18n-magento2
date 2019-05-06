@@ -48,11 +48,11 @@ jobs:
       - run:
           name: "Fetch Translation Packages"
           command: |
-            mkdir workspace/packages
+            mkdir ./packages
             while read lang
               do
                   echo "Fetch existing package for $lang..."
-                  php workspace/tools/bin/fetch-language-package-sources git@github.com:magento-l10n/language-$lang.git workspace/packages/$lang
+                  php workspace/tools/bin/fetch-language-package-sources git@github.com:magento-l10n/language-$lang.git ./packages/$lang
               done < workspace/langs
       - run:
           name: "Update Translation in Packages"
@@ -60,14 +60,13 @@ jobs:
             while read lang
               do
                   echo "Updating phrases for $lang..."
-                  if cmp --silent workspace/translations/$lang.csv workspace/packages/$lang/$lang.csv
+                  if cmp --silent workspace/translations/$lang.csv ./packages/$lang/$lang.csv
                   then
                       echo "   $lang not changed..."
                       rm -rf workspace/packages/$lang
                   else
                       echo "   $lang being updated..."
-                      rm workspace/packages/$lang/$lang.csv
-                      cp workspace/translations/$lang.csv workspace/packages/$lang/$lang.csv
+                      yes | cp -rf workspace/translations/$lang.csv ./packages/$lang/$lang.csv
                       $lang >> workspace/langs-updated
                   fi
               done < workspace/langs
@@ -77,8 +76,11 @@ jobs:
             while read lang
               do
                   echo "Versioning $lang..."
-                  php workspace/tools/bin/update-version workspace/packages/$lang
+                  php workspace/tools/bin/update-version ./packages/$lang
               done < workspace/langs-updated
+      - run:
+          name: "Copy Packages to Workspace"
+          command: cp packages workspace/packages
       - persist_to_workspace:
           root: workspace
           paths:
