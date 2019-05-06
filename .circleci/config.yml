@@ -106,9 +106,9 @@ workflows:
                 - master
     jobs:
       - fetch-translations
-      - build-language-packages
+      - build-language-packages:
           requires:
             - fetch-translations
-      - publish-language-packages
+      - publish-language-packages:
           requires:
             - build-language-packages
