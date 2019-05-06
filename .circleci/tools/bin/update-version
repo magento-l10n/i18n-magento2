@@ -1,0 +1,65 @@
+#!/usr/bin/env php
+<?php
+
+declare(strict_types = 1);
+
+require __DIR__ . '/../vendor/autoload.php';
+
+use Symfony\Component\Console\Application;
+use Symfony\Component\Console\Input\InputArgument;
+use Symfony\Component\Console\Input\InputInterface;
+use Symfony\Component\Console\Output\OutputInterface;
+
+
+(new Application(
+    'update-version',
+    (function (): string {
+        return json_decode(
+                file_get_contents(__DIR__ . '/../composer.json'),
+                true
+            )['version'] ?? 'UNKNOWN';
+    })()
+))
+    ->register('update-version')
+    ->addArgument(
+        'dir',
+        InputArgument::REQUIRED,
+        'Directory with translation package.'
+    )
+    ->setCode(function(InputInterface $input, OutputInterface $output) {
+        $wdir = getcwd();
+        try {
+            $pdir = $input->getArgument('dir');;
+            chdir($pdir);
+
+            $composerFile = sprintf('%s/composer.json', $pdir);
+            $composer = json_decode(file_get_contents($composerFile), true);
+
+            exec('git diff --name-only', $changedFiles);
+            $currentVersion = isset($composer['version']) ? $composer['version'] : null;
+            if ($currentVersion === null) {
+                $nextVersion = '0.0.1';
+            } elseif (!empty($changedFiles)) {
+                $nextVersion = explode('.', $currentVersion);
+                $nextVersion[count($nextVersion) - 1]++;
+                $nextVersion = join('.', $nextVersion);
+            } else {
+                $nextVersion = $currentVersion;
+            }
+            if ($currentVersion !== $nextVersion) {
+                echo sprintf("   bumping version %s -> %s\n", $currentVersion, $nextVersion);
+                $composer = array_merge([
+                    'name' => $composer['name'],
+                    'version' => $nextVersion,
+                ], $composer);
+                file_put_contents($composerFile, json_encode($composer, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES) . PHP_EOL);
+            } else {
+                echo sprintf("   keep version %s\n", $currentVersion);
+            }
+        } finally {
+            chdir($wdir);
+        }
+    })
+    ->getApplication()
+    ->setDefaultCommand('update-version', true)
+    ->run();

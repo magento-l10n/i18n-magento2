@@ -1,0 +1,134 @@
+#!/usr/bin/env php
+<?php
+
+declare(strict_types = 1);
+
+require __DIR__ . '/../vendor/autoload.php';
+
+use Symfony\Component\Console\Application;
+use Symfony\Component\Console\Input\InputArgument;
+use Symfony\Component\Console\Input\InputInterface;
+use Symfony\Component\Console\Output\OutputInterface;
+
+
+(new Application(
+    'generate-language-package-source',
+    (function (): string {
+        return json_decode(
+            file_get_contents(__DIR__ . '/../composer.json'),
+            true
+        )['version'] ?? 'UNKNOWN';
+    })()
+))
+    ->register('generate-language-package-source')
+    ->addArgument(
+        'vendor',
+        InputArgument::REQUIRED,
+        'Package vendor.'
+    )
+    ->addArgument(
+        'lang',
+        InputArgument::REQUIRED,
+        'Target language.'
+    )
+    ->addArgument(
+        'output',
+        InputArgument::REQUIRED,
+        'Directory where generate language package.'
+    )
+    ->setCode(function(InputInterface $input, OutputInterface $output) {
+        $vendor = $input->getArgument('vendor');
+        $lang = $input->getArgument('lang');
+        $dir = $input->getArgument('output');
+        if (file_exists($dir)) {
+            if (!is_empty_dir($dir)) {
+                throw new \InvalidArgumentException(sprintf(
+                'Provided path "%s" cannot be used as output as is not directory or not empty.',
+                    $dir
+                ));
+            }
+        } else {
+            $dirCreated = mkdir($dir, 0755, true);
+            if ($dirCreated === false) {
+                throw new \InvalidArgumentException(sprintf(
+                    'Unable to create output directory "%s".',
+                    $dir
+                ));
+            }
+        }
+        clearstatcache();
+
+        $packagePath = realpath($dir);
+        if ($packagePath === false) {
+            throw new \InvalidArgumentException(sprintf(
+                '"%s" is not valid path.',
+                $dir
+            ));
+        }
+
+        $variables = calculatePredefinedVariables($lang, $vendor);
+
+        $templatePackage = realpath(__DIR__ . '/../resources/package-template');
+        foreach (
+            new RecursiveIteratorIterator(new RecursiveDirectoryIterator($templatePackage, FilesystemIterator::CURRENT_AS_PATHNAME | FilesystemIterator::SKIP_DOTS))
+            as $file
+        ) {
+            $pathInPackage = str_replace($templatePackage, $packagePath, $file);
+            if (is_dir($file)) {
+                mkdir($pathInPackage, 0755, true);
+            } else {
+                file_put_contents(
+                    $pathInPackage,
+                    str_replace(
+                        array_map(function (string $var) { return '{{' . $var . '}}'; }, array_keys($variables)),
+                        array_values($variables),
+                        file_get_contents($file)
+                    )
+                );
+            }
+        }
+        file_put_contents($packagePath . '/' . $variables['language'] . '.csv', '');
+    })
+    ->getApplication()
+    ->setDefaultCommand('generate-language-package-sources', true)
+    ->run();
+
+function is_empty_dir(string $dir): bool
+{
+    if (!is_dir($dir)) {
+        return false;
+    }
+
+    if (count(scandir($dir)) > 2) { // . and .. present always
+        return false;
+    }
+
+    return true;
+}
+
+function camel_case_to_dashes($val) {
+    preg_match_all('!([A-Z][A-Z0-9]*(?=$|[A-Z][a-z0-9])|[A-Za-z][a-z0-9]+)!', $val, $matches);
+    $pieces = array_map('strtolower', $matches[0]);
+    return implode('-', $pieces);
+}
+
+function calculatePredefinedVariables(string $lang, string $vendor)
+{
+    $lang = str_replace('-', '_', $lang);
+    $vendor = ucfirst($vendor);
+
+    $variables = [
+        'language' => str_replace('-', '_', $lang),
+        'vendor' => $vendor,
+    ];
+
+    foreach ($variables as $var => $val) {
+        $variables[$var . '|lowercase'] = strtolower($val);
+    }
+
+    foreach ($variables as $var => $val) {
+        $variables[$var . '|dashes'] = camel_case_to_dashes($val);
+    }
+
+    return $variables;
+}

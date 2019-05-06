@@ -1,0 +1,50 @@
+#!/usr/bin/env php
+<?php
+
+declare(strict_types = 1);
+
+require __DIR__ . '/../vendor/autoload.php';
+
+use Symfony\Component\Console\Application;
+use Symfony\Component\Console\Input\InputArgument;
+use Symfony\Component\Console\Input\InputInterface;
+use Symfony\Component\Console\Output\OutputInterface;
+
+
+(new Application(
+    'list-languages',
+    (function (): string {
+        return json_decode(
+            file_get_contents(__DIR__ . '/../composer.json'),
+            true
+        )['version'] ?? 'UNKNOWN';
+    })()
+))
+    ->register('list-languages')
+    ->addArgument(
+        'dir',
+        InputArgument::REQUIRED,
+        'Directory to search translations.'
+    )
+    ->setCode(function(InputInterface $input, OutputInterface $output) {
+        $languages = [];
+        $translationFiles = new RegexIterator(
+            new RecursiveIteratorIterator(new RecursiveDirectoryIterator($input->getArgument('dir'))),
+            '/^.+\/i18n\/([^\/]+)\.csv/i',
+            RecursiveRegexIterator::GET_MATCH
+        );
+        foreach ($translationFiles as $translationFile) {
+            $languages[] = $translationFile[1];
+        }
+
+        $languages = array_unique($languages);
+        $languages = array_filter($languages, function ($language) {
+            return $language !== '__';
+        });
+        sort($languages);
+
+        $output->writeln($languages);
+    })
+    ->getApplication()
+    ->setDefaultCommand('list-languages', true)
+    ->run();

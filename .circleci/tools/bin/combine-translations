@@ -1,0 +1,79 @@
+#!/usr/bin/env php
+<?php
+
+declare(strict_types = 1);
+
+require __DIR__ . '/../vendor/autoload.php';
+
+use Symfony\Component\Console\Application;
+use Symfony\Component\Console\Input\InputArgument;
+use Symfony\Component\Console\Input\InputInterface;
+use Symfony\Component\Console\Output\OutputInterface;
+
+
+(new Application(
+    'combine-translations',
+    (function (): string {
+        return json_decode(
+            file_get_contents(__DIR__ . '/../composer.json'),
+            true
+        )['version'] ?? 'UNKNOWN';
+    })()
+))
+    ->register('combine-translations')
+    ->addArgument(
+        'lang',
+        InputArgument::REQUIRED,
+        'Target language.'
+    )
+    ->addArgument(
+        'dir',
+        InputArgument::REQUIRED,
+        'Directory with translation files.'
+    )
+    ->setCode(function(InputInterface $input, OutputInterface $output) {
+        $phrases = collectAllTranslatedPhrases(
+            $input->getArgument('dir'),
+            $input->getArgument('lang')
+        );
+
+        $handle = fopen('php://memory', 'r+');
+        foreach ($phrases as $phrase) {
+            if (fputcsv($handle, $phrase) === false) {
+                exit(1);
+            }
+        }
+        rewind($handle);
+        while(($buffer = fgets($handle)) !== false) {
+            $output->write($buffer);
+        }
+        fclose($handle);
+    })
+    ->getApplication()
+    ->setDefaultCommand('combine-translations', true)
+    ->run();
+
+function collectAllTranslatedPhrases(string $sourceDir, string $targetLang): array
+{
+    $phrases = [];
+    $translationFiles = new RegexIterator(
+        new RecursiveIteratorIterator(new RecursiveDirectoryIterator($sourceDir)),
+        '/^.+\/i18n\/' . $targetLang . '\.csv/i',
+        RecursiveRegexIterator::GET_MATCH
+    );
+
+    foreach ($translationFiles as $translationFile) {
+        $handle = fopen($translationFile[0], 'r');
+        if ($handle) {
+            while (($buffer = fgetcsv($handle)) !== false) {
+                if ($targetLang === 'en_US' || $buffer[0] !== $buffer[1]) {
+                    $phrases[md5(join('<--->', $buffer))] = $buffer;
+                }
+            }
+            fclose($handle);
+        }
+    }
+
+    return array_values($phrases);
+}
+

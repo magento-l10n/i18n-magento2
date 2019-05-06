@@ -1,0 +1,16 @@
+{
+    "name": "community-engineering/translation-tool-language-packaging",
+    "description": "Magento Translation tool to create language package and publish them at GitHub.",
+    "type": "project",
+    "version": "0.0.1",
+    "license": "OSL-3.0",
+    "require": {
+        "ext-json": "*",
+        "symfony/console": "4.*.*"
+    },
+    "autoload": {
+        "psr-4": {
+
+        }
+    }
+}

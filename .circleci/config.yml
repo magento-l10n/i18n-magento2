@@ -1,0 +1,112 @@
+version: 2.1
+
+executors:
+  php:
+    docker:
+      - image: circleci/php:7.3
+
+jobs:
+  fetch-translations:
+    executor: php
+    steps:
+      - checkout
+      - attach_workspace:
+          at: workspace
+      - run:
+          name: "Copy Tools to Workspace"
+          command: cp -Rv .circleci/tools workspace/tools
+      - run:
+          name: "Composer Install Tools"
+          command: composer install --optimize-autoloader --no-dev
+          working_directory: workspace/tools
+      - run:
+          name: "Detect languages"
+          command: php workspace/tools/bin/list-languages ./ > workspace/langs
+      - run:
+          name: "Combine Translations by Languages"
+          command: |
+            mkdir workspace/translations
+            while read lang
+              do
+                echo "Collecting phrases for $lang..."
+                php workspace/tools/bin/combine-translations $lang ./ > workspace/translations/$lang.csv
+              done < workspace/langs
+      - persist_to_workspace:
+          root: workspace
+          paths:
+            - langs
+            - translations/*
+            - tools/*
+  build-language-packages:
+    executor: php
+    steps:
+      - attach_workspace:
+          at: workspace
+      - run:
+          name: "Fetch Translation Packages"
+          command: |
+            mkdir workspace/packages
+            while read lang
+              do
+                  echo "Fetch existing package for $lang..."
+                  php workspace/tools/bin/fetch-language-package-sources git@github.com:magento-l10n/language-$lang.git workspace/packages/$lang
+              done < workspace/langs
+      - run:
+          name: "Update Translation in Packages"
+          command: |
+            while read lang
+              do
+                  echo "Updating phrases for $lang..."
+                  if cmp --silent workspace/translations/$lang.csv workspace/packages/$lang/$lang.csv
+                  then
+                      echo "   $lang not changed..."
+                      rm -rf workspace/packages/$lang
+                  else
+                      echo "   $lang being updated..."
+                      yes | cp -rf workspace/translations/$lang.csv workspace/packages/$lang/$lang.csv
+                      $lang >> workspace/langs-updated
+                  fi
+              done < workspace/langs
+      - run:
+          name: "Version Translation Packages"
+            command: |
+              while read lang
+                do
+                    echo "Versioning $lang..."
+                    php workspace/tools/bin/update-version workspace/packages/$lang
+                done < workspace/langs-updated
+      - persist_to_workspace:
+          root: workspace
+          paths:
+            - langs-updated
+            - packages/*
+  publish-language-packages:
+    executor: php
+    steps:
+      - attach_workspace:
+          at: workspace
+      - run:
+          name: "Version Translation Packages"
+            command: |
+              while read lang
+                do
+                    echo "Publishing $lang..."
+                    php workspace/tools/bin/publish-to-github workspace/packages/$lang
+                done < workspace/langs-updated
+
+workflows:
+  version: 2.1
+  package-languages:
+    triggers:
+      - schedule:
+          cron: "0 0 * * *"
+          filters:
+            branches:
+              only:
+                - master
+    jobs:
+      - fetch-translations
+      - build-language-packages
+          requires: fetch-translations
+      - publish-language-packages
+          requires: build-language-packages
