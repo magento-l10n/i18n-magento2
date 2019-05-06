@@ -69,12 +69,12 @@ jobs:
               done < workspace/langs
       - run:
           name: "Version Translation Packages"
-            command: |
-              while read lang
-                do
-                    echo "Versioning $lang..."
-                    php workspace/tools/bin/update-version workspace/packages/$lang
-                done < workspace/langs-updated
+          command: |
+            while read lang
+              do
+                  echo "Versioning $lang..."
+                  php workspace/tools/bin/update-version workspace/packages/$lang
+              done < workspace/langs-updated
       - persist_to_workspace:
           root: workspace
           paths:
