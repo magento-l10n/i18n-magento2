@@ -18,7 +18,7 @@
 "Role Scopes","Обхвати на роля"
 "Custom","По избор"
 "You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view"
-"More permissions are needed to delete the ""%1"" item.","More permissions are needed to delete the ""%1"" item."
+"More permissions are needed to delete the ""%1"" item.","Правата ви не са достатъчни за да се изтрие ""%1"" елемент."
 "This entity needs to be assigned to a store view. Verify the entity assignment and try again.","This entity needs to be assigned to a store view. Verify the entity assignment and try again."
 "Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again."
 "This item needs to be assigned to a store view. Assign item and try again.","This item needs to be assigned to a store view. Assign item and try again."
