@@ -107,6 +107,8 @@ workflows:
     jobs:
       - fetch-translations
       - build-language-packages
-          requires: fetch-translations
+          requires:
+            - fetch-translations
       - publish-language-packages
-          requires: build-language-packages
+          requires:
+            - build-language-packages
