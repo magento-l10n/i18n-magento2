@@ -1,4 +1,4 @@
-version: 2.1
+version: 2
 
 executors:
   php:
@@ -65,19 +65,14 @@ jobs:
 
                 if [ -s workspace/translations/$lang.csv ]
                 then
-                  echo "   $lang contains translations..."
-
-                  rm workspace/packages/$lang/$lang.csv
-                  cp workspace/translations/$lang.csv workspace/packages/$lang/$lang.csv
-
-                  git -C workspace/packages/$lang diff --quiet
-                  CHANGED=$?
-                  if [ $CHANGED -eq 0 ]
+                  if diff /tmp/workspace/packages/$lang/$lang.csv /tmp/workspace/translations/$lang.csv > /dev/null
                   then
                     echo "   $lang not changed..."
                     rm -rf workspace/packages/$lang
                   else
                     echo "   $lang being updated..."
+                    rm workspace/packages/$lang/$lang.csv
+                    cp workspace/translations/$lang.csv workspace/packages/$lang/$lang.csv
                     echo $lang >> workspace/langs-updated
                   fi
                 else
@@ -106,29 +101,29 @@ jobs:
           name: "[Workaround] Enable GitHub SSH connection"
           command: mkdir ~/.ssh/ && echo -e "Host github.com\n\tStrictHostKeyChecking no\n" > ~/.ssh/config
       - run:
-          name: "Version Translation Packages"
-          command: |
-            while read lang
-              do
-                  echo "Publishing $lang..."
-                  php workspace/tools/bin/publish-to-github workspace/packages/$lang
-              done < workspace/langs-updated
+        name: "Version Translation Packages"
+        command: |
+          while read lang
+            do
+              echo "Publishing $lang..."
+              php workspace/tools/bin/publish-to-github workspace/packages/$lang
+            done < workspace/langs-updated
 
 workflows:
-  version: 2.1
+  version: 2
   package-languages:
-    #    triggers:
-    #      - schedule:
-    #          cron: "0 0 * * *"
-    #          filters:
-    #            branches:
-    #              only:
-    #                - master
+    triggers:
+      - schedule:
+        cron: "0 0 * * *"
+        filters:
+          branches:
+            only:
+              - master
     jobs:
       - fetch-translations
       - build-language-packages:
-          requires:
-            - fetch-translations
+        requires:
+          - fetch-translations
 #      - publish-language-packages:
 #          requires:
 #            - build-language-packages
