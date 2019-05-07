@@ -120,13 +120,13 @@ jobs:
 workflows:
   version: 2.1
   package-languages:
-#    triggers:
-#      - schedule:
-#        cron: "0 0 * * *"
-#        filters:
-#          branches:
-#            only:
-#              - master
+    triggers:
+      - schedule:
+          cron: "0 0 * * *"
+          filters:
+            branches:
+              only:
+                - master
     jobs:
       - fetch-translations
       - build-language-packages:
