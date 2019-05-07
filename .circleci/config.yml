@@ -61,6 +61,8 @@ jobs:
             while read lang
               do
                   echo "Updating phrases for $lang..."
+                  wc -l workspace/translations/$lang.csv
+                  wc -l ./packages/$lang/$lang.csv
                   if cmp --silent workspace/translations/$lang.csv ./packages/$lang/$lang.csv
                   then
                       echo "   $lang not changed..."
