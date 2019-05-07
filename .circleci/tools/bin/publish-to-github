@@ -32,23 +32,16 @@ use Symfony\Component\Console\Output\OutputInterface;
             $pdir = $input->getArgument('dir');;
             chdir($pdir);
 
+            exec('git diff --name-only', $changedFiles);
+            if (empty($changedFiles)) {
+                echo "No changes detected. Nothing to commit.";
+                return;
+            }
+
             exec('git config user.name "Magento Translations"');
             exec('git config user.email  "magento-l10n@adobe.com"');
             exec('git add . && git commit -am "Updating translations from Crowdin."');
             exec('git push origin master');
-
-            $composer = json_decode(file_get_contents('composer.json'), true);
-            $currentVersion = isset($composer['version']) ? $composer['version'] : null;
-            if (!$currentVersion) {
-                return;
-            }
-
-            $newTag = 'v' . $currentVersion;
-            exec('git tag', $releasedTags);
-            if (!in_array($newTag, $releasedTags)) {
-                exec(sprintf('git tag -a -m "%s release" %s', $newTag, $newTag), $releasedTags);
-                exec('git push --tags');
-            }
         } finally {
             chdir($wdir);
         }

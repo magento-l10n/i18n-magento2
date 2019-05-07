@@ -12,7 +12,7 @@ use Symfony\Component\Console\Output\OutputInterface;
 
 
 (new Application(
-    'update-version',
+    'release-through-github',
     (function (): string {
         return json_decode(
                 file_get_contents(__DIR__ . '/../composer.json'),
@@ -20,7 +20,7 @@ use Symfony\Component\Console\Output\OutputInterface;
             )['version'] ?? 'UNKNOWN';
     })()
 ))
-    ->register('update-version')
+    ->register('release-through-github')
     ->addArgument(
         'dir',
         InputArgument::REQUIRED,
@@ -32,33 +32,29 @@ use Symfony\Component\Console\Output\OutputInterface;
             $pdir = $input->getArgument('dir');;
             chdir($pdir);
 
-            $composerFile = 'composer.json';
-            $composer = json_decode(file_get_contents($composerFile), true);
-
             exec('git diff --name-only', $changedFiles);
-            $currentVersion = isset($composer['version']) ? $composer['version'] : null;
-            if ($currentVersion === null) {
-                $nextVersion = '0.0.1';
-            } elseif (!empty($changedFiles)) {
-                $nextVersion = explode('.', $currentVersion);
-                $nextVersion[count($nextVersion) - 1]++;
-                $nextVersion = join('.', $nextVersion);
-            } else {
-                $nextVersion = $currentVersion;
+            if (!empty($changedFiles)) {
+                echo "Some changes not committed. Skipping.";
+                return;
             }
-            if ($currentVersion !== $nextVersion) {
-                echo sprintf("   bumping version %s -> %s\n", $currentVersion, $nextVersion);
-                $composer = array_merge($composer, [
-                    'version' => $nextVersion,
-                ]);
-                file_put_contents($composerFile, json_encode($composer, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES) . PHP_EOL);
-            } else {
-                echo sprintf("   keep version %s\n", $currentVersion);
+
+            $composer = json_decode(file_get_contents('composer.json'), true);
+            $currentVersion = isset($composer['version']) ? $composer['version'] : null;
+            if (!$currentVersion) {
+                return;
+            }
+
+            $newTag = 'v' . $currentVersion;
+            exec('git tag', $releasedTags);
+            if (!in_array($newTag, $releasedTags)) {
+                echo sprintf('Release version %s', $newTag, $newTag);
+                exec(sprintf('git tag -a -m "%s release" %s', $newTag, $newTag));
+                exec('git push --tags');
             }
         } finally {
             chdir($wdir);
         }
     })
     ->getApplication()
-    ->setDefaultCommand('update-version', true)
+    ->setDefaultCommand('release-through-github', true)
     ->run();
