@@ -9,7 +9,7 @@
 "The file could not be uploaded because it is in the wrong format. Please select a CSV file to upload.","The file could not be uploaded because it is in the wrong format. Please select a CSV file to upload."
 "Add from File","Add from File"
 "File must be in .csv format and include ""SKU"" and ""QTY"" columns","File must be in .csv format and include ""SKU"" and ""QTY"" columns"
-"Choose File","Choose File"
+"Choose File","Wybierz plik"
 "Enter Multiple SKUs","Enter Multiple SKUs"
 "Use commas or paragraph to separate SKUs.","Use commas or paragraph to separate SKUs."
 "Add to List","Add to List"
