@@ -65,6 +65,8 @@ jobs:
 
                 if [ -s workspace/translations/$lang.csv ]
                 then
+                  echo "   $lang contains translations..."
+
                   rm workspace/packages/$lang/$lang.csv
                   cp workspace/translations/$lang.csv workspace/packages/$lang/$lang.csv
 
