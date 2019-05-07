@@ -24,7 +24,7 @@
 "Order History","Historia zamówień"
 "View past orders","Przeglądania historii zamówień"
 "Footer","Stopka"
-"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>About Us</a>"
+"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>O nas</a>"
 "<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Customer Service</a>"
 "<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone""> %store_phone</a>"
 "Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Godziny pracy: < br / ><span class=""no-link"">%store_hours</span>."
