@@ -57,17 +57,15 @@ jobs:
       - run:
           name: "Update Translation in Packages"
           command: |
+            touch workspace/langs
             while read lang
               do
                   echo "Updating phrases for $lang..."
                   if cmp --silent workspace/translations/$lang.csv ./packages/$lang/$lang.csv
                   then
                       echo "   $lang not changed..."
-                      rm -rf workspace/packages/$lang
                   else
                       echo "   $lang being updated..."
-                      yes | cp -rf workspace/translations/$lang.csv ./packages/$lang/$lang.csv
-                      $lang >> workspace/langs-updated
                   fi
               done < workspace/langs
       - run:
