@@ -68,13 +68,15 @@ jobs:
                   rm workspace/packages/$lang/$lang.csv
                   cp workspace/translations/$lang.csv workspace/packages/$lang/$lang.csv
 
-                  if git -C workspace/packages/$lang diff --quiet
+                  git -C workspace/packages/$lang diff --quiet
+                  CHANGED=$?
+                  if [ $CHANGED -eq 0 ]
                   then
-                      echo "   $lang being updated..."
-                      echo $lang >> workspace/langs-updated
+                    echo "   $lang not changed..."
+                    rm -rf workspace/packages/$lang
                   else
-                      echo "   $lang not changed..."
-                      rm -rf workspace/packages/$lang
+                    echo "   $lang being updated..."
+                    echo $lang >> workspace/langs-updated
                   fi
                 else
                   echo "   $lang has no translations..."
