@@ -240,7 +240,7 @@
 "Use Cache","Użyj pamięci podręcznej"
 "Edit My Credit Cards","Edytuj karty kredytowe"
 "Pay with PayPal","Pay with PayPal"
-"Transaction is cancelled offline.","Transaction is cancelled offline."
+"Transaction is cancelled offline.","Transakcja jest anulowana w trybie offline."
 "Braintree Settlement","Braintree Settlement"
 "If you don't specify the merchant account to use to process a transaction, Braintree will process it using your default merchant account.","If you don't specify the merchant account to use to process a transaction, Braintree will process it using your default merchant account."
 "Be sure to Enable Advanced Fraud Protection in Your Braintree Account in Settings/Processing Section","Be sure to Enable Advanced Fraud Protection in Your Braintree Account in Settings/Processing Section"
