@@ -10,8 +10,9 @@ jobs:
     executor: php
     steps:
       - checkout
-      - attach_workspace:
-          at: workspace
+      - run:
+          name: "Init Workspace"
+          command: mkdir workspace
       - run:
           name: "Copy Tools to Workspace"
           command: cp -Rv .circleci/tools workspace/tools
@@ -76,7 +77,7 @@ jobs:
                       rm -rf workspace/packages/$lang
                   fi
                 else
-                  echo "   $lang has no translattions..."
+                  echo "   $lang has no translations..."
                 fi
               done < workspace/langs
       - run:
