@@ -1,0 +1,60 @@
+#!/usr/bin/env php
+<?php
+
+declare(strict_types = 1);
+
+require __DIR__ . '/../vendor/autoload.php';
+
+use Symfony\Component\Console\Application;
+use Symfony\Component\Console\Input\InputArgument;
+use Symfony\Component\Console\Input\InputInterface;
+use Symfony\Component\Console\Output\OutputInterface;
+
+
+(new Application(
+    'update-version',
+    (function (): string {
+        return json_decode(
+                file_get_contents(__DIR__ . '/../composer.json'),
+                true
+            )['version'] ?? 'UNKNOWN';
+    })()
+))
+    ->register('update-version')
+    ->addArgument(
+        'file1',
+        InputArgument::REQUIRED,
+        'File 1 to compare.'
+    )
+    ->addArgument(
+        'file2',
+        InputArgument::REQUIRED,
+        'File 2 to compare.'
+    )
+    ->setCode(function(InputInterface $input, OutputInterface $output) {
+        $f1 = $input->getArgument('file1');
+        $f2 = $input->getArgument('file2');
+
+        if (empty(array_diff_assoc(readTranslations($f1), readTranslations($f2)))) {
+            return 0;
+        } else {
+            return 1;
+        }
+    })
+    ->getApplication()
+    ->setDefaultCommand('update-version', true)
+    ->run();
+
+function readTranslations(string $translationFile): array
+{
+    $phrases = [];
+    $handle = fopen($translationFile, 'r');
+    if ($handle) {
+        while (($buffer = fgetcsv($handle)) !== false) {
+            $phrases[$buffer[0]] = isset($buffer[1]) ? $buffer[1] : '';
+        }
+        fclose($handle);
+    }
+
+    return array_values($phrases);
+}

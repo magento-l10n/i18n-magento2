@@ -36,6 +36,7 @@ use Symfony\Component\Console\Output\OutputInterface;
             $input->getArgument('dir'),
             $input->getArgument('lang')
         );
+        ksort($phrases);
 
         $handle = fopen('php://memory', 'r+');
         foreach ($phrases as $phrase) {
