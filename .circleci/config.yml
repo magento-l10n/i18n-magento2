@@ -68,7 +68,7 @@ jobs:
                   rm workspace/packages/$lang/$lang.csv
                   cp workspace/translations/$lang.csv workspace/packages/$lang/$lang.csv
 
-                  if git -C workspace/packages/$lang diff --exit-code > /dev/null
+                  if git -C workspace/packages/$lang diff --quiet
                   then
                       echo "   $lang being updated..."
                       echo $lang >> workspace/langs-updated
