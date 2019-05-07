@@ -1,4 +1,4 @@
-version: 2
+version: 2.1
 
 executors:
   php:
@@ -92,38 +92,38 @@ jobs:
           paths:
             - langs-updated
             - packages/*
-  publish-language-packages:
-    executor: php
-    steps:
-      - attach_workspace:
-          at: workspace
-      - run:
-          name: "[Workaround] Enable GitHub SSH connection"
-          command: mkdir ~/.ssh/ && echo -e "Host github.com\n\tStrictHostKeyChecking no\n" > ~/.ssh/config
-      - run:
-        name: "Version Translation Packages"
-        command: |
-          while read lang
-            do
-              echo "Publishing $lang..."
-              php workspace/tools/bin/publish-to-github workspace/packages/$lang
-            done < workspace/langs-updated
+#  publish-language-packages:
+#    executor: php
+#    steps:
+#      - attach_workspace:
+#          at: workspace
+#      - run:
+#          name: "[Workaround] Enable GitHub SSH connection"
+#          command: mkdir ~/.ssh/ && echo -e "Host github.com\n\tStrictHostKeyChecking no\n" > ~/.ssh/config
+#      - run:
+#        name: "Version Translation Packages"
+#        command: |
+#          while read lang
+#            do
+#              echo "Publishing $lang..."
+#              php workspace/tools/bin/publish-to-github workspace/packages/$lang
+#            done < workspace/langs-updated
 
 workflows:
-  version: 2
+  version: 2.1
   package-languages:
-    triggers:
-      - schedule:
-        cron: "0 0 * * *"
-        filters:
-          branches:
-            only:
-              - master
+#    triggers:
+#      - schedule:
+#        cron: "0 0 * * *"
+#        filters:
+#          branches:
+#            only:
+#              - master
     jobs:
       - fetch-translations
       - build-language-packages:
-        requires:
-          - fetch-translations
+          requires:
+            - fetch-translations
 #      - publish-language-packages:
 #          requires:
 #            - build-language-packages
