@@ -30,11 +30,11 @@ use Symfony\Component\Console\Output\OutputInterface;
         $wdir = getcwd();
         try {
             $pdir = $input->getArgument('dir');;
-            chdir($pdir);
 
             $composerFile = sprintf('%s/composer.json', $pdir);
             $composer = json_decode(file_get_contents($composerFile), true);
 
+            chdir($pdir);
             exec('git diff --name-only', $changedFiles);
             $currentVersion = isset($composer['version']) ? $composer['version'] : null;
             if ($currentVersion === null) {

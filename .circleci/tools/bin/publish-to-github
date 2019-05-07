@@ -37,14 +37,13 @@ use Symfony\Component\Console\Output\OutputInterface;
             exec('git add . && git commit -am "Updating translations from Crowdin."');
             exec('git push origin master');
 
+            $composer = json_decode(file_get_contents('composer.json'), true);
             $currentVersion = isset($composer['version']) ? $composer['version'] : null;
             if (!$currentVersion) {
                 continue;
             }
 
             $newTag = 'v' . $currentVersion;
-
-            chdir(dirname($composerFile));
             exec('git tag', $releasedTags);
             if (!in_array($newTag, $releasedTags)) {
                 exec(sprintf('git tag -a -m "%s release" %s', $newTag, $newTag), $releasedTags);

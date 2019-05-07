@@ -63,8 +63,6 @@ jobs:
               do
                 echo "Updating phrases for $lang..."
 
-                ls -al workspace/packages/$lang
-
                 if [ -s workspace/translations/$lang.csv ]
                 then
                   if php workspace/tools/bin/translations-changed workspace/packages/$lang/$lang.csv workspace/translations/$lang.csv
