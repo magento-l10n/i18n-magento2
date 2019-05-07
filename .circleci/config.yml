@@ -67,7 +67,7 @@ jobs:
                   if git -C workspace/packages/$lang diff --exit-code > /dev/null
                   then
                       echo "   $lang being updated..."
-                      "$lang" >> workspace/langs-updated
+                      echo $lang >> workspace/langs-updated
                   else
                       echo "   $lang not changed..."
                       rm -rf workspace/packages/$lang
