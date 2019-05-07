@@ -35,9 +35,14 @@ use Symfony\Component\Console\Output\OutputInterface;
         $f1 = $input->getArgument('file1');
         $f2 = $input->getArgument('file2');
 
-        if (empty(array_diff_assoc(readTranslations($f1), readTranslations($f2)))) {
+        $changes = array_diff_assoc(readTranslations($f2), readTranslations($f1));
+        if (empty($changes)) {
             return 0;
         } else {
+            echo "Updated translations:\n";
+            foreach ($changes as $phrase => $translation) {
+                echo "  - $phrase ---> $translation\n";
+            }
             return 1;
         }
     })
