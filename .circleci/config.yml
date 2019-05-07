@@ -128,7 +128,10 @@ workflows:
               only:
                 - master
     jobs:
-      - fetch-translations
+      - fetch-translations:
+          filters:
+            branches:
+              only: master
       - build-language-packages:
           requires:
             - fetch-translations
