@@ -65,7 +65,7 @@ jobs:
 
                 if [ -s workspace/translations/$lang.csv ]
                 then
-                  if diff /tmp/workspace/packages/$lang/$lang.csv /tmp/workspace/translations/$lang.csv > /dev/null
+                  if diff workspace/packages/$lang/$lang.csv workspace/translations/$lang.csv > /dev/null
                   then
                     echo "   $lang not changed..."
                     rm -rf workspace/packages/$lang
