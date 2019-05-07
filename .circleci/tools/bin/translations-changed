@@ -32,19 +32,25 @@ use Symfony\Component\Console\Output\OutputInterface;
         'File 2 to compare.'
     )
     ->setCode(function(InputInterface $input, OutputInterface $output) {
-        $f1 = $input->getArgument('file1');
-        $f2 = $input->getArgument('file2');
+        $p1 = readTranslations($input->getArgument('file1'));
+        $p2 = readTranslations($input->getArgument('file2'));
 
-        $changes = array_diff_assoc(readTranslations($f2), readTranslations($f1));
-        if (empty($changes)) {
+        $updated = array_diff_assoc($p2, $p1);
+        $outdated = array_diff_assoc($p1, $p2);
+        if (empty($updated) && empty($outdated)) {
             return 0;
         } else {
-            echo "Updated translations:\n";
-            foreach ($changes as $phrase => $translation) {
+            echo "Changed translations:\n";
+            foreach ($outdated as $phrase => $translation) {
                 echo "  - $phrase ---> $translation\n";
+            }
+            foreach ($updated as $phrase => $translation) {
+                echo "  + $phrase ---> $translation\n";
             }
             return 1;
         }
+
+
     })
     ->getApplication()
     ->setDefaultCommand('update-version', true)
@@ -61,5 +67,5 @@ function readTranslations(string $translationFile): array
         fclose($handle);
     }
 
-    return array_values($phrases);
+    return $phrases;
 }
