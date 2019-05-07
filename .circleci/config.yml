@@ -101,13 +101,13 @@ jobs:
           name: "[Workaround] Enable GitHub SSH connection"
           command: mkdir ~/.ssh/ && echo -e "Host github.com\n\tStrictHostKeyChecking no\n" > ~/.ssh/config
       - run:
-        name: "Version Translation Packages"
-        command: |
-          while read lang
-            do
-              echo "Publishing $lang..."
-              php workspace/tools/bin/publish-to-github workspace/packages/$lang
-            done < workspace/langs-updated
+          name: "Version Translation Packages"
+          command: |
+            while read lang
+              do
+                echo "Publishing $lang..."
+                php workspace/tools/bin/publish-to-github workspace/packages/$lang
+              done < workspace/langs-updated
 
 workflows:
   version: 2.1
