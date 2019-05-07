@@ -62,9 +62,13 @@ function collectAllTranslatedPhrases(string $sourceDir, string $targetLang): arr
         '/^.+\/i18n\/' . $targetLang . '\.csv/i',
         RecursiveRegexIterator::GET_MATCH
     );
+    $translationFiles = array_map(function ($translationFile) {
+        return $translationFile[0];
+    }, iterator_to_array($translationFiles));
+    sort($translationFiles);
 
     foreach ($translationFiles as $translationFile) {
-        $handle = fopen($translationFile[0], 'r');
+        $handle = fopen($translationFile, 'r');
         if ($handle) {
             while (($buffer = fgetcsv($handle)) !== false) {
                 if ($targetLang === 'en_US' || $buffer[0] !== $buffer[1]) {
