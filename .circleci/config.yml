@@ -48,11 +48,11 @@ jobs:
       - run:
           name: "Fetch Translation Packages"
           command: |
-            mkdir ./packages
+            mkdir workspace/packages
             while read lang
               do
                   echo "Fetch existing package for $lang..."
-                  php workspace/tools/bin/fetch-language-package-sources git@github.com:magento-l10n/language-$lang.git ./packages/$lang
+                  php workspace/tools/bin/fetch-language-package-sources git@github.com:magento-l10n/language-$lang.git workspace/packages/$lang
               done < workspace/langs
       - run:
           name: "Update Translation in Packages"
@@ -61,9 +61,10 @@ jobs:
             while read lang
               do
                   echo "Updating phrases for $lang..."
-                  rm ./packages/$lang/$lang.csv
-                  cp workspace/translations/$lang.csv ./packages/$lang/$lang.csv
-                  if git diff --exit-code
+                  rm workspace/packages/$lang/$lang.csv
+                  cp workspace/translations/$lang.csv workspace/packages/$lang/$lang.csv
+
+                  if git --git-dir workspace/packages/$lang diff --exit-code
                   then
                       echo "   $lang being updated..."
                       $lang >> workspace/langs-updated
@@ -78,11 +79,8 @@ jobs:
             while read lang
               do
                   echo "Versioning $lang..."
-                  php workspace/tools/bin/update-version ./packages/$lang
+                  php workspace/tools/bin/update-version workspace/packages/$lang
               done < workspace/langs-updated
-      - run:
-          name: "Copy Packages to Workspace"
-          command: cp packages workspace/packages
       - persist_to_workspace:
           root: workspace
           paths:
