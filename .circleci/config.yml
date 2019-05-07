@@ -61,7 +61,8 @@ jobs:
             while read lang
               do
                   echo "Updating phrases for $lang..."
-                  yes | cp -rf workspace/translations/$lang.csv ./packages/$lang/$lang.csv
+                  rm ./packages/$lang/$lang.csv
+                  cp workspace/translations/$lang.csv ./packages/$lang/$lang.csv
                   if git diff --exit-code
                   then
                       echo "   $lang being updated..."
