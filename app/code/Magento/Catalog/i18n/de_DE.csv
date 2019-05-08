@@ -896,7 +896,7 @@
 "The required option wasn't entered. Enter the option and try again.","Die erforderliche Option wurde nicht eingegeben. Geben Sie die Option an und versuchen Sie es erneut."
 "The file is empty. Select another file and try again.","Die Datei ist leer. Wählen Sie eine andere Datei und versuchen Sie es erneut."
 "The text is too long. Shorten the text and try again.","Der Text ist zu lang. Kürzen Sie den Text und versuchen Sie es erneut."
-"The product that was requested doesn't exist. Verify the product and try again. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","The product that was requested doesn't exist. Verify the product and try again. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo."
+"The product that was requested doesn't exist. Verify the product and try again. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Das angeforderte Produkt existiert nicht. Überprüfen Sie das Produkt und versuchen Sie es erneut. Zeile ID: SKU = %SKU, Shop ID: %storeId, Preis von: %priceFrom, Preis zu: %priceTo."
 "Tier price is unavailable for this product.","Staffelpreise sind für dieses Produkt nicht verfügbar."
 "The tier_price data is invalid. Verify the data and try again.","The tier_price data is invalid. Verify the data and try again."
 "The group price couldn't be saved.","Der Gruppenpreis konnte nicht gespeichert werden."
