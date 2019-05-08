@@ -17,7 +17,7 @@
 "You need more permissions to save this setting.","Potrzebujesz więcej uprawnień, aby zapisać to ustawienie."
 "Role Scopes","Zakresy ról"
 "Custom","Niestandardowe"
-"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view"
+"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","Nie posiadasz uprawnień, aby zapisać ten element w zakresie bieżącego sklepu. Przełącz na sklep, do którego masz dostęp"
 "More permissions are needed to delete the ""%1"" item.","Do usunięcia elementu ""%1"" potrzebnych jest więcej uprawnień."
 "This entity needs to be assigned to a store view. Verify the entity assignment and try again.","Ten podmiot musi być przypisany do widoku sklepu. Sprawdź przypisanie i spróbuj ponownie."
 "Orders can only be completed in an active store. Verify the store and try again.","Zamówienia mogą być realizowane tylko w aktywnym sklepie. Zweryfikuj sklep i spróbuj ponownie."
