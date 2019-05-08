@@ -49,7 +49,7 @@
 "Collection data files.","Datensammlungsdateien"
 "API interfaces reflection data.","API-Schnittstellen Reflexions-Daten"
 "Results of DDL queries, such as describing tables or indexes.","Ergebnisse der DDL-Abfragen, wie beschreibende Tabellen oder Indizes."
-"The store cannot be switched.","The store cannot be switched."
+"The store cannot be switched.","Dieser Store kann nicht gewechselt werden."
 "The store that was requested wasn't found. Verify the store and try again.","The store that was requested wasn't found. Verify the store and try again."
 "The website wasn't found. Verify the website and try again.","Die Website wurde nicht gefunden. Überprüfen Sie die Website und versuchen Sie es erneut."
 "The group wasn't found. Verify the group and try again.","Die Gruppe wurde nicht gefunden. Überprüfen Sie die Gruppe und versuchen Sie es erneut."
