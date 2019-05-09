@@ -45,4 +45,4 @@
 "Future Update End Time cannot be equal or earlier than Start Time.","Czas zakończenia przyszłej aktualizacji musi wypadać później niż jej czas rozpoczęcia."
 "Move to Another Campaign","Przenieś do innej kampanii"
 "Deleting the update will remove the catalog price rule from this campaign and all scheduled changes will be lost.","Usunięcie aktualizacji spowoduje usunięcie reguły ceny z tej kampanii, a wszystkie zaplanowane zmiany zostaną utracone."
-"Future Update already exists in this time range. Set a different range and try again.","Future Update already exists in this time range. Set a different range and try again."
+"Future Update already exists in this time range. Set a different range and try again.","Przyszła aktualizacja w tym okresie już istnieje. Zmień przedział czasowy i spróbuj ponownie."
