@@ -11,5 +11,5 @@
 "Cannot resolve layered filter type","Nem lehet meghatározni az összetett szűrő típusát"
 "Cannot resolve type","Nem lehet meghatározni a típust"
 "Category doesn't exist","A kategória nem létezik"
-"""image_type"" value should be specified","""image_type"" value should be specified"
-"currentPage value %1 specified is greater than the %2 page(s) available.","currentPage value %1 specified is greater than the %2 page(s) available."
+"""image_type"" value should be specified","""image_type"" értékét meg kell adni"
+"currentPage value %1 specified is greater than the %2 page(s) available.","aktuálisOldal megadott értéke %1 nagyobb, mint az elérhető oldalszám %2."
