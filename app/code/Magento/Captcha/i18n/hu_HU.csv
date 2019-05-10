@@ -20,7 +20,7 @@
 "Number of Symbols","Szimbólumok száma"
 "Please specify 8 symbols at the most. Range allowed (e.g. 3-5)","Maximum 8 szimbólumot adjon meg. Tartomány is megadható (pl 3-5)"
 "Symbols Used in CAPTCHA","CAPTCHA-ban használt szimbólumok"
-"Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.<br />Similar looking characters (e.g. ""i"", ""l"", ""1"") decrease chance of correct recognition by customer.","Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.<br />Similar looking characters (e.g. ""i"", ""l"", ""1"") decrease chance of correct recognition by customer."
+"Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.<br />Similar looking characters (e.g. ""i"", ""l"", ""1"") decrease chance of correct recognition by customer.","Kérjük csak betűket (a-z vagy A-Z) vagy számokat (0-9) használj ebben a mezőben. Szóközök vagy egyéb karakterek nem engedélyezettek.<br />Hasonló kinézetű karakterek (pl. ""i"", ""l"", ""1"") csökkentik a helyes felismerés esélyét."
 "Case Sensitive","Kis- és nagybetű érzékeny"
 "Enable CAPTCHA on Storefront","CAPTCHA engedélyezése a Storefronton"
 "CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","A CAPTCHA a ""Felhasználó létrehozása"" és az ""Elfelejtettem a jelszavamat"" űrlapokhoz mindig engedélyezve van, ha ki van választva."
