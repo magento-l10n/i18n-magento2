@@ -85,8 +85,8 @@
 "Cannot delete company with id %1","Unternehmen mit der ID %1 kann nicht gelöscht werden"
 "No company admin email is specified in request.","In der Anfrage ist keine Unternehmens-E-Mail-Adresse angegeben."
 "No company admin website ID is specified in request.","In der Anfrage ist keine Firmen-Admin Website-ID angegeben."
-"No such entity with id = %idValue","No such entity with id = %idValue"
-"The user %1 is the company admin and cannot be set to inactive. You must set another user as the company admin first.","The user %1 is the company admin and cannot be set to inactive. You must set another user as the company admin first."
+"No such entity with id = %idValue","Kein Objekt mit der ID = %idValue gefunden"
+"The user %1 is the company admin and cannot be set to inactive. You must set another user as the company admin first.","Der Benutzer %1 ist der Firmen-Admin und kann nicht auf inaktiv gesetzt werden. Sie müssen zuerst einen anderen Benutzer als Firmen-Admin festlegen."
 "You cannot update the requested attribute. Row ID: %fieldName = %fieldValue.","Sie können das angeforderte Attribut nicht aktualisieren. Zeilen-ID: %fieldName = %fieldValue."
 "Invalid attribute value. Cannot change company for a company admin.","Ungültiger Attributwert. Kann Unternehmen für einen Firmen-Admin nicht ändern."
 "Company admin","Firmen-Admin"
@@ -218,11 +218,10 @@ kontaktieren Sie bitte den Firmen-Admin unter %company_admin_email."
     has been approved and you have been set as the Company Admin.
     You can now create and manage your company structure.
     Your company members are able to request quotes, create requisition lists,
-    and use other B2B features.","Your company registration request (for the <strong>%company_name</strong>)
-    has been approved and you have been set as the Company Admin.
-    You can now create and manage your company structure.
-    Your company members are able to request quotes, create requisition lists,
-    and use other B2B features."
+    and use other B2B features.","Ihre Firmenregistrierungsanfrage (für <strong>%company_name</strong>) 
+wurde genehmigt und Sie wurden als Firmen-Admin eingestellt. 
+Sie können nun Ihre Unternehmensstruktur erstellen und verwalten. 
+Ihre Firmenmitglieder können Angebote anfordern, Anforderungslisten erstellen und andere B2B-Funktionen verwenden."
 "The status of your company <strong>%company_name</strong>
     is now <strong>Active</strong>.
     Once you login, you will be able to place orders on behalf of your company
@@ -258,7 +257,7 @@ aus folgendem Grund:"
 "Proceed","Fortfahren"
 "Change Company Status?","Firmenstatus ändern?"
 "Change status","Status ändern"
-"Popup title","Popup title"
+"Popup title","Popup-Titel"
 "Cannot delete the user","Dieser Benutzer kann nicht gelöscht werden"
 "This user cannot be deleted because he/she is a company admin.","Dieser Nutzer kann nicht gelöscht werden, da er/sie Firmen-Admin ist."
 "Edit User","Benutzer bearbeiten"
@@ -319,7 +318,7 @@ aus folgendem Grund:"
 "View users and teams","Benutzer und Teams anzeigen"
 "Manage users and teams","Benutzer und Teams verwalten"
 "Sales","Verkäufe"
-"Checkout (place order)","Checkout (place order)"
+"Checkout (place order)","Kasse (Bestellung aufgeben)"
 "Use Pay On Account method","Zahlungsart Kauf auf Rechnung nutzen"
 "View orders","Bestellungen einsehen"
 "View orders of subordinate users","Bestellungen von untergeordneten Benutzern anzeigen"
