@@ -83,7 +83,7 @@
 "Your credit limit has been updated and is now %available_credit.
     Your outstanding balance currently totals %outstanding_balance. You are %exceed_limit to exceed the credit limit.","Ihr Kreditlimit wurde aktualisiert und ist jetzt %available_credit.
     Ihr offener Betrag beträgt derzeit %outstanding_balance. Sie sind %exceed_limit, um das Kreditlimit zu überschreiten."
-"Order %order_id refunded","Order %order_id refunded"
+"Order %order_id refunded","Bestellung %order_id erstattet"
 "A refund of %refunded_amount has been issued on order #%order_id. This amount has been applied to the company credit.","A refund of %refunded_amount has been issued on order #%order_id. This amount has been applied to the company credit."
 "Order %order_id reverted","Order %order_id reverted"
 "Your order #%order_id has been cancelled. The order amount reverted to the company credit.","Your order #%order_id has been cancelled. The order amount reverted to the company credit."
