@@ -23,4 +23,4 @@
 "Disallowed file type.","Nicht erlaubter Datei-Typ."
 "Value for multiselect attribute %s contains duplicated values","Wert für das Mehrfachauswahl-Attribut %s enthält doppelte Werte"
 "Invalid Stock data for insert","Ungültige Bestandsdaten zum Einfügen"
-"Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: %1","Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: %1"
+"Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: %1","Wert für 'type'-Unterattribut in 'custom_options'-Attribut enthält ungültigen Wert, zulässige Werte sind: %1"
