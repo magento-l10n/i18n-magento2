@@ -21,6 +21,6 @@
 "Entity type model must be an instance of Magento\CatalogImportExport\Model\Import\Product\Type\AbstractType","エンティティタイプモデルは Magento\CatalogImportExport\Model\Import\Product\Type\AbstractType　のインスタンスでなければなりません"
 "Entity type model must be an instance of '%1'","エンティティタイプモデルは'%1'のインスタンスである必要があります"
 "Disallowed file type.","許可しないファイルタイプ"
-"Value for multiselect attribute %s contains duplicated values","Value for multiselect attribute %s contains duplicated values"
+"Value for multiselect attribute %s contains duplicated values","複数選択属性 %s は重複した値を含んでいます"
 "Invalid Stock data for insert","無効な挿入用在庫データ"
-"Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: %1","Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: %1"
+"Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: %1","'custom_options' の属性の'type'副属性の値は誤った値を含んでいます。受け付ける値: %1"
