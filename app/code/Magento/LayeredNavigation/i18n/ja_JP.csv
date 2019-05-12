@@ -28,11 +28,11 @@
 "Interval Division Limit","ステップ分割制限数"
 "Please specify the number of products, that will not be divided into subintervals.","下階層の価格帯の中で価格帯を区切らないための商品数を指定してください。"
 "Position of attribute in layered navigation block","レイアウトナビゲーションブロックの位置属性"
-"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price"
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price","商品マスタの入力形式が Yes/No、ドロップダウン、複数選択、価格の場合にのみ利用できます"
 "Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
                     <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
-                     it will make no affect on Price filter.","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
-                    <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
-                     it will make no affect on Price filter."
-"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price."
-"Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price.","Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price."
+                     it will make no affect on Price filter.","商品マスタの入力形式がYes/No、ドロップダウン、複数選択、価格の場合にのみ利用できます。
+                    <br>価格は <b>'フィルタ可能(結果なし)'</b> オプションと互換性がありません -  
+                     価格フィルタには影響しません。"
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.","商品マスタの入力形式が Yes/No、ドロップダウン、複数選択、価格の場合にのみ利用できます."
+"Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price.","商品マスタの入力形式が Yes/No、ドロップダウン、複数選択、価格の場合にのみ利用できます."
