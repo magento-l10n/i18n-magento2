@@ -62,7 +62,7 @@
 "Switch/Solo/Maestro Only","Switch/Solo/Maestroのみ"
 "Issue Number","取引番号"
 "Start Date","開始日"
-"Please provide payment for the order.","Please provide payment for the order."
+"Please provide payment for the order.","ご注文に対するお支払い方法を指定してください。"
 "Visa","Visa"
 "American Express","American Express"
 "The ""%1"" command executor isn't defined. Verify the executor and try again.","コマンド実行プログラム ""%1"" が定義されていません。実行プログラムを確認して再度お試し下さい。"

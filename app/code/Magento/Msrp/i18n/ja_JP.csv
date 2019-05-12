@@ -16,4 +16,4 @@
 "Display Actual Price","実際の価格を表示"
 "Default Popup Text Message","標準のポップアップメッセージ"
 "Default ""What's This"" Text Message","標準の ""これは何ですか"" メッセージ"
-"<strong style=""color:red"">Warning!</strong> Enabling MAP by default will hide all product prices on Storefront.","<strong style=""color:red"">Warning!</strong> Enabling MAP by default will hide all product prices on Storefront."
+"<strong style=""color:red"">Warning!</strong> Enabling MAP by default will hide all product prices on Storefront.","<strong style=""color:red"">警告!</strong>MAPを適用すると標準の価格がフロントエンドから隠れてしまいます。"
