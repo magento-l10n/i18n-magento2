@@ -45,7 +45,7 @@
 "State is Required for","都道府県必須"
 "Allow to Choose State if It is Optional for Country","都道府県・州が国により任意の場合はオプションとする"
 "Weight Unit","単位(重量)"
-"Base currency is used for all online payment transactions. If you have more than one store view, the base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").","Base currency is used for all online payment transactions. If you have more than one store view, the base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"")."
+"Base currency is used for all online payment transactions. If you have more than one store view, the base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").","基本通貨は、すべてオンライン決済のために使用されます。 1 つ以上のストアビューがある場合は、基本通貨の範囲はカタログ価格スコープによって定義されます (「Catalog」 > 「Price」 > 「Catalog Price Scope」)。"
 "No API Key was specified or an invalid API Key was specified.","API キーが指定されていないか、無効な API キーが指定されました。"
 "The account this API request is coming from is inactive.","この APIリクエストの送信元アカウントは非アクティブです。"
 "The ""%1"" is not allowed as base currency for your subscription plan.","""%1""は、購読プランの基本通貨として使用できません。"
