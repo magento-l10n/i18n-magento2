@@ -203,7 +203,7 @@
 "The password can not begin or end with a space.","パスワードの始まりと終わりはスペースにはできません"
 "Admin","管理者"
 "ALL GROUPS","全てのグループ"
-"No such entity with %fieldName = %fieldValue, %field2Name = %field2Value","No such entity with %fieldName = %fieldValue, %field2Name = %field2Value"
+"No such entity with %fieldName = %fieldValue, %field2Name = %field2Value","そのようなエンティティはありません %fieldName = %fieldValue, %field2Name = %field2Value"
 "File can not be saved to the destination folder.","ファイルを保存先フォルダに保存することはできません。"
 "Unable to create directory %1.","ディレクトリ %1 を作成できません。"
 "Destination folder is not writable or does not exists.","宛先フォルダが書き込み可能でないか、存在しません。"
