@@ -14,8 +14,8 @@
 "Backend port","バックエンドポート"
 "Specify backend port for config file generation. If field is empty default value 8080 will be saved.","コンフィグファイルの
 世代のためのバックエンドポートを指定してください。もしフィールドが空白ならデフォルト値の8080が保存されます。"
-"Grace period","Grace period"
-"Specify grace period in seconds for config file generation. If field is empty default value 300 will be saved. This grace period will be used to serve cached content when the server is healthy. If the server is not healthy, cached content will be served for 3 days before failing.","Specify grace period in seconds for config file generation. If field is empty default value 300 will be saved. This grace period will be used to serve cached content when the server is healthy. If the server is not healthy, cached content will be served for 3 days before failing."
+"Grace period","猶予期間"
+"Specify grace period in seconds for config file generation. If field is empty default value 300 will be saved. This grace period will be used to serve cached content when the server is healthy. If the server is not healthy, cached content will be served for 3 days before failing.","設定ファイル生成の猶予期間を秒で指定してください。フィールドが空欄の場合は300秒が標準の値として使用されます。この猶予期間はサーバーが正常稼働時にキャッシュしたコンテンツを提供するために使用されます。サーバーが正常かどうしていない場合、キャッシュされたコンテンツは3日間使用されます。"
 "TTL for public content","パブリックコンテントのためのTTL"
 "Public content cache lifetime in seconds. If field is empty default value 86400 will be saved.","パブリックコンテントキャッシュの寿命（秒）。 もしフィールドが空の場合はデフォルト値の86400が保存されます。 "
 "Page Cache","ページキャッシュ"
@@ -24,5 +24,5 @@
 "Built-in Application (Not Recommended for Production Use)","内蔵アプリケーション(本番利用は推奨されません)"
 "Varnish Caching","Varnishキャッシュ"
 "Full page caching.","フルページキャッシュ。"
-"Access List value ""%1"" is not valid. Please use only IP addresses and host names.","Access List value ""%1"" is not valid. Please use only IP addresses and host names."
+"Access List value ""%1"" is not valid. Please use only IP addresses and host names.","アクセスリストの値 ""%1"" が正しくありません。IPアドレスかホスト名をご使用ください。"
 "Export Configuration","設定をエクスポート"
