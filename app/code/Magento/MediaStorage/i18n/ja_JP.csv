@@ -13,7 +13,7 @@
 "Wrong file info format","不正なファイル情報フォーマット"
 "Path ""%value%"" is protected and cannot be used.","パス ""%value%"" は保護されていて使用できません。"
 "Path ""%value%"" is not available and cannot be used.","パス ""%value%"" は利用できません。"
-"Path ""%value%"" may not include parent directory traversal (""../"", "".."").","Path ""%value%"" may not include parent directory traversal (""../"", "".."")."
+"Path ""%value%"" may not include parent directory traversal (""../"", "".."").","パス ""%value%"" は親ディレクトリへの参照を含んでいません (""../"", ""..”)。"
 "Please set available and/or protected paths list(s) before validation.","チェックの前に利用可能か保護されているパスをセットしてください。"
 "File with an extension ""%value%"" is protected and cannot be uploaded","拡張子 ""%value%"" のファイルは保護されているためアップロードできません"
 "Unable to create directory: %1","ディレクトリを作れませんでした: %1"
