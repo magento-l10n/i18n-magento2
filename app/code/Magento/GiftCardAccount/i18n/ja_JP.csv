@@ -50,7 +50,7 @@
 "Gift Card ""%1"" was redeemed.","ギフトカード ""%1"" を償還しました。"
 "We cannot redeem this gift card.","このギフトカードは利用できません。"
 "Gift Card","ギフトカード"
-"By admin: %1.","By admin: %1."
+"By admin: %1.","管理者: %1."
 "Could not save the gift card account.","ギフトカードとアカウントを保存できませんでした。"
 "Could not delete the gift card account.","ギフトカードとアカウントを削除できませんでした。"
 "The expiration date must be set in the future.","有効期限は将来の日付に設定する必要があります。"

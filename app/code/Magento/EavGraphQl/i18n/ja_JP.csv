@@ -3,5 +3,5 @@
 "Attribute code %1 of entity type %2 not configured to have a type.","エンティティタイプ %2 の属性コード %1 にタイプが設定されていません。"
 "Invalid entity_type specified: %1","無効なエンティティタイプが指定されました: %1"
 "Missing %1 for the input %2.","入力%2に対する%1がありません。"
-"Type %1 has no internal representation declared.","Type %1 has no internal representation declared."
+"Type %1 has no internal representation declared.","タイプ%1には内部表現が宣言されていません。"
 "Cannot resolve EAV type","EAV型を解決できません"

@@ -146,7 +146,7 @@
 "Not shared with other products","他の商品と共有しない"
 "'%value%' looks like a DNS hostname but we cannot match the TLD against known list.","'%value%'はDNSホストネームのようですがTLDが既知のリストにマッチしません"
 "Entity types declaration cache.","エンティティ種類の宣言キャッシュ。"
-"'Invalid backend model specified: ' .","'Invalid backend model specified: ' ."
+"'Invalid backend model specified: ' .","'不正なバックエンド モデルが指定されました: ' ."
 "Text Editor input type requires WYSIWYG to be enabled in Stores > Configuration > Content Management.","テキストエディタの入力タイプでは、ストア > 設定 > コンテンツ管理 から WYSIWYGを有効にする必要があります。"
 "The attribute group doesn't belong to the provided attribute set.","属性グループは提供された属性セットに属しません。"
 "The attributeGroup can't be saved.","属性グループを保存できません。"
