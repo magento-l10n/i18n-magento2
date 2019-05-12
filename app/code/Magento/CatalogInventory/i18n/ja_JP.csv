@@ -73,7 +73,7 @@
 "Allow Multiple Boxes for Shipping","配送に複数のボックスを許可する"
 "Display products availability in stock on Storefront.","店頭に在庫にある商品を表示します。"
 "Use Deferred Stock Update","繰延在庫更新を使用する"
-"Changing can take some time due to processing whole catalog.","Changing can take some time due to processing whole catalog."
+"Changing can take some time due to processing whole catalog.","変更はカタログ全体に及ぶため、完了までに時間がかかります。"
 "The Product stock item is invalid. Verify the stock item and try again.","商品の在庫アイテムが不正です。在庫アイテムを確認してから再度お試し下さい。"
 "The stock item was unable to be saved. Please try again.","在庫アイテムが保存できませんでした。再度お試し下さい。"
 "The stock item with the ""%1"" ID wasn't found. Verify the ID and try again.","ID ""%1"" の在庫アイテムが見つかりませんでした。IDを確認して再度お試し下さい。"

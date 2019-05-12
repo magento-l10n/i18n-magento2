@@ -12,5 +12,5 @@
 "Use HTTP Only","HTTPだけ使用可能"
 "Cookie Restriction Mode","Cookie制限モード"
 "<strong style=""color:red"">Warning</strong>:  Do not set to ""No"". User security could be compromised.","<strong style=""color:red"">警告</strong>：「いいえ」に設定しないでください。 ユーザーのセキュリティが危険にさらされる可能性があります。"
-"'Invalid domain name: ' .","'Invalid domain name: ' ."
-"'Invalid cookie lifetime: ' .","'Invalid cookie lifetime: ' ."
+"'Invalid domain name: ' .","'不正なドメイン名: ' ."
+"'Invalid cookie lifetime: ' .","'不正な cookie の有効期限: ' ."
