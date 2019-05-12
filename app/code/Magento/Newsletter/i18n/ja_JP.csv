@@ -75,7 +75,7 @@
 "This email address is already assigned to another user.","このメールアドレスは既に使用されています。"
 "Sorry, but the administrator denied subscription for guests. Please <a href=""%1"">register</a>.","申し訳ありません、アドミニストレーターがゲストの購読を許可しませんでした。こちら <a href=""%1"">登録</a>願います。"
 "Please enter a valid email address.","正しいメールアドレスを入力してください。"
-"This email address is already subscribed.","This email address is already subscribed."
+"This email address is already subscribed.","このメールアドレスは既に登録済みです。"
 "The confirmation request has been sent.","確認リクエストが送られました"
 "Thank you for your subscription.","ご購読ありがとうございます。"
 "There was a problem with the subscription: %1","購読に問題がありました: %1"
