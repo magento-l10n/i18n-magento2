@@ -10,6 +10,6 @@
 "'category_id' only supports 'eq' condition type.","'category_id' では、'eq' 条件タイプのみサポートしています。"
 "Cannot resolve layered filter type","絞込のフィルタータイプを解決できません"
 "Cannot resolve type","型を解決できません"
-"Category doesn't exist","Category doesn't exist"
+"Category doesn't exist","カテゴリが存在しません。"
 """image_type"" value should be specified","""image_type"" の値を指定する必要があります"
 "currentPage value %1 specified is greater than the %2 page(s) available.","指定された currentPage値 %1 は利用可能な %2 より大きいです。"
