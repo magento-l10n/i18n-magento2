@@ -108,7 +108,7 @@
 "Please select State/Province.","Prosimy o wybór regionu."
 "Please enter a value less than or equal to {0}.","Please enter a value less than or equal to {0}."
 "Please enter a value greater than or equal to {0}.","Please enter a value greater than or equal to {0}."
-"Please enter valid email addresses, separated by commas. For example, johndoe@domain.com, johnsmith@domain.com.","Please enter valid email addresses, separated by commas. For example, johndoe@domain.com, johnsmith@domain.com."
+"Please enter valid email addresses, separated by commas. For example, johndoe@domain.com, johnsmith@domain.com.","Wpisz prawidłowe adresy e-mail w formacie jan.kowalski@domena.pl, oddzielając je przecinkami."
 "Please enter issue number or start date for switch/solo card type.","Prosimy o podanie numeru wydania lub daty rozpoczęcia dla kart typu switch/solo."
 "This is a required field.","To jest wymagane pole."
 "Please enter positive number in this field.","Proszę podać dodatnią wartość w tym polu."
