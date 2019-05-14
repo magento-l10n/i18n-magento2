@@ -20,7 +20,7 @@
 "Number of Symbols","Liczby lub symbole"
 "Please specify 8 symbols at the most. Range allowed (e.g. 3-5)","Prosimy podać maksymalnie 8 znaków. Zakres dozwolony (np. 3-5)"
 "Symbols Used in CAPTCHA","Symbole użyte w CAPTCHA"
-"Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.<br />Similar looking characters (e.g. ""i"", ""l"", ""1"") decrease chance of correct recognition by customer.","Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.<br />Similar looking characters (e.g. ""i"", ""l"", ""1"") decrease chance of correct recognition by customer."
+"Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.<br />Similar looking characters (e.g. ""i"", ""l"", ""1"") decrease chance of correct recognition by customer.","Prosimy o używanie jedynie liter (a-z lub A-Z) lub cyfr (0-9) w tym polu. Spacje i inne znaki nie są dozwolone.<br />Podobnie wyglądające znaki (np. ""i"", ""l"", ""1"") zmniejszają szansę pomyślnego rozpoznania przez użytkownika."
 "Case Sensitive","Rozpoznaje wielkość liter"
 "Enable CAPTCHA on Storefront","Włącz CAPTCHA na sklepie"
 "CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","CAPTCHA dla formularzy ""Tworzenie użytkownika"" i ""Zapomniane hasło"" będzie zawsze włączone, jeśli wybrane."
