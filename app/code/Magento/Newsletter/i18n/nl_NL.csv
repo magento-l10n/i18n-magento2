@@ -75,7 +75,7 @@
 "This email address is already assigned to another user.","Dit E-Mailadres is al toegewezen aan een andere gebruiker."
 "Sorry, but the administrator denied subscription for guests. Please <a href=""%1"">register</a>.","Inschrijving is uitsluitend voorbehouden aan geregistreerde klanten. <a href=""%1"">Registreer</a> u."
 "Please enter a valid email address.","Vul een geldig e-mailadres in."
-"This email address is already subscribed.","Het emailadres %s is al geabonneerd."
+"This email address is already subscribed.","Het e-mailadres is al geabonneerd."
 "The confirmation request has been sent.","Bedankt voor uw inschrijving, controleer uw e-mail inbox om uw aanvraag te bevestigen."
 "Thank you for your subscription.","Bedankt voor uw inschrijving."
 "There was a problem with the subscription: %1","Er is een probleem met uw inschrijving: %1"
