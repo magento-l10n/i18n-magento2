@@ -61,7 +61,7 @@
 "The changes have been saved.","Les changements ont été enregistrés."
 "The quote has been sent to the buyer.","Le devis a été envoyé à l'acheteur."
 "Exception occurred during quote sending","Une erreur s'est produite pendant l'envoi du devis"
-"Exception occurred during quote view %1","Exception occurred during quote view %1"
+"Exception occurred during quote view %1","Une erreur s'est produite pendant la visualisation du devis %1"
 "Requested quote was not found.","Devis demandé non trouvé."
 "An error occurred on the server. %1","Une erreur s’est produite sur le serveur. %1"
 "This quote is currently locked for editing. It will become available once released by the buyer.","Ce devis est actuellement verrouillé pour modification. Il sera disponible une fois refermé par l'acheteur."
