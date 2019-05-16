@@ -97,7 +97,7 @@
 "Please enter a valid number.","Пожалуйста, введите действительный номер."
 "This is required field","Это поле обязательно для заполнения"
 "Admin is a required field in each row.","Администратор обязательное поле в каждой строке."
-"Password cannot be the same as email address.","Password cannot be the same as email address."
+"Password cannot be the same as email address.","Пароль не должен совпадать c адресом электронной почты."
 "Please fix this field.","Пожалуйста, исправьте это поле."
 "Please enter a valid email address.","Введите допустимый адрес электронной почты."
 "Please enter a valid URL.","Пожалуйста, введите допустимый URL-адрес."
