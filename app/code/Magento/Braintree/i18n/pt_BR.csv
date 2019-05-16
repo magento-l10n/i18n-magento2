@@ -257,10 +257,10 @@
                             Dynamic descriptors are not enabled on all accounts by default. If you receive a validation error of 92203 or if your dynamic descriptors are not displaying as expected,
                             please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>."
 "The value in the business name field of a customer's statement. Company name/DBA section must be either 3, 7 or 12 characters
-                                and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters).","The value in the business name field of a customer's statement. Company name/DBA section must be either 3, 7 or 12 characters
-                                and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters)."
-"The value in the phone number field of a customer's statement. Phone must be 10-14 characters and can only contain numbers, dashes, parentheses and periods.","The value in the phone number field of a customer's statement. Phone must be 10-14 characters and can only contain numbers, dashes, parentheses and periods."
-"The value in the URL/web address field of a customer's statement. The URL must be 13 characters or shorter.","The value in the URL/web address field of a customer's statement. The URL must be 13 characters or shorter."
+                                and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters).","O valor no campo do nome comercial de uma declaração do cliente. O nome da empresa / seção DBA deve ter 3, 7 ou 12 caracteres
+                                 e o descritor do produto pode ter até 18, 14 ou 9 caracteres, respectivamente (com um * entre para um nome de descritor total de 22 caracteres)."
+"The value in the phone number field of a customer's statement. Phone must be 10-14 characters and can only contain numbers, dashes, parentheses and periods.","O valor no campo de número de telefone da declaração de um cliente. O telefone deve ter de 10 a 14 caracteres e pode conter apenas números, traços, parênteses e pontos."
+"The value in the URL/web address field of a customer's statement. The URL must be 13 characters or shorter.","O valor no campo URL/endereço da web de uma declaração do cliente. O URL deve ter 13 caracteres ou menos."
 "The Payment Token is not available to perform the request.","A forma de pagamento não está disponível para realizar a solicitação."
 "Checkout failed to initialize. Verify and try again.","Falha ao iniciar checagem de dados. Tente novamente mais tarde."
 "The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","O pedido não foi feito. Primeiro, concorde com os termos e condições e tente fazer seu pedido novamente."
