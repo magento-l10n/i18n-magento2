@@ -889,7 +889,7 @@
 "The ProductSku is empty. Set the ProductSku and try again.","O SKU do produto está vazio. Informe um SKU e tente novamente."
 "The custom option couldn't be removed.","A opção personalizada não pôde ser removida."
 "The product's required option(s) weren't entered. Make sure the options are entered and try again.","A(s) opção(ões) obrigatória(s) do produto não foram informadas. Verifique este(s) dado(s) e tente novamente."
-"The file options format is invalid. Use a correct format and try again.","The file options format is invalid. Use a correct format and try again."
+"The file options format is invalid. Use a correct format and try again.","A extensão do arquivo de opções informado é inválido. Informe uma extensão correta e tente novamente."
 "The file ""%1"" is empty. Select another file and try again.","O arquivo ""%1"" está vazio. Selecione outro arquivo e tente novamente."
 "The validation failed. Make sure the required options are entered and the file is uploaded, then try again.","A validação falhou. Certifique-se de que as opções necessárias são inseridas e o arquivo é enviado, e então tente novamente."
 "The file was too big and couldn't be uploaded. Use a file smaller than %1 MBs and try to upload again.","O arquivo foi muito grande e não pôde ser carregado. Use um arquivo menor que %1 MBs e tente fazer o upload novamente."
