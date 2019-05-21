@@ -124,7 +124,7 @@
 "Time","Tempo"
 "Hour","Hora"
 "Minute","Minuto"
-"%name,","%nome,"
+"%name,","%name,"
 "Welcome to %store_name.","Bem-vindo a %store_name."
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Para efetuar login em nosso site, use suas credenciais durante pagamento ou na página <a href=""%customer_url"">Minha Conta</a>:"
 "Email:","E-mail:"
