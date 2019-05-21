@@ -75,7 +75,7 @@
 "This email address is already assigned to another user.","This email address is already assigned to another user."
 "Sorry, but the administrator denied subscription for guests. Please <a href=""%1"">register</a>.","Sorry, but the administrator denied subscription for guests. Please <a href=""%1"">register</a>."
 "Please enter a valid email address.","Please enter a valid email address."
-"This email address is already subscribed.","This email address is already subscribed."
+"This email address is already subscribed.","Оваа емаил адреса е веќе пријавена."
 "The confirmation request has been sent.","The confirmation request has been sent."
 "Thank you for your subscription.","Thank you for your subscription."
 "There was a problem with the subscription: %1","There was a problem with the subscription: %1"

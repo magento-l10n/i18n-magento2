@@ -35,7 +35,7 @@
 """%1"" is an empty string.","""%1"" is an empty string."
 """%1"" contains non-numeric characters.","""%1"" contains non-numeric characters."
 """%1"" contains non-alphabetic characters.","""%1"" contains non-alphabetic characters."
-"""%1"" is not a valid email address.","""%1"" is not a valid email address."
+"""%1"" is not a valid email address.","""%1"" не е валидна емаил адреса."
 """%1"" is not a valid hostname.","""%1"" is not a valid hostname."
 """%1"" uses too many characters.","""%1"" uses too many characters."
 "'%value%' looks like an IP address, which is not an acceptable format.","'%value%' looks like an IP address, which is not an acceptable format."

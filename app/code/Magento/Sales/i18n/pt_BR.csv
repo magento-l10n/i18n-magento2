@@ -654,7 +654,7 @@
 "Add to Cart","Adicionar ao Carrinho"
 "Search","Pesquisa"
 "Credit memo for your %store_name order","Nota de crédito para o seu pedido %store_name"
-"%name,","%nome,"
+"%name,","%name,"
 "Thank you for your order from %store_name.","Obrigado pelo seu pedido na loja %store_name."
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Você pode verificar o status do seu pedido ao <a href=""%account_url""> logar em sua conta</a>."
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Se você tem perguntas sobre seu pedido, você pode nos enviar em <a href=""mailto:%store_email""> %store_email</a>"

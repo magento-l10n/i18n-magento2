@@ -109,7 +109,7 @@
 "Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?","Aviso! \r\nEsta ação irá remover permissões já atribuídas a este usuário.\r\nTem certeza?"
 "Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","Aviso! \r\nEsta ação irá remover permissões já atribuídas a estes usuários.\r\nTem certeza?"
 "Password Reset Confirmation for %name","Confirmação de redefinição de senha para %name"
-"%name,","%nome,"
+"%name,","%name,"
 "There was recently a request to change the password for your account.","Recentemente houve uma solicitação para alterar a senha da sua conta."
 "If you requested this change, reset your password here:","Se você solicitou esta mudança, redefina sua senha aqui:"
 "If you did not make this request, you can ignore this email and your password will remain the same.","Se você não fez esta solicitação, você pode ignorar este e-mail e sua senha permanecerá a mesma."

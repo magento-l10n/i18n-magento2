@@ -129,7 +129,7 @@
 "Validate error 2","Erro de validação 2"
 "text","texto"
 "Promotion reminder at %store_name","Lembrete de promoção no %store_name"
-"%name,","%nome,"
+"%name,","%name,"
 "Hurry up to take advantage of our %promotion_name promotion!","Apresse-se para aproveitar nossa promoção de %promotion_name!"
 "Hurry up to take advantage of this promotion!","Apresse-se para aproveitar esta promoção!"
 "To take advantage of the promotion you need to sign in at <a href=""%account_url"">%store_name</a> and apply the coupon ""%coupon_code"" in the shopping cart.","Para aproveitar a promoção você precisa entrar no <a href=""%account_url"">%store_name</a> e aplicar o cupom ""%coupon_code"" no carrinho de compras."

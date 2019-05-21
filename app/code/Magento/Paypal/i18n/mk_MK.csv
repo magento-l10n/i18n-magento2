@@ -73,7 +73,7 @@
 "We can't initialize Express Checkout review.","We can't initialize Express Checkout review."
 "We can't update shipping method.","We can't update shipping method."
 "We can't start Express Checkout.","We can't start Express Checkout."
-"To check out, please sign in with your email address.","To check out, please sign in with your email address."
+"To check out, please sign in with your email address.","За да продолжите, ве молиме најавете се со вашата емаил адреса."
 "Sorry, but something went wrong","Sorry, but something went wrong"
 "Your payment has been declined. Please try again.","Your payment has been declined. Please try again."
 "Requested payment method does not match with order.","Requested payment method does not match with order."
