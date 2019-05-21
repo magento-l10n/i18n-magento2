@@ -106,7 +106,7 @@
 "Email Notification Settings","Configurações de notificação de E-mail"
 "Save Subscription Settings","Salvar configurações de assinatura"
 "Reward Points Balance Updated at %store_name","Saldo de Pontos de recompensa atualizado em %store_name"
-"%name,","%nome,"
+"%name,","%name,"
 "You have %points_balance points that may be used in our store:","Você tem pontos de %points_balance que podem ser usados em nossa loja:"
 "<a href=""%unsubscription_url"">Unsubscribe</a> from these notifications.","<a href=""%unsubscription_url""> Cancelar assinatura</a> dessas notificações."
 "Reward Points Expiry Warning at %store_name","Aviso de expiração de pontos de recompensa no %store_name"
