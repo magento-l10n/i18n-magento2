@@ -1,122 +1,328 @@
-"Invalid Form Key. Please refresh the page.","Invalid Form Key. Please refresh the page."
-"You entered an invalid Secret Key. Please refresh the page.","You entered an invalid Secret Key. Please refresh the page."
-"Cache Storage Management","Cache Storage Management"
-"Flush Magento Cache","Flush Magento Cache"
-"The cache storage may contain additional data. Are you sure that you want to flush it?","The cache storage may contain additional data. Are you sure that you want to flush it?"
-"Flush Cache Storage","Flush Cache Storage"
-"Invalidated","Invalidated"
-"Orders","Orders"
-"Amounts","Amounts"
-"Bestsellers","Bestsellers"
-"Most Viewed Products","Most Viewed Products"
+"Invalid Form Key. Please refresh the page.","
+                    અમાન્ય ફોર્મ કી. કૃપા કરીને પૃષ્ઠ તાજું કરો.
+                "
+"You entered an invalid Secret Key. Please refresh the page.","
+                    તમે અમાન્ય સિક્રેટ કી દાખલ કર્યો છે. કૃપા કરીને પૃષ્ઠ તાજું કરો.
+                "
+"Cache Storage Management","
+                    કેશ સ્ટોરેજ મેનેજમેન્ટ
+                "
+"Flush Magento Cache","
+                    ફ્લશ Magento કેશ
+                "
+"The cache storage may contain additional data. Are you sure that you want to flush it?","
+                    કેશ સંગ્રહમાં વધારાના ડેટા હોઈ શકે છે. શું તમે ખરેખર તેને ફ્લશ કરવા માંગો છો?
+                "
+"Flush Cache Storage","
+                    ફ્લશ કેશ સ્ટોરેજ
+                "
+"Invalidated","
+                    અમાન્ય
+                "
+"Orders","
+                    ઓર્ડર
+                "
+"Amounts","
+                    રકમ
+                "
+"Bestsellers","
+                    શ્રેષ્ઠ વેચનાર
+                "
+"Most Viewed Products","
+                    સૌથી વધુ જોવાયેલી પ્રોડક્ટ્સ
+                "
 "New Customers","New Customers"
-"Customers","Customers"
-"Customer","Customer"
-"Guest","Guest"
-"Items","Items"
-"Total","Total"
-"Lifetime Sales","Lifetime Sales"
-"Average Order","Average Order"
+"Customers","
+                    ગ્રાહકો
+                "
+"Customer","
+                    ગ્રાહક
+                "
+"Guest","
+                    મહેમાન
+                "
+"Items","
+                    વસ્તુઓ
+                "
+"Total","
+                    કુલ
+                "
+"Lifetime Sales","
+                    લાઇફટાઇમ સેલ્સ
+                "
+"Average Order","
+                    સરેરાશ ઓર્ડર
+                "
 "Average","Average"
 "Product","Product"
-"Price","કિંમત"
-"Quantity","જથ્થો"
-"Views","Views"
-"Revenue","Revenue"
-"Tax","Tax"
-"Shipping","Shipping"
-"Images (.gif, .jpg, .png)","Images (.gif, .jpg, .png)"
-"Media (.avi, .flv, .swf)","Media (.avi, .flv, .swf)"
-"All Files","All Files"
-"Reset to Default","Reset to Default"
-"All Store Views","All Store Views"
+"Price","
+                    કિંમત
+                "
+"Quantity","
+                    જથ્થો
+                "
+"Views","
+                    દૃશ્યો
+                "
+"Revenue","
+                    મહેસૂલ
+                "
+"Tax","
+                    ટેક્સ
+                "
+"Shipping","
+                    શિપિંગ
+                "
+"Images (.gif, .jpg, .png)","
+                    છબીઓ (.gif, .jpg, .png)
+                "
+"Media (.avi, .flv, .swf)","
+                    Media (.avi, .flv, .swf)
+                "
+"All Files","
+                    બધી ફાઇલ
+                "
+"Reset to Default","
+                    મૂળભૂત ને પુન:સુયોજિત કરો
+                "
+"All Store Views","
+                    બધા સ્ટોર દૃશ્યો
+                "
 "What is this?","What is this?"
-"Save Account","Save Account"
-"My Account","My Account"
+"Save Account","
+                    એકાઉન્ટ સેવ કરો
+                "
+"My Account","
+                    મારુ ખાતુ
+                "
 "Account Information","Account Information"
 "User Name","User Name"
-"First Name","First Name"
-"Last Name","Last Name"
-"Email","ઇમેઇલ"
+"First Name","
+                    પ્રથમ નામ (તમારું નામ)
+                "
+"Last Name","
+                    અટક
+                "
+"Email","
+                    ઇમેલ
+                "
 "User Email","User Email"
-"New Password","New Password"
-"Password Confirmation","Password Confirmation"
-"Interface Locale","Interface Locale"
-"Current User Identity Verification","Current User Identity Verification"
+"New Password","
+                    નવો પાસવર્ડ
+                "
+"Password Confirmation","
+                    પાસવર્ડ ખાતરી
+                "
+"Interface Locale","
+                    ઈન્ટરફેસ લોકેલ
+                "
+"Current User Identity Verification","
+                    વર્તમાન વપરાશકર્તા ઓળખ ચકાસણી
+                "
 "Your Password","Your Password"
-"Save Cache Settings","Save Cache Settings"
-"Catalog Rewrites","Catalog Rewrites"
-"Refresh","Refresh"
-"Images Cache","Images Cache"
-"Clear","Clear"
-"Search Index","Search Index"
-"Rebuild","Rebuild"
-"Inventory Stock Status","Inventory Stock Status"
+"Save Cache Settings","
+                    કેશ સેટિંગ્સ સાચવો
+                "
+"Catalog Rewrites","
+                    કેટલોગ રીવાઈટ્સ
+                "
+"Refresh","
+                    પુનઃતાજું કરો
+                "
+"Images Cache","
+                    છબીઓ કેશ
+                "
+"Clear","
+                    સાફ
+                "
+"Search Index","
+                    શોધ ઈન્ડેક્સ
+                "
+"Rebuild","
+                    ફરીથી બનાવો
+                "
+"Inventory Stock Status","
+                    ઇન્વેન્ટરી સ્ટોક સ્થિતિ
+                "
 "Rebuild Catalog Index","Rebuild Catalog Index"
-"Rebuild Flat Catalog Category","Rebuild Flat Catalog Category"
-"Rebuild Flat Catalog Product","Rebuild Flat Catalog Product"
-"Cache Control","Cache Control"
-"All Cache","All Cache"
-"No change","No change"
-"Disable","અક્ષમ કરો"
-"Enable","સક્ષમ કરો"
-"Add Design Change","Add Design Change"
-"Back","પાછું"
-"Delete","કાઢી નાખો"
-"Are you sure?","Are you sure?"
-"Save","સાચવો"
-"Edit Design Change","Edit Design Change"
-"New Store Design Change","New Store Design Change"
-"General Settings","General Settings"
-"Store","Store"
-"-- Please Select --","-- Please Select --"
-"Custom Design","Custom Design"
-"Date From","Date From"
+"Rebuild Flat Catalog Category","
+                    ફ્લેટ કેટલોગ કેટેગરી ફરીથી બનાવો
+                "
+"Rebuild Flat Catalog Product","
+                    ફ્લેટ કેટલોગ ઉત્પાદન ફરીથી બનાવો
+                "
+"Cache Control","
+                    કેશ નિયંત્રણ
+                "
+"All Cache","
+                    બધા કેશ
+                "
+"No change","
+                    કોઈ ફેરફાર નહી
+                "
+"Disable","
+                    અક્ષમ કરો
+                "
+"Enable","
+                    સક્ષમ કરો
+                "
+"Add Design Change","
+                    ડિઝાઇન બદલો ઉમેરો
+                "
+"Back","
+                    પાછું
+                "
+"Delete","
+                    કાઢી નાખો
+                "
+"Are you sure?","
+                    તમે ચોક્કસ છો?
+                "
+"Save","
+                    સાચવો
+                "
+"Edit Design Change","
+                    ડિઝાઇન બદલો ફેરફાર કરો
+                "
+"New Store Design Change","
+                    નવી સ્ટોર ડિઝાઇન બદલો
+                "
+"General Settings","
+                    સામાન્ય સુયોજનો
+                "
+"Store","
+                    સ્ટોર
+                "
+"-- Please Select --","
+                    -- મહેરબાની કરી, પસંદ કરો --
+                "
+"Custom Design","
+                    કસ્ટમ ડિઝાઇન
+                "
+"Date From","
+                    તારીખ થી
+                "
 "Date To","Date To"
-"Design Change","Design Change"
-"General","General"
-"Cancel","રદ કરો"
-"Delete %1 '%2'","Delete %1 '%2'"
-"Delete %1","Delete %1"
-"Block Information","Block Information"
-"Backup Options","Backup Options"
-"Create DB Backup","Create DB Backup"
-"Yes","હા"
-"No","ના"
-"Delete Store","Delete Store"
-"Delete Web Site","Delete Web Site"
-"Save Web Site","Save Web Site"
+"Design Change","
+                    ડિઝાઇન બદલો
+                "
+"General","
+                    સામાન્ય
+                "
+"Cancel","
+                    રદ કરો
+                "
+"Delete %1 '%2'","
+                    %1 '%2' દૂર કરો
+                "
+"Delete %1","
+                    %1 દૂર કરો
+                "
+"Block Information","
+                    બ્લોક માહિતી
+                "
+"Backup Options","
+                    બૅકઅપ વિકલ્પો
+                "
+"Create DB Backup","
+                    ડીબી બેકઅપ બનાવો
+                "
+"Yes","
+                    હા
+                "
+"No","
+                    ના
+                "
+"Delete Store","
+                    સ્ટોર કાઢી નાખો
+                "
+"Delete Web Site","
+                    વેબ સાઇટ કાઢી નાખો
+                "
+"Save Web Site","
+                    વેબ સાઇટ સાચવો
+                "
 "Save Store","Save Store"
 "Save Store View","Save Store View"
 "Delete Store View","Delete Store View"
-"Edit Web Site","Edit Web Site"
-"New Web Site","New Web Site"
-"Edit Store","Edit Store"
-"New Store","New Store"
-"Edit Store View","Edit Store View"
-"New Store View","New Store View"
-"Store Information","Store Information"
-"Web Site","Web Site"
-"Name","નામ"
-"Code","Code"
+"Edit Web Site","
+                    વેબ સાઇટ સંપાદિત કરો
+                "
+"New Web Site","
+                    નવી વેબ સાઇટ
+                "
+"Edit Store","
+                    સ્ટોર સંપાદિત કરો
+                "
+"New Store","
+                    નવું સ્ટોર
+                "
+"Edit Store View","
+                    સ્ટોર દૃશ્ય સંપાદિત કરો
+                "
+"New Store View","
+                    નવું સ્ટોર દૃશ્ય
+                "
+"Store Information","
+                    સ્ટોર માહિતી
+                "
+"Web Site","
+                    વેબ સાઈટ
+                "
+"Name","
+                    નામ
+                "
+"Code","
+                    કોડ
+                "
 "Root Category","Root Category"
-"Default Store View","Default Store View"
-"Store View Information","Store View Information"
-"Status","સ્થિતિ"
-"Disabled","અક્ષમ"
-"Enabled","સક્ષમ"
-"Sort Order","Sort Order"
-"Web Site Information","Web Site Information"
-"Default Store","Default Store"
+"Default Store View","
+                    ડિફોલ્ટ સ્ટોર દૃશ્ય
+                "
+"Store View Information","
+                    સ્ટોર દૃશ્ય માહિતી
+                "
+"Status","
+                    સ્થિતિ
+                "
+"Disabled","
+                    અક્ષમ
+                "
+"Enabled","
+                    સક્ષમ
+                "
+"Sort Order","
+                    ક્રમબધ ઓર્ડર
+                "
+"Web Site Information","
+                    વેબ સાઇટ માહિતી
+                "
+"Default Store","
+                    ડિફોલ્ટ સ્ટોર
+                "
 "Set as Default","Set as Default"
 "Stores","Stores"
-"Create Website","Create Website"
-"Create Store","Create Store"
-"Create Store View","Create Store View"
-"Home","Home"
-"Reset","Reset"
-"Are you sure you want to do this?","Are you sure you want to do this?"
-"Add New Image","Add New Image"
+"Create Website","
+                    વેબસાઇટ બનાવો
+                "
+"Create Store","
+                    સ્ટોર બનાવો
+                "
+"Create Store View","
+                    સ્ટોર દૃશ્ય બનાવો
+                "
+"Home","
+                    હોમ
+                "
+"Reset","
+                    રીસેટ
+                "
+"Are you sure you want to do this?","
+                    તમે આ કરવા બાબતે સુનિશ્ચિત છો?
+                "
+"Add New Image","
+                    નવી છબી ઉમેરો
+                "
 "Export block for grid %1 is not defined","Export block for grid %1 is not defined"
 "Reset Filter","Reset Filter"
 "Search","Search"
@@ -131,10 +337,14 @@
 "We couldn't find any records.","We couldn't find any records."
 "Add New","Add New"
 "Invalid export type supplied for grid export block","Invalid export type supplied for grid export block"
-"Export","નિકાસ"
+"Export","
+                    નિકાસ
+                "
 "Please correct the column format and try again.","Please correct the column format and try again."
 "Please select items.","Please select items."
-"Submit","સબમિટ કરો"
+"Submit","
+                    સબમિટ કરો
+                "
 "Unknown block type","Unknown block type"
 "Please correct the tab configuration and try again. Tab Id should be not empty","Please correct the tab configuration and try again. Tab Id should be not empty"
 "Please correct the tab configuration and try again.","Please correct the tab configuration and try again."
