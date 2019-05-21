@@ -9,7 +9,7 @@
 "Customer with id ""%customer_id"" does not exist.","Customer with id ""%customer_id"" does not exist."
 "The account is locked.","The account is locked."
 "This account isn't confirmed. Verify and try again.","This account isn't confirmed. Verify and try again."
-"A customer with the same email address already exists in an associated website.","A customer with the same email address already exists in an associated website."
+"A customer with the same email address already exists in an associated website.","Веќе постои корисник со истата емаил адреса."
 "Provide the current ""password"" to change ""email"".","Provide the current ""password"" to change ""email""."
 "Specify the ""currentPassword"" value.","Specify the ""currentPassword"" value."
 "Specify the ""newPassword"" value.","Specify the ""newPassword"" value."
