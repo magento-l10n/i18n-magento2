@@ -49,7 +49,7 @@
 "Remove","Remover"
 "Refunded to Store Credit","Crédito restituído"
 "Store Credit update","Atualização da crédito de loja"
-"%name,","%nome,"
+"%name,","%name,"
 "We have updated your <a href=""%store_url"">%store_name</a> account and you have credit that you can use for future purchases.","Atualizámos a sua conta <a href=""%store_url"">%store_name</a> e tem agora crédito que pode usar em compras futuras."
 "Your Store Credit balance is now %balance.","Seu saldo de crédito na loja agora é de %balance."
 "Store credit","Crédito na loja"
