@@ -837,7 +837,7 @@
 "Allow Zero GrandTotal for Creditmemo","Allow Zero GrandTotal for Creditmemo"
 "Include Discount Amount","Include Discount Amount"
 "The comment is missing. Enter and try again.","The comment is missing. Enter and try again."
-"The ""%1"" coupon code isn't valid. Verify the code and try again.","The ""%1"" coupon code isn't valid. Verify the code and try again."
+"The ""%1"" coupon code isn't valid. Verify the code and try again.","""%1"" rabatkoden er ikke gyldig. Kontroller koden og prøv igen."
 "The quote item ID needs to be received. Set the ID and try again.","The quote item ID needs to be received. Set the ID and try again."
 "The quote item needs to be loaded. Load the item and try again.","The quote item needs to be loaded. Load the item and try again."
 "The invoice can't be created without products. Add products and try again.","The invoice can't be created without products. Add products and try again."
