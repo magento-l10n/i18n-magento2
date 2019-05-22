@@ -43,7 +43,7 @@
 "The order no longer exists.","The order no longer exists."
 "Cannot do shipment for the order separately from invoice.","Cannot do shipment for the order separately from invoice."
 "Cannot do shipment for the order.","Cannot do shipment for the order."
-"Tracking information must contain title, carrier code, and tracking number","Tracking information must contain title, carrier code, and tracking number"
+"Tracking information must contain title, carrier code, and tracking number","Информациите за следење може да содржат наслов, код на превозникот и број за следење"
 "There are no shipping labels related to selected shipments.","There are no shipping labels related to selected shipments."
 "Page not found.","Страната не е пронајдена."
 "Tracking Information","Tracking Information"
