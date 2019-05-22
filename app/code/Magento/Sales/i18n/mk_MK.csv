@@ -673,7 +673,7 @@
 "Once your package ships we will send you a tracking number.","Веднаш штом ќе ја испорачаме вашата нарачка ќе ве известиме."
 "Your Order <span class=""no-link"">#%increment_id</span>","Вашата нарачка <span class=""no-link"">#%increment_id</span>"
 "Placed on <span class=""no-link"">%created_at</span>","Направена на <span class=""no-link"">%created_at</span>"
-"Once your package ships we will send an email with a link to track your order.","Once your package ships we will send an email with a link to track your order."
+"Once your package ships we will send an email with a link to track your order.","Веднаш штом ќе ја испорачаме вашата нарачка ќе ве известиме."
 "Update to your %store_name order","Вашата нарачка е ажурирана - %store_name"
 "Your %store_name order has shipped","Вашата нарачка е испорачена - %store_name"
 "Your shipping confirmation is below. Thank you again for your business.","Вашата испратница за потврда е подолу. Уште еднаш благодариме што купувате кај нас."
