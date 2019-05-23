@@ -28,14 +28,13 @@
 "API","API"
 "Configuration","Konfiguracija"
 "Business Intelligence","Poslovna inteligencija"
-"BI Essentials","BI Essentials"
+"BI Essentials","BI osnove"
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
                 ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>.","This service provides a dynamic suite of reports with rich insights about your business.
-                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>."
+                terms and conditions</a>.","Ova usluga pruža dinamičan programski paket izveštavanja sa bogatim zapažanjem o vašem poslovanju.                 
+                Izveštaju se može pristupiti sigurno preko personalizovane stranice izvan admin panel tako što ćete kliknuti na vezu 
+                „Idi da više opcija za izveštavanje”. </br> Za više informacija, pogledajte naše <a href=""https://magento.com/legal/terms/cloud-terms""> termine i uslove.</a>."
 "Advanced Reporting Service","Napredna usluga izveštavanja"
 "Time of day to send data","Doba dana za slanje podataka"
 "Industry","Industrija"
@@ -43,9 +42,9 @@
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Dobijte više saznanja iz Magento Business Intelligence</strong>"
 "Magento Business Intelligence provides you with a simple and clear path to
                     becoming more data driven.</br> Learn more about <a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence provides you with a simple and clear path to
-                    becoming more data driven.</br> Learn more about <a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers."
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence vam pruža jednostavan i jasan put kako da
+                dobijete više podataka za upravljanje.</br> Saznajte više o <a target=""_blank""
+                href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Osnove</a> sloj."
 "Auto Parts","Auto delovi"
 "Baby/Children’s Apparel, Gear and Toys","Odece beba/za decu, opremu i igračke"
 "Beauty and Cosmetics","Lepota i kozmetika"
@@ -64,11 +63,11 @@
 "Pet Goods","Oprema za ljubimce"
 "Pharma and Medical Devices","Farmacija i medicinski uređaji"
 "Technology B2B","B2B tehnologije"
-"Other","Other"
-"The time value is using an unsupported format. Enter a supported format and try again.","The time value is using an unsupported format. Enter a supported format and try again."
-"Please select an industry.","Please select an industry."
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","The data is invalid. Enter the data as a string or data that can be converted into a string and try again."
-"The data is invalid. Enter the data as a string and try again.","The data is invalid. Enter the data as a string and try again."
+"Other","Ostalo"
+"The time value is using an unsupported format. Enter a supported format and try again.","Vrednost vremena koristi nepodržan format. Unesite podržani format i pokušajte ponovo."
+"Please select an industry.","Odaberite državu."
+"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","Podaci su nevažeći. Unesite opdatke za string ili podatke kori se mogu prevesti u string i pokušajte ponovo."
+"The data is invalid. Enter the data as a string and try again.","Podaci su netačni. Unesite podatke kao string i pokušajte ponovo."
 "The data is invalid. Use a valid cipher method and try again.","The data is invalid. Use a valid cipher method and try again."
 "Enter the encryption key and try again.","Enter the encryption key and try again."
 "The ""%1"" source doesn't exist.","The ""%1"" source doesn't exist."
