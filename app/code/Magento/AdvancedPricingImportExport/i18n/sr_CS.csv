@@ -1,4 +1,4 @@
 "Please correct the data sent.","Ispravite poslate podatke."
-"Entity type model '%1' is not found","Entity type model '%1' is not found"
+"Entity type model '%1' is not found","Model tipa entitet '%1' nije pronađen"
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Model za tip entiteta mora biti instanca \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType"
 "There are no product types available for export","Nema dostupnih tipova proizvoda za izvoz"
