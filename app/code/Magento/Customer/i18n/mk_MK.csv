@@ -560,7 +560,7 @@
 "Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.","Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field."
 "Last Logged In","Last Logged In"
 "If your Magento site has multiple views, you can set the scope to apply to a specific view.","If your Magento site has multiple views, you can set the scope to apply to a specific view."
-"You are signed out.","You are signed out."
+"You are signed out.","Одјавени сте."
 "Invalid value of ""%value"" provided for the %fieldName field. Possible values are %template1 or %template2.","Invalid value of ""%value"" provided for the %fieldName field. Possible values are %template1 or %template2."
 "Could not authenticate. Please try again later","Could not authenticate. Please try again later"
 "Page not found","Page not found"
