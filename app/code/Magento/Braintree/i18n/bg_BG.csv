@@ -257,12 +257,12 @@
                             Динамичните описатели не са активирани на всички сметки по подразбиране. Ако получите грешка при одобряване 92203 или вашите инамини описатели не се изписват коректно,
                             моляп пишете на <a href=""mailto:support@getbraintree.com"">Braintree Support</a>."
 "The value in the business name field of a customer's statement. Company name/DBA section must be either 3, 7 or 12 characters
-                                and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters).","The value in the business name field of a customer's statement. Company name/DBA section must be either 3, 7 or 12 characters
-                                and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters)."
-"The value in the phone number field of a customer's statement. Phone must be 10-14 characters and can only contain numbers, dashes, parentheses and periods.","The value in the phone number field of a customer's statement. Phone must be 10-14 characters and can only contain numbers, dashes, parentheses and periods."
-"The value in the URL/web address field of a customer's statement. The URL must be 13 characters or shorter.","The value in the URL/web address field of a customer's statement. The URL must be 13 characters or shorter."
-"The Payment Token is not available to perform the request.","The Payment Token is not available to perform the request."
-"Checkout failed to initialize. Verify and try again.","Checkout failed to initialize. Verify and try again."
+                                and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters).","Стойноста в полето Име на бизнес на клиентски профил. Име на компанията/DBA секцията трябва да бъде 3, 7 или 12 символа
+                                а оисателя на продукт може да бъде до 18, 14, или 9 символа съответно (със * между тях за общо описателно име от 22 символа)."
+"The value in the phone number field of a customer's statement. Phone must be 10-14 characters and can only contain numbers, dashes, parentheses and periods.","Стойноста в полето за телефонен номер на клиента. Телефонът трябва да е 10-14 символа и можа да съдържа цифри, наклонени, скоби и празни позиции."
+"The value in the URL/web address field of a customer's statement. The URL must be 13 characters or shorter.","Стойността на URL/уеб дресното поле на клиента. Адресът URL трябва да е от 13 сивола или по късо."
+"The Payment Token is not available to perform the request.","Кодът за плащане е недостъпен за да се завърши заявеното."
+"Checkout failed to initialize. Verify and try again.","Не можа да се инициализира плащането Проверете и опитайте пак."
 "The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","The order wasn't placed. First, agree to the terms and conditions, then try placing your order again."
 "Paypal account","PayPal сметка"
 "Coinbase account","Coinbase сметка"
