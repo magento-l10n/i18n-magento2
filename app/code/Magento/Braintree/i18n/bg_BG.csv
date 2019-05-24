@@ -56,9 +56,9 @@
 "Merchant account does not support refunds.","Сметката на търговеца не поддържа възстановявания."
 "Cannot refund a transaction transaction in settling status on this merchant account. Try again after the transaction has settled.","Не може да се възстанови транзакция в обработка в тази сетка на търговеца. Опитайте след приключване на обработката."
 "PayPal is not enabled for your merchant account.","PayPal не е активиран за вашата търговска сметка."
-"Partial settlements are not supported by this processor.","Partial settlements are not supported by this processor."
-"Cannot submit for partial settlement.","Cannot submit for partial settlement."
-"Transaction can not be voided if status of a PayPal partial settlement child transaction is settlement_pending.","Transaction can not be voided if status of a PayPal partial settlement child transaction is settlement_pending."
+"Partial settlements are not supported by this processor.","Този процесор не поддържа частична обработка."
+"Cannot submit for partial settlement.","Не може да се изпраща за частична обработка."
+"Transaction can not be voided if status of a PayPal partial settlement child transaction is settlement_pending.","Транзакцията н може да се откаже ако състоянието на PayPal частична обраотка на дъщерна транзакция е settlement_pending."
 "Too many concurrent attempts to refund this transaction. Try again later.","Твърде много едновременни опити да възстанови тази транзакция. Опитайте отново по-късно."
 "Too many concurrent attempts to void this transaction. Try again later.","Твърде много едновременни опити да се анулира тази транзакция. Опитайте отново по-късно."
 "Braintree","Braintree"
@@ -140,7 +140,7 @@
 "Error communicating with PayPal.","Грешка при комуникация с PayPal."
 "PayPal authentication expired.","PayPal удостоверяването е изтекло."
 "Error executing PayPal order.","Грешка при изпълнение на PayPal поръчка."
-"Error executing PayPal billing agreement.","Error executing PayPal billing agreement."
+"Error executing PayPal billing agreement.","Грешка при изпълнение на споразумение за PayPal плащане."
 "Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","Приложете филтри, за да получите резултати. Ще бъдат показани само първите 100 записа, ще можете да изтеглите пълната версия на доклада в .csv формат."
 "Select...","Изберете..."
 "Status","Статус"
@@ -228,8 +228,8 @@
 "Yes","Да"
 "No","Не"
 "Edit","Редактирай"
-"An error occured with payment processing.","An error occured with payment processing."
-"Can not initialize PayPal (Braintree)","Can not initialize PayPal (Braintree)"
+"An error occured with payment processing.","Възникна грешка при обработка на плащането."
+"Can not initialize PayPal (Braintree)","Не нможе да се инициализира PayPal (Braintree)"
 "&nbsp;","&nbsp;"
 "Capture action","Улавяне на действие"
 "New Order Status","Статус нова поръчка"
@@ -239,23 +239,23 @@
 "Your Kount ID","Вашият Kount ID"
 "Use Cache","Използвайте кеш"
 "Edit My Credit Cards","Редактиране на моите кредитни карти"
-"Pay with PayPal","Pay with PayPal"
-"Transaction is cancelled offline.","Transaction is cancelled offline."
-"Braintree Settlement","Braintree Settlement"
-"If you don't specify the merchant account to use to process a transaction, Braintree will process it using your default merchant account.","If you don't specify the merchant account to use to process a transaction, Braintree will process it using your default merchant account."
+"Pay with PayPal","Плати с PayPal"
+"Transaction is cancelled offline.","Транзакцията е анулирана офлайн."
+"Braintree Settlement","Braintree доклад за сетълмент"
+"If you don't specify the merchant account to use to process a transaction, Braintree will process it using your default merchant account.","Ако не посочите търговска сметка, която да се изпозлва за транзакцията, Braintree ще го обработи, използвайки сметката ви по подразбиране."
 "Be sure to Enable Advanced Fraud Protection in Your Braintree Account in Settings/Processing Section","Не забравяйте да разрешите Разширено измама закрила в Брейнтри на профила в раздела Настройки/обработка"
 "Used for direct fraud tool integration. Make sure you also contact <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> to setup your Kount account.","Използва се за директна измама инструмент интеграция. Уверете се, че сте се свържете с <a href=""mailto:accounts@braintreepayments.com""> accounts@braintreepayments.com</a> да настроите профила си Kount."
-"Be sure to Enable AVS and/or CVV in Your Braintree Account in Settings/Processing Section.","Be sure to Enable AVS and/or CVV in Your Braintree Account in Settings/Processing Section."
+"Be sure to Enable AVS and/or CVV in Your Braintree Account in Settings/Processing Section.","Уверете се че сте активирали AVS и/ии CVV във Вашата Braintree сметка в секцията Настройи/Обработка."
 "It is recommended to set this value to ""PayPal"" per store views.","Препоръчително е да зададете тази стойност към ""PayPal"" на магазина изгледи."
 "This feature needs be enabled first for the merchant account through PayPal technical support.","Тази функция трябва бъде разрешено първо за търговец сметка чрез PayPal техническа поддръжка."
 "Also affects mini-shopping cart.","Също засяга мини количката."
 "Dynamic descriptors are sent on a per-transaction basis and define what will appear on your customers credit card statements for a specific purchase.
                             The clearer the description of your product, the less likely customers will issue chargebacks due to confusion or non-recognition.
                             Dynamic descriptors are not enabled on all accounts by default. If you receive a validation error of 92203 or if your dynamic descriptors are not displaying as expected,
-                            please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>.","Dynamic descriptors are sent on a per-transaction basis and define what will appear on your customers credit card statements for a specific purchase.
-                            The clearer the description of your product, the less likely customers will issue chargebacks due to confusion or non-recognition.
-                            Dynamic descriptors are not enabled on all accounts by default. If you receive a validation error of 92203 or if your dynamic descriptors are not displaying as expected,
-                            please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>."
+                            please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>.","Динамичните описатели се изпращат на база транзакция и определят какво ще се изпише в обработката на кредитната карта на вашите клиенти за конкретната покупка.
+                            По-ясно описание на вашия продукт, по-малка вероятност клиентът да активира възстановяване на сумата поради объркване или неразпознаване.
+                            Динамичните описатели не са активирани на всички сметки по подразбиране. Ако получите грешка при одобряване 92203 или вашите инамини описатели не се изписват коректно,
+                            моляп пишете на <a href=""mailto:support@getbraintree.com"">Braintree Support</a>."
 "The value in the business name field of a customer's statement. Company name/DBA section must be either 3, 7 or 12 characters
                                 and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters).","The value in the business name field of a customer's statement. Company name/DBA section must be either 3, 7 or 12 characters
                                 and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters)."
