@@ -525,7 +525,7 @@
 "The Admin session lifetime is invalid. Set the lifetime to 31536000 seconds (one year) or shorter and try again.","The Admin session lifetime is invalid. Set the lifetime to 31536000 seconds (one year) or shorter and try again."
 "The Admin session lifetime is invalid. Set the lifetime to 60 seconds or longer and try again.","The Admin session lifetime is invalid. Set the lifetime to 60 seconds or longer and try again."
 "Save &amp; Continue","Save &amp; Continue"
-"Save &amp; Close","Save &amp; Close"
+"Save &amp; Close","Зачувај &amp; затвори"
 "Save &amp; New","Save &amp; New"
 "Edit","Измени"
 "Enable Hints for Storefront with URL Parameter","Enable Hints for Storefront with URL Parameter"
