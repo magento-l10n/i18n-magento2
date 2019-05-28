@@ -52,7 +52,7 @@
 "Please enter a valid email address (Ex: johndoe@domain.com).","Ве молиме внесете валидна емаил адреса (пр. johndoe@domain.com)."
 "Please enter 6 or more characters. Leading and trailing spaces will be ignored.","Please enter 6 or more characters. Leading and trailing spaces will be ignored."
 "Please enter 7 or more characters, using both numeric and alphabetic.","Please enter 7 or more characters, using both numeric and alphabetic."
-"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored."
+"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","Минималната должина на ова поле мора да биде еднаква или поголема од %1 симболи. Водечките и задните простори ќе бидат игнорирани."
 "Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters."
 "Please enter a valid URL. Protocol is required (http://, https:// or ftp://).","Please enter a valid URL. Protocol is required (http://, https:// or ftp://)."
 "Please enter a valid URL. For example http://www.example.com or www.example.com.","Please enter a valid URL. For example http://www.example.com or www.example.com."
