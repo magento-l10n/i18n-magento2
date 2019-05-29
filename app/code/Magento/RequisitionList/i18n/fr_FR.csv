@@ -25,7 +25,7 @@
 "The requested qty is not available","La quantité demandée n’est pas disponible"
 "Could not save Requisition List. Maximum number of requisition lists was exceeded.","Impossible d'enregistrer la liste de demandes. Nombre maximum de listes de demandes est atteinte."
 "Exception","Exception"
-"exception","XML d'Excel"
+"exception","exception"
 "Warning message.","Message d’avertissement."
 "No such entity","Aucune entité de ce type"
 "Could not save","Enregistrement impossible"
