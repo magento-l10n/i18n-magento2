@@ -903,7 +903,7 @@
 "The data was invalid. Verify the data and try again.","Данните са невалидни. Проверете и опитайте пак."
 "Values in the %1 attributes are invalid. Verify the values and try again.","Данните в %1 атрибути са невалидни. Проверете стойностите и опитайте пак."
 "We can't create the ""%1"" writeable directory.","Не можахме да създаден записваема папка ""%1""."
-"The file upload failed. Try to upload again.","The file upload failed. Try to upload again."
+"The file upload failed. Try to upload again.","Качването на файла е неуспешно. Опитайте да качите пак."
 "The product has required options. Enter the options and try again.","The product has required options. Enter the options and try again."
 "The group with the ""%1"" ID doesn't exist. Verify the ID and try again.","The group with the ""%1"" ID doesn't exist. Verify the ID and try again."
 "The attribute group can't be deleted because it contains system attributes.","The attribute group can't be deleted because it contains system attributes."
