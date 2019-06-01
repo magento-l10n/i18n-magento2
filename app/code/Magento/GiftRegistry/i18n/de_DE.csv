@@ -1,4 +1,4 @@
-"Are you sure you want to delete this gift registry?","Art:"
+"Are you sure you want to delete this gift registry?","Sind Sie sicher, dass Sie die Geschenkliste löschen möchten?"
 "Delete Registry","Löschen der Registry"
 "Gift Registry Entity","Geschenk-Registrierungs-Entität"
 "Product ID","Artikelnummer"
@@ -314,4 +314,4 @@
 "An address needs to be selected. Select and try again.","Eine Adresse muss ausgewählt sein. Bitte auswählen und erneut versuchen."
 "The address is incorrect. Verify and try again.","Die Adresse ist nicht korrekt. Bitte überprüfen und erneut versuchen."
 "The gift registry item quantity is incorrect. Verify the item quantity and try again.","Die Anzahl der Artikel in der Geschenkliste sind nicht korrekt. Überprüfen Sie die Anzahl und versuchen es erneut."
-"The gift registry item ID is incorrect. Verify the gift registry item ID and try again.","The gift registry item ID is incorrect. Verify the gift registry item ID and try again."
+"The gift registry item ID is incorrect. Verify the gift registry item ID and try again.","Die Artikel-ID der Geschenkliste ist nicht korrekt. Bitte überprüfen Sie die Artikel-ID und versuchen es erneut."
