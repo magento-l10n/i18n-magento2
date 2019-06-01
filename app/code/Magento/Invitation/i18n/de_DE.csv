@@ -142,7 +142,7 @@
 "The invitation code is incorrect. Verify the code and try again.","Der Einladungs-Code ist ungültig. Bitte überprüfen Sie den Code und versuchen Sie es erneut."
 "A customer ID group is missing. Enter a group and try again.","Eine Kunden-ID Gruppe fehlt. Geben Sie eine Gruppe an und versuchen Sie es erneut."
 "The incorrect store is specified. Verify the store and try again.","Der falsche Store wurde angegeben. Überprüfen Sie den Store und versuchen Sie es erneut."
-"The store credit entered was invalid. Store credit must be less than the order amount. Verify and try again.","The store credit entered was invalid. Store credit must be less than the order amount. Verify and try again."
+"The store credit entered was invalid. Store credit must be less than the order amount. Verify and try again.","Das eingegebene Shop-Guthaben war ungültig. Das Shop-Guthaben muss kleiner sein als der Bestellbetrag. Überprüfen Sie dies und versuchen Sie es erneut."
 "The encrypted code couldn't be generated.","The encrypted code couldn't be generated."
 "An ID wasn't found for this invitation. Verify the invitation and try again.","An ID wasn't found for this invitation. Verify the invitation and try again."
 "The invitation with the ""%1"" status can't be sent.","Die Einladung mit dem Status ""%1"" kann nicht gesendet werden."
