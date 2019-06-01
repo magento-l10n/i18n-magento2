@@ -8,7 +8,7 @@
 "'search' or 'filter' input argument is required.","Eingabeargument 'Suche' oder 'Filter' ist erforderlich."
 "SimpleProduct type not defined in schema.","SimpleProduct Typ nicht im Schema definiert."
 "'category_id' only supports 'eq' condition type.","'category_id' unterstützt nur Bedingungen vom Typ 'eq'."
-"Cannot resolve layered filter type","Cannot resolve layered filter type"
+"Cannot resolve layered filter type","Kann den Typ des Layered Filter nicht bestimmen"
 "Cannot resolve type","Typ kann nicht aufgelöst werden"
 "Category doesn't exist","Kategorie existiert nicht"
 """image_type"" value should be specified","""image_type"" Wert sollte angegeben werden"
