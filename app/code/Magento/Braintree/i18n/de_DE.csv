@@ -252,13 +252,13 @@
 "Dynamic descriptors are sent on a per-transaction basis and define what will appear on your customers credit card statements for a specific purchase.
                             The clearer the description of your product, the less likely customers will issue chargebacks due to confusion or non-recognition.
                             Dynamic descriptors are not enabled on all accounts by default. If you receive a validation error of 92203 or if your dynamic descriptors are not displaying as expected,
-                            please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>.","Dynamic descriptors are sent on a per-transaction basis and define what will appear on your customers credit card statements for a specific purchase.
-                            The clearer the description of your product, the less likely customers will issue chargebacks due to confusion or non-recognition.
-                            Dynamic descriptors are not enabled on all accounts by default. If you receive a validation error of 92203 or if your dynamic descriptors are not displaying as expected,
-                            please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>."
+                            please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>.","Dynamische Beschreibungen werden individuell für jede Transaktion versandt und bestimmen, was in der Kreditkartenabrechnung Ihres Kunden für den jeweiligen Einkauf erscheint.
+                            Je genauer die Beschreibung Ihres Produkts, desto weniger wahrscheinlich ist es, dass ein Kunde wegen Verwechslung oder Nicht-Erkennung eine Rückbuchung veranlasst.
+                            Dynamische Beschreibungen sind nicht für alle Konten automatisch aktiv. Wenn Sie einen Validierungsfehler 92203 erhalten oder wenn Ihre dynamischen Beschreibungen nicht wie gewünscht dargestellt werden,
+                            kontaktieren Sie bitte den <a href=""mailto:support@getbraintree.com"">Braintree Support</a>."
 "The value in the business name field of a customer's statement. Company name/DBA section must be either 3, 7 or 12 characters
-                                and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters).","The value in the business name field of a customer's statement. Company name/DBA section must be either 3, 7 or 12 characters
-                                and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters)."
+                                and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters).","Der Wert im Feld Geschäftsname der Abrechnung des Kunden. Der Abschnitt ""Firmenname/DBA"" muss entweder 3, 7 oder 12 Zeichen lang sein
+                                und die Produktbeschreibung kann bis zu 18, 14 oder 9 Zeichen lang sein (mit einem * dazwischen für eine Gesamtbeschreibung von 22 Zeichen)."
 "The value in the phone number field of a customer's statement. Phone must be 10-14 characters and can only contain numbers, dashes, parentheses and periods.","Der Wert im Telefonnummerfeld der Anweisung eines Kunden. Das Telefon muss 10-14 Zeichen lang sein und kann nur Zahlen, Bindestriche, Klammern und Zeitspannen enthalten."
 "The value in the URL/web address field of a customer's statement. The URL must be 13 characters or shorter.","Der Wert im URL/Web-Adressfeld der Anweisung eines Kunden. Die URL muss 13 Zeichen oder kürzer sein."
 "The Payment Token is not available to perform the request.","Der Zahlungs-Token ist nicht verfügbar, um die Anfrage auszuführen."
