@@ -108,7 +108,7 @@
 "To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”. ","Um den Rabatt auf Preise inklusive Steuern und die Steuer nach Rabatt anzuwenden, setzen Sie Katalogpreise auf ""Inklusive Steuern"". "
 "Store(s) affected: ","Betroffene(r) Shop(s):"
 "Click on the link to <a href=""%1"">ignore this notification</a>","Klicken Sie auf den Link, um <a href=""%1"">diese Benachrichtung zu ignorieren</a>"
-"With customer tax applied “Before Discount”, the final discount calculation may not match customers’ expectations. ","With customer tax applied “Before Discount”, the final discount calculation may not match customers’ expectations. "
+"With customer tax applied “Before Discount”, the final discount calculation may not match customers’ expectations. ","Wird die Kundensteuerklasse ""Vor Rabatt"" angewendet, kann die tatsächliche Rabattberechnung anders ausfallen, als von den Kunden erwartet. "
 "Your current tax configuration may result in rounding errors. ","Ihre aktuelle Steuerkonfiguration kann auf Rundungsfehler hinauslaufen."
 "Please see <a href=""%1"">documentation</a> for more details. ","Bitte klicken Sie auf <a href=""%1"">Dokumentation</a> für weitere Details."
 "Click here to go to <a href=""%1"">Tax Configuration</a> and change your settings.","Klicken Sie hier, um zur <a href=""%1"">Steuer-Konfiguration</a> zu gelangen und Ihre Einstellungen zu ändern."
