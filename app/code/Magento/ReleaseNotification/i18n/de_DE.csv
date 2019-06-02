@@ -1,7 +1,7 @@
 "It is impossible to log user action","Benutzeraktion kann nicht protokolliert werden"
 "Error message","Fehlermeldung"
-"An error occurred while logging process.","An error occurred while logging process."
-"Release Notification","Release Notification"
+"An error occurred while logging process.","Während des Protokollierungsprozesses ist ein Fehler aufgetreten."
+"Release Notification","Release-Benachrichtigung"
 "What’s new with Magento 2.2.4","Was ist neu in Magento 2.2.4"
 "
                         <p>Magento 2.2.4 provides powerful new tools to help reduce cart abandonment and simplify store operations:</p>
