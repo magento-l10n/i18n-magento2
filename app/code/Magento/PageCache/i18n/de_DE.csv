@@ -10,7 +10,7 @@
 "IPs access list separated with ',' that can purge Varnish configuration for config file generation.
                             If field is empty default value localhost will be saved.","Durch \',\' getrennte IP-Zugriffsliste, welche die Varnish Konfiguration für die Generierung der Konfigurationsdatei bereinigen kann.                             Wenn das Feld leer ist, wird localhost gespeichert."
 "Backend host","Backend-Host"
-"Specify backend host for config file generation. If field is empty default value localhost will be saved.","Geben Sie den Backend-Host für die Generierung der Konfigurationsdatei an. Wenn das Feld leer ist, wird der Wert localhost gespeichert."
+"Specify backend host for config file generation. If field is empty default value localhost will be saved.","Geben Sie den Backend Host für die Generierung der Konfigurationsdatei an. Wenn das Feld leer ist, wird der Wert localhost gespeichert."
 "Backend port","Backend-Port"
 "Specify backend port for config file generation. If field is empty default value 8080 will be saved.","Geben Sie den Backend-Port für die Generierung der Konfigurationsdatei an. Wenn das Feld leer ist, wird der Wert 8080 gespeichert."
 "Grace period","Ablaufzeit"
@@ -18,7 +18,7 @@
 "TTL for public content","TTL für öffentliche Inhalte"
 "Public content cache lifetime in seconds. If field is empty default value 86400 will be saved.","Cache-Lebensdauer für öffentlichen Inhalt in Sekunden. Wenn das Feld leer ist, wird der Standardwert 86400 gespeichert."
 "Page Cache","Seiten-Cache"
-"Full page caching","Full-Page-Caching"
+"Full page caching","Full Page Caching"
 "Export VCL for Varnish ","VCL für Varnish exportieren "
 "Built-in Application (Not Recommended for Production Use)","Integrierte Anwendung (Nicht für den Produktiv-Einsatz empfohlen)"
 "Varnish Caching","Varnish Caching"
