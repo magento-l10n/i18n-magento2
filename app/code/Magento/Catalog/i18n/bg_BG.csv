@@ -1,9 +1,9 @@
-"Root","Главна категория"
+"Root","Корен"
 "Delete","Изтрий"
 "Save","Запиши"
-"Use Config Settings","Използвай настройките на конфигурацията"
+"Use Config Settings","Използвайте Настройки на конфигурацията"
 "Use All Available Attributes","Използвай всички налични атрибути"
-"ID","ИД"
+"ID","ID"
 "Name","Име"
 "SKU","Кат. номер"
 "Visibility","Видимост"
@@ -934,6 +934,6 @@
                     <br/>ако не е зададено, се приема за 86400 секунди (24 часа). За да се обновява постоянно, отидете на Управление на Кеша и изчистете кеша: HTML изход за Блокове.
                     <br/>Уиджетът няма да показва продукти, удовлетворяващи зададено условие преди да се обнови кеша.
                 "
-"Text Editor input type requires WYSIWYG to be enabled in Stores > Configuration > Content Management.","Text Editor input type requires WYSIWYG to be enabled in Stores > Configuration > Content Management."
-"Attribute code ""%1"" is invalid. Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Attribute code ""%1"" is invalid. Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter."
+"Text Editor input type requires WYSIWYG to be enabled in Stores > Configuration > Content Management.","Типът въвеждане Текстов Редактор изисква WYSIWYG да е активирано в Магазини > Конфигурация > Управелние на Съдържанието."
+"Attribute code ""%1"" is invalid. Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Кодът на Атрибут ""%1"" е невалиден. Моля използвайте само букви (a-z or A-Z), цифри (0-9) или подчертаващо тире (_) в това поле, като пътрвият символ трябва да е буква."
 "Advanced","Разширени"
