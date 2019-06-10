@@ -23,4 +23,4 @@
 "Disallowed file type.","Неразрешен файлов тип."
 "Value for multiselect attribute %s contains duplicated values","Стойноста за мултиселект атрибут %s съдържа дублирани данни"
 "Invalid Stock data for insert","Невалидни данни за Магазин за вмъкване"
-"Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: %1","Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: %1"
+"Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: %1","Стойността за 'type' под-атрибут в 'custom_options' атрибута съдържа некоректна стойност, приемливи стойности са: %1"
