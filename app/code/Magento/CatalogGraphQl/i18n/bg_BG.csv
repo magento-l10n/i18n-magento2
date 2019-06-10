@@ -12,4 +12,4 @@
 "Cannot resolve type","Не може да се разкодира типа"
 "Category doesn't exist","Категорията не съществува"
 """image_type"" value should be specified","трябва да е посочена стойност за ""image_type"""
-"currentPage value %1 specified is greater than the %2 page(s) available.","currentPage value %1 specified is greater than the %2 page(s) available."
+"currentPage value %1 specified is greater than the %2 page(s) available.","посочената стойност %1 за currentPage е по-голяма от наличните %2 страници."
