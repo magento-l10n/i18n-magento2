@@ -17,7 +17,7 @@
 "You need more permissions to save this setting.","この設定を保存するにはさらに多くの権限が必要です。"
 "Role Scopes","権限範囲"
 "Custom","カスタム"
-"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view"
+"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","現在のストアビューの範囲でこのアイテムを保存する権限がありません。 許可されたストアビューに切り替えてください。"
 "More permissions are needed to delete the ""%1"" item.","""%1"" を削除するための権限が不足しています。"
 "This entity needs to be assigned to a store view. Verify the entity assignment and try again.","このエンティティはストアビューに割り当てられる必要があります。割当を確認してやり直してください。"
 "Orders can only be completed in an active store. Verify the store and try again.","注文はアクティブなストアでのみ完了できます。ストアを確認してやり直してください。"
