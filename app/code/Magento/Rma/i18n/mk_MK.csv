@@ -315,7 +315,7 @@
 "%name,","%name,"
 "Your return request has been updated. Please see below.","Your return request has been updated. Please see below."
 "You can check the status of your return by <a href=""%account_url"">logging into your account</a> or <a href=""%form_url"">using your order number</a>.","Можете да го проверите статусот на вашата нарачка <a href=""%account_url"">најавувајки се на вашиот профил</a> или <a href=""%form_url"">користејки го бројот на нарачката</a>."
-"If you have any questions, please feel free to contact us at <a href=""mailto:%support_email"">%support_email</a> or by phone at %store_phone","If you have any questions, please feel free to contact us at <a href=""mailto:%support_email"">%support_email</a> or by phone at %store_phone"
+"If you have any questions, please feel free to contact us at <a href=""mailto:%support_email"">%support_email</a> or by phone at %store_phone","Доколку имате било какви прашања, ве молиме да не контактирате на <a href=""mailto:%support_email"">%support_email</a> или на телефон %store_phone"
 "Your Return #%increment_id - %status_label","Your Return #%increment_id - %status_label"
 "%store_name: New Return #%increment_id","%store_name: New Return #%increment_id"
 "You can check the status of your return <a href=""%form_url"">using your order number</a>.","You can check the status of your return <a href=""%form_url"">using your order number</a>."
