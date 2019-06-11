@@ -851,7 +851,7 @@
 "The attribute couldn't be validated due to an error. Verify your information and try again. If the error persists, please try again later.","The attribute couldn't be validated due to an error. Verify your information and try again. If the error persists, please try again later."
 "Tier prices data should be array, but actually other type is received","Tier prices data should be array, but actually other type is received"
 "Price indexer ""%1"" must implement %2 or %3","Price indexer ""%1"" must implement %2 or %3"
-"You added product %1 to the <a href=""%2"">comparison list</a>.","You added product %1 to the <a href=""%2"">comparison list</a>."
+"You added product %1 to the <a href=""%2"">comparison list</a>.","Го додадовте продуктот %1 во <a href=""%2"">листата за споредба</a>."
 "Maximum %1 characters","Maximum %1 characters"
 "remaining","останува"
 "too many","премногу"
