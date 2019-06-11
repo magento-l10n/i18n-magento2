@@ -19,7 +19,7 @@
 "Nonsensical input. The customer name and address fields contain meaningless words or language","Nonsensical input. The customer name and address fields contain meaningless words or language"
 "Obscenities. The customer’s input contains obscene words","Obscenities. The customer’s input contains obscene words"
 "Identity morphing. Multiple values of an  dentity element are linked to a value of a different identity element. For example, m ltiple phone numbers are linked to a single account number","Identity morphing. Multiple values of an  dentity element are linked to a value of a different identity element. For example, m ltiple phone numbers are linked to a single account number"
-"Phone inconsistencies. The customer’s phone number is suspicious","Phone inconsistencies. The customer’s phone number is suspicious"
+"Phone inconsistencies. The customer’s phone number is suspicious","Неконзистенција на телефонот. Телефонскиот број на купувачот е сомнителен"
 "Risky order. The transaction, customer, and merchant information show multiple high-risk correlations","Risky order. The transaction, customer, and merchant information show multiple high-risk correlations"
 "Time hedge. The customer is attempting a purchase outside of the expected hours","Time hedge. The customer is attempting a purchase outside of the expected hours"
 "Unverifiable address. The billing or shipping address cannot be verified","Unverifiable address. The billing or shipping address cannot be verified"
