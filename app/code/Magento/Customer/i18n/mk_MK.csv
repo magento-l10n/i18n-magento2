@@ -242,7 +242,7 @@
 "Please enter a customer email.","Please enter a customer email."
 "A customer website ID must be specified when using the website scope.","A customer website ID must be specified when using the website scope."
 "Customer Group","Група на купувачи"
-"You can't delete group ""%1"".","You can't delete group ""%1""."
+"You can't delete group ""%1"".","Неможете да ја избришете групата ""%1""."
 "Customer Group already exists.","Customer Group already exists."
 "Cannot delete group.","Cannot delete group."
 "Error during VAT Number verification.","Error during VAT Number verification."

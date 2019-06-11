@@ -70,7 +70,7 @@
 "This identifier is reserved for ""CMS No Cookies Page"" in configuration.","This identifier is reserved for ""CMS No Cookies Page"" in configuration."
 "Could not save the page: %1","Could not save the page: %1"
 "CMS Page with id ""%1"" does not exist.","CMS Page with id ""%1"" does not exist."
-"Could not delete the page: %1","Could not delete the page: %1"
+"Could not delete the page: %1","Неможе да се избрише страната: %1"
 "A block identifier with the same properties already exists in the selected store.","A block identifier with the same properties already exists in the selected store."
 "The page URL key contains capital letters or disallowed symbols.","The page URL key contains capital letters or disallowed symbols."
 "The page URL key cannot be made of only numbers.","The page URL key cannot be made of only numbers."

@@ -14,7 +14,7 @@
 "The requested cart item doesn't exist.","The requested cart item doesn't exist."
 "%1 has been moved to your wish list.","%1 has been moved to your wish list."
 "We can't move the item to the wish list.","We can't move the item to the wish list."
-"We can't delete the item from Wish List right now because of an error: %1.","We can't delete the item from Wish List right now because of an error: %1."
+"We can't delete the item from Wish List right now because of an error: %1.","Неможеме да го избришеме продуктот од Листата со желби сега, поради следната грешка: %1."
 "We can't delete the item from the Wish List right now.","We can't delete the item from the Wish List right now."
 "Message length must not exceed %1 symbols","Message length must not exceed %1 symbols"
 "Please enter an email address.","Внесете емаил адреса."

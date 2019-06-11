@@ -266,7 +266,7 @@
 "Operation do not allow to move a parent category to any of children category","Operation do not allow to move a parent category to any of children category"
 "Could not move category","Could not move category"
 "Could not save category: %1","Could not save category: %1"
-"Cannot delete category with id %1","Cannot delete category with id %1"
+"Cannot delete category with id %1","Неможе да се избрише категоријата со id %1"
 "-- Please Select a Category --","-- Ве молиме изберете категорија --"
 "Grid Only","Grid Only"
 "List Only","List Only"

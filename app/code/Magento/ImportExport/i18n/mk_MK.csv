@@ -57,7 +57,7 @@
 "in row(s):","in row(s):"
 "Make sure your file isn't more than %1M.","Make sure your file isn't more than %1M."
 "We can't provide the upload settings right now.","We can't provide the upload settings right now."
-"Created: %1, Updated: %2, Deleted: %3","Created: %1, Updated: %2, Deleted: %3"
+"Created: %1, Updated: %2, Deleted: %3","Креирано: %1, Ажурирано: %2, Избришено: %3"
 "Please enter a correct entity model.","Please enter a correct entity model."
 "The entity adapter object must be an instance of %1 or %2.","The entity adapter object must be an instance of %1 or %2."
 "The input entity code is not equal to entity adapter code.","The input entity code is not equal to entity adapter code."

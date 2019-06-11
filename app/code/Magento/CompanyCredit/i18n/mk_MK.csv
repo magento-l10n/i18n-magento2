@@ -33,7 +33,7 @@
 "Refunded","Refunded"
 "Reverted","Reverted"
 "Could not save history","Could not save history"
-"Cannot delete history with id %1","Cannot delete history with id %1"
+"Cannot delete history with id %1","Неможе да се избрише историјата со id %1"
 "No such entity with %fieldName = %fieldValue","No such entity with %fieldName = %fieldValue"
 "Could not save company credit limit","Could not save company credit limit"
 "Invalid value of ""%value"" provided for the %fieldName field.","Invalid value of ""%value"" provided for the %fieldName field."
