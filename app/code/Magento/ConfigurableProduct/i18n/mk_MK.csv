@@ -22,7 +22,7 @@
 "Requested option doesn't exist","Requested option doesn't exist"
 "Requested option doesn't exist: %1","Requested option doesn't exist: %1"
 "Cannot delete variations from product: %1","Cannot delete variations from product: %1"
-"Cannot delete option with id: %1","Cannot delete option with id: %1"
+"Cannot delete option with id: %1","Неможе да се избрише опцијата со id %1"
 "Option with id ""%1"" not found","Option with id ""%1"" not found"
 "Something went wrong while saving option.","Something went wrong while saving option."
 "Only implemented for configurable product: %1","Only implemented for configurable product: %1"
