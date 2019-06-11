@@ -27,7 +27,7 @@
 "Requested bundle option product doesn't exist","Requested bundle option product doesn't exist"
 "%fieldName is a required field.","%fieldName е задолжително поле."
 "Requested option doesn't exist","Requested option doesn't exist"
-"Cannot delete option with id %1","Cannot delete option with id %1"
+"Cannot delete option with id %1","Неможе да се избрише опцијата со id %1"
 "Could not save option","Could not save option"
 "Price Range","Price Range"
 "As Low as","As Low as"
