@@ -14,7 +14,7 @@
 "Font","Font"
 "Forms","Forms"
 "Displaying Mode","Displaying Mode"
-"Number of Unsuccessful Attempts to Login","Number of Unsuccessful Attempts to Login"
+"Number of Unsuccessful Attempts to Login","Број на неуспешни обиди за најава"
 "If 0 is specified, CAPTCHA on the Login form will be always available.","If 0 is specified, CAPTCHA on the Login form will be always available."
 "CAPTCHA Timeout (minutes)","CAPTCHA Timeout (minutes)"
 "Number of Symbols","Number of Symbols"
