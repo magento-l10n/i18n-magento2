@@ -21,7 +21,7 @@
 "%1 items are already present in %2: %3.","%1 продуктите се веќе постојат во %2: %3."
 "%1 items were copied to %2: %3.","%1 продукти се копирани во %2: %3."
 "You can't delete the default wish list.","You can't delete the default wish list."
-"Wish List ""%1"" has been deleted.","Wish List ""%1"" has been deleted."
+"Wish List ""%1"" has been deleted.","Листата со желби ""%1"" е избришена."
 "We can't delete the wish list right now.","We can't delete the wish list right now."
 """%1"" was moved to %2.","""%1"" was moved to %2."
 "We can't find an item with this ID.","Неможеме да пронајдеме продукт со ова ID."
