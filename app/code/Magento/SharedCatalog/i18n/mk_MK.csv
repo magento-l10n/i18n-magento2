@@ -38,7 +38,7 @@
 "No such public catalog entity","No such public catalog entity"
 "Cannot load product items for shared catalog","Cannot load product items for shared catalog"
 "Could not save ProductItem","Could not save ProductItem"
-"Cannot delete product with id %1","Cannot delete product with id %1"
+"Cannot delete product with id %1","Неможе да се избрише продуктот со id %1"
 "Invalid value of ""%value"" provided for the %fieldName field.","Invalid value of ""%value"" provided for the %fieldName field."
 "Cannot delete shared catalog with id %1","Cannot delete shared catalog with id %1"
 "Permission with the same scope","Permission with the same scope"
