@@ -218,31 +218,31 @@
     has been approved and you have been set as the Company Admin.
     You can now create and manage your company structure.
     Your company members are able to request quotes, create requisition lists,
-    and use other B2B features.","Your company registration request (for the <strong>%company_name</strong>)
-    has been approved and you have been set as the Company Admin.
-    You can now create and manage your company structure.
-    Your company members are able to request quotes, create requisition lists,
-    and use other B2B features."
+    and use other B2B features.","Заявката ви за регистрация на фирмата (for the <strong>%company_name</strong>)
+    е одобрена и вие сте регистриран като Фирмен Администратор.
+    Вече може да създавате и да управлявате структурата на вашата фирма.
+    Членовете на фирма ви ще могат да заявяват квоти, да създават регистрационни списъци,
+    и да използват други B2B възможности."
 "The status of your company <strong>%company_name</strong>
     is now <strong>Active</strong>.
     Once you login, you will be able to place orders on behalf of your company
-    and use other B2B features.","The status of your company <strong>%company_name</strong>
-    is now <strong>Active</strong>.
-    Once you login, you will be able to place orders on behalf of your company
-    and use other B2B features."
-"Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details.","Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details."
+    and use other B2B features.","Състоянието на вашата фирма <strong>%company_name</strong>
+    вече е <strong>Активна</strong>.
+    Като влезете, ще може да създавате поръчки от името на вашата фирма
+    и да използвате други B2B възможности."
+"Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details.","Вашият профил е променен от Администратор на фирмата на Профил на Обикновен потребител. Ако мислите, че това е грешка, моля свържете се с управителя за детайли."
 "%name,","%name,"
-"You have been assigned to %company_name as the Sales Representative.","You have been assigned to %company_name as the Sales Representative."
+"You have been assigned to %company_name as the Sales Representative.","Вие бяхте добавен към %company_name като Администратор на фирма."
 "When you sign in to your account, you will be able to:","Когато влезете профила си, ще можете да:"
-"* View and manage company quotes in Admin Panel","* View and manage company quotes in Admin Panel"
-"* View and edit company profile in Admin Panel","* View and edit company profile in Admin Panel"
+"* View and manage company quotes in Admin Panel","* Преглеждане и управление фирмени квоти в Административния Панел"
+"* View and edit company profile in Admin Panel","* Преглеждане и редактиране на фирмения профил в Административния панел"
 "Your company account <strong>%company_name</strong> has been blocked.
     Your company members can continue using the website,
-    but they will not be able to place orders.","Your company account <strong>%company_name</strong> has been blocked.
-    Your company members can continue using the website,
-    but they will not be able to place orders."
-"If you have any questions, please contact the seller.","If you have any questions, please contact the seller."
-"Your company account <strong>%company_name</strong> has been suspended, pending approval from the seller.","Your company account <strong>%company_name</strong> has been suspended, pending approval from the seller."
+    but they will not be able to place orders.","Вшият фирмен профил <strong>%company_name</strong> е блокиран.
+    Членовете на фирмата ви ще могат да използват сайта,
+    но няма да могат да създават поръчки."
+"If you have any questions, please contact the seller.","Ако имате въпроси, моля свържете се с продавача."
+"Your company account <strong>%company_name</strong> has been suspended, pending approval from the seller.","Вашият фирмен профил <strong>%company_name</strong> е спрян, в очакване на одобрение от продавача."
 "Your company registration request (for the <strong>%company_name</strong>) has been rejected
     for the following reason:","Your company registration request (for the <strong>%company_name</strong>) has been rejected
     for the following reason:"
