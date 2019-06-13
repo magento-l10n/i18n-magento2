@@ -45,4 +45,4 @@
 "Future Update End Time cannot be equal or earlier than Start Time.","Времето на приключване на бъдеща актуализация не може да бъде равно или по-ранно от началния й час."
 "Move to Another Campaign","Премести в друга кампания"
 "Deleting the update will remove the catalog price rule from this campaign and all scheduled changes will be lost.","Изтриването на актуализация ще премахне каталог цена правилото от тази кампания и всички планирани промени ще бъдат загубени."
-"Future Update already exists in this time range. Set a different range and try again.","Future Update already exists in this time range. Set a different range and try again."
+"Future Update already exists in this time range. Set a different range and try again.","В този период от време вече съществува Бъдеща актуализация. Посочете различен период и опитайте отново."
