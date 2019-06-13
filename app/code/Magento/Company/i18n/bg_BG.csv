@@ -210,10 +210,10 @@
     Моля свържете се с Администратора на Фирмата на %company_admin_email."
 "Your account is now active. You can use it to login to the <a href=""%customer_url"">website</a>.","Вашият акаунт вече е активен. Може да го използвате за да се регистрирате сайта <a href=""%customer_url"">website</a>."
 "Your account is no longer active. You will not be able to use it for login.","Вашият акаунт вече не е активен. Не може да го използвате за влизане."
-"If this is a mistake, please contact the seller.","If this is a mistake, please contact the seller."
-"Your account has been set to inactive and you cannot now access the company account. If you think this is a mistake, please contact your manager for details.","Your account has been set to inactive and you cannot now access the company account. If you think this is a mistake, please contact your manager for details."
-"A company registration request has been submitted by customer %customer. The account is temporarily locked until you approve or reject this company.","A company registration request has been submitted by customer %customer. The account is temporarily locked until you approve or reject this company."
-"Company: %company","Company: %company"
+"If this is a mistake, please contact the seller.","Ако това е грешка, моля свържете се с продавача."
+"Your account has been set to inactive and you cannot now access the company account. If you think this is a mistake, please contact your manager for details.","Вашият профил е деактивиран и няма да имате достъп до фирмения профил. Ако мислите, че това е грешка, моля свържете се с вашия управител за детайли."
+"A company registration request has been submitted by customer %customer. The account is temporarily locked until you approve or reject this company.","Подадена е заявка за регистриране на фирма от клиент %customer. Профилът е временно блокиран, докато вие я одобрите или отхвърлите."
+"Company: %company","Фирма: %company"
 "Your company registration request (for the <strong>%company_name</strong>)
     has been approved and you have been set as the Company Admin.
     You can now create and manage your company structure.
