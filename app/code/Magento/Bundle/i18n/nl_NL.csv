@@ -11,7 +11,7 @@
 "ID","ID"
 "Product","Product"
 "SKU","Art.nr."
-"Price","prijs"
+"Price","Prijs"
 "Delete","Verwijder"
 "Use Default Value","Gebruik standaard waarde"
 "There is no defined renderer for ""%1"" option type.","Er is geen weergave gedefinieerd voor optietype ""%1""."
