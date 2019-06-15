@@ -35,10 +35,10 @@
 "Could not save history","Не може да се запази историята"
 "Cannot delete history with id %1","Не може да се изтрие история с id %1"
 "No such entity with %fieldName = %fieldValue","Няма такъв субект с %fieldName = %fieldValue"
-"Could not save company credit limit","Could not save company credit limit"
+"Could not save company credit limit","Не може да се запише фирмен цредител лимит"
 "Invalid value of ""%value"" provided for the %fieldName field.","Невалидно стойност на ""%value"" зададена от %fieldName поле."
-"Please enter a valid %1/%2 currency rate.","Please enter a valid %1/%2 currency rate."
-"Invoice created for %1","Invoice created for %1"
+"Please enter a valid %1/%2 currency rate.","Моля въведете валиден %1/%2 валутен курс."
+"Invoice created for %1","Създадена е фактура за %1"
 "The selected credit currency is not valid. 
                         Customers will not be able to place orders until you update the credit currency.","The selected credit currency is not valid. 
                         Customers will not be able to place orders until you update the credit currency."
