@@ -40,10 +40,10 @@
 "Please enter a valid %1/%2 currency rate.","Моля въведете валиден %1/%2 валутен курс."
 "Invoice created for %1","Създадена е фактура за %1"
 "The selected credit currency is not valid. 
-                        Customers will not be able to place orders until you update the credit currency.","The selected credit currency is not valid. 
-                        Customers will not be able to place orders until you update the credit currency."
+                        Customers will not be able to place orders until you update the credit currency.","Избраната кредитна валута е невалидна. 
+                        Клиентите няма да могат да записват поръчки докато не промените кредитната валута."
 "Store Credit","Съхраняван баланс"
-"Refund to Company Credit","Refund to Company Credit"
+"Refund to Company Credit","Възстановяване на Фирмен кредит"
 "An invoice for partial quantities cannot be issued for this order. To continue, change the specified quantity to the full quantity.","An invoice for partial quantities cannot be issued for this order. To continue, change the specified quantity to the full quantity."
 "We refunded %1 online.","We refunded %1 online."
 "We refunded %1 offline.","We refunded %1 offline."
