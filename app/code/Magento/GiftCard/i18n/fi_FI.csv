@@ -63,7 +63,7 @@
 "Availability","Saatavuus"
 "In stock","Varastossa"
 "You've been sent a gift from %store_name","Olet saanut lahjan %kaupan_nimi"
-"%name,","%nimi,"
+"%name,","%name,"
 "%sender has sent you a gift card for use at <a href=""%store_url"">%store_name</a> and it is now ready to be used for purchases.","%sender on lähettänyt sinulle lahjakortin käytettäväksi <a href=""%store_url"">%store_name</a> voit käyttää sitä heti ostosten tekoon."
 "Gift Card Codes:","Lahjakorttikoodit:"
 "Gift Card Code:","Lahjakorttikoodi:"
