@@ -121,25 +121,25 @@
 "View","Преглед"
 "Credit Currency","Кредитна валута"
 "Allow To Exceed Credit Limit","Разрешаване на Надхвърляне Кредитен Лимит"
-"Reason For Change","Reason For Change"
+"Reason For Change","Причина за Промяна"
 "Amount","Сума"
 "
                             Limit one PO number per reimburse transaction
                         ","
-                            Limit one PO number per reimburse transaction
+                            Ограничение от една PO стойност за реимбурсираща транзакция
                         "
 "
                                 Maximum 255 characters are allowed.
                         ","
-                                Maximum 255 characters are allowed.
+                                Позволени с максимум 255 символа.
                         "
 "Comment","Коментар"
 "Rate","Оцени"
-"Convert Credit","Convert Credit"
+"Convert Credit","Конвертиране Кредит"
 "Date","Дата"
 "Operation","Операция"
-"Updated By","Updated By"
+"Updated By","Актуализирано от"
 "Purchase Order","Поръчка за покупка"
-"You will be charged for","You will be charged for"
+"You will be charged for","Ще бъдете таксван за"
 "Order Total","Поръчка общо"
 "%fieldName is a required field.","%fieldName е задължително поле."
