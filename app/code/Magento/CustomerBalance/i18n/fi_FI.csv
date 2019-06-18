@@ -49,7 +49,7 @@
 "Remove","Poista"
 "Refunded to Store Credit","Hyvitetty myymäläpisteille"
 "Store Credit update","Store Credit update"
-"%name,","%nimi,"
+"%name,","%name,"
 "We have updated your <a href=""%store_url"">%store_name</a> account and you have credit that you can use for future purchases.","We have updated your <a href=""%store_url"">%store_name</a> account and you have credit that you can use for future purchases."
 "Your Store Credit balance is now %balance.","Your Store Credit balance is now %balance."
 "Store credit","Kaupan saldo"
