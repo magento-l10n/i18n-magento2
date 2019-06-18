@@ -23,4 +23,4 @@
 "Disallowed file type.","Bestandstype is niet toegestaan."
 "Value for multiselect attribute %s contains duplicated values","Waarde voor multiselect attribuut %s bevat dubbele waarden"
 "Invalid Stock data for insert","Ongeldige voorraad gegevens voor invoegen"
-"Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: %1","Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: %1"
+"Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: %1","Waarde voor het 'type' subattribuut in het 'custom_options' attribuut bevat een onjuiste waarde, geaccepteerde waarden zijn: %1"
