@@ -109,7 +109,7 @@
 "Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?","Varoitus!\r\nTämä toimenpide poistaa tämän käyttäjän jo sille määritellyistä rooleista\r\nOletko varma?"
 "Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","Varoitus!\r\nTämä toimenpide poistaa nämä käyttäjät jo niille määritellyistä rooleista\r\nOletko varma?"
 "Password Reset Confirmation for %name","Salasanan nollausvahvistus käyttäjälle %name"
-"%name,","%nimi,"
+"%name,","%name,"
 "There was recently a request to change the password for your account.","Tilisi salasananvaihto on tilattu äskettäin."
 "If you requested this change, reset your password here:","Jos olet pyytänyt tämän muutoksen, palauta salasanasi tästä:"
 "If you did not make this request, you can ignore this email and your password will remain the same.","Jos et jättänyt tätä pyyntöä, voit ohittaa tämän sähköpostin ja salasana pysyy samana."
