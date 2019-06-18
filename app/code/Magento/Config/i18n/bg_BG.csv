@@ -123,7 +123,7 @@
 "'The specified image adapter cannot be used because of: ' .","'Посоченият адаптер за изображения не може да се използва поради:'."
 "The file ""' . . '"" does not exist","Файлът ""' . . '"" не съществува"
 "The class for ""%1"" type wasn't declared. Enter the class and try again.","Клас за ""%1"" тип не е деклариран. Въведете класа и опитайте пак."
-"The ""%1"" email address is incorrect. Verify the email address and try again.","The ""%1"" email address is incorrect. Verify the email address and try again."
+"The ""%1"" email address is incorrect. Verify the email address and try again.","Имейл адресът ""%1"" е некоректен. Проверете имейл адреса и опитайте пак."
 "The time zone is incorrect. Verify the time zone and try again.","Часовият пояс е некоректен. Проверете часовият пояс и опитайте отново."
 "The ""%1"" file doesn't exist.","Файл ""%1"" не съществува."
 "The ""%1"" path doesn't exist. Verify and try again.","Директория ""%1"" не съществува. Проверете и опитайте отново."
