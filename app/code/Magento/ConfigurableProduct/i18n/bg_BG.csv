@@ -28,7 +28,7 @@
 "Only implemented for configurable product: %1","Имплементирано за конфигурируем продукт: %1"
 "Option attribute ID is not specified.","Не е посочен Опционен атрибут ID."
 "Option label is not specified.","Етикет за опция не е посочен."
-"Option values are not specified.","Option values are not specified."
+"Option values are not specified.","Стойностите за опциите не са посочени."
 "Value index is not specified for an option.","Value index is not specified for an option."
 "Product with id ""%1"" does not contain required attribute ""%2"".","Product with id ""%1"" does not contain required attribute ""%2""."
 "Products ""%1"" and ""%2"" have the same set of attribute values.","Products ""%1"" and ""%2"" have the same set of attribute values."
