@@ -124,7 +124,7 @@
 "Time","Aika"
 "Hour","Tunti"
 "Minute","Minuutti"
-"%name,","%nimi,"
+"%name,","%name,"
 "Welcome to %store_name.","Tervetuloa %store_name -kauppaan."
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Kirjautuaksesi sivustollemme, käytä näitä tunnistetietoja kassalla tai <a href=""%customer_url"">Oma tili</a> -sivulla:"
 "Email:","Sähköposti:"
