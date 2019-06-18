@@ -13,7 +13,7 @@
 "Display Page Control","Toon paginering"
 "Number of Products per Page","Aantal producten per pagina"
 "Number of Products to Display","Aantal producten op de display"
-"Template","Template"
+"Template","Sjabloon"
 "Products Grid Template","Producten raster sjabloon"
 "Cache Lifetime (Seconds)","Cache Lifetime (in seconden)"
 "86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 als standaardwaarde, indien niet ingesteld. Voor direct vernieuwen, leeg de Blok-HTML output cache."
