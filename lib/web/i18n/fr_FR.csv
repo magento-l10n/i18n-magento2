@@ -94,7 +94,7 @@
 "Please enter a valid value, ex: 10,20,30","Saisissez une valeur valide, par ex : 10, 20, 30"
 "Please enter a valid value from list","Entrez une valeur valide de la liste"
 "Please enter valid SKU key.","Veuillez saisir une clé REF valide."
-"Please enter a valid number.","Veuillez entrer un numéro valide."
+"Please enter a valid number.","Veuillez entrer un nombre valide."
 "This is required field","Ce champ est obligatoire"
 "Admin is a required field in each row.","Admin est un champ obligatoire dans chaque ligne."
 "Password cannot be the same as email address.","Le mot de passe ne peut pas être identique à l'adresse e-mail."
