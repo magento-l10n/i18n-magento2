@@ -4,7 +4,7 @@
 "'Action Details - #' .","'تفاصيل العملية - #' ."
 "%1 item(s) have been scheduled for update.""","%1 صنف (أصناف) على جدول التحديث."""
 "Bulk Actions Log","سجل الإجراءات"
-"Bulk uuid %bulkUuid not exist","Bulk uuid %bulkUuid not exist"
+"Bulk uuid %bulkUuid not exist","حجم التشفير %bulkUuid غير موجود"
 "Topic %1","الموضوع %1"
 "Something went wrong while processing the request.","حدث خطأ أثناء معالجة الطلب."
 "Error processing %key element of input data","حدث خطأ أثناء معالجة العنصر %key من البيانات المدخلة"
