@@ -10,6 +10,6 @@
 "'category_id' only supports 'eq' condition type.","'category_id' suporta apenas o tipo de condição 'eq'."
 "Cannot resolve layered filter type","Não é possível achar o tipo de filtro em camadas"
 "Cannot resolve type","Não é possível resolver o tipo"
-"Category doesn't exist","Category doesn't exist"
+"Category doesn't exist","A categoria não existe"
 """image_type"" value should be specified","O valor ""image_type"" deve ser especificado"
 "currentPage value %1 specified is greater than the %2 page(s) available.","O valor currentPage especificado como %1 é maior do que o %2 página (s) disponíveis."
