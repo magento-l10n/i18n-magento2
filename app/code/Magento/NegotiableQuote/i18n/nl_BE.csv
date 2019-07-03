@@ -420,4 +420,4 @@
 "Quote Name","Offertenaam"
 "Quote Total","Offerte totaal"
 "%fieldName is a required field.","%fieldName is een verplicht veld."
-"Exception occurred during quote view %s","Exception occurred during quote view %s"
+"Exception occurred during quote view %s","Er trad een fout op tijdens het bekijken van offerte %s"
