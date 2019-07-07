@@ -11,6 +11,6 @@
 "Log to File","Лог на файл"
 "Not available in production mode.","Не е налично в продуктов режим."
 "Front-end development workflow","Поток на развитие на интерфейса"
-"Magento was installed with a table prefix. Please re-install without prefix.","Magento was installed with a table prefix. Please re-install without prefix."
+"Magento was installed with a table prefix. Please re-install without prefix.","Magento е инсталиран с префикс за таблици. Моля преинсталирайте без префикс."
 "Syslog","Syslog"
-"Log to Syslog","Log to Syslog"
+"Log to Syslog","Запис в Syslog"
