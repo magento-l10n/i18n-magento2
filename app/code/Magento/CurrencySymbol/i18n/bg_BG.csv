@@ -19,5 +19,5 @@
 "Old rate:","Стар курс:"
 "Currency","Валута"
 "Please correct the input data for %1 => %2 rate","Коригирайте входните данни за ""%1 => %2"" курс"
-"The Import Service is incorrect. Verify the service and try again.","The Import Service is incorrect. Verify the service and try again."
-"The import model can't be initialized. Verify the model and try again.","The import model can't be initialized. Verify the model and try again."
+"The Import Service is incorrect. Verify the service and try again.","Услугата за Импортиране е некоректна. Проверете услугата и опитайте пак."
+"The import model can't be initialized. Verify the model and try again.","Модела на импортиране не може да се инициализира. Проверете модела и опитайте отново."
