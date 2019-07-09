@@ -175,7 +175,9 @@ Se aplica un límite de uso únicamente para los usuarios que inician sesión.
 "Your coupon was successfully applied","Your coupon was successfully applied"
 "
                         If you select and save the rule you will be able to generate multiple coupon codes.
-                    ","                         Si seleccionar y guardar la regla que será capaz de generar múltiples códigos de cupón.                     "
+                    ","
+Si selecciona y guarda la regla, podrá generar múltiples códigos de cupón.
+                    "
 "
                         Usage limit enforced for logged in customers only.
                     ","                         Límite de uso aplicada para iniciar sesión sólo para clientes.                     "
