@@ -80,13 +80,13 @@
                         <li><span>Flexible deployment options fit the needs of your organization in the cloud, or on premises.</span></li>
                         </ul>
                         ","
-<p> <a href=""http://docs.magento.com/m2/ce/user_guide/tax/vertex.html"" target=""_blank""> Vertex Cloud </a> combina un software sofisticado con un equipo excepcional de expertos en impuestos para ayudar a los comerciantes de Magento a simplificar el proceso del impuesto sobre las ventas y cumplir con las leyes impositivas en constante cambio. Los comerciantes pueden acceder y configurar Vertex Cloud fácilmente desde Magento Admin para enfrentar los complejos desafíos fiscales. </p>
+<p><a href=""http://docs.magento.com/m2/ce/user_guide/tax/vertex.html"" target=""_blank""> Vertex Cloud </a> combina un software sofisticado con un equipo excepcional de expertos en impuestos para ayudar a los comerciantes que usan Magento a simplificar el proceso del impuesto sobre las ventas y cumplir con las leyes impositivas en constante cambio. Los comerciantes pueden acceder y configurar Vertex Cloud fácilmente desde Magento Admin para enfrentar los complejos desafíos fiscales.</p>
                         <ul>
-                        <li> <span> Integración perfecta con el galardonado soporte para necesidades fiscales simples a complejas. </span> </li>
-                        <li> <span> Cumple automáticamente con las últimas reglas fiscales para cada producto y cada jurisdicción. </span> </li>
-                        <li> <span> Realice cálculos de impuestos y genere declaraciones en PDF listas para la firma en una solución. </span> </li>
-                        <li> <span> No se aplican multas a los comerciantes por estimaciones de impuestos de carros abandonados. </span> </li>
-                        <li> <span> Las opciones de implementación flexibles se adaptan a las necesidades de su organización en la nube o en las instalaciones. </span> </li>
+                        <li><span>Integración perfecta con el galardonado soporte para necesidades fiscales simples a complejas</span></li>
+                        <li><span>Cumple automáticamente con las últimas reglas fiscales para cada producto y cada jurisdicción.</span></li>
+                        <li><span>Realice cálculos de impuestos y genere declaraciones en PDF listas para la firma en una única solución.</span></li>
+                        <li><span>No se aplican multas a los comerciantes por estimaciones de impuestos de carros abandonados.</span></li>
+                        <li><span>Opciones de implementación flexibles que se adaptan a las necesidades de su organización en la nube o en sus instalaciones.</span></li>
                         </ul>                        "
 "What's new with Magento 2.2.2","Novedades de Magento 2.2.2"
 "
@@ -111,26 +111,22 @@
                         <a href=""http://devdocs.magento.com/"" target=""_blank"">Magento DevDocs</a>.
                         </p>
                         ","
-<p> Magento 2.2.2 ofrece nuevas funciones avanzadas, que incluyen: </p>
+<p>Magento 2.2.2 ofrece nuevas funciones avanzadas, que incluyen:</p>
 <br />
-<div class = ""analytics-highlight"">
-<h3> Informes avanzados </h3>
-<p> Obtenga información valiosa a través de un conjunto dinámico de informes de productos, pedidos y clientes,
-Impulsado por Magento de Inteligencia de Negocios. </p>
+<div class=""analytics-highlight"">
+<h3>Informes avanzados</h3>
+<p>Obtenga información valiosa a través de un conjunto dinámico de informes de productos, pedidos y clientes,
+Impulsado por Magento Business Intelligence.</p>
 </div>
-<div class = ""instante-compra-resalte"">
-<h3> Compra instantánea </h3>
-<p> Simplifique los pedidos y aumente las tasas de conversión para permitir que sus clientes utilicen almacenados
-Información de pago y envío para omitir tediosos pasos de pago. </p>
+<div class=""instante-compra-resalte"">
+<h3>Compra instantánea</h3>
+<p>Simplifique los pedidos y aumente las tasas de conversión al permitir que sus clientes utilicen Información de pago y envío previamente almacenados para omitir los tediosos pasos de pago.</p>
 </div>
-<div class = ""email-marketing-highlight"">
-<h3> Automatización de marketing por correo electrónico </h3>
-<p> Envíe campañas de correo electrónico más inteligentes y rápidas con la automatización de marketing de dotmailer, impulsado por
-Los datos en vivo de su tienda Magento. </p>
+<div class=""email-marketing-highlight"">
+<h3>Automatización de Marketing por correo electrónico</h3>
+<p>Envíe campañas de correo electrónico más inteligentes y rápidas con la automatización de marketing de Dotmailer, impulsado por los datos en vivo de su tienda Magento.</p>
 </div>
-<p> Las notas de la versión y detalles adicionales se pueden encontrar en
-<a href=""http://devdocs.magento.com/"" target=""_blank""> Devento de Magento </a>.
-</p>                        "
+<p>Las notas de la versión y detalles adicionales se pueden encontrar en <a href=""http://devdocs.magento.com/"" target=""_blank""> Devento de Magento </a>.</p>                        "
 "Advanced Reporting","Reportes Avanzados"
 "<p>Advanced Reporting
                         provides you with a dynamic suite of reports with rich insights about the health of your
