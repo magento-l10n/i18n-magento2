@@ -1,3 +1,3 @@
-"Request content type must be application/json","Request content type must be application/json"
-"Store code %1 does not exist","Store code %1 does not exist"
-"Entity code %1 does not exist.","Entity code %1 does not exist."
+"Request content type must be application/json","Типът на Съдържанието на заявката трябва да е application/json"
+"Store code %1 does not exist","Складов код %1 не съществува"
+"Entity code %1 does not exist.","Код на стока %1 не съществува."
