@@ -13,7 +13,7 @@
 "Display Page Control","Exibir controle de página"
 "Number of Products per Page","Número de produtos por página"
 "Number of Products to Display","Número de produtos para exibir"
-"Template","Aviso de desaprovação"
+"Template","Template"
 "Products Grid Template","Template da Listagem de Produtos"
 "Cache Lifetime (Seconds)","Tempo de Vida da Cache (Segundos)"
 "86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 por pré-definição, se não estiver definido. Para atualizar instantaneamente, limpe a cache de Output HTML dos Blocos."
