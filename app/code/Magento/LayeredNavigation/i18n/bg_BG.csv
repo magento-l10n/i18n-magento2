@@ -28,11 +28,11 @@
 "Interval Division Limit","Граница на интервална дивизия"
 "Please specify the number of products, that will not be divided into subintervals.","Моля, посочете броя на продукти, които не ще бъдат разделени в подинтервали."
 "Position of attribute in layered navigation block","Позицията на атрибут в пластове навигация блок"
-"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price"
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price","Може да се използва само с поле от тип да/не, избор от падащо меню, множествен избор или цена"
 "Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
                     <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
-                     it will make no affect on Price filter.","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
-                    <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
-                     it will make no affect on Price filter."
-"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price."
-"Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price.","Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price."
+                     it will make no affect on Price filter.","Може да се използва само с поле от тип да/не, избор от падащо меню, множествен избор или цена.
+                    <br>Цена не е съвместима с опция <b>'Филтрируем (без участие в резултати)'</b> - 
+                     няма да окаже влияние във филтър по цена."
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.","Може да се използва само с поле от тип да/не, избор от падащо меню, множествен избор или цена."
+"Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price.","Може да се използва само с поле от тип да/не, избор от падащо меню, множествен избор или цена."
