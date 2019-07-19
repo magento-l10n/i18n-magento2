@@ -30,6 +30,6 @@
 "Minimum Order Total","Total mínimo del pedido"
 "Maximum Order Total","Total máximo del pedido"
 "Sort Order","Orden de aparición"
-"Invalid request to gateway.","Invalid request to gateway."
-"Invalid gateway credentials.","Invalid gateway credentials."
+"Invalid request to gateway.","Solicitud no válida."
+"Invalid gateway credentials.","Credenciales de pasarela no válidas."
 "Transaction has been declined. Please try again later.","La operación ha sido rechazada. Por favor, inténtalo más tarde."
