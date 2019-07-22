@@ -10,6 +10,6 @@
 "'category_id' only supports 'eq' condition type.","'category_id' ondersteunt alleen 'eq' conditietype."
 "Cannot resolve layered filter type","Kan gelaagde filtertype niet oplossen"
 "Cannot resolve type","Kan type niet oplossen"
-"Category doesn't exist","Category doesn't exist"
+"Category doesn't exist","Categorie bestaat niet"
 """image_type"" value should be specified","De waarde ""image_type"" moet worden opgegeven"
 "currentPage value %1 specified is greater than the %2 page(s) available.","currentpage waarde %1 opgegeven is groter dan de %2 pagina(s) beschikbaar."
