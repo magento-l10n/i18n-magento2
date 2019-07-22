@@ -17,7 +17,7 @@
 "You need more permissions to save this setting.","Je hebt meer bevoegdheden nodig voor het opslaan van deze instelling."
 "Role Scopes","Rol scopes"
 "Custom","Aangepast"
-"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view"
+"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","U heeft geen rechten om dit item op te slaan in de huidige winkelweergave. Schakel alstublieft in naar de toegestane winkelweergave"
 "More permissions are needed to delete the ""%1"" item.","Er zijn meer bevoegdheden nodig om item ""%1"" te verwijderen."
 "This entity needs to be assigned to a store view. Verify the entity assignment and try again.","Deze entiteit moet toegewezen zijn aan een winkelzicht. Verifieer de toewijziging en probeer het nogmaals."
 "Orders can only be completed in an active store. Verify the store and try again.","Bestellingen kunnen alleen worden voltooid in een actieve winkel. Controleer de winkel en probeer het opnieuw."

@@ -21,6 +21,6 @@
 "Entity type model must be an instance of Magento\CatalogImportExport\Model\Import\Product\Type\AbstractType","Type entiteitsmodel moet voorkomen in \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType"
 "Entity type model must be an instance of '%1'","'Entiteit type model moet een exemplaar zijn van '%1'"
 "Disallowed file type.","Bestandstype is niet toegestaan."
-"Value for multiselect attribute %s contains duplicated values","Value for multiselect attribute %s contains duplicated values"
+"Value for multiselect attribute %s contains duplicated values","Waarde voor multiselect attribuut %s bevat dubbele waarden"
 "Invalid Stock data for insert","Ongeldige voorraad gegevens voor invoegen"
-"Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: %1","Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: %1"
+"Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: %1","Waarde voor het 'type' subattribuut in het 'custom_options' attribuut bevat een onjuiste waarde, geaccepteerde waarden zijn: %1"
