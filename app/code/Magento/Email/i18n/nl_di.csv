@@ -103,6 +103,6 @@
 "Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in width/height fields below.","Toegestane bestand types: jpg, jpeg, gif, png. Om een logo te optimalizeren voor hoge resolutie schermen, upload een afbeelding die 3x zo groot is en specifieer vervolgens 1x de dimensies in de breedte/hoogte velden."
 "Only necessary if image has been uploaded above. Enter number of pixels, without appending ""px"".","Enkel verplicht als je hierboven een afbeelding hebt geüpload. Voer het aantal pixels in, zonder ""px"" toe te voegen."
 "Email template chosen based on theme fallback when ""Default"" option is selected.","E-mail sjabloon dat gekozen wordt op basis van thema fallback als de optie ""Standaard"" is geselecteerd."
-"<pre>' . . . . '</pre>","<pre>' . . . . '</pre>"
+"<pre>' . . . . '</pre>","<pre>'. . . . . '</pre>"
 "The design config needs an area and a store. Verify that both are set and try again.","De ontwerpconfiguratie heeft een gebied en een winkel nodig. Controleer of beide zijn ingesteld en probeer het opnieuw."
 "To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in the width/height fields below.","Als je het logo wilt optimaliseren voor displays met een hoge resolutie upload je een afbeelding met de normale grootte van 3x en geef je vervolgens 1x-afmetingen op in de onderstaande velden voor breedte / hoogte."
