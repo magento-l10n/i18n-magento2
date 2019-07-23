@@ -369,7 +369,7 @@
 "Tax/VAT number","納税者番号"
 "Phone Number","電話番号"
 "Welcome to %store_name","%store_name へようこそ"
-"%name,","%name,"
+"%name,","%名前,"
 "Welcome to %store_name.","ようこそ %store_name へ"
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","サイトにサインインするには、これらの身分証明をチェックアウト時か <a href=""%customer_url"">マイアカウント</a> ページにて使用してください:"
 "Email:","メール:"
