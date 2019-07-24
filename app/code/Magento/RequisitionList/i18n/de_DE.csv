@@ -4,7 +4,7 @@
 "We can't add the item to the Requisition List right now: %1.","We can't add the item to the Requisition List right now: %1."
 "We can't specify a requisition list.","We can't specify a requisition list."
 "We can't specify a product.","Es konnte kein Produkt angegeben werden."
-"You added %1 item(s) to your shopping cart.","You added %1 item(s) to your shopping cart."
+"You added %1 item(s) to your shopping cart.","Sie haben den Artikel %1 zum Warenkorb hinzugefügt."
 "Something went wrong.","Es ist ein Fehler aufgetreten."
 "We can't configure the product right now.","Das Produkt kann momentan nicht konfiguriert werden."
 "%1 item(s) were copied to %2","%1 item(s) were copied to %2"
