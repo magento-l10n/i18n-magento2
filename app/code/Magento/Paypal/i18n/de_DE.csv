@@ -675,9 +675,9 @@
 "The verification transaction can't be voided. ","The verification transaction can't be voided. "
 "PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
                         You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
-                        <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
-                        You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
-                        <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>"
+                        <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","PayPal Express Checkout ermöglicht es Kunden, über PayPal Credit&#174; zu finanzieren - ohne zusätzliche Kosten für Sie.
+                        Sie werden vorab bezahlt, obwohl Kunden mehr Zeit haben zu bezahlen. Eine vorintegrierte Zahlungsbutton ermöglicht es Kunden, schnell mit PayPal-Guthaben&#174;zu bezahlen.
+                        <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Mehr erfahren</a>"
 "<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                         <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
                         from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
@@ -728,29 +728,29 @@
 "Pay","Bezahlen"
 "Buy Now","Jetzt kaufen"
 "PayPal","PayPal"
-"Installment","Installment"
+"Installment","Installation"
 "PayPal Credit","PayPal-Guthaben"
-"PayPal Guest Checkout Credit Card Icons","PayPal Guest Checkout Credit Card Icons"
+"PayPal Guest Checkout Credit Card Icons","PayPal Gast Checkout Kreditkarten Icons"
 "Elektronisches Lastschriftverfahren - German ELV","Elektronisches Lastschriftverfahren - Deutsche ELV"
 "Something went wrong with your request. Please try again later.","Mit Ihrer Anfrage ist etwas schief gelaufen. Bitte versuchen Sie es später erneut."
-"Customize Smart Buttons","Customize Smart Buttons"
+"Customize Smart Buttons","Smart Buttons anpassen"
 "Checkout Page","Checkout-Seite"
-"Customize Button","Customize Button"
+"Customize Button","Button anpassen"
 "Label","Bezeichnung"
-"The installment feature is available only in these locales: en_MX, es_MX, en_BR, pt_BR.","The installment feature is available only in these locales: en_MX, es_MX, en_BR, pt_BR."
-"Mexico Installment Period","Mexico Installment Period"
-"Brazil Installment Period","Brazil Installment Period"
+"The installment feature is available only in these locales: en_MX, es_MX, en_BR, pt_BR.","Die Installationsfunktion ist nur in diesen Locales verfügbar: de_MX, es_MX, en_BR, pt_BR."
+"Mexico Installment Period","Mexiko-Installationszeitraum"
+"Brazil Installment Period","Brasiliens Installationszeitraum"
 "Layout","Layout"
-"Select Responsive to ensure the PayPal button renders correctly on mobile devices.","Select Responsive to ensure the PayPal button renders correctly on mobile devices."
+"Select Responsive to ensure the PayPal button renders correctly on mobile devices.","Wählen Sie Responsive, um sicherzustellen, dass die PayPal-Taste korrekt auf mobilen Geräten Rendern."
 "Shape","Form"
 "Color","Farbe"
-"Product Pages","Product Pages"
-"Cart Page","Cart Page"
-"Mini Cart","Mini Cart"
-"Features","Features"
-"Disable Funding Options","Disable Funding Options"
+"Product Pages","Produkt-Seiten"
+"Cart Page","Warenkorbseite"
+"Mini Cart","Miniwarenkorb"
+"Features","Funktionen"
+"Disable Funding Options","Finanzierungsoptionen deaktivieren"
 "PayPal will automatically display each enabled funding option to eligible buyers.
                                 For example, PayPal Credit is only shown to buyers in countries where PayPal Credit is
-                                offered and the currency offered by the merchant is USD.","PayPal will automatically display each enabled funding option to eligible buyers.
-                                For example, PayPal Credit is only shown to buyers in countries where PayPal Credit is
-                                offered and the currency offered by the merchant is USD."
+                                offered and the currency offered by the merchant is USD.","PayPal wird automatisch jede Option für die Finanzierung für Käufer anzeigen.
+                                Zum Beispiel wird PayPal-Guthaben nur an Käufer in Ländern angezeigt, in denen PayPal-Guthaben
+                                angeboten wird und die vom Händler angebotene Währung USD ist."
