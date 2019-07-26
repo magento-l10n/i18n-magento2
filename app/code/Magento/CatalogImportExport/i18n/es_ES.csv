@@ -22,5 +22,5 @@
 "Entity type model must be an instance of '%1'","El tipo de modelo de entidad debe ser una instancia de '%1'"
 "Disallowed file type.","Tipo de archivo no aceptado."
 "Value for multiselect attribute %s contains duplicated values","Value for multiselect attribute %s contains duplicated values"
-"Invalid Stock data for insert","Datos de valores no válidos para insertar"
+"Invalid Stock data for insert","Datos de stock no válidos para insertar"
 "Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: %1","Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: %1"
