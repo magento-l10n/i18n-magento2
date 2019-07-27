@@ -217,7 +217,7 @@ formElements/*[name(.)=../../@formElement]/settings/title
 "'Remove ' .","'Remove ' ."
 "'Add New ' .","'Add New ' ."
 "'New ' .","'New ' ."
-"The file upload field is disabled.","The file upload field is disabled."
+"The file upload field is disabled.","El campo de subida de archivos está deshabilitado."
 "No marginal white space please","Sin espacio en blanco por favor"
 "Please enter a valid percentage discount value greater than 0.","Por favor, introduzca un valor de descuento porcentual válido mayor que 0."
 "Please enter a value less than or equal to %s.","Por favor, introduzca un valor menor o igual a %s."
