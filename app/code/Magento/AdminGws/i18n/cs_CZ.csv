@@ -17,7 +17,7 @@
 "You need more permissions to save this setting.","K uložení nastavení potřebujete vyšší oprávnění."
 "Role Scopes","Rozsahy role"
 "Custom","Vlastní"
-"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view"
+"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","K uložení této položky v rozsahu aktuálního zobrazení obchodu nemáte oprávnění. Přepněte prosím do zobrazení povoleného obchodu"
 "More permissions are needed to delete the ""%1"" item.","Více oprávnění je potřeba k odstranění ""%1"" položky."
 "This entity needs to be assigned to a store view. Verify the entity assignment and try again.","Tento subjekt musí být přidělen na prodejní pohled."
 "Orders can only be completed in an active store. Verify the store and try again.","Objednávky lze provést pouze v aktivním obchodě. Ověřte obchod a zkuste to znovu."
