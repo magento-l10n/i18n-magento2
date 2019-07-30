@@ -2,7 +2,7 @@
 "Done","Hotovo"
 "Retry","Opakovat"
 "'Action Details - #' .","'Detaily akce - #' ."
-"%1 item(s) have been scheduled for update.""","%1 item(s) have been scheduled for update."""
+"%1 item(s) have been scheduled for update.""","Aktualizace% 1 položek byla naplánována. “"
 "Bulk Actions Log","Protokol hromadných akcí"
 "Bulk uuid %bulkUuid not exist","Bulk uuid %bulkUuid not exist"
 "Topic %1","Topic %1"
