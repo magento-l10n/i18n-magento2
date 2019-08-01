@@ -8,7 +8,7 @@
 "Start Time","Begin Tijd"
 "Frequency","Frequentie"
 "Status","status"
-"Server Type","Server Type"
+"Server Type","Servertype"
 "File Directory","Bestands Indexering"
 "For Type ""Local Server"" use relative path to Magento installation, e.g. var/export, var/import, var/export/some/dir","Voor type ""Local Server"" gebruik relatief pad naar Magento installatie, bijv. var/export, var/import, var/export/some/dir"
 "FTP Host[:Port]","FTP Host[:Port]"
