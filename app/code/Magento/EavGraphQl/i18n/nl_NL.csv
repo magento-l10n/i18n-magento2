@@ -3,5 +3,5 @@
 "Attribute code %1 of entity type %2 not configured to have a type.","Attribuut code %1 van entiteit type %2 niet geconfigureerd om een type te hebben."
 "Invalid entity_type specified: %1","Ongeldige entity_type opgegeven: %1"
 "Missing %1 for the input %2.","Ontbrekende %1 voor input %2."
-"Type %1 has no internal representation declared.","Type %1 has no internal representation declared."
+"Type %1 has no internal representation declared.","Type %1 heeft geen interne representatie opgegeven."
 "Cannot resolve EAV type","Kan EAV type niet oplossen"
