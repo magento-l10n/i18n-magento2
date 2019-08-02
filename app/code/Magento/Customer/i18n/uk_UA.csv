@@ -395,7 +395,7 @@
 "Your %store_name email and password has been changed","Ваші %store_name електронну пошту та пароль було змінено"
 "We have received a request to change the following information associated with your account at %store_name: email, password.","Ми отримали прохання про зміну наступної інформації, пов'язаної з Вашим обліковим записом на %store_name: пароль."
 "Reset your %store_name password","Reset your %store_name password"
-"There was recently a request to change the password for your account.","There was recently a request to change the password for your account."
+"There was recently a request to change the password for your account.","Ми отримали запит на скидання пароля для вашого акаунту."
 "If you requested this change, set a new password here:","If you requested this change, set a new password here:"
 "If you did not make this request, you can ignore this email and your password will remain the same.","If you did not make this request, you can ignore this email and your password will remain the same."
 "Your %store_name password has been changed","Your %store_name password has been changed"
