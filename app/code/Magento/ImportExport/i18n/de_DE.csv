@@ -14,7 +14,7 @@
 "Unknown attribute filter type","Unbekannter Attribut-Filter-Typ"
 "Download","Herunterladen"
 "Check Data","Daten prüfen"
-"Import","Importieren"
+"Import","Import"
 "Import Settings","Import-Einstellungen"
 "Import Behavior","Import-Verhalten"
 " "," "
@@ -29,11 +29,11 @@
 "Select File to Import","Wählen Sie die zu importierende Datei"
 "Images File Directory","Bilder-Dateiverzeichnis"
 "For Type ""Local Server"" use relative path to Magento installation,
-                                e.g. var/export, var/import, var/export/some/dir","Für den Typ ""Lokaler Server"" Verhältnispfad zur Installation von Magento verwenden,
+                                e.g. var/export, var/import, var/export/some/dir","Für den Typ ""Lokaler Server"" relativen Pfad zur Magento_installation verwenden,
                                 z.B. var/export, var/import, var/export/some/dir"
 "Download Sample File","Download Beispiel-Datei"
 "Please correct the data sent value.","Bitte korrigieren Sie den gesendeten Datenwert."
-"Import/Export","Importieren/Exportieren"
+"Import/Export","Import/Export"
 "History","Historie"
 "Import History","Import-Historie"
 "Import history","Import-Historie"
