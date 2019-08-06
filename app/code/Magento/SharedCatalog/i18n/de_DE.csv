@@ -86,15 +86,15 @@
 "You must enable the <a href=""%1"" data-role=""notification-dialog"">shared catalog</a> feature in 
         Stores -> Configuration -> B2B Features to use the shared catalogs in the storefront.
         Otherwise, the categories and products you're configuring in shared catalogs will 
-        not be restricted to customers.","You must enable the <a href=""%1"" data-role=""notification-dialog"">shared catalog</a> feature in 
-        Stores -> Configuration -> B2B Features to use the shared catalogs in the storefront.
-        Otherwise, the categories and products you're configuring in shared catalogs will 
-        not be restricted to customers."
+        not be restricted to customers.","Die Funktion <a href=""%1"" data-role=""notification-dialog"">Gemeinsamer Katalog</a> unter 
+        Stores -> Konfiguration -> B2B Features muss aktiviert sein, um gemeinsame Kataloge im Frontend nutzen zu können.
+        Andernfalls werden die Kategorien und Produkte, die Sie in gemeinsamen Katalogen konfigurieren, 
+        keine Kundenbeschränkung haben."
 "You must enable the shared catalog feature in Stores -> Configuration -> B2B Features 
     to use the shared catalogs in the storefront. Otherwise, the categories and products you're 
-    configuring in shared catalogs will not be restricted to customers.","You must enable the shared catalog feature in Stores -> Configuration -> B2B Features 
-    to use the shared catalogs in the storefront. Otherwise, the categories and products you're 
-    configuring in shared catalogs will not be restricted to customers."
+    configuring in shared catalogs will not be restricted to customers.","Die Funktion Gemeinsamer Katalog unter Stores -> Konfiguration -> B2B Features 
+    muss aktiviert sein, um gemeinsame Kataloge im Frontend nutzen zu können. Andernfalls werden die Kategorien und Produkte, 
+    die Sie in gemeinsamen Katalogen konfigurieren, keine Kundenbeschränkung haben."
 "Next","Weiter"
 "Edit Configurations","Konfigurationen bearbeiten"
 "Products in Catalog","Produkte im Katalog"
