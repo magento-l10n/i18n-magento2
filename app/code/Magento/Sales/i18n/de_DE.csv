@@ -657,7 +657,7 @@
 "%name,","%name,"
 "Thank you for your order from %store_name.","Vielen Dank für Ihre Bestellung bei %store_name."
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Sie können den Status Ihrer Bestellung überprüfen, indem Sie sich bei <a href=""%account_url"">Ihrem Konto anmelden</a>."
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Wenn Sie fragen bezüglich Ihrer Bestellung haben, können Sie uns über die E-Mail-Adresse <a href=""mailto:%store_email"">%store_email</a> kontaktieren"
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Wenn Sie Fragen bezüglich Ihrer Bestellung haben, können Sie uns über die E-Mail-Adresse <a href=""mailto:%store_email"">%store_email</a> kontaktieren"
 "or call us at <a href=""tel:%store_phone"">%store_phone</a>","oder rufen Sie uns unter <a href=""tel:%store_phone"">%store_phone</a> an"
 "Our hours are <span class=""no-link"">%store_hours</span>.","Unsere Geschäftszeiten sind: <span class=""no-link"">%store_hours</span>."
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Ihre Gutschrift #%creditmemo_id für die Bestellung #%order_id"
