@@ -23,7 +23,7 @@
 "Currency Setup","Währungseinrichtung"
 "Currency Options","Währungsoptionen"
 "Base Currency","Basiswährung"
-"Base currency is used for all online payment transactions. The base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").","Base currency is used for all online payment transactions. The base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"")."
+"Base currency is used for all online payment transactions. The base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").","Basiswährung wird für alle Online-Transaktionen verwendet. Der Basiswährungs-Geltungsbereich ist durch den Katalogpreis-Geltungsbereich definiert (""Katalog""> ""Preis""> ""Katalogpreis-Geltungsbereich"")."
 "Default Display Currency","Standard-Display-Währung"
 "Allowed Currencies","Erlaubte Währungen"
 "Yahoo Finance Exchange","Yahoo Währungsrechner"

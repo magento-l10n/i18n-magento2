@@ -1,7 +1,7 @@
 "It is impossible to log user action","Benutzeraktion kann nicht protokolliert werden"
 "Error message","Fehlermeldung"
-"An error occurred while logging process.","An error occurred while logging process."
-"Release Notification","Release Notification"
+"An error occurred while logging process.","Während des Protokollierungsprozesses ist ein Fehler aufgetreten."
+"Release Notification","Release-Benachrichtigung"
 "What’s new with Magento 2.2.4","Was ist neu in Magento 2.2.4"
 "
                         <p>Magento 2.2.4 provides powerful new tools to help reduce cart abandonment and simplify store operations:</p>
@@ -52,7 +52,7 @@
                         <li><span>Available across platforms and devices, in the home and on the go.</span></li>
                         </ul>
                         "
-"Flexible Payment Terms","Flexible Payment Terms"
+"Flexible Payment Terms","Flexible Zahlungsbedingungen"
 "
                         <p>With <a href=""http://docs.magento.com/m2/ce/user_guide/payment/klarna.html"" target=""_blank"">Klarna</a>, reduce purchase stress and improve your shopping experience with several retail finance and direct-payment options that are easily integrated into your existing buying journey. Shoppers can choose to pay now by online payment or direct debit, pay later by invoice, or pay in installments.</p>
                         <ul>
@@ -72,7 +72,7 @@
                         <li><span>Fast and easy setup, right from the Magento Admin.</span></li>
                         </ul>
                         "
-"Sales and Use Tax Automation","Sales and Use Tax Automation"
+"Sales and Use Tax Automation","Verkäufe und Steuerautomatik verwenden"
 "
                         <p><a href=""http://docs.magento.com/m2/ce/user_guide/tax/vertex.html"" target=""_blank"">Vertex Cloud</a> combines sophisticated software with an exceptional team of tax experts to help Magento merchants simplify the sales tax process, and comply with ever-changing tax laws. Merchants can easily access and configure Vertex Cloud from the Magento Admin to meet complex tax challenges.</p>
                         <ul>
@@ -171,19 +171,14 @@
                         merchant needs.</span></li>
                         </ul>
                         ","
-                        <p>Now you can deliver an Amazon-like experience with a new, streamlined checkout option.
-                        Logged-in customers can use previously-stored payment credentials and shipping information
-                        to skip steps, making the process faster and easier, especially for mobile shoppers. Key
-                        features include:
+                        <p>Nun können Sie einen Amazon-ähnlichen schnellen Checkout anbieten.
+                        Registrierte Kunden können vorab gespeicherte Daten und Versandinformationen nutzen, um Schritte zu überspringen und dadurch den Bestellablauf einfacher zu machen - besonders für mobile Nutzer. Die Hauptfunktionen sind:
                         </p>
                         <ul>
-                        <li><span>Configurable “Instant Purchase” button to place orders.</span></li>
-                        <li><span>Support for all payment solutions using Braintree Vault, including Braintree Credit
-                        Card, Braintree PayPal, and PayPal Payflow Pro.</span></li>
-                        <li><span>Shipping to the customer’s default address using the lowest cost, available shipping
-                        method.</span></li>
-                        <li><span>Ability for developers to customize the Instant Purchase business logic to meet
-                        merchant needs.</span></li>
+                        <li><span>Konfigurierbarer “Instant Purchase” Button zum Bestellen.</span></li>
+                        <li><span>Support aller Zahlungsarten von Braintree Vault, inklusive Braintree Kredtikarte, Braintree PayPal, und PayPal Payflow Pro.</span></li>
+                        <li><span>Versand an die Standardadresse des Kunden mit der günstigsten verfügbaren Versandmethode.</span></li>
+                        <li><span>Möglichkeit für Entwickler die Anwendungslogik von Instant Purchase an die Anforderungen des Händlers anzupassen.</span></li>
                         </ul>
                         "
 "Email Marketing Automation","E-Mail-Marketing Automatisierung"

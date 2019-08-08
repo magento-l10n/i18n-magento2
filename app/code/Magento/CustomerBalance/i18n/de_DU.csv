@@ -61,5 +61,5 @@
 "Refund Store Credit Automatically","Shop-Guthaben automatisch erstatten"
 "Store Credit Update Email Sender","Absender für Shop-Guthaben-Update-E-Mail"
 "Store Credit Update Email Template","Vorlage für Shop-Guthaben-Update-E-Mail"
-"A balance is needed to save a balance history.","A balance is needed to save a balance history."
-"The balance history action code is unknown. Verify the code and try again.","The balance history action code is unknown. Verify the code and try again."
+"A balance is needed to save a balance history.","Eine Buchung ist notwendig, um den Saldo anzuzeigen."
+"The balance history action code is unknown. Verify the code and try again.","Der Aktionscode für den Saldo ist unbekannt. Bitte überprüfen Sie den Code und versuchen Sie es erneut."

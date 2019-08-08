@@ -21,4 +21,4 @@
 "Cron","Cron"
 "Enable Cron","Cron aktivieren"
 "Send Adminhtml and Frontend as Separate Apps","Adminhtml und Frontend als separate Anwendung senden"
-"In addition to the main app (which includes all PHP execution), separate apps for adminhtml and frontend will be created. Requires New Relic Application Name to be set.","In addition to the main app (which includes all PHP execution), separate apps for adminhtml and frontend will be created. Requires New Relic Application Name to be set."
+"In addition to the main app (which includes all PHP execution), separate apps for adminhtml and frontend will be created. Requires New Relic Application Name to be set.","Zusätzlich zur Haupt-Applikation (die alle PHP-Ausführung beinhaltet) werden separate Applikationen für das Adminhtml und das Frontend erstellt. Benötigt einen gesetzen New Relic Applications Namen."

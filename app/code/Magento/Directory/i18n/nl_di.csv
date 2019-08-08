@@ -45,7 +45,7 @@
 "State is Required for","Staat is verplicht voor"
 "Allow to Choose State if It is Optional for Country","Mogelijkheid tot kiezen van staat indien het optioneel is voor een land"
 "Weight Unit","Gewichtseenheid"
-"Base currency is used for all online payment transactions. If you have more than one store view, the base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").","Base currency is used for all online payment transactions. If you have more than one store view, the base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"")."
+"Base currency is used for all online payment transactions. If you have more than one store view, the base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").","Basisvaluta wordt gebruikt voor alle online betalingstransacties. Als u meerdere Winkelaanzichten heeft, wordt de basisvaluta vastgelegd bij de Catalogusprijzen (""Catalogus"" > ""Prijs"" > ""Catalogus Prijs Scope"")."
 "No API Key was specified or an invalid API Key was specified.","Geen API-sleutel is opgegeven of een ongeldige API-sleutel is opgegeven."
 "The account this API request is coming from is inactive.","Het account waar deze API-aanvraag vandaan komt, is inactief."
 "The ""%1"" is not allowed as base currency for your subscription plan.","""%1"" is niet toegestaan als basisvaluta voor je abonnement."
