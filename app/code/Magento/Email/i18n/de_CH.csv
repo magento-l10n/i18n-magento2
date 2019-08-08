@@ -103,6 +103,6 @@
 "Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in width/height fields below.","Erlaubte Dateitypen: jpg, jpeg, gif, png. Um das Logo für hochauflösende Displays zu optimieren, laden Sie ein Bild mit der dreifachen Originalgröße hoch und setzen Sie die einfachen Abmessungen in die folgenden Breite/Höhe-Felder ein."
 "Only necessary if image has been uploaded above. Enter number of pixels, without appending ""px"".","Wird nur benötigt, wenn ein Bild oberhalb hochgeladen wurde. Geben Sie die Anzahl der Pixel ein, ohne folgendes ""px""."
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Ausgewählte E-Mail-Vorlage basiert auf dem Fallback-Thema, wenn die Option ""Standard"" gewählt ist."
-"<pre>' . . . . '</pre>","<pre>' . . . . '</pre>"
-"The design config needs an area and a store. Verify that both are set and try again.","The design config needs an area and a store. Verify that both are set and try again."
+"<pre>' . . . . '</pre>","<pre>' . . '</pre>"
+"The design config needs an area and a store. Verify that both are set and try again.","Die Designkonfiguration benötigt einen Bereich und einen Shop. Überprüfen Sie, ob beide gesetzt sind und versuchen Sie es erneut."
 "To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in the width/height fields below.","Um das Logo für hochauflösende Displays zu optimieren, laden Sie ein Bild mit der dreifachen Originalgröße hoch und setzen Sie die einfachen Abmessungen in die folgenden Breite/Höhe-Felder ein."
