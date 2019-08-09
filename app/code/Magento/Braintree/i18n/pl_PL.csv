@@ -242,7 +242,7 @@
 "Pay with PayPal","Zapłać z PayPal"
 "Transaction is cancelled offline.","Transakcja jest anulowana w trybie offline."
 "Braintree Settlement","Rozliczenie Braintree"
-"If you don't specify the merchant account to use to process a transaction, Braintree will process it using your default merchant account.","If you don't specify the merchant account to use to process a transaction, Braintree will process it using your default merchant account."
+"If you don't specify the merchant account to use to process a transaction, Braintree will process it using your default merchant account.","Jeśli nie wybierzesz konkretnego konta do procesowania transakcji, Braintree wykona zlecenie używając konta domyślnego."
 "Be sure to Enable Advanced Fraud Protection in Your Braintree Account in Settings/Processing Section","Be sure to Enable Advanced Fraud Protection in Your Braintree Account in Settings/Processing Section"
 "Used for direct fraud tool integration. Make sure you also contact <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> to setup your Kount account.","Used for direct fraud tool integration. Make sure you also contact <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> to setup your Kount account."
 "Be sure to Enable AVS and/or CVV in Your Braintree Account in Settings/Processing Section.","Be sure to Enable AVS and/or CVV in Your Braintree Account in Settings/Processing Section."
