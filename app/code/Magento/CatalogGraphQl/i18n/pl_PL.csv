@@ -5,7 +5,7 @@
 "currentPage value %1 specified is greater than the number of pages available.","obecny numer strony %1 jest większy niż dostępna ilość stron."
 """id for category should be specified","""id danej kategorii musi być określone"
 "No child sku found for product link.","No child sku found for product link."
-"'search' or 'filter' input argument is required.","'search' or 'filter' input argument is required."
+"'search' or 'filter' input argument is required.","Uzupełnienie argumentu 'search' lub 'filter' jest wymagane."
 "SimpleProduct type not defined in schema.","SimpleProduct type not defined in schema."
 "'category_id' only supports 'eq' condition type.","'category_id' only supports 'eq' condition type."
 "Cannot resolve layered filter type","Cannot resolve layered filter type"
