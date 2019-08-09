@@ -72,5 +72,5 @@
 "Unable to place order. Please try again later.","Nie można złożyć zamówienia. Proszę spróbować ponownie później."
 "A server error stopped your order from being placed. Please try to place your order again.","Błąd serwera uniemożliwił realizację zlecenia. Proszę spróbuj ponownie."
 "The transaction details are unavailable. Please try again later.","Szczegóły transakcji nie są dostępne. Spróbuj ponownie później."
-"Authorize.Net Direct Post (Deprecated)","Authorize.Net Direct Post (Deprecated)"
+"Authorize.Net Direct Post (Deprecated)","Authorize.Net Direct Post (nieużywana)"
 "Signature Key","Klucz Podpisu"
