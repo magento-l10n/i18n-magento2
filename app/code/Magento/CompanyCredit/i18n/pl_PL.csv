@@ -24,7 +24,7 @@
 """%fieldName"" is required. Enter and try again.","Pole ""%fieldName"" jest wymagane. Uzupełnij i spróbuj ponownie."
 "The selected currency is not available. Please select a different currency.","Wybrana waluta nie jest dostępna. Proszę wybierz inną walutę."
 "Could not update history","Could not update history"
-"Requested company is not found. Row ID: %fieldName = %fieldValue.","Requested company is not found. Row ID: %fieldName = %fieldValue."
+"Requested company is not found. Row ID: %fieldName = %fieldValue.","Firma nie została znaleziona. rekord ID: %fieldName = %fieldValue."
 "Cannot delete credit limit with id %1","Nie można usunąć limit kredytowego o id %1"
 "Allocated","Przydzielono"
 "Updated","Zaktualizowano"
