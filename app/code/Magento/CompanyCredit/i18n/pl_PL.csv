@@ -81,8 +81,8 @@
 "If you have any questions, please contact the seller.","If you have any questions, please contact the seller."
 "%company_name credit limit updated","%company_name credit limit updated"
 "Your credit limit has been updated and is now %available_credit.
-    Your outstanding balance currently totals %outstanding_balance. You are %exceed_limit to exceed the credit limit.","Your credit limit has been updated and is now %available_credit.
-    Your outstanding balance currently totals %outstanding_balance. You are %exceed_limit to exceed the credit limit."
+    Your outstanding balance currently totals %outstanding_balance. You are %exceed_limit to exceed the credit limit.","Twój limit kredytowy został zaktualizowany i aktualnie wynosi %available_credit.
+    Twoje saldo aktualnie wynosi %outstanding_balance. Jesteś %exceed_limit do przekroczenia limitu kredytowego."
 "Order %order_id refunded","Order %order_id refunded"
 "A refund of %refunded_amount has been issued on order #%order_id. This amount has been applied to the company credit.","A refund of %refunded_amount has been issued on order #%order_id. This amount has been applied to the company credit."
 "Order %order_id reverted","Order %order_id reverted"
