@@ -38,7 +38,7 @@
 "A total of %1 record(s) were updated.","Um total de %1 registro(s) foi(ram) atualizado(s)."
 "Something went wrong. Please try again later.","Algo deu errado. Por favor tente novamente mais tarde."
 "Invalid value of ""%value"" provided for the email field.","O valor de ""%value"" informado para o e-mail é inválido."
-"Invalid value ""%value"" given for the website ID field.","Invalid value ""%value"" given for the website ID field."
+"Invalid value ""%value"" given for the website ID field.","O valor ""%value"" informado é inválido para o campo ID do site."
 "You have deleted company %companyName.","Você removeu a empresa %companyName."
 "The company no longer exists.","A empresa não existe mais."
 "The requested company is not found","A empresa solicitada não foi encontrada"
@@ -84,7 +84,7 @@
 "Unable to move customer structure.","Não é possível mover a estrutura do cliente."
 "Cannot delete company with id %1","Não é possível remover uma empresa com o id %1"
 "No company admin email is specified in request.","Nenhum email do administrador de empresa foi especificado na solicitação."
-"No company admin website ID is specified in request.","No company admin website ID is specified in request."
+"No company admin website ID is specified in request.","Nenhum ID de administrador de site da empresa está especificado na solicitação."
 "No such entity with id = %idValue","Não há tal entidade com o id = %idValue"
 "The user %1 is the company admin and cannot be set to inactive. You must set another user as the company admin first.","O usuário %1 é o administrado da empresa e não pode ser modificado para inativo. Você precisa definir outro usuário como administrador da empresa primeiro."
 "You cannot update the requested attribute. Row ID: %fieldName = %fieldValue.","Você não pode atualizar o atributo solicitado. ID da linha: %fieldName = %fieldValue."
@@ -121,7 +121,7 @@
 "Cannot delete the company admin. Delete operation has been stopped. Please repeat the action for the other customers.","Não é possível excluir o administrador da empresa. A operação de exclusão foi interrompida. Por favor, repita a ação para os outros clientes."
 "Something went wrong","Algo deu errado"
 "This customer company account is blocked and customer cannot place orders.","Essa conta da empresa do cliente é bloqueada e o cliente não pode fazer pedidos."
-"The consumer isn't authorized to access resource.","The consumer isn't authorized to access resource."
+"The consumer isn't authorized to access resource.","O consumidor não está autorizado a acessar o recurso."
 " - Duplicated"," - Duplicado"
 "message","mensagem"
 "Exception message","Mensagem de exceção"
@@ -133,7 +133,7 @@
 "No such entity.","Não há tal entidade."
 "error message","mensagem de erro"
 "Could not save role","Não foi possivel salvar esta função"
-"""%fieldName"" is required. Enter and try again.""%fieldName"" is required. Enter and try again.","""%fieldName"" is required. Enter and try again.""%fieldName"" is required. Enter and try again."
+"""%fieldName"" is required. Enter and try again.""%fieldName"" is required. Enter and try again.","""%fieldName"" é necessário. Entre e e tente novamente. ""%fieldName"" é necessário. Entre e tente novamente."
 "Cannot delete team","Não é possível excluir grupo"
 "Role Name","Nome da Permissão"
 "Role Name 15","Nome da função 15"
@@ -219,11 +219,11 @@ como o membro da empresa.
     has been approved and you have been set as the Company Admin.
     You can now create and manage your company structure.
     Your company members are able to request quotes, create requisition lists,
-    and use other B2B features.","Your company registration request (for the <strong>%company_name</strong>)
-    has been approved and you have been set as the Company Admin.
-    You can now create and manage your company structure.
-    Your company members are able to request quotes, create requisition lists,
-    and use other B2B features."
+    and use other B2B features.","Sua solicitação de registro da empresa (para o/a <strong>%company_name</strong>)
+    foi aprovada e você foi configurado(a) como Administrador da Empresa.
+    Agora você pode criar e gerenciar a estrutura da sua Empresa.
+    Os membros da sua empresa podem solicitar demandas, criar listas de requisições,
+    e usar outros recursos B2B."
 "The status of your company <strong>%company_name</strong>
     is now <strong>Active</strong>.
     Once you login, you will be able to place orders on behalf of your company
