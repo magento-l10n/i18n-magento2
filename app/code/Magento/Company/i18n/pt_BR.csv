@@ -227,10 +227,10 @@ como o membro da empresa.
 "The status of your company <strong>%company_name</strong>
     is now <strong>Active</strong>.
     Once you login, you will be able to place orders on behalf of your company
-    and use other B2B features.","The status of your company <strong>%company_name</strong>
-    is now <strong>Active</strong>.
-    Once you login, you will be able to place orders on behalf of your company
-    and use other B2B features."
+    and use other B2B features.","O status da empresa <strong>%company_name</strong>
+    agora está <strong>Ativo</strong>
+    Quando fizer login, você poderá fazer pedidos em nome da sua empresa
+    e usar outros recursos B2B."
 "Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details.","Seu tipo de conta foi alterado de administrador da empresa para uma conta de usuário comum. Se você acha que isso é um erro, entre em contato com seu gerente para obter detalhes."
 "%name,","%name,"
 "You have been assigned to %company_name as the Sales Representative.","Você foi atribuído a %company_name como representante de vendas."
@@ -239,14 +239,14 @@ como o membro da empresa.
 "* View and edit company profile in Admin Panel","* Visualizar e editar o perfil da empresa no Painel de administração"
 "Your company account <strong>%company_name</strong> has been blocked.
     Your company members can continue using the website,
-    but they will not be able to place orders.","Your company account <strong>%company_name</strong> has been blocked.
-    Your company members can continue using the website,
-    but they will not be able to place orders."
+    but they will not be able to place orders.","Sua conta da empresa <strong>%company_name</strong> foi bloqueada.
+    Os membros da empresa podem continuar a usar o site,
+    mas não poderão fazer pedidos."
 "If you have any questions, please contact the seller.","Se você tiver alguma dúvida, entre em contato com o vendedor."
-"Your company account <strong>%company_name</strong> has been suspended, pending approval from the seller.","Your company account <strong>%company_name</strong> has been suspended, pending approval from the seller."
+"Your company account <strong>%company_name</strong> has been suspended, pending approval from the seller.","Sua conta da empresa <strong>%company_name</strong> foi suspensa, dependendo de aprovação do vendedor."
 "Your company registration request (for the <strong>%company_name</strong>) has been rejected
-    for the following reason:","Your company registration request (for the <strong>%company_name</strong>) has been rejected
-    for the following reason:"
+    for the following reason:","Sua solicitação de registro da empresa (para a <strong>%company_name</strong>) foi rejeitada
+    pelo seguinte motivo:"
 "This action cannot be undone. Are you sure you want to delete this company? After the company is deleted, all the company members will be set to Inactive.","Essa ação não pode ser desfeita. Tem certeza de que deseja excluir esta empresa? Depois que a empresa for excluída, todos os membros da empresa serão definidos como Inativos."
 "Delete a Company?","Excluir a empresa?"
 "Cancel","Cancelar"
