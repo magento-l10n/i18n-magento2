@@ -1,2 +1,2 @@
-"""option_id"" and ""parent_id"" values should be specified","deben especificarse los valores ""option_id"" y ""parent_id"""
-"""sku"" value should be specified","Se debe especificar el valor ""sku"""
+"""option_id"" and ""parent_id"" values should be specified","Los valores ""option_id"" y ""parent_id"" deben especificarse"
+"""sku"" value should be specified","El valor ""sku"" debe especificarse"
