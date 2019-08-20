@@ -5,5 +5,5 @@
 "Enable Elasticsearch HTTP Auth","Habilitar Elasticsearch HTTP Auth"
 "Elasticsearch HTTP Username","Nombre de usuario de Elasticsearch HTTP"
 "Elasticsearch HTTP Password","Contraseña Elasticsearch HTTP"
-"Elasticsearch Server Timeout","Elasticsearch Server Timeout"
+"Elasticsearch Server Timeout","Tiempo de espera para el Servidor Elasticsearch"
 "Test Connection","Probar conexión"

@@ -88,7 +88,7 @@
 "Customer Account Address","Dirección de la cuenta de cliente"
 "Customer Registration","Registro de usuario"
 "Customer Account Edit","Editar cuenta de cliente"
-"Admin Checkout","Admin Checkout"
+"Admin Checkout","Checkout del Administrador"
 "Use helper with defined EAV entity.","Usar helper con entidad EAV definida."
 "Length Only","Solo longitud"
 "An attribute code must not be more than %1 characters.","Un código de atributo no debe ser mayor que %1 caracteres."

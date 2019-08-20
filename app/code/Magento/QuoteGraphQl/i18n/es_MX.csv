@@ -38,4 +38,4 @@
 "Required parameter ""cart_items"" is missing.","Required parameter ""cart_items"" is missing."
 "Required parameter ""cart_item_id"" for ""cart_items"" is missing.","Required parameter ""cart_item_id"" for ""cart_items"" is missing."
 "Required parameter ""quantity"" for ""cart_items"" is missing.","Required parameter ""quantity"" for ""cart_items"" is missing."
-"Could not find cart item with id: %1.","Could not find cart item with id: %1."
+"Could not find cart item with id: %1.","No se pudo encontrar el artículo del carrito con id: %1."

@@ -8,6 +8,6 @@
 "Enable Elasticsearch HTTP Auth","Habilitar Elasticsearch HTTP Auth"
 "Elasticsearch HTTP Username","Nombre de usuario de Elasticsearch HTTP"
 "Elasticsearch HTTP Password","Contraseña Elasticsearch HTTP"
-"Elasticsearch Server Timeout","Elasticsearch Server Timeout"
+"Elasticsearch Server Timeout","Tiempo de espera para el Servidor Elasticsearch"
 "Test Connection","Probar conexión"
 "We were unable to perform the search because of a search engine misconfiguration.","No hemos podido realizar la búsqueda debido a un error de configuración del motor de búsqueda."

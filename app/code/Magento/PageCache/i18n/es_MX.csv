@@ -9,7 +9,7 @@
 "Access list","Lista de acceso"
 "IPs access list separated with ',' that can purge Varnish configuration for config file generation.
                             If field is empty default value localhost will be saved.","Lista de acceso IP separados por ',' que puede purgar la configuración Varnish para la generación de archivo de config.                             Si el campo está vacío se guardará por defecto el valor localhost."
-"Backend host","Backend host"
+"Backend host","Servidor de backend"
 "Specify backend host for config file generation. If field is empty default value localhost will be saved.","Especificar el host de backend para la generación del archivo config. Si el campo está vacío, el valor predeterminado localhost sera guardado."
 "Backend port","Puerto de backend"
 "Specify backend port for config file generation. If field is empty default value 8080 will be saved.","Especificar el puerto de backend para la generación de archivo de config. Si el campo está vacío se guardará el valor predeterminado 8080."
