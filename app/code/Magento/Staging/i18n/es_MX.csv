@@ -32,7 +32,7 @@
 "Repository should return instance of %s","Repositorio debe devolver instancia de %s"
 "Can not be rescheduled","No puede ser reprogramado"
 "Action class must implement ActionDataProviderInterface","Action class debe implementar ActionDataProviderInterface"
-"entity_type","entity_type"
+"entity_type","entidad_tipo"
 "Delete Update","Eliminar actualización"
 "View/Edit","Ver/Editar"
 "Active","Activo"
