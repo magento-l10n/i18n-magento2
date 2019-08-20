@@ -138,7 +138,7 @@
 "Dash Every X Characters","Guión cada ""X"" caracteres"
 "if empty no separation","si está vacío no hay separación"
 "New Pool Size","Nuevo tamaño de Pool"
-"Low Code Pool Threshold","Low Code Pool Threshold"
+"Low Code Pool Threshold","Umbral de grupo de código bajo"
 "IMPORTANT: Be sure to save your configuration before running generation process.","IMPORTANTE: Asegúrese de guardar su configuración antes de ejecutar el proceso de generación."
 "CSV","CSV"
 "Excel XML","Excel XML"
