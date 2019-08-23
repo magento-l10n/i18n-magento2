@@ -7,7 +7,7 @@
 "There is no item with provided id in the order","Il n'y a pas d'élément avec l'identifiant fourni dans la commande"
 "There is no item with provided id in the order or gift message isn't allowed","There is no item with provided id in the order or gift message isn't allowed"
 "Could not add gift message to order: ""%1""","Impossible d’ajouter un message cadeau à la commande : ""%1"""
-"There is no order with provided id or gift message isn't allowed","There is no order with provided id or gift message isn't allowed"
+"There is no order with provided id or gift message isn't allowed","Il n'y a pas de commande avec l'id fourni ou le message cadeau n'est pas autorisé"
 "There is no order with provided id","Il n’y a aucune commande avec l’id fourni"
 "Gift Messages are not applicable for empty order","Les messages cadeaux ne sont pas disponibles pour une commande vide"
 "Could not add gift message to order's item: ""%1""","Impossible d'ajouter le message cadeau à l'article ""%1"" de la commande"
