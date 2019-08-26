@@ -177,7 +177,7 @@
 "Edit custom instruction of robots.txt File","Editer les instructions du fichier robots.txt"
 "This action will delete your custom instructions and reset robots.txt file to system's default settings.","Cette action va supprimer les instructions sur mesure et remettre le fichier robots.txt par défaut."
 "Reset To Defaults","Réinitialiser avec les valeurs par défaut"
-"Website","Site web""%s and greater"
+"Website","Site web"
 "Store","Magasin"
 "Store View","Vue magasin"
 "Skip to Content","Aller au contenu"
