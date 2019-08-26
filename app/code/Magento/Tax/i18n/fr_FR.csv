@@ -46,7 +46,7 @@
 "Tax Zones and Rates","Zones de taxe et taux"
 "We can't delete this tax rate right now.","Nous ne pouvons pas supprimer ce taux d'imposition en ce moment."
 "An error occurred while loading this tax rate.","Une erreur s’est produite lors du chargement de ce taux de taxe."
-"We can't save this rate right now.","Votre commande est en cours de traitement et vous recevrez bientôt un mail avec les détails de la commande. Quand la commande sera expédiée, vous recevrez un autre mail avec un lien pour suivre l'avancement de la livraison."
+"We can't save this rate right now.","Nous ne pouvons pas enregistrer ce taux en ce moment."
 "You deleted the tax rate.","Vous avez supprimé le taux de taxe."
 "We can't delete this rate because of an incorrect rate ID.","Nous ne pouvons pas supprimer ce taux en raison d'un identifiant de taux incorrect."
 "Something went wrong deleting this rate.","Une erreur s'est produite lors de la suppression du taux."
