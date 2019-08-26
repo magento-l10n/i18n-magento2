@@ -48,7 +48,7 @@
 "equals or less than","est inférieur(e) ou égal(e) à"
 "Product Price is %1 %2% of Matched Product(s) Price","Prix du produit est %1 %2% du prix de produit (s) correspondant"
 "Please define a product data object.","S’il vous plaît définissez un objet de données de produit."
-"We can't rebuild the index for an undefined product.","Votre commande est en cours de traitement et vous recevrez bientôt un mail avec les détails de la commande. Quand la commande sera expédiée, vous recevrez un autre mail avec un lien pour suivre l'avancement de la livraison."
+"We can't rebuild the index for an undefined product.","Nous ne pouvons pas reconstruire l'index pour un produit non défini."
 "Could not rebuild index for empty products array","Impossible de charger le fichier : ""%s""."
 "-- Please Select --","-- Faites un choix --"
 "Related Products","Produits associés"
