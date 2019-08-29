@@ -39,7 +39,7 @@
 "Invalid customer address id %1","Identifiant de l'adresse client %1 non valide"
 "Cannot create quote","Impossible de créer le devis"
 "Cannot assign customer to the given cart. The cart belongs to different store.","Impossible d'assigner le client au panier donné. Le panier appartient à un magasin différent."
-"Cannot assign customer to the given cart. The cart is not anonymous.","Cannot assign customer to the given cart. The cart is not anonymous."
+"Cannot assign customer to the given cart. The cart is not anonymous.","Impossible d'assigner le client au panier donné. Le panier n'est pas anonyme."
 "Cannot assign customer to the given cart. Customer already has active cart.","Cannot assign customer to the given cart. Customer already has active cart."
 "An error occurred on the server. Please try to place the order again.","Une erreur s'est produite sur le serveur. S'il vous plaît essayer de mettre de l'ordre nouveau."
 "Invalid state change requested","Changement d'état demandé non valide"
