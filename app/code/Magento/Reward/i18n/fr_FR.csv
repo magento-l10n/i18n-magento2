@@ -173,4 +173,4 @@
 "Sign in now and earn %1 for this order.","Inscrivez-vous maintenant et gagnez %1 pour cette commande."
 "The ""Minimum Reward Points Balance"" is invalid. The balance needs to be a positive number or left empty. Verify and try again.","Le ""solde minimum de points fidélité"" n'est pas valide. Le solde doit être un nombre positif ou laissé vide. Vérifiez et réessayez."
 "The ""Cap Reward Points Balance"" is invalid. The balance needs to be a positive number or left empty. Verify and try again.","Le ""solde maximum de points fidélité"" n'est pas valide. Le solde doit être un nombre positif ou laissé vide. Vérifiez et réessayez."
-"The ""Minimum Reward Points Balance"" is invalid. The balance needs to be less than or equal to the ""Cap Reward Points Balance"".","The ""Minimum Reward Points Balance"" is invalid. The balance needs to be less than or equal to the ""Cap Reward Points Balance""."
+"The ""Minimum Reward Points Balance"" is invalid. The balance needs to be less than or equal to the ""Cap Reward Points Balance"".","Le solde minimum de points fidélité n'est pas valide. Le solde doit être inférieur ou égal au solde maximum de points fidélité."
