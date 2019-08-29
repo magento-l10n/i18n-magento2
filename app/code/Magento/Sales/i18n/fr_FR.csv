@@ -430,7 +430,7 @@
 "The quantity to ship must not be greater than the unshipped quantity for product SKU ""%1"".","La quantité à livrer ne doit pas être supérieure à la quantité non expédiée pour le produit SKU ""%1""."
 "Please enter a tracking number.","Veuillez entrer un numéro de suivi."
 "Could not delete shipment","Impossible de supprimer l'expédition"
-"Could not save shipment","Could not save shipment"
+"Could not save shipment","Impossible d'enregistrer l'expédition"
 "The last status can't be unassigned from its current state.","The last status can't be unassigned from its current state."
 "Status can't be unassigned, because it is used by existing order(s).","Status can't be unassigned, because it is used by existing order(s)."
 "Could not delete the order status history.","Could not delete the order status history."
