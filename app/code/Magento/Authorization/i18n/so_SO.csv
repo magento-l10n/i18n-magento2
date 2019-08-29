@@ -1,0 +1,3 @@
+"We can't find the role for the user you wanted.","We can't find the role for the user you wanted."
+"Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log."
+"The role wasn't found for the user. Verify the role and try again.","The role wasn't found for the user. Verify the role and try again."
