@@ -34,7 +34,7 @@
 "Jetline","Jetline"
 "Freight worldwide","Transporte internacional"
 "Jumbo box","Buzón Jumbo"
-"DHL service is not available at %s date","DHL service is not available at %s date"
+"DHL service is not available at %s date","El servicio DHL no está disponible en la fecha %s"
 "The response is in wrong format.","La respuesta tiene un formato incorrecto."
 "We had to skip DHL method %1 because we couldn't find exchange rate %2 (Base Currency).","Tuvimos que saltar el método DHL %1 porque no pudimos encontrar el tipo de cambio %2 (moneda Base)."
 "Zero shipping charge for '%1'","Cero costo de envío para '%1'"
