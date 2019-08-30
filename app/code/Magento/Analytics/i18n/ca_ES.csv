@@ -7,7 +7,7 @@
 "--Please Select--","--Siusplau Seleccioni--"
 "Command was not found.","La comanda no s'ha trobat."
 "Input data must be string or convertible into string.","Input data must be string or convertible into string."
-"Input data must be non-empty string.","Input data must be non-empty string."
+"Input data must be non-empty string.","Les dades d’entrada han de ser una cadena de text no buida."
 "Not valid cipher method.","Not valid cipher method."
 "Encryption key can't be empty.","Encryption key can't be empty."
 "Source ""%1"" is not exist","Source ""%1"" is not exist"
