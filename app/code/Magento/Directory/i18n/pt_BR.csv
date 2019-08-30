@@ -52,6 +52,6 @@
 "An invalid base currency has been entered.","Uma moeda base inválida foi indicada."
 "Currency rates can't be retrieved.","Taxas de câmbio não podem ser recuperadas."
 "API Key","Chave de API"
-"The country isn't available.","The country isn't available."
-"The import model can't be initialized. Verify the model and try again.","The import model can't be initialized. Verify the model and try again."
+"The country isn't available.","O país não está disponível."
+"The import model can't be initialized. Verify the model and try again.","O modelo de importação não pode ser inicializado. Verifique o modelo e tente novamente."
 "Currency Converter API","Currency Converter API"
