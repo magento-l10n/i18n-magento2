@@ -99,7 +99,7 @@
 "Header Template","Plantilla de cabecera"
 "Footer Template","Plantilla de pie de página"
 "We're sorry, an error has occurred while generating this email.","Lo sentimos, se ha producido un error al generar este correo electrónico."
-"Emails","Emails"
+"Emails","Correos electrónicos"
 "Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in width/height fields below.","Permite tipos de archivo: jpg, jpeg, gif, png. Para optimizar la insignia para pantallas de alta resolución, subir una imagen que es tamaño normal x 3 y especificar dimensiones de x 1 en los campos anchura y altura más abajo."
 "Only necessary if image has been uploaded above. Enter number of pixels, without appending ""px"".","Sólo es necesario si la imagen se ha subido encima. Introduzca el número de píxeles, sin adición de ""px""."
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Plantilla de correo electrónico elegido basado en suplencia de tema cuando está seleccionada la opción ""Predeterminado""."
