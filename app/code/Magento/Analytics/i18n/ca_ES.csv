@@ -4,7 +4,7 @@
 "Cron settings can't be saved","Les configuracions del Cron no poden ser guardades"
 "There was an error save new configuration value.","N'hi ha hagut un error al guardar el valor de la nova configuració."
 "Please select a vertical.","Please select a vertical."
-"--Please Select--","--Siusplau Seleccioni--"
+"--Please Select--","--Si us plau, seleccioneu--"
 "Command was not found.","La comanda no s'ha trobat."
 "Input data must be string or convertible into string.","Input data must be string or convertible into string."
 "Input data must be non-empty string.","Les dades d’entrada han de ser una cadena de text no buida."
