@@ -1,4 +1,4 @@
-"Save Currency Rates","Salvar os impostos"
+"Save Currency Rates","Gravar Taxas de Câmbio"
 "Options","Opções"
 "Reset","Reiniciar"
 "Import","Importar"
@@ -19,5 +19,5 @@
 "Old rate:","Taxa antiga:"
 "Currency","Moeda"
 "Please correct the input data for %1 => %2 rate","Por favor, corrija os dados do campo %1 => taxa de %2"
-"The Import Service is incorrect. Verify the service and try again.","The Import Service is incorrect. Verify the service and try again."
-"The import model can't be initialized. Verify the model and try again.","The import model can't be initialized. Verify the model and try again."
+"The Import Service is incorrect. Verify the service and try again.","O Serviço de Importação está incorreto. Verifique o serviço e tente novamente."
+"The import model can't be initialized. Verify the model and try again.","O modelo de importação não pode ser inicializado. Verifique o modelo e tente novamente."
