@@ -11,6 +11,6 @@
 "Log to File","Log para Arquivo"
 "Not available in production mode.","Não disponível em modo de produção."
 "Front-end development workflow","Fluxo de trabalho de desenvolvimento de front-end"
-"Magento was installed with a table prefix. Please re-install without prefix.","Magento was installed with a table prefix. Please re-install without prefix."
+"Magento was installed with a table prefix. Please re-install without prefix.","O Magento foi instalado com um prefixo de tabela. Por favor reinstale sem prefixo."
 "Syslog","Syslog"
 "Log to Syslog","Log to Syslog"
