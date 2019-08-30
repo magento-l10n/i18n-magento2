@@ -121,7 +121,7 @@
 "Email to a Friend","Escribir correo electrónico a un amigo"
 "Action","Acción"
 "'The specified image adapter cannot be used because of: ' .","'The specified image adapter cannot be used because of: ' ."
-"The file ""' . . '"" does not exist","The file ""' . . '"" does not exist"
+"The file ""' . . '"" does not exist","El archivo ""' .. '"" no existe"
 "The class for ""%1"" type wasn't declared. Enter the class and try again.","La clase para el tipo ""%1"" no fue declarada. Introduzca la clase y vuelve a intentarlo."
 "The ""%1"" email address is incorrect. Verify the email address and try again.","La dirección de correo electrónico ""%1"" es incorrecta. Verificar la dirección de correo electrónico y vuelva a intentarlo."
 "The time zone is incorrect. Verify the time zone and try again.","La zona horaria es incorrecta. Verifica la zona horario e inténtelo de nuevo."
