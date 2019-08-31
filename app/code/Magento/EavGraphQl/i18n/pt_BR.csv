@@ -3,5 +3,5 @@
 "Attribute code %1 of entity type %2 not configured to have a type.","Código de atributo %1 do tipo de entidade %2 não configurado para ter um tipo."
 "Invalid entity_type specified: %1","Entity_type inválido especificado: %1"
 "Missing %1 for the input %2.","Faltando %1 para a entrada %2."
-"Type %1 has no internal representation declared.","Type %1 has no internal representation declared."
+"Type %1 has no internal representation declared.","O tipo %1 não possui representação interna declarada."
 "Cannot resolve EAV type","Não é possível resolver o tipo EAV"
