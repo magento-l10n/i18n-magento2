@@ -91,5 +91,5 @@
 "Package ready time after order submission (in hours)","Package ready time after order submission (in hours)"
 "The security validation of the XML document has failed.","The security validation of the XML document has failed."
 "Content Type (Non Domestic)","Content Type (Non Domestic)"
-"Documents Allowed Methods","Documents Allowed Methods"
-"Non Documents Allowed Methods","Non Documents Allowed Methods"
+"Documents Allowed Methods","Métodos de Documentos Permitidos"
+"Non Documents Allowed Methods","Métodos de Documentos Não Permitidos"
