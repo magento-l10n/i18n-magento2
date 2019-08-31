@@ -121,4 +121,4 @@
 "Action","Ação"
 "Edit","Editar"
 "Run","Executar"
-"For Type ""Local Server"" use relative path to Magento installation,  e.g. var/export, var/import, var/export/some/dir","For Type ""Local Server"" use relative path to Magento installation,  e.g. var/export, var/import, var/export/some/dir"
+"For Type ""Local Server"" use relative path to Magento installation,  e.g. var/export, var/import, var/export/some/dir","Para o tipo ""Servidor Local"" use um caminho relativo da instalação do Magento, e.g. var/export, var/import, var/export/some/dir"
