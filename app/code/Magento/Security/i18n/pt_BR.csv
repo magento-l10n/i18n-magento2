@@ -26,5 +26,5 @@
 "Limit the number of password reset request per hour. Use 0 to disable.","Limite o número de pedido de redefinição de senha por hora. Utilize 0 para desactivar."
 "Min Time Between Password Reset Requests","Tempo mínimo entre Solicitações de redefinição de senha"
 "Delay in minutes between password reset requests. Use 0 to disable.","Atraso em minutos entre as solicitações de redefinição de senha Use 0 para desabilitar."
-"Your account is temporarily disabled. Please try again later.","Your account is temporarily disabled. Please try again later."
-"We received too many requests for password resets. Please wait and try again later or contact %1.","We received too many requests for password resets. Please wait and try again later or contact %1."
+"Your account is temporarily disabled. Please try again later.","Sua conta está temporariamente desativada. Por favor, tente novamente mais tarde."
+"We received too many requests for password resets. Please wait and try again later or contact %1.","Recebemos muitas solicitações para redefinições de senha. Por favor, espere e tente novamente mais tarde ou contate %1."

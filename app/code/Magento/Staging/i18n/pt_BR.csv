@@ -85,7 +85,7 @@
 "Future Update already exists in this time range. Set a different range and try again.","Future Update already exists in this time range. Set a different range and try again."
 "The required parameter is ""%1"". Set parameter and try again.","The required parameter is ""%1"". Set parameter and try again."
 "The ""%1"" action type is invalid. Verify the action type and try again.","The ""%1"" action type is invalid. Verify the action type and try again."
-"The action is invalid. Verify the action and try again.","The action is invalid. Verify the action and try again."
+"The action is invalid. Verify the action and try again.","A ação é inválida. Verifique a ação e tente novamente."
 "The ""%1"" parameter is invalid. Verify the parameter and try again.","The ""%1"" parameter is invalid. Verify the parameter and try again."
 "The type that was requested doesn't have a corresponding implementation. Verity the type and try again.","The type that was requested doesn't have a corresponding implementation. Verity the type and try again."
 "Action class needs to implement ActionDataProviderInterface. Verify action class and try again.","Action class needs to implement ActionDataProviderInterface. Verify action class and try again."
