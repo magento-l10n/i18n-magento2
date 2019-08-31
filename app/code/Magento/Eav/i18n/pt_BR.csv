@@ -146,7 +146,7 @@
 "Not shared with other products","Não compartilhado com outros produtos"
 "'%value%' looks like a DNS hostname but we cannot match the TLD against known list.","'%value%' se parece com um nome de host DNS, mas nós não pudemos encontrar o TLD em uma lista conhecida."
 "Entity types declaration cache.","Declarações de cache dos tipos de entidade."
-"'Invalid backend model specified: ' .","'Invalid backend model specified: ' ."
+"'Invalid backend model specified: ' .","'Modelo de backend especificado inválido: '."
 "Text Editor input type requires WYSIWYG to be enabled in Stores > Configuration > Content Management.","Text Editor input type requires WYSIWYG to be enabled in Stores > Configuration > Content Management."
 "The attribute group doesn't belong to the provided attribute set.","The attribute group doesn't belong to the provided attribute set."
 "The attributeGroup can't be saved.","The attributeGroup can't be saved."
