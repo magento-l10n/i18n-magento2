@@ -25,5 +25,5 @@
 "Authentication header format is invalid.","O formato do cabeçalho de autenticação é inválido."
 "Authentication header is absent.","O Cabeçalho de autenticação está ausente."
 "REST and SOAP configurations, generated WSDL file.","Configurações REST e SOAP, ficheiro WSDL gerado."
-"Specified request cannot be processed.","Specified request cannot be processed."
-"The consumer isn't authorized to access %resources.","The consumer isn't authorized to access %resources."
+"Specified request cannot be processed.","A solicitação especificada não pode ser processada."
+"The consumer isn't authorized to access %resources.","O consumidor não está autorizado a acessar o %resources."

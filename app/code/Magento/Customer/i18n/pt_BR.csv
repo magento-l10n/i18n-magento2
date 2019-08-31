@@ -593,7 +593,7 @@
 "The password token is mismatched. Reset and try again.","O token da senha expirou. Redefina-o e tente novamente."
 "The password token is expired. Reset and try again.","O token da senha expirou. Redefina-o e tente novamente."
 "The transactional account email type is incorrect. Verify and try again.","O tipo de conta do e-mail transacional está incorreto. Verifique e tente novamente."
-"A valid password reset token is missing. Enter and try again.","A valid password reset token is missing. Enter and try again."
+"A valid password reset token is missing. Enter and try again.","Uma senha válida de token para redefinição está faltando. Insira e tente novamente."
 "The customer email is missing. Enter and try again.","The customer email is missing. Enter and try again."
 "A customer website ID wasn't specified. The ID must be specified to use the website scope.","A customer website ID wasn't specified. The ID must be specified to use the website scope."
 """regionId"" is required. Enter and try again.","""regionId"" is required. Enter and try again."
