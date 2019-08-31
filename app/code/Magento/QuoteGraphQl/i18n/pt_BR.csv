@@ -4,7 +4,7 @@
 "Missing key ""sku"" in cart item data","Chave ""sku"" faltando nos dados do item no carrinho"
 "Missing key ""qty"" in cart item data","Chave ""qty"" faltando nos dados do item no carrinho"
 "Could not find a cart with ID ""%masked_cart_id""","Não foi possível encontrar um carrinho com o ID ""%masked_cart_id"""
-"Current user does not have an active cart.","Current user does not have an active cart."
+"Current user does not have an active cart.","O cliente atual não tem um carrinho ativo."
 "The current user cannot perform operations on cart ""%masked_cart_id""","O usuário atual não pode realizar operações no carrinho ""%masked_cart_id"""
 "Could not find a cart address with ID ""%cart_address_id""","Could not find a cart address with ID ""%cart_address_id"""
 "The current user cannot use cart address with ID ""%cart_address_id""","The current user cannot use cart address with ID ""%cart_address_id"""
