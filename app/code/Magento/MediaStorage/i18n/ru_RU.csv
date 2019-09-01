@@ -6,7 +6,7 @@
 "File %1 is not readable","File %1 is not readable"
 "File System","Файловая система"
 "Database","База данных"
-"database ""%1""","database ""%1"""
+"database ""%1""","база данных ""%1"""
 "Parent directory does not exist: %1","Parent directory does not exist: %1"
 "File system","File system"
 "Unable to save file ""%1"" at ""%2""","Unable to save file ""%1"" at ""%2"""
