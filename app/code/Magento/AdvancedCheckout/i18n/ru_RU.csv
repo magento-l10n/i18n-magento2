@@ -99,7 +99,7 @@
 "Are you sure you want to remove this item?","Вы действительно хотите удалить этот элемент?"
 "SKU number","Номер SKU"
 "Upload File","Загрузить файл"
-"Your csv file must include ""sku"" and ""qty"" columns.","В вашем CSV-файле должны присутствовать колонки «sku» и «qty»."
+"Your csv file must include ""sku"" and ""qty"" columns.","Ваш csv файл должен содержать колонки ""sku"" и ""qty""."
 "Reset","Сбросить"
 "SKU: ","Артикул: "
 "Only <span id=""%1_max_allowed"">%2</span> in stock","Только <span id=""%1_max_allowed"">%2</span> на складе"
