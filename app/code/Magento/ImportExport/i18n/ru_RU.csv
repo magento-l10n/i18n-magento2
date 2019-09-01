@@ -124,7 +124,7 @@
 "in rows:","in rows:"
 "Data validation is failed. Please fix errors and re-upload the file.","Data validation is failed. Please fix errors and re-upload the file."
 "in rows","in rows"
-"'Error in CSV: ' .","'Error in CSV: ' ."
+"'Error in CSV: ' .","'Ошибка в CSV: ' ."
 "File must be saved in UTF-8 encoding for proper import","File must be saved in UTF-8 encoding for proper import"
 "There is no file: %file","There is no file: %file"
 "Empty attribute value constant","Empty attribute value constant"
