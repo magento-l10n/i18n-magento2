@@ -1,7 +1,7 @@
 "AVS result code","Код результата AVS"
 "CVN result code","CVN result code"
 "Card number","Номер карты"
-"Card expiry date","Card expiry date"
+"Card expiry date","Дата истечения срока действия карты"
 "Decision","Decision"
 "Transaction ID","ID транзакции"
 "Risk Score","Оценка Риска"
