@@ -43,7 +43,7 @@
 "Bucket do not exists","Bucket do not exists"
 "Modify your search","Изменить ваш поиск"
 "Test Exception","Test Exception"
-"Please enter a valid price range.","Please enter a valid price range."
+"Please enter a valid price range.","Пожалуйста, укажите допустимый диапазон цен."
 "Number of popular search terms to be cached for faster response. Use “0” to cache all results after a term is searched for the second time.","Number of popular search terms to be cached for faster response. Use “0” to cache all results after a term is searched for the second time."
 "Enable EAV Indexer","Enable EAV Indexer"
 "Enter a search term and try again.","Enter a search term and try again."
