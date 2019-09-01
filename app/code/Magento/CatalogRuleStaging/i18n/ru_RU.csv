@@ -41,7 +41,7 @@
 "Start Time","Время начала"
 "End Time","Время окончания"
 "Catalog Price Rules","Правило цен каталога"
-"Remove Catalog Price Rule from Campaign","Remove Catalog Price Rule from Campaign"
+"Remove Catalog Price Rule from Campaign","Удалить ценовое правило каталога из кампании"
 "Future Update End Time cannot be equal or earlier than Start Time.","Future Update End Time cannot be equal or earlier than Start Time."
 "Move to Another Campaign","Переместить в другую кампанию"
 "Deleting the update will remove the catalog price rule from this campaign and all scheduled changes will be lost.","Удаление обновления удалит правило цен каталога из этой кампании, и все запланированные изменения будут потеряны."
