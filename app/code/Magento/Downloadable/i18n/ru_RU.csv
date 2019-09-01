@@ -27,7 +27,7 @@
 "Order item id cannot be null","Order item id cannot be null"
 "Provided product must be type 'downloadable'.","Provided product must be type 'downloadable'."
 "Provided link information is invalid.","Provided link information is invalid."
-"Invalid link type.","Invalid link type."
+"Invalid link type.","Неверный тип ссылки."
 "Link title cannot be empty.","Link title cannot be empty."
 "There is no downloadable link with provided ID.","There is no downloadable link with provided ID."
 "Provided downloadable link is not related to given product.","Provided downloadable link is not related to given product."

@@ -1,5 +1,5 @@
 "Format for IDE '%1' is not supported","Формат для IDE «%1» не поддерживается"
-"Client side compilation doesn't work in production mode","Client side compilation doesn't work in production mode"
+"Client side compilation doesn't work in production mode","Компиляция на стороне клиента не работает в production режиме"
 "Client side less compilation","Компиляция less на стороне клиента"
 "Server side less compilation","Компиляция less на стороне сервера"
 "Frontend Development Workflow","Frontend Development Workflow"

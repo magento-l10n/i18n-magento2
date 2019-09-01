@@ -1,6 +1,6 @@
 "The search failed because of a search engine misconfiguration.","The search failed because of a search engine misconfiguration."
-"Elasticsearch Server Hostname","Elasticsearch Server Hostname"
-"Elasticsearch Server Port","Elasticsearch Server Port"
+"Elasticsearch Server Hostname","Имя сервера Elasticsearch"
+"Elasticsearch Server Port","Порт сервера Elasticsearch"
 "Elasticsearch Index Prefix","Elasticsearch Index Prefix"
 "Enable Elasticsearch HTTP Auth","Enable Elasticsearch HTTP Auth"
 "Elasticsearch HTTP Username","Elasticsearch HTTP Username"

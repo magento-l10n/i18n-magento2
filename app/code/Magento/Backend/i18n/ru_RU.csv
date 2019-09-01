@@ -519,7 +519,7 @@
 "Enable Frontend Resize","Enable Frontend Resize"
 "Invalid security or form key. Please refresh the page.","Invalid security or form key. Please refresh the page."
 "An item needs to be selected. Select and try again.","An item needs to be selected. Select and try again."
-"These cache type(s) don't exist: %1","These cache type(s) don't exist: %1"
+"These cache type(s) don't exist: %1","Данные тип(ы) кэша не существует: %1"
 "The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later."
 "An authentication error occurred. Verify and try again.","An authentication error occurred. Verify and try again."
 "The Admin session lifetime is invalid. Set the lifetime to 31536000 seconds (one year) or shorter and try again.","The Admin session lifetime is invalid. Set the lifetime to 31536000 seconds (one year) or shorter and try again."
