@@ -516,7 +516,7 @@
 "Please select a node.","Пожалуйста, выберите узел."
 "Please enter a new group name.","Пожалуйста, введите имя новой группы."
 "An attribute group named ""/name/"" already exists.","Группа атрибутов с именем «имя /» уже существует."
-"Sorry, we're unable to complete this request.","Sorry, we're unable to complete this request."
+"Sorry, we're unable to complete this request.","Извините, мы не можем выполнить этот запрос."
 "You can't remove attributes from this attribute set.","You can't remove attributes from this attribute set."
 "Custom Options","Пользовательские настройки"
 "This is a required option.","Это обязательный параметр."
