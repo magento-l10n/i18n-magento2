@@ -11,7 +11,7 @@
 "Persistent Shopping Cart","Persistent Shopping Cart"
 "General Options","Общие параметры"
 "Enable Persistence","Enable Persistence"
-"Persistence Lifetime (seconds)","Persistence Lifetime (seconds)"
+"Persistence Lifetime (seconds)","Время жизни (секунд)"
 "Enable ""Remember Me""","Enable ""Remember Me"""
 """Remember Me"" Default Value","""Remember Me"" Default Value"
 "Clear Persistence on Sign Out","Clear Persistence on Sign Out"
