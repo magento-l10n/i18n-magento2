@@ -732,11 +732,11 @@
 "Color","Color"
 "Product Pages","Product Pages"
 "Cart Page","Cart Page"
-"Mini Cart","Mini Cart"
+"Mini Cart","Mini carrito"
 "Features","Características"
-"Disable Funding Options","Disable Funding Options"
+"Disable Funding Options","Desactivar opciones de financiación"
 "PayPal will automatically display each enabled funding option to eligible buyers.
                                 For example, PayPal Credit is only shown to buyers in countries where PayPal Credit is
-                                offered and the currency offered by the merchant is USD.","PayPal will automatically display each enabled funding option to eligible buyers.
-                                For example, PayPal Credit is only shown to buyers in countries where PayPal Credit is
-                                offered and the currency offered by the merchant is USD."
+                                offered and the currency offered by the merchant is USD.","PayPal mostrará automáticamente cada opción de financiación habilitada a los compradores elegibles.
+                                Por ejemplo, el crédito de PayPal solo se muestra a los compradores en países donde el crédito de PayPal es
+                                ofrecido y la moneda ofrecida por el comerciante es USD."
