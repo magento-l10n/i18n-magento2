@@ -45,7 +45,7 @@
 "State is Required for","Estado es necesario para"
 "Allow to Choose State if It is Optional for Country","Permiten elegir estado si es opcional para el país"
 "Weight Unit","Unidad de peso"
-"Base currency is used for all online payment transactions. If you have more than one store view, the base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").","Base currency is used for all online payment transactions. If you have more than one store view, the base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"")."
+"Base currency is used for all online payment transactions. If you have more than one store view, the base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").","La moneda base se utiliza para todas las transacciones de pago en línea. Si tiene más de una vista de la tienda, el alcance de la moneda base se define por el alcance del precio de catálogo (""Catalog"" > ""Price"" > ""Catalog Price Scope"")."
 "No API Key was specified or an invalid API Key was specified.","No se especificó una clave de API o se especificó una clave de API no válida."
 "The account this API request is coming from is inactive.","La cuenta de la que proviene esta solicitud de API está inactiva."
 "The ""%1"" is not allowed as base currency for your subscription plan.","El ""%1"""" no está permitido como moneda base para su plan de suscripción."
