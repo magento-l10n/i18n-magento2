@@ -123,7 +123,7 @@
 "The maximum number of child authorizations is reached.","The maximum number of child authorizations is reached."
 "We'll authorize the amount of %1 as soon as the payment gateway approves it.","We'll authorize the amount of %1 as soon as the payment gateway approves it."
 "The authorized amount is %1.","The authorized amount is %1."
-"PayPal can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.","PayPal can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process."
+"PayPal can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.","PayPal не может обрабатывать заказы с нулевым балансом. Чтобы оформить покупку, пожалуйста, пройдите стандартный процесс оформления заказа."
 "A payer is not identified.","A payer is not identified."
 "Cannot get secure form URL from PayPal","Cannot get secure form URL from PayPal"
 "Last Transaction ID","Last Transaction ID"
