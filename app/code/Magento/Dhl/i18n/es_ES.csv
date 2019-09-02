@@ -89,6 +89,6 @@
 "Ready time","Tiempo preparación"
 "Package ready time after order submission (in hours)","Tiempo de preparación del paquete desde la solicitud del pedido (en horas)"
 "The security validation of the XML document has failed.","La validación de seguridad del documento XML ha fallado."
-"Content Type (Non Domestic)","Content Type (Non Domestic)"
+"Content Type (Non Domestic)","Tipo de contenido (No interno)"
 "Documents Allowed Methods","Métodos permitidos para documentos"
-"Non Documents Allowed Methods","Non Documents Allowed Methods"
+"Non Documents Allowed Methods","Métodos permitidos para no documentos"
