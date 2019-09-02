@@ -9,7 +9,7 @@
 "%name,","%name,"
 "Welcome to %store_name.","Bienvenido a %store_name."
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Para iniciar sesión, utiliza estas credenciales durante el proceso de compra o en la página <a href=""%customer_url"">Mi cuenta</a>:"
-"Email:","Email:"
+"Email:","Correo electrónico:"
 "Password:","Contraseña:"
 "Password you set when creating account","Contraseña que ingresaste al crear la cuenta"
 "Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","¿Olvidó la contraseña de su cuenta? Haga clic <a href=""%reset_url""> aquí</a> para restablecerla."
