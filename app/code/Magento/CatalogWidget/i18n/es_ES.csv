@@ -15,7 +15,7 @@
 "Number of Products to Display","Número de artículos a mostrar"
 "Template","Plantilla"
 "Products Grid Template","Plantilla de Cuadrícula de Productos"
-"Cache Lifetime (Seconds)","Ciclo de vida caché (segundos)"
+"Cache Lifetime (Seconds)","Duración de caché (segundos)"
 "86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","La opción predeterminada es 86400, si no se configura. Para actualizarla instantáneamente, borre el caché de salida de bloques HTML."
 "Conditions","Condiciones"
 "
