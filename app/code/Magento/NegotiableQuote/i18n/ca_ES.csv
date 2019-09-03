@@ -330,8 +330,8 @@
 "Dear %merchantName,","Dear %merchantName,"
 "The quote ","The quote "
 " after which time it will be reset to its default expiration period. To extend the
-    lifetime of the quote, update its expiration date."," after which time it will be reset to its default expiration period. To extend the
-    lifetime of the quote, update its expiration date."
+    lifetime of the quote, update its expiration date."," passat el temps, es restablirà al període de caducitat predeterminat. Per ampliar la
+    vida útil del pressupost, actualitzeu la seva data de caducitat."
 "Expiration date for the Quote %quoteName has been reset so you can keep working on the quote.
     You can set a new expiration date if you wish.","Expiration date for the Quote %quoteName has been reset so you can keep working on the quote.
     You can set a new expiration date if you wish."
