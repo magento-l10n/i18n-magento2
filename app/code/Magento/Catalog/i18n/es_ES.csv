@@ -712,7 +712,7 @@
 "New Products Images and Names Template","Plantilla de imágenes de productos y nombres nuevas"
 "New Products Names Only Template","Plantilla de sólo nombres de nuevos productos"
 "New Products Images Only Template","Plantilla de sólo imágenes de nuevos productos"
-"Cache Lifetime (Seconds)","Ciclo de vida caché (segundos)"
+"Cache Lifetime (Seconds)","Duración de caché (segundos)"
 "86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","La opción predeterminada es 86400, si no se configura. Para actualizarla instantáneamente, borre el caché de salida de bloques HTML."
 "Catalog Product Link","Enlace al catálgo de artículos"
 "Link to a Specified Product","Enlace a un artículo específico"
