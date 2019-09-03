@@ -127,7 +127,7 @@
 "Maximum Login Failures to Lockout Account","Maximum Login Failures to Lockout Account"
 "We will disable this feature if the value is empty.","We will disable this feature if the value is empty."
 "Lockout Time (minutes)","Lockout Time (minutes)"
-"Password Lifetime (days)","Password Lifetime (days)"
+"Password Lifetime (days)","Durada de la contrasenya (dies)"
 "Password Change","Password Change"
 "Unlock","Unlock"
 "ID","ID"

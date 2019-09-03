@@ -717,7 +717,7 @@
 "Dashboard","Dashboard"
 "Use Aggregated Data","Use Aggregated Data"
 "Orders Cron Settings","Orders Cron Settings"
-"Pending Payment Order Lifetime (minutes)","Pending Payment Order Lifetime (minutes)"
+"Pending Payment Order Lifetime (minutes)","Caducitat de les ordres de pagament pendents (minuts)"
 "Sales Emails","Sales Emails"
 "Asynchronous sending","Asynchronous sending"
 "Enabled","Enabled"

@@ -15,7 +15,7 @@
 "Number of Products to Display","Number of Products to Display"
 "Template","Template"
 "Products Grid Template","Products Grid Template"
-"Cache Lifetime (Seconds)","Cache Lifetime (Seconds)"
+"Cache Lifetime (Seconds)","Durada de la memòria cau (segons)"
 "86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache."
 "Conditions","Conditions"
 "
