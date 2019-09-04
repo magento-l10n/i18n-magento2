@@ -451,7 +451,7 @@
 "First Name","Nome"
 "Last Name","Sobrenome"
 "State/Province","Estado"
-"Street Address","Rua"
+"Street Address","Endereço"
 "Phone Number","Número do Telefone"
 "Zip/Postal Code","CEP"
 "We can't save the address:\n%1","Não é possível salvar o endereço:\n%1"
