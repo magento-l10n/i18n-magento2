@@ -31,7 +31,7 @@
 "We can't move %1 items.","No podemos mover %1 artículos."
 "%1 items were moved to %2: %3.","%1 artículos fueron trasladados a %2: %3."
 "%1 for ""%2""","%1 por ""%2"""
-"We can't add the item to shopping cart.","No podemos agregar el artículo al carrito de compra."
+"We can't add the item to shopping cart.","No podemos añadir el artículo al carrito de compra."
 "We can't add the following product(s) to shopping cart: %1.","No podemos añadir los siguientes productos al carrito de compras: %1."
 "Product(s) %1 have required options. Each product can only be added individually.","El (los) artículo(s) %1 requieren opciones. Cada artículo solo se puede añadir de manera individual."
 "%1 product(s) have been added to shopping cart: %2.","%1 producto (s) se han agregado al carrito de compras: %2."
