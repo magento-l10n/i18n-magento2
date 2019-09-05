@@ -20,7 +20,7 @@
 "Cannot specify product.","Cannot specify product."
 "%1 has been updated in your requisition list.","%1 has been updated in your requisition list."
 "Product %1 has been added to the requisition list %2.","Product %1 has been added to the requisition list %2."
-"Options were updated. Please review available configurations.","Options were updated. Please review available configurations."
+"Options were updated. Please review available configurations.","Opcions actualitzades. Si us plau, reviseu les configuracions disponibles."
 "The SKU is out of stock.","The SKU is out of stock."
 "The requested qty is not available","The requested qty is not available"
 "Could not save Requisition List. Maximum number of requisition lists was exceeded.","Could not save Requisition List. Maximum number of requisition lists was exceeded."
