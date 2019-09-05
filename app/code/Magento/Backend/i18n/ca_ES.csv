@@ -491,7 +491,7 @@
 "Enable Javascript Bundling","Activar agrupament de JavaScript"
 "Recovery Link Expiration Period (days)","Restablir Període d'expiració d'enllaços (dies)"
 "Values less than 60 are ignored.","Valors inferiors a 60 són ignorats."
-"Copyright &copy; %1 Magento, Inc. All rights reserved.","Copyright &copy; %1 Magento, Inc. All rights reserved."
+"Copyright &copy; %1 Magento, Inc. All rights reserved.","Copyright &copy; %1 Magento Inc. Tots els drets reservats."
 "Add New User Agent Rule","Add New User Agent Rule"
 "Magento_Ui/js/dynamic-rows/record","Magento_Ui/js/dynamic-rows/record"
 "Search String","Search String"
