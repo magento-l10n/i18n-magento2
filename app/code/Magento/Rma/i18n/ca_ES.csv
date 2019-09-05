@@ -321,7 +321,7 @@
 "You can check the status of your return <a href=""%form_url"">using your order number</a>.","You can check the status of your return <a href=""%form_url"">using your order number</a>."
 "If you have any questions about your return, please contact us at <a href=""mailto:%support_email"">%support_email</a>.","If you have any questions about your return, please contact us at <a href=""mailto:%support_email"">%support_email</a>."
 "%store_name: Return #%increment_id update","%store_name: Return #%increment_id update"
-"We received your return request. You will be notified when your request is reviewed.","We received your return request. You will be notified when your request is reviewed."
+"We received your return request. You will be notified when your request is reviewed.","Hem rebut la vostra sol·licitud de devolució. Sereu notificat quan es revisi la vostra sol·licitud."
 "Placed on %created_at","Placed on %created_at"
 "Click Details for more required fields.","Click Details for more required fields."
 "Ok","Ok"
