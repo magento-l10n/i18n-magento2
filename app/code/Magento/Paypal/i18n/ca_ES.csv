@@ -524,7 +524,7 @@
 "Billing Agreement Signup","Billing Agreement Signup"
 "Whether to create a billing agreement, if there are no active billing agreements available.","Whether to create a billing agreement, if there are no active billing agreements available."
 "Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.","Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account."
-"Skip Order Review Step","Skip Order Review Step"
+"Skip Order Review Step","Saltar el pas de revisió de la comanda"
 "PayPal Billing Agreement Settings","PayPal Billing Agreement Settings"
 "Enabled","Enabled"
 "Will appear as a payment option only for customers who have at least one active billing agreement.","Will appear as a payment option only for customers who have at least one active billing agreement."
