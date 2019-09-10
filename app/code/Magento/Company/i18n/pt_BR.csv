@@ -299,7 +299,7 @@ como o membro da empresa.
 "Default 'Customer Status Inactive' Email","E-mail predefinido 'Status do cliente inativo'"
 "Company Status Change","Alteração de status da empresa"
 "Send Company Status Change Email Copy To","Enviar cópia do e-mail de alteração do status da empresa para"
-"Comma-separated. The recipient(s) will get a copy of an email which is by default sent to the Company Admin only.","Separado por vírgula. O(s) destinatário(s) receberá(ão) uma cópia de um email que é enviado por padrão somente ao Administrador da Empresa."
+"Comma-separated. The recipient(s) will get a copy of an email which is by default sent to the Company Admin only.","Separado por vírgula. O(s) destinatário(s) receberá(ão) uma cópia de um e-mail que é enviado por padrão somente ao Administrador da Empresa."
 "Default 'Company Status Change To Active 1"" Email","E-mail predefinido 'Mudança de Status da Empresa para Ativo 1'"
 "This email is sent when company status changes from Pending Approval to Active.","Este e-mail é enviado quando o status da empresa muda de aprovação pendente para ativo."
 "Default 'Company Status Change To Active 2"" Email","E-mail predefinido 'Alteração de status da empresa para ativo 2'"
