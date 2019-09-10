@@ -35,7 +35,7 @@
 """%1"" is an empty string.","""%1"" é uma seqüência vazia."
 """%1"" contains non-numeric characters.","""%1"" contém caracteres não-numéricos."
 """%1"" contains non-alphabetic characters.","""%1"" contém caracteres não-alfabéticos."
-"""%1"" is not a valid email address.","""%1"" não é um endereço de email válido."
+"""%1"" is not a valid email address.","""%1"" não é um endereço de e-mail válido."
 """%1"" is not a valid hostname.","""%1"" não é um hostname válido."
 """%1"" uses too many characters.","""%1"" usa muitos caracteres."
 "'%value%' looks like an IP address, which is not an acceptable format.","""%value%"" o formato do endereço de IP informado não é aceitável."
