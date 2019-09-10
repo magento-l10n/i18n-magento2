@@ -14,7 +14,7 @@
 "These arguments can't be empty ""%1""","Estes argumentos não podem ser vazios ""%1"""
 "Cannot find predefined integration user!","Não é possível encontrar o usuário de integração predefinido!"
 "File is not ready yet.","Arquivo ainda não está pronto."
-"Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","O seu URL foi alterado e os seus relatórios estão a ser actualizados. Relatórios avançados estarão disponiveis após esta alteração estar completa. Por favor tente mais tarde."
+"Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Sua URL Base foi alterada e seus relatórios estão sendo atualizados. Relatório Avançado estará disponível após esta alteração ser processada. Por favor, tente novamente mais tarde."
 "Failed to synchronize data to the Magento Business Intelligence service. ","Falha ao sincronizar os dados para o Magento Business Intelligence service. "
 "<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Repetir Sincronização</a>"
 "TestMessage","Mensagem de teste"
