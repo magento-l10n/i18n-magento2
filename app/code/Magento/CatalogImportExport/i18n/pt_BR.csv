@@ -1,4 +1,4 @@
-"Entity type model '%1' is not found","Model do tipo de entidade '%1' não foi encontrado"
+"Entity type model '%1' is not found","O modelo do tipo de entidade '%1' não foi encontrado"
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","O modelo do tipo de entidade deve ser uma instância de \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType"
 "There are no product types available for export.","Tipo de produto não disponível para exportar."
 "'Entity type model must be an instance of ' .","'Modelo de tipo de entidade deve ser uma instância de'."
