@@ -81,7 +81,7 @@
 "Please use only letters (a-z or A-Z), numbers (0-9), spaces and ""#"" in this field.","Por favor use somente letras (a-z ou A-Z), números (0-9), espaços e ""#"" neste campo."
 "Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.","Por favor insira um número de telefone válido. Por exemplo (+35) 21 1234 1234"
 "Please enter a valid fax number (Ex: 123-456-7890).","Por favor insira um número de fax válido. (Ex: 210 123 123)."
-"Please enter a valid email address (Ex: johndoe@domain.com).","Por favor insira um endereço de email válido (Ex: exemplo@dominio.com)."
+"Please enter a valid email address (Ex: johndoe@domain.com).","Por favor insira um endereço de e-mail válido (Ex: exemplo@dominio.com)."
 "Please enter 6 or more characters. Leading and trailing spaces will be ignored.","Por favor insira 6 ou mais caracteres. Os espaços iniciais ou finais serão ignorados."
 "Please enter 7 or more characters, using both numeric and alphabetic.","Por favor insira 7 ou mais caracteres, usando caracteres numéricos e alfabéticos."
 "Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","Comprimento mínimo deste campo deve ser igual ou maior que %1 símbolos. Espaços a esquerda e a direita serão ignorados."
