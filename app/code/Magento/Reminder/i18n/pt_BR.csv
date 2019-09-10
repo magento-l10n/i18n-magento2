@@ -148,7 +148,7 @@
 "Maximum Emails per One Run","Máximos e-mails por uma execução"
 "Email Send Failure Threshold","Limite de falha ao enviar e-mail"
 "Make sure to enter a limit value, or reminder emails will be re-issued to customers in a loop.","Certifique-se que insere um valor limite, ou os emails de lembrete serão re-enviados aos clientes num ciclo."
-"Reminder Email Sender","Remetente do Email de Lembrete"
+"Reminder Email Sender","Remetente do E-mail de Lembrete"
 "Rule","Regra"
 "Start","Ínicio"
 "End","Fim"
