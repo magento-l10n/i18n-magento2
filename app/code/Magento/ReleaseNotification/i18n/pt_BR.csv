@@ -146,7 +146,7 @@
 <ul><li><span>Botão ""Compra instantânea"" configurável para fazer pedidos.</span></li>
 <li><span>Suporte para todas as soluções de pagamento usando o Braintree Vault, incluindo o Braintree Credit Card, o Braintree PayPal e o PayPal Payflow Pro.</span></li>
 <li><span>Envio para o endereço padrão do cliente usando o método de envio mais barato e disponível.</span></li><li> <span>Capacidade de os desenvolvedores personalizarem a lógica comercial de compra instantânea para atender às necessidades dos comerciantes.</span></li></ul>                        "
-"Email Marketing Automation","Automação de Email Marketing"
+"Email Marketing Automation","Automação de E-mail Marketing"
 "
                         <p>Unlock an unparalleled level of insight and control of your eCommerce marketing with
                         dotmailer Email Marketing Automation. Included with Magento 2.2.2 for easy set-up, dotmailer
