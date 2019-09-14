@@ -187,5 +187,5 @@
 "Weight:","Peso:"
 "The comment is missing. Enter and try again.","O comentário está faltando. Insira e tente novamente."
 "The security validation of the XML document has failed.","A validação de segurança do documento XML falhou."
-"The ""%1"" carrier is invalid. Verify and try again.","The ""%1"" carrier is invalid. Verify and try again."
-"Shipping labels can't be created. Verify that the store information and settings are complete and try again.","Shipping labels can't be created. Verify that the store information and settings are complete and try again."
+"The ""%1"" carrier is invalid. Verify and try again.","A transportadora ""%1"" é inválida. Verifique e tente novamente."
+"Shipping labels can't be created. Verify that the store information and settings are complete and try again.","Não foi possível gerar as etiquetas de envio. Verifique se as informações e configurações da loja estão completas e tente novamente."
