@@ -732,13 +732,13 @@
 "Select Responsive to ensure the PayPal button renders correctly on mobile devices.","Selecione a Resposta para garantir que o botão PayPal renderize corretamente em dispositivos móveis."
 "Shape","Formato"
 "Color","Cor"
-"Product Pages","Product Pages"
-"Cart Page","Cart Page"
-"Mini Cart","Mini Cart"
-"Features","Features"
-"Disable Funding Options","Disable Funding Options"
+"Product Pages","Páginas de Produto"
+"Cart Page","Página do carrinho"
+"Mini Cart","Mini carrinho"
+"Features","Recursos"
+"Disable Funding Options","Desativar opções de financiamento"
 "PayPal will automatically display each enabled funding option to eligible buyers.
                                 For example, PayPal Credit is only shown to buyers in countries where PayPal Credit is
-                                offered and the currency offered by the merchant is USD.","PayPal will automatically display each enabled funding option to eligible buyers.
-                                For example, PayPal Credit is only shown to buyers in countries where PayPal Credit is
-                                offered and the currency offered by the merchant is USD."
+                                offered and the currency offered by the merchant is USD.","O PayPal exibirá automaticamente cada opção de financiamento ativada para compradores qualificados.
+                                 Por exemplo, o crédito do PayPal é mostrado apenas para compradores em países onde o crédito do PayPal é
+                                 oferecido e a moeda oferecida pelo comerciante é USD."
