@@ -1,4 +1,4 @@
-"The search failed because of a search engine misconfiguration.","The search failed because of a search engine misconfiguration."
+"The search failed because of a search engine misconfiguration.","A pesquisa falhou devido a uma configuração incorreta do mecanismo de pesquisa."
 "There is no such data mapper ""%1"" for interface %2","O mapeador de dados ""%1"" para a interface ""%2"" não existe"
 "Data mapper ""%1"" must implement interface %2","Mapeador de dados ""%1"" deve implementar a interface ""%2"""
 "Could not ping search engine: %1","Não conseguimos efetuar um ping ao motor de busca: %1"
