@@ -24,5 +24,5 @@
 "Built-in Application (Not Recommended for Production Use)","Built-in aplicativo (não recomendado para uso em produção)"
 "Varnish Caching","Varnish Caching"
 "Full page caching.","Cache de página interira."
-"Access List value ""%1"" is not valid. Please use only IP addresses and host names.","Access List value ""%1"" is not valid. Please use only IP addresses and host names."
+"Access List value ""%1"" is not valid. Please use only IP addresses and host names.","O valor ""%1"" da lista de acesso não é válido. Por favor, use apenas endereços de IP e nomes de host."
 "Export Configuration","Exportar configuração"
