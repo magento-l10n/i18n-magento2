@@ -17,7 +17,7 @@
 "Some error","Algum erro"
 "some message","alguma mensagem"
 "Exception","Exceção"
-"The class for ""%1"" type wasn't declared. Enter the class and try again.","The class for ""%1"" type wasn't declared. Enter the class and try again."
+"The class for ""%1"" type wasn't declared. Enter the class and try again.","A classe para o tipo ""%1"" não foi declarada. Digite a classe e tente novamente."
 "The value can't be empty. Enter the value and try again.","O valor não pode ser vazio. Digite o valor e tente novamente."
 "The mode can't be switched to ""%1"".","O modo não pode ser alternado para ""%1""."
 "The hash isn't saved.","O hash não foi salvo."
