@@ -81,7 +81,7 @@
 "Assign Companies","Atribuir empresas"
 "General Settings","Configurações Gerais"
 "Delete ""${ $.$data.name }""","Excluir{ $.$data.name } $"
-"Catalog and Tier Price","Catalog and Tier Price"
+"Catalog and Tier Price","Catálogo e Camada de Preço"
 "Group or Catalog","Grupo ou Catálogo"
 "You must enable the <a href=""%1"" data-role=""notification-dialog"">shared catalog</a> feature in 
         Stores -> Configuration -> B2B Features to use the shared catalogs in the storefront.
@@ -97,7 +97,7 @@
     configuring in shared catalogs will not be restricted to customers."
 "Next","Próximo"
 "Edit Configurations","Editar Configurações"
-"Products in Catalog","Products in Catalog"
+"Products in Catalog","Produtos no Catalogo"
 "Continue to configure the shared catalog structure and pricing.","Continue to configure the shared catalog structure and pricing."
 "Store:","Loja:"
 "Step 2: Set Custom Prices","Passo 2: Definir Preços Customizados"
@@ -120,8 +120,8 @@
 "Expand All","Expandir Tudo"
 "Collapse All","Recolher Tudo"
 "of","de"
-"included","included"
-"Shared Catalog","Shared Catalog"
+"included","incluído"
+"Shared Catalog","Catálogo Compartilhado"
 "Manage Shared Catalog","Manage Shared Catalog"
 "Enable Shared Catalog","Enable Shared Catalog"
 "To select No, please <a href=""%1"">create</a> the Public Catalog first.","To select No, please <a href=""%1"">create</a> the Public Catalog first."

@@ -95,6 +95,6 @@
 "The Future Update End Time is invalid. It can't be the same time or earlier than the current time.","O horário de término da atualização futura é inválido. Não pode ser no mesmo tempo ou antes do tempo atual."
 "The Future Update End Time is invalid. It can't be earlier than the current time.","O horário de término da atualização futura é inválido. Não pode ser antes do tempo atual."
 "The update with the ""%1"" ID doesn't exist. Verify the ID and try again.","A atualização com o ID ""%1"" não existe. Verifique o ID e tente novamente."
-"The active update can't be deleted.","The active update can't be deleted."
+"The active update can't be deleted.","A atualização ativa não pode ser excluída."
 "The start time can't be changed while the update is active. Please wait until the update is complete and try again.","The start time can't be changed while the update is active. Please wait until the update is complete and try again."
 "The future update was unable to be saved. Please try again.","The future update was unable to be saved. Please try again."
