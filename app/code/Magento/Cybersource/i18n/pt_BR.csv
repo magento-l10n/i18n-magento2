@@ -57,7 +57,7 @@
 "Sort Order","Ordernação"
 "Authorize Only","Apenas Autorizar"
 "Webhook URL","URL do webhook"
-"Webhook URL should be set in your Cybersource account as Transaction Response Page.","Webhook URL should be set in your Cybersource account as Transaction Response Page."
+"Webhook URL should be set in your Cybersource account as Transaction Response Page.","A URL do Webhook deve ser definida na sua conta CyberSource como uma Página de Resposta da Transação."
 "Is admin panel works on the different domain?","O painel de administração funciona no domínio diferente?"
 "Admin Profile ID","ID do perfil administrador"
 "Admin Access Key","Chave de Acesso do Admin"
