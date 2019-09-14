@@ -368,5 +368,5 @@
 "Invalid Form Key. Please refresh the page.","Chave de formulário inválida. Por favor, atualize a página."
 "The label cannot be created for '%1' because the product does not exist in the system.","A etiqueta não pode ser criada para '%1' porque o produto não existe no sistema."
 "The service is unknown. Verify the service and try again.","O serviço é desconhecido. Verifique o tipo de serviço e tente novamente."
-"The entity that was requested doesn't exist. Verify the entity and try again.","The entity that was requested doesn't exist. Verify the entity and try again."
-"The ""%1"" carrier is invalid. Verify and try again.","The ""%1"" carrier is invalid. Verify and try again."
+"The entity that was requested doesn't exist. Verify the entity and try again.","A opção solicitada não existe. Verifique as informações e tente novamente."
+"The ""%1"" carrier is invalid. Verify and try again.","A transportadora ""%1"" não é válida. Verifique e tente novamente."
