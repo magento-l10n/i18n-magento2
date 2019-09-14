@@ -37,5 +37,5 @@
 """model"" values should be specified","Valores de ""model"" devem ser especificados."
 "Required parameter ""cart_items"" is missing.","O parâmetro ""cart_items""  é obrigatório."
 "Required parameter ""cart_item_id"" for ""cart_items"" is missing.","O parâmetro ""cart_item_id"" para ""cart_items"" é obrigatório."
-"Required parameter ""quantity"" for ""cart_items"" is missing.","Required parameter ""quantity"" for ""cart_items"" is missing."
-"Could not find cart item with id: %1.","Could not find cart item with id: %1."
+"Required parameter ""quantity"" for ""cart_items"" is missing.","O parâmetro ""quantity"" para ""cart_items"" é obrigatório."
+"Could not find cart item with id: %1.","Não foi possível encontrar o item do carrinho com id: %1."
