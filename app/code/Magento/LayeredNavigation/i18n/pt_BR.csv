@@ -31,8 +31,7 @@
 "Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price","Pode ser usado somente com um dos tipos de campo de catálogo, Sim/Não, Menu Suspenso, Múltipla Seleção ou Preço"
 "Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
                     <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
-                     it will make no affect on Price filter.","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
-                    <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
-                     it will make no affect on Price filter."
-"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price."
+                     it will make no affect on Price filter.","Pode ser usado apenas com o tipo de entrada de catálogo Sim/Não, Menu suspenso, Seleção múltipla e Preço.                     
+<br> O preço não é compatível com a opção <b> 'Filtrável (sem resultados)' </b> -                      isso não afetará o filtro de preços."
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.","Pode ser usado somente com um dos tipos de campo de catálogo, Sim/Não, Menu Suspenso, Múltipla Seleção ou Preço."
 "Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price.","Apenas pode ser usado com tipo de input de catalogo Sim/Não (Booleano), Menu, Seleção Múltipla e Preço."
