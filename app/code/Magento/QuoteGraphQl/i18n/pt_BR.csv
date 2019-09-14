@@ -36,6 +36,6 @@
 "Required parameter ""shipping_methods"" is missing","Parâmetro obrigatório ""shipping_methods"" está faltando"
 """model"" values should be specified","Valores de ""model"" devem ser especificados."
 "Required parameter ""cart_items"" is missing.","O parâmetro ""cart_items""  é obrigatório."
-"Required parameter ""cart_item_id"" for ""cart_items"" is missing.","Required parameter ""cart_item_id"" for ""cart_items"" is missing."
+"Required parameter ""cart_item_id"" for ""cart_items"" is missing.","O parâmetro ""cart_item_id"" para ""cart_items"" é obrigatório."
 "Required parameter ""quantity"" for ""cart_items"" is missing.","Required parameter ""quantity"" for ""cart_items"" is missing."
 "Could not find cart item with id: %1.","Could not find cart item with id: %1."
