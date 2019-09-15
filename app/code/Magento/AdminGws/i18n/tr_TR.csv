@@ -17,7 +17,7 @@
 "You need more permissions to save this setting.","Bu ayarı kaydedebilmek için daha fazla izine ihtiyacınız var."
 "Role Scopes","Rol Kapsamları"
 "Custom","Özel"
-"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view"
+"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","Bu öğeyi geçerli mağaza görünümü kapsamında kaydetme izniniz yok. Lütfen, izin verilen mağaza görünümüne geçiniz"
 "More permissions are needed to delete the ""%1"" item.","""%1"" öğesini silmek için daha fazla izine ihtiyaç vardır."
 "This entity needs to be assigned to a store view. Verify the entity assignment and try again.","Bu varlık için bir mağaza görünümüne atanması gerekir. Varlık atamasını doğrulayın ve yeniden deneyin."
 "Orders can only be completed in an active store. Verify the store and try again.","Siparişler sadece aktif bir mağazada tamamlanabilir. Mağazayı kontrol edin ve tekrar deneyin."
