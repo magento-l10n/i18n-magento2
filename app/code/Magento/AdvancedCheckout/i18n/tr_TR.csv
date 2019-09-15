@@ -101,7 +101,7 @@
 "Upload File","Dosya Yükle"
 "Your csv file must include ""sku"" and ""qty"" columns.","Csv dosyanızı ""sku"" ve ""qty"" sütunları eklemeniz gerekir."
 "Reset","Sıfırla"
-"SKU: ","SKU: "
+"SKU: ","Ürün Türü: "
 "Only <span id=""%1_max_allowed"">%2</span> in stock","Sadece <span id=""%1_max_allowed"">%2</span> stok"
 "Item","Ürün"
 "See price before order confirmation.","Siparişi onaylamadan önce fiyata bakın."
