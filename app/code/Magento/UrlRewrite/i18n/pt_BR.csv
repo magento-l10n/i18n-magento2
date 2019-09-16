@@ -46,7 +46,7 @@
 "The category you chose is not associated with the selected store.","A categoria escolhida não está associado com a loja selecionada."
 "The URL Rewrite has been saved.","A reescrita de URL foi salva."
 "Something went wrong while saving URL Rewrite.","Problema ao salvar a Rescrita de URL."
-"Do not use two or more consecutive slashes in the request path.","Do not use two or more consecutive slashes in the request path."
+"Do not use two or more consecutive slashes in the request path.","Não use duas ou mais barras consecutivas no caminho da requisição."
 "Anchor symbol (#) is not supported in request path.","Símbolo de âncora (#) não é suportado no caminho da solicitação."
 "Do not use two or more consecutive slashes in the url rewrite suffix.","Não usar duas ou mais barras consecutivas no sufixo de rescrita de url."
 "Anchor symbol (#) is not supported in url rewrite suffix.","Símbolo âncora (#) não é suportado no sufixo da url amigável."

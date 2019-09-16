@@ -17,7 +17,7 @@
 "Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Temel URL'niz değiştirildi ve raporlarınız güncelleniyor. Bu değişiklik işleme konulduktan sonra Gelişmiş Raporlama kullanılabilir olacaktır. Lütfen daha sonra tekrar deneyiniz."
 "Failed to synchronize data to the Magento Business Intelligence service. ","Magento Business Intelligence servisine veri senkronizasyonu başarısız oldu. "
 "<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Senkronizasyonu Yeniden Dene</a>"
-"TestMessage","TestMessage"
+"TestMessage","Deneme Mesajı"
 "Apps and Games","Uygulamalar ve Oyunlar"
 "Athletic/Sporting Goods","Spor/spor malzemeleri"
 "Art and Design","Sanat ve tasarım"
@@ -32,10 +32,9 @@
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
                 ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>.","This service provides a dynamic suite of reports with rich insights about your business.
-                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>."
+                terms and conditions</a>.","Bu hizmet işletmenizle ilgili verimli bilgiler içeren dinamik bir rapor seti sunar.                 Raporlarınıza, yönetici panosunun dışında kişiselleştirilmiş bir gösterge panelinden 
+                 ""Gelişmiş Raporlamaya Git"" bağlantısına tıklayarak güvenli bir şekilde erişebilirsiniz..</br>Daha fazla bilgi için, bakınız
+                 <a href=""https://magento.com/legal/terms/cloud-terms"">şartlar ve koşullar</a>."
 "Advanced Reporting Service","Gelişmiş Raporlama Hizmeti"
 "Time of day to send data","Veri göndermek için günün saati"
 "Industry","Endüstri"
@@ -43,9 +42,9 @@
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Magento İş Zekası'ndan daha fazla bilgi edinin </strong>"
 "Magento Business Intelligence provides you with a simple and clear path to
                     becoming more data driven.</br> Learn more about <a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence provides you with a simple and clear path to
-                    becoming more data driven.</br> Learn more about <a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers."
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento İş Zekası size basit ve açık bir yol ile
+                     daha fazla veri odaklı hale gelir.</br><a target =""_blank"" Hakkında daha fazla bilgi edinin
+                     href = ""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Temelleri</a>katmanı."
 "Auto Parts","Otomatik Parçalar"
 "Baby/Children’s Apparel, Gear and Toys","Bebek/Çocuk Giyim, Çark ve Oyuncaklar"
 "Beauty and Cosmetics","Güzellik ve Kozmetik"
