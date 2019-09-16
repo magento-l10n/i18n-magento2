@@ -72,5 +72,5 @@
 "Unable to place order. Please try again later.","Sipariş şu an işleme alınamıyor. Lütfen daha sonra yeniden deneyin."
 "A server error stopped your order from being placed. Please try to place your order again.","Bir sunucu hatası nedeniyle siparişiniz oluşturulamadı. Lütfen tekrar sipariş vermeyi deneyiniz."
 "The transaction details are unavailable. Please try again later.","İşlem ayrıntılarına şuanda ulaşılamıyor. Lütfen daha sonra tekrar deneyin."
-"Authorize.Net Direct Post (Deprecated)","Authorize.Ne Direkt Gönderi (Kullanımdan Kaldırıldı)"
+"Authorize.Net Direct Post (Deprecated)","Authorize.Ne Direkt Gönderi (Onaylanmadı)"
 "Signature Key","İmza Anahtarı"
