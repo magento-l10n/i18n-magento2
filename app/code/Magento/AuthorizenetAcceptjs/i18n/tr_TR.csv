@@ -30,6 +30,6 @@
 "Minimum Order Total","En düşük Sipariş Toplamı"
 "Maximum Order Total","En Yüksek Sipariş Toplamı"
 "Sort Order","Sıralama"
-"Invalid request to gateway.","Invalid request to gateway."
-"Invalid gateway credentials.","Invalid gateway credentials."
+"Invalid request to gateway.","Ağ geçidi için geçersiz istek."
+"Invalid gateway credentials.","Geçersiz ağ geçidi kimlik bilgileri."
 "Transaction has been declined. Please try again later.","İşlem reddedildi. Lütfen daha sonra tekrar deneyiniz."
