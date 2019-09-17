@@ -45,4 +45,4 @@
 "Future Update End Time cannot be equal or earlier than Start Time.","Güncellemenin bitiş zamanı başlangıç zamanıyla aynı olamaz."
 "Move to Another Campaign","Başka bir Uygulamaya Taşı"
 "Deleting the update will remove the catalog price rule from this campaign and all scheduled changes will be lost.","Güncelleştirmeyi silmek katalog ücreti kuralını kampanyadan kaldıracak ve planlanan tüm değişiklikler kaybolacak."
-"Future Update already exists in this time range. Set a different range and try again.","Future Update already exists in this time range. Set a different range and try again."
+"Future Update already exists in this time range. Set a different range and try again.","Gelecek Güncelleme bu zaman aralığında zaten var. Farklı bir aralık ayarlayın ve tekrar deneyin."

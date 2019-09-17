@@ -87,5 +87,5 @@
 "Problem with creating product update.","Problem with creating product update."
 "The ProductSku is empty. Set the ProductSku and try again.","The ProductSku is empty. Set the ProductSku and try again."
 "The ""%1"" attribute is required. Enter and try again.","The ""%1"" attribute is required. Enter and try again."
-"Future Update already exists in this time range. Set a different range and try again.","Future Update already exists in this time range. Set a different range and try again."
+"Future Update already exists in this time range. Set a different range and try again.","Gelecek Güncelleme bu zaman aralığında zaten var. Farklı bir aralık ayarlayın ve tekrar deneyin."
 "The product was unable to be saved. Please try again.","The product was unable to be saved. Please try again."
