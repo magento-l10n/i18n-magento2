@@ -150,7 +150,7 @@
 "Please correct the gift registry item ID.","Please correct the gift registry item ID."
 "The quantity of ""%1"" product added to cart exceeds the quantity desired by the Gift Registry owner. The quantity added has been adjusted to meet remaining quantity %2.","The quantity of ""%1"" product added to cart exceeds the quantity desired by the Gift Registry owner. The quantity added has been adjusted to meet remaining quantity %2."
 "Existing quantity of ""%1"" product in the cart has been replaced with quantity %2 just requested.","Existing quantity of ""%1"" product in the cart has been replaced with quantity %2 just requested."
-"This product(s) is out of stock.","This product(s) is out of stock."
+"This product(s) is out of stock.","Продуктот/тите не е/се повеќе на залиха."
 "Please correct the product for adding the item to the quote.","Please correct the product for adding the item to the quote."
 "Please correct the item option format.","Please correct the item option format."
 "An item option with code %1 already exists.","An item option with code %1 already exists."
