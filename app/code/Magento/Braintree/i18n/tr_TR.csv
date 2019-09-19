@@ -259,10 +259,10 @@
 "The value in the business name field of a customer's statement. Company name/DBA section must be either 3, 7 or 12 characters
                                 and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters).","The value in the business name field of a customer's statement. Company name/DBA section must be either 3, 7 or 12 characters
                                 and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters)."
-"The value in the phone number field of a customer's statement. Phone must be 10-14 characters and can only contain numbers, dashes, parentheses and periods.","The value in the phone number field of a customer's statement. Phone must be 10-14 characters and can only contain numbers, dashes, parentheses and periods."
-"The value in the URL/web address field of a customer's statement. The URL must be 13 characters or shorter.","The value in the URL/web address field of a customer's statement. The URL must be 13 characters or shorter."
-"The Payment Token is not available to perform the request.","The Payment Token is not available to perform the request."
-"Checkout failed to initialize. Verify and try again.","Checkout failed to initialize. Verify and try again."
+"The value in the phone number field of a customer's statement. Phone must be 10-14 characters and can only contain numbers, dashes, parentheses and periods.","Bir müşteri bildiriminin telefon numarası alanındaki değer. Telefonun 10-14 karakter olması gerekir ve yalnızca sayılar, kısa çizgiler, parantezler ve periyotlar içerebilir."
+"The value in the URL/web address field of a customer's statement. The URL must be 13 characters or shorter.","Bir müşteri bildiriminin URL / web adresi alanındaki değer. URL 13 karakter veya daha kısa olmalıdır."
+"The Payment Token is not available to perform the request.","Ödeme Simgesi isteği gerçekleştiremez."
+"Checkout failed to initialize. Verify and try again.","Ödeme başlatılamadı. Doğrulayıp tekrar deneyiniz."
 "The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","Sipariş oluşturulamadı. Siparişinizi tamamlamak lütfen sözleşmeleri onayladıktan sonra tekrar deneyiniz."
 "Paypal account","PayPal hesabı"
 "Coinbase account","Coinbase hesap"
