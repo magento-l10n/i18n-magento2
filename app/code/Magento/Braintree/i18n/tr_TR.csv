@@ -241,7 +241,7 @@
 "Edit My Credit Cards","Kredi kartlarım Düzenle"
 "Pay with PayPal","PayPal ile Ödeyin"
 "Transaction is cancelled offline.","İşlem çevrimdışı iptal edildi."
-"Braintree Settlement","Braintree Uzlaşması"
+"Braintree Settlement","Braintree Alışveriş"
 "If you don't specify the merchant account to use to process a transaction, Braintree will process it using your default merchant account.","Bir işlemi işlemek için kullanılacak tüccar hesabını belirtmezseniz, Braintree, varsayılan tüccar hesabınızı kullanarak işleme koyar."
 "Be sure to Enable Advanced Fraud Protection in Your Braintree Account in Settings/Processing Section","Ayarlar/İşleme Bölümü'ndeki Braintree Hesabınızdaki Gelişmiş Dolandırıcılık Korumasını Etkinleştirdiğinizden emin olun"
 "Used for direct fraud tool integration. Make sure you also contact <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> to setup your Kount account.","Doğrudan dolandırıcılık aracı entegrasyonu için kullanılır. Kount hesabınızı kurmak için <a href=""mailto:accounts@braintreepayments.com""> accounts@braintreepayments.com </a> ile iletişime geçtiğinizden emin olun."
