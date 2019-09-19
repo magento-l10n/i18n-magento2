@@ -6,7 +6,7 @@
 "Could not rebuild index for empty products array","Could not rebuild index for empty products array"
 "The stock item for Product is not valid.","The stock item for Product is not valid."
 "This product is out of stock.","Продуктот не е повеќе на залиха."
-"Some of the products are out of stock.","Some of the products are out of stock."
+"Some of the products are out of stock.","Некои од продуктите не се повеќе на залиха."
 "The stock item for Product in option is not valid.","The stock item for Product in option is not valid."
 "Undefined product type","Undefined product type"
 "%1 is not a correct comparison method.","%1 is not a correct comparison method."
