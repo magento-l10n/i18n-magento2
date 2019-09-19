@@ -5,7 +5,7 @@
 "We can't rebuild the index for an undefined product.","We can't rebuild the index for an undefined product."
 "Could not rebuild index for empty products array","Could not rebuild index for empty products array"
 "The stock item for Product is not valid.","The stock item for Product is not valid."
-"This product is out of stock.","This product is out of stock."
+"This product is out of stock.","Продуктот не е повеќе на залиха."
 "Some of the products are out of stock.","Some of the products are out of stock."
 "The stock item for Product in option is not valid.","The stock item for Product in option is not valid."
 "Undefined product type","Undefined product type"
