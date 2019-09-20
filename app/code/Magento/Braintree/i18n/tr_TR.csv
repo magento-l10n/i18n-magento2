@@ -252,13 +252,13 @@
 "Dynamic descriptors are sent on a per-transaction basis and define what will appear on your customers credit card statements for a specific purchase.
                             The clearer the description of your product, the less likely customers will issue chargebacks due to confusion or non-recognition.
                             Dynamic descriptors are not enabled on all accounts by default. If you receive a validation error of 92203 or if your dynamic descriptors are not displaying as expected,
-                            please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>.","Dynamic descriptors are sent on a per-transaction basis and define what will appear on your customers credit card statements for a specific purchase.
-                            The clearer the description of your product, the less likely customers will issue chargebacks due to confusion or non-recognition.
-                            Dynamic descriptors are not enabled on all accounts by default. If you receive a validation error of 92203 or if your dynamic descriptors are not displaying as expected,
-                            please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>."
+                            please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>.","Dinamik tanımlayıcılar, işlem başına gönderilir ve belirli bir satın alma işlemi için müşterilerinizin kredi kartı beyannamelerinde ne gösterileceğini tanımlar. 
+
+Ürününüzün açıklaması ne kadar net olursa, müşterilerin kargaşası veya tanınmaması nedeniyle geri dönüşleri o kadar az olasıdır. 
+
+Dinamik tanımlayıcılar varsayılan olarak tüm hesaplarda etkin değildir. 92203 onaylaması hatası alırsanız veya dinamik tanımlayıcınız beklendiği gibi görüntülenmiyorsa, lütfen <a href=""mailto:support@getbraintree.com"">Braintree Destek</a>."
 "The value in the business name field of a customer's statement. Company name/DBA section must be either 3, 7 or 12 characters
-                                and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters).","The value in the business name field of a customer's statement. Company name/DBA section must be either 3, 7 or 12 characters
-                                and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters)."
+                                and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters).","Bir müşterinin bildiriminin işletme adı alanındaki değer. Firma ismi DBA bölümü 3, 7 veya 12 karekter olmalı ve ürün tanımlayıcı sırasıyla  18, 14 veya 9 karektere kadar olabilir. ( toplam tanımlayıcı adı 22 karekter arasında)."
 "The value in the phone number field of a customer's statement. Phone must be 10-14 characters and can only contain numbers, dashes, parentheses and periods.","Bir müşteri bildiriminin telefon numarası alanındaki değer. Telefonun 10-14 karakter olması gerekir ve yalnızca sayılar, kısa çizgiler, parantezler ve periyotlar içerebilir."
 "The value in the URL/web address field of a customer's statement. The URL must be 13 characters or shorter.","Bir müşteri bildiriminin URL / web adresi alanındaki değer. URL 13 karakter veya daha kısa olmalıdır."
 "The Payment Token is not available to perform the request.","Ödeme Simgesi isteği gerçekleştiremez."
