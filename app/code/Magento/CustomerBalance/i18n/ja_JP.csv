@@ -18,7 +18,7 @@
 "The store credit payment has been removed from shopping cart.","ストアクレジットをカートから削除しました。"
 "You are not using store credit in your shopping cart.","ショッピングカートで店舗クレジットを使用していません。"
 "Please set a website ID.","ウェブサイトIDを設定してください。"
-"By admin: %1.","By admin: %1."
+"By admin: %1.","管理者: %1."
 "By admin: %1. (%2)","管理者：%1(%2)"
 "Please also set the Store ID.","店舗IDも設定してください。"
 "Please enter a store ID to send email notifications.","電子メール通知を送信するには店舗IDを入力してください"
