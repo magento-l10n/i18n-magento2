@@ -38,7 +38,7 @@
 "A total of %1 record(s) were updated.","合計 %1 のレコードがアップデートされました。"
 "Something went wrong. Please try again later.","問題が発生しました。後で再度お試し下さい。"
 "Invalid value of ""%value"" provided for the email field.","メールフィールドに指定された ""%value"" の値が無効です。"
-"Invalid value ""%value"" given for the website ID field.","Invalid value ""%value"" given for the website ID field."
+"Invalid value ""%value"" given for the website ID field.","ウェブサイトIDフィールドに与えられた ""%value"" は不正な値です。"
 "You have deleted company %companyName.","会社 %companyName を削除しました。"
 "The company no longer exists.","会社は存在しません。"
 "The requested company is not found","要求された会社が見つかりません。"
@@ -131,7 +131,7 @@
 "Localized Exception.","ローカライズ例外"
 "Error message","エラーメッセージ"
 "No such entity.","そのようなエンティティはありません。"
-"error message","error message"
+"error message","エラーメッセージ"
 "Could not save role","権限を保存できませんでした"
 """%fieldName"" is required. Enter and try again.""%fieldName"" is required. Enter and try again.","""%fieldName""は必須です。 入力して再度お試し下さい。""%fieldName""は必須です。 入力して再度お試し下さい。"
 "Cannot delete team","チームを削除できません"
@@ -194,7 +194,7 @@
 "Change","変更"
 "This action will replace your Company Admin.","この操作はあなたの会社管理者を置き換えます。"
 "* Your latest changes on the company profile have not been saved yet.","*会社概要の最新の変更はまだ保存されていません。"
-"Dear %name,","Dear %name,"
+"Dear %name,","こんにちは %name 様"
 "You have been assigned to <a href=""%customer_url"">%company_name</a> as the Company Admin.","あなたは会社管理者として<a href=""%customer_url"">%company_name</a>に割り当てられています。"
 "When you sign in to your account, you can:","アカウントにサインインすると以下のことができます:"
 "* Create and manage company users and teams","* 会社のユーザーとチームの作成と管理"
@@ -218,11 +218,10 @@
     has been approved and you have been set as the Company Admin.
     You can now create and manage your company structure.
     Your company members are able to request quotes, create requisition lists,
-    and use other B2B features.","Your company registration request (for the <strong>%company_name</strong>)
-    has been approved and you have been set as the Company Admin.
-    You can now create and manage your company structure.
-    Your company members are able to request quotes, create requisition lists,
-    and use other B2B features."
+    and use other B2B features.","あなたの会社登録リクエスト（<strong>%company_name</strong>）が承認され、
+    あなたは会社管理者として設定されています。 
+    あなたは会社の組織構成を作成して管理することができます。 
+    あなたの会社の従業員は、見積の依頼や請求リストの作成、その他のB2B機能が利用できます。"
 "The status of your company <strong>%company_name</strong>
     is now <strong>Active</strong>.
     Once you login, you will be able to place orders on behalf of your company
@@ -238,11 +237,11 @@
 "* View and edit company profile in Admin Panel","* 管理画面における会社概要の表示と編集"
 "Your company account <strong>%company_name</strong> has been blocked.
     Your company members can continue using the website,
-    but they will not be able to place orders.","Your company account <strong>%company_name</strong> has been blocked.
-    Your company members can continue using the website,
-    but they will not be able to place orders."
+    but they will not be able to place orders.","あなたの会社アカウント<strong>%company_name</strong>はロックされました。
+    あなたの会社の従業員は引き続きウェブサイトを使用できますが、
+    注文を行うことはできなくなります。"
 "If you have any questions, please contact the seller.","ご不明な点がございましたら、販売者にお問い合わせ下さい。"
-"Your company account <strong>%company_name</strong> has been suspended, pending approval from the seller.","Your company account <strong>%company_name</strong> has been suspended, pending approval from the seller."
+"Your company account <strong>%company_name</strong> has been suspended, pending approval from the seller.","あなたの会社アカウント<strong>%company_name</strong> は販売業者側で審査中のため、一時的にご利用いただけない状態になっています。"
 "Your company registration request (for the <strong>%company_name</strong>) has been rejected
     for the following reason:","次の理由により、あなたの会社登録リクエスト（<strong>%company_name</strong>）が拒否されました:"
 "This action cannot be undone. Are you sure you want to delete this company? After the company is deleted, all the company members will be set to Inactive.","このアクションは取り消せません。この会社を削除してもよろしいですか？会社を削除した後、全社員は未アクティブに設定されます。"

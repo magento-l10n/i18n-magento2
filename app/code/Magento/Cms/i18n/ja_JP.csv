@@ -175,7 +175,7 @@
 "Are you sure you wan't to delete a ""${ $.$data.title }"" record?","""${ $.$data.title }"" を削除してもよろしいですか？"
 "Are you sure you wan't to delete selected items?","本当に選択したアイテムを削除しますか？"
 "File validation failed.","ファイルの認証に失敗しました。"
-"Are you sure you wan't to delete a %1 record?","Are you sure you wan't to delete a %1 record?"
+"Are you sure you wan't to delete a %1 record?","%1 のレコードを削除してもよろしいですか?"
 "Search Engine Optimisation","検索エンジンの最適化"
 "Save","保存"
 "Save & Duplicate","保存 & 複製"
