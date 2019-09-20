@@ -81,7 +81,7 @@
 "Error processing payment, please try again later.","支払処理エラー。後で再度お試しください。"
 "Authorization is not allowed.","オーソリアクションは許可されていません。"
 "Payment Gateway is unreachable at the moment. Please use another payment option.","現在、支払いゲートウェイに到達できません。別の支払いオプションを使用してください。"
-"PayPal response hasn't required fields.","PayPal response hasn't required fields."
+"PayPal response hasn't required fields.","PayPalレスポンスはフィールド必須ではありません。"
 "Something went wrong while processing your order.","注文を処理中に問題が発生しました。"
 "PayPal gateway has rejected request. %1","PayPalゲートウェイが要求を拒否しました %1"
 "The PayPal gateway rejected the request. %1","PayPalゲートウェイが要求を拒否しました。 %1"
