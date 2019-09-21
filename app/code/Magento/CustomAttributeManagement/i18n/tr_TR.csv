@@ -27,5 +27,5 @@
 "Escape HTML Entities","HTML Varlıklarını çıkarmak"
 "Normalize Date","Tarihi Normalleştir"
 "The attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscores (_) in this field. The first character should be a letter.","Özellik kodu geçersiz. Lütfen sadece bu alandaki harfleri (a-z), sayıları (0-9) veya alt çizgi (_) kullanın. İlk karakter bir harf olmalıdır."
-"Please correct the value for file extensions.","Please correct the value for file extensions."
-"Alphanumeric with spaces","Alphanumeric with spaces"
+"Please correct the value for file extensions.","Lütfen dosya uzantılarının değerini düzeltin."
+"Alphanumeric with spaces","Boşluklu alfanümerik"
