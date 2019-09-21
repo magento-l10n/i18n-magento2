@@ -130,5 +130,5 @@
 "The sample type is invalid. Verify the sample type and try again.","Örnek tipi geçersiz. Örnek türünü doğrulayıp tekrar deneyiniz."
 "The sample title is empty. Enter the title and try again.","Örnek başlık boş. Başlığı girip tekrar deneyiniz."
 "No downloadable sample with the provided ID was found. Verify the ID and try again.","Sağlanan kimliğe indirilebilir bir bağlantı bulunamadı. Kimliği doğrulayıp tekrar deneyiniz."
-"The downloadable sample isn't related to the product. Verify the link and try again.","The downloadable sample isn't related to the product. Verify the link and try again."
-"The sample with ""%1"" ID can't be deleted.","The sample with ""%1"" ID can't be deleted."
+"The downloadable sample isn't related to the product. Verify the link and try again.","İndirilebilir link, ürünle ilgili değildir. Bağlantıyı doğrulayıp tekrar deneyiniz."
+"The sample with ""%1"" ID can't be deleted.","""%1"" numaralı örnek silinemez."
