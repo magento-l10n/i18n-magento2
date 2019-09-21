@@ -21,6 +21,6 @@
 "Entity type model must be an instance of Magento\CatalogImportExport\Model\Import\Product\Type\AbstractType","Varlık türü modeli, Magento\CatalogImportExport\Model\Import\Product\ Type\AbstractType örneğinde olmalıdır"
 "Entity type model must be an instance of '%1'","Varlık türü modeli '%1' olmalı"
 "Disallowed file type.","İizn verilmeyen dosya türü."
-"Value for multiselect attribute %s contains duplicated values","Value for multiselect attribute %s contains duplicated values"
+"Value for multiselect attribute %s contains duplicated values","%s çoklu seçim değeri için yinelenen değerler içeriyor"
 "Invalid Stock data for insert","Eklenmek istenen Stok Verileri geçersiz"
 "Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: %1","'custom_options' özelliğindeki 'type' alt özelliğinin değeri yanlış değer içeriyor. Kabul edilebilir değerler: %1"
