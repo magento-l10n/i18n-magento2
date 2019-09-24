@@ -188,7 +188,7 @@
 "You duplicated the page.","Você duplicou a página."
 "The CMS block with the ""%1"" ID doesn't exist.","O bloco CMS com o ID ""%1"" não existe."
 "The CMS page with the ""%1"" ID doesn't exist.","A página do CMS cujo ID é %1 não existe."
-"The page URL key can't use capital letters or disallowed symbols. Remove the letters and symbols and try again.","A chave URL da página não pode usar capitalização ou símbolos não permitidos. Remova as letras e símbolos e tente novamente."
+"The page URL key can't use capital letters or disallowed symbols. Remove the letters and symbols and try again.","A chave URL da página não pode usar capitalização ou caracteres não permitidos. Remova as letras e caracteres e tente novamente."
 "The page URL key can't use only numbers. Add letters or words and try again.","A chave URL da página não pode usar somente números. Inclua letras ou palavras e tente novamente."
 "Upload Images","Carregar Imagens"
 "TinyMCE 4","TinyMCE 4"
