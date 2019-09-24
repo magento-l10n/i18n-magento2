@@ -54,7 +54,7 @@
 "Payment from Specific Countries","Pagamento a partir de Países Específicos"
 "Minimum Order Total","Total mínimo do pedidos"
 "Maximum Order Total","Total máximo de pedidos"
-"Sort Order","Ordernação"
+"Sort Order","Ordenação"
 "Authorize Only","Apenas Autorizar"
 "Webhook URL","URL do webhook"
 "Webhook URL should be set in your Cybersource account as Transaction Response Page.","A URL do Webhook deve ser definida na sua conta CyberSource como uma Página de Resposta da Transação."
