@@ -529,7 +529,7 @@
 "You are signed out","Seu Login foi finalizado"
 "You subscribe to our newsletter.","Você se inscreveu em nossa newsletter."
 "You don't subscribe to our newsletter.","Você não se inscreveu em nossa newsletter."
-"Maximum length must be less then %1 symbols","O tamanho máximo deve ser menor que %1 símbolos"
+"Maximum length must be less then %1 symbols","O tamanho máximo deve ser menor que %1 caracteres"
 "Invalid input","Entrada Inválida"
 "Confirm your new password.","Confirme sua nova senha."
 "Something went wrong while changing the password.","Falha ao alterar a senha."

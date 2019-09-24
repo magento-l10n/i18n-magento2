@@ -168,7 +168,7 @@
 "Cannot update the expiration date. You must specify today's date or a future date.","Não é possível atualizar a data de expiração. Você deve especificar a data de hoje ou uma data futura."
 "Cannot create the B2B quote. You cannot attach more than ten files per one request.","Não é possível criar a cotação B2B. Você não pode anexar mais de dez arquivos por requisição."
 "%fileType is not an allowed file type. Please select a different file.","%fileType não é um tipo de arquivo permitido. Por favor, selecione um arquivo diferente."
-"The maximum file name length is 20 characters. The only special symbols that are allowed in the file name are: dash and underscore. Row ID: %fieldName = %fieldValue","O tamanho máximo do nome do arquivo é de 20 caracteres. Os únicos símbolos especiais que são permitidos no nome do arquivo são: traço e sublinhado. ID da linha: %fieldName = %fieldValue"
+"The maximum file name length is 20 characters. The only special symbols that are allowed in the file name are: dash and underscore. Row ID: %fieldName = %fieldValue","O tamanho máximo do nome do arquivo é de 20 caracteres. Os únicos caracteres especiais que são permitidos no nome do arquivo são: traço e sublinhado. ID da linha: %fieldName = %fieldValue"
 "Cannot attach the file %filename. The maximum allowed file size is %size Mb.","Não é possível anexar o arquivo %filename. O tamanho máximo permitido é %size Mb."
 """%fieldName"" is required. Enter and try again.","""%fieldName"" é obrigatório. Entre e tente novamente."
 "Invalid attribute value. Row ID: %fieldName = %fieldValue","Valor de atributo inválido. Linha ID: %fieldName = %fieldValue"
