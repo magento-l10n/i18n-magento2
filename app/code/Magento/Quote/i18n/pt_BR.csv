@@ -1,6 +1,6 @@
 "Unable to save address. Please check input data.","Não é possível salvar o endereço. Por favor, verifique os dados de entrada."
 "Cart %1 doesn't contain products","O carrinho %1 não contém produtos"
-"Could not apply coupon code","Não foi possivel aplicar o código do cupom"
+"Could not apply coupon code","Não foi possível aplicar o código do cupom"
 "Coupon code is not valid","O código do cupom não é válido"
 "Could not delete coupon code","Não foi possível excluir o código do cupom"
 "Cannot assign customer to the given cart. You don't have permission for this operation.","Não é possível atribuir o carrinho de determinado cliente. Você não tem permissão para esta operação."
