@@ -430,7 +430,7 @@
 "The quantity to ship must not be greater than the unshipped quantity for product SKU ""%1"".","A quantidade a enviaar não deve ser maior que a quantidade não enviada por SKU ""%1""."
 "Please enter a tracking number.","Por favor, digite um número de rastreamento."
 "Could not delete shipment","Não foi possível excluir a postagem"
-"Could not save shipment","Não foi possivel salvar a postagem"
+"Could not save shipment","Não foi possível salvar a postagem"
 "The last status can't be unassigned from its current state.","O último status não pode ser  atribuído de seu estado atual."
 "Status can't be unassigned, because it is used by existing order(s).","O status não pode ser atribuído, porque ele é usado por ordens existentes)."
 "Could not delete the order status history.","Não foi possível excluir o histórico de status do pedido."
