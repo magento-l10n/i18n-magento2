@@ -212,7 +212,7 @@
 "IPN ""%1"". Case type ""%2"". Case ID ""%3"" %4","IPN ""%1"". Case type ""%2"". Case ID ""%3"" %4"
 "IPN ""%1"". A dispute has been resolved and closed. %2 Transaction amount %3.","IPN ""%1"". A dispute has been resolved and closed. %2 Transaction amount %3."
 "You notified customer about invoice #%1.","You notified customer about invoice #%1."
-"We cannot cancel this order.","We cannot cancel this order."
+"We cannot cancel this order.","Неможеме да ја откажаме оваа нарачка."
 "IPN ""%1"". %2 Transaction amount %3. Transaction ID: ""%4""","IPN ""%1"". %2 Transaction amount %3. Transaction ID: ""%4"""
 "You notified customer about creditmemo #%1.","You notified customer about creditmemo #%1."
 "IPN ""%1""","IPN ""%1"""
