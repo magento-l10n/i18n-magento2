@@ -658,7 +658,7 @@
 "Thank you for your order from %store_name.","Bedankt voor uw bestelling bij %store_name."
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","U kunt de status van uw bestelling controleren door in te <a href=""%account_url"">loggen op uw account</a>."
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Indien u vragen heeft over uw bestelling kunt u ons e-mailen op <a href=""mailto:%store_email"">%store_email</a>"
-"or call us at <a href=""tel:%store_phone"">%store_phone</a>","of telefonish op <a href=""tel:%store_phone"">%store_phone</a>"
+"or call us at <a href=""tel:%store_phone"">%store_phone</a>","of telefonisch op <a href=""tel:%store_phone"">%store_phone</a>"
 "Our hours are <span class=""no-link"">%store_hours</span>.","Onze openingstijden zijn <span class=""no-link"">%store_hours</span>."
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Uw creditfactuur #%creditmemo_id voor bestelling #%order_id"
 "Billing Info","Factuuradres"
