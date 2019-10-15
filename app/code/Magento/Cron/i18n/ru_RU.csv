@@ -12,7 +12,7 @@
 "Cron (Scheduled Tasks)","Cron (запланированные задачи)"
 "For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.","For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes."
 "Cron configuration options for group:","Параметры конфигурации в cron для группы:"
-"Generate Schedules Every","Generate Schedules Every"
+"Generate Schedules Every","Генерировать расписание каждые"
 "Schedule Ahead for","Schedule Ahead for"
 "Missed if Not Run Within","Missed if Not Run Within"
 "History Cleanup Every","Очистка журнала каждые"
