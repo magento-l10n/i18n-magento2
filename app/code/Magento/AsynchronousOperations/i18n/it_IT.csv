@@ -5,7 +5,7 @@
 "%1 item(s) have been scheduled for update.""","%1 elementi sono stati aggiunti per l'aggiornamento."""
 "Bulk Actions Log","Log azioni di massa"
 "Bulk uuid %bulkUuid not exist","Bulk uuid %bulkUuid not exist"
-"Topic %1","Topic %1"
+"Topic %1","Argomento %1"
 "Something went wrong while processing the request.","Qualcosa è andato storto durante l'elaborazione della richiesta."
 "Error processing %key element of input data","Error processing %key element of input data"
 "Sorry, something went wrong during product prices update. Please see log for details.","Siamo spiacenti, qualcosa è andato storto durante l'aggiornamento dei prezzi del prodotto. Consultare il registro per maggiori dettagli."
