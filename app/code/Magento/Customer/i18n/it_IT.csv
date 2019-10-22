@@ -369,7 +369,7 @@
 "Tax/VAT number","Partita IVA"
 "Phone Number","Numero di telefono"
 "Welcome to %store_name","Benvenuto a %store_name"
-"%name,","%nome,"
+"%name,","%name,"
 "Welcome to %store_name.","Benvenuto su %store_name."
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Per accedere al nostro sito, è necessario utilizzare queste credenziali durante il checkout o sulla pagina <a href=""%customer_url""> Mio Account</a>:"
 "Email:","Email:"
