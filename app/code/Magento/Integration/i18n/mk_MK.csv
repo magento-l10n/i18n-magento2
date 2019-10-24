@@ -46,7 +46,7 @@
 "Integration '%1' has been sent for activation.","Integration '%1' has been sent for activation."
 "A consumer with ID %1 does not exist","A consumer with ID %1 does not exist"
 "title","наслов"
-"You did not sign in correctly or your account is temporarily disabled.","You did not sign in correctly or your account is temporarily disabled."
+"You did not sign in correctly or your account is temporarily disabled.","Не се најавивте точно или вашиот профил е привремено оневозможен."
 "This user has no tokens.","This user has no tokens."
 "The tokens could not be revoked.","The tokens could not be revoked."
 "Sorry, something went wrong granting permissions. You can find out more in the exceptions log.","Sorry, something went wrong granting permissions. You can find out more in the exceptions log."
