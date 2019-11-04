@@ -15,7 +15,7 @@
 "Partial commit mode affects time of indexation, but allows indexed products to be visible on Storefront before indexation is completed.","部分コミットモードはインデックス作成の時間に影響しますが、インデックス作成が完了する前にStorefrontでインデックス付きの製品を表示することができます。"
 "Test Connection","接続テスト"
 "button_label","button_label"
-"Please fill in Hostname, Port, Path","Please fill in Hostname, Port, Path"
+"Please fill in Hostname, Port, Path","ホスト名、ポート、パスを入力してください"
 "Something went wrong","問題が発生しました"
 "Successful! Test again?","成功しました！ もう一度テストしますか？"
 "Connection failed! Test again?","接続に失敗しました！もう一度テストしますか？"
