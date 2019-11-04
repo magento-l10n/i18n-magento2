@@ -171,8 +171,8 @@
 "If you select and save the rule you will be able to generate multiple coupon codes.","このルールを保存すると複数のクーポンコードを作成できます。"
 "Usage limit enforced for logged in customers only.","Usage limit enforced for logged in customers only."
 "Payment Method","お支払方法"
-"Your coupon was successfully removed","Your coupon was successfully removed"
-"Your coupon was successfully applied","Your coupon was successfully applied"
+"Your coupon was successfully removed","あなたのクーポンは削除されました。"
+"Your coupon was successfully applied","あなたのクーポンは正常に適用されました。"
 "
                         If you select and save the rule you will be able to generate multiple coupon codes.
                     ","
