@@ -35,11 +35,11 @@
                     <p>Benefits:<ul>
                     <li>Grow your business without fear of fraud</li>
                     <li>Accept more orders and maximize your revenue</li>
-                    <li>Automate order review and shift fraud off your plate</li></ul></p>","Signifyd automatically reviews your orders for fraud, telling you in seconds which orders to ship, and which to reject.
-                    We back our approvals with 100% chargeback protection, reimbursing you the full order amount plus fees should you ever receive a fraudulent chargeback.
-                    <p>Benefits:<ul>
-                    <li>Grow your business without fear of fraud</li>
-                    <li>Accept more orders and maximize your revenue</li>
-                    <li>Automate order review and shift fraud off your plate</li></ul></p>"
-"<a href=""https://www.signifyd.com/resources/manual/magento-2/signifyd-on-magento-integration-guide/"" target=""_blank"">View our setup guide</a> for step-by-step instructions on how to integrate Signifyd with Magento.<br />For support contact <a href=""mailto:support@signifyd.com"">support@signifyd.com</a>.","<a href=""https://www.signifyd.com/resources/manual/magento-2/signifyd-on-magento-integration-guide/"" target=""_blank"">View our setup guide</a> for step-by-step instructions on how to integrate Signifyd with Magento.<br />For support contact <a href=""mailto:support@signifyd.com"">support@signifyd.com</a>."
-"Your webhook URL will be used to <a href=""https://app.signifyd.com/settings/notifications"" target=""_blank"">configure</a> a guarantee completed webhook in Signifyd. Webhooks are used to sync Signifyd`s guarantee decisions back to Magento.","Your webhook URL will be used to <a href=""https://app.signifyd.com/settings/notifications"" target=""_blank"">configure</a> a guarantee completed webhook in Signifyd. Webhooks are used to sync Signifyd`s guarantee decisions back to Magento."
+                    <li>Automate order review and shift fraud off your plate</li></ul></p>","Signifydは注文の不正行為を自動的に確認し、発送する注文と拒否する注文を数秒で通知します。
+                    私達のサービスはすべての注文データに対してチャージバック保証をつけた状態で審査結果ステータスを返却します。もし我々が詐欺注文を見逃してしまった場合、注文金額と審査に伴うシステム利用料金を返金いたします。
+                    <p>メリット<ul>
+                    <li>詐欺注文のリスクを回避しつつ、ビジネスを成長できる</li>
+                    <li>より多くの注文を受け入れ、収入を最大化できる</li>
+                    <li>注文情報の確認処理を自動化し、詐欺注文を回避</li></ul></p>"
+"<a href=""https://www.signifyd.com/resources/manual/magento-2/signifyd-on-magento-integration-guide/"" target=""_blank"">View our setup guide</a> for step-by-step instructions on how to integrate Signifyd with Magento.<br />For support contact <a href=""mailto:support@signifyd.com"">support@signifyd.com</a>.","SignifydとMagentoを連携する方法については、<a href=""https://www.signifyd.com/resources/manual/magento-2/signifyd-on-magento-integration-guide/"" target=""_blank"">セットアップガイド</a>を参照してください。<br />サポートについては、<a href=""mailto:support@signifyd.com"">support@signifyd.com</a>までお問い合わせください。"
+"Your webhook URL will be used to <a href=""https://app.signifyd.com/settings/notifications"" target=""_blank"">configure</a> a guarantee completed webhook in Signifyd. Webhooks are used to sync Signifyd`s guarantee decisions back to Magento.","あなたのWebhook URLを <a href=""https://app.signifyd.com/settings/notifications"" target=""_blank"">設定画面</a>で設定し、Signifydにより保証されたWebhookをご利用ください。Webhookは、Signifiedの保証契約をMagentoに同期するために使用されます。"
