@@ -43,7 +43,7 @@
 "Admin is a required field in the each row","管理者は各行は必須フィールドです"
 "Manage Swatch (values of your attribute)","スワッチ管理 (属性の値)"
 "Select values from each attribute to include in this product. Each unique combination of values creates a unigue product SKU.","この商品に含まれる各属性の値を選択してください。各ユニークな組み合わせの値はユニークな製品SKUを作成します。"
-"Swatch cannot be saved","Swatch cannot be saved"
+"Swatch cannot be saved","スワッチを保存できません"
 "More","More"
 "Sending swatch values as package.","Sending swatch values as package."
 "Addtional data is wrong and cannot be assembled","Addtional data is wrong and cannot be assembled"

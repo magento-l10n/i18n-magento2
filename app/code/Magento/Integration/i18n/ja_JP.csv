@@ -132,7 +132,7 @@
 "No Integrations Found","連携サービスなし"
 "Are you sure?","よろしいですか？"
 "We will disable this feature if the value is empty.","もし値が空ならばこの機能を無効にします。"
-"Integer. Launch cleanup in X OAuth requests. 0 (not recommended) - to disable cleanup","Integer. Launch cleanup in X OAuth requests. 0 (not recommended) - to disable cleanup"
+"Integer. Launch cleanup in X OAuth requests. 0 (not recommended) - to disable cleanup","整数を入力します。 X OAuthリクエストでクリーンアップを起動します。 クリーンアップを無効にするには 0 を入力します（非推奨）"
 "Cleanup entries older than X minutes.","X 分より古いエントリをクリーンアップ。"
 "Consumer key/secret will expire if not used within X seconds after Oauth token exchange starts.","コンシューマー キー/シークレット は Oauthトークンの交換が開始されてから X秒以内に使用されない場合、失効します。"
 "Number of maximum redirects for OAuth consumer credentials Post request.","OAuth コンシューマー認証情報のリクエストに対する最大リダイレクト回数。"

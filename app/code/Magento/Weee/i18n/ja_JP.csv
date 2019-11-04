@@ -27,6 +27,6 @@
 "Display Prices In Emails","メールに額を記載する"
 "Apply Tax To FPT","FPTに税を適用"
 "Include FPT In Subtotal","小計にFPTを含める"
-"We found a duplicate of website, country and state fields for a fixed product tax","We found a duplicate of website, country and state fields for a fixed product tax"
+"We found a duplicate of website, country and state fields for a fixed product tax","重複したウェブサイト, 国, 都道府県フィールドが商品固定税に見つかりました"
 "label_value' 'label_value' 'frontend_label","label_value' 'label_value' 'frontend_label"
-"Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again.","Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again."
+"Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again.","同じ商品固定税の中で一意な国と州の組み合わせを設定します。 組み合わせを確認して、再度お試し下さい。"
