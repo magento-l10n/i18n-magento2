@@ -63,15 +63,14 @@
                         <li><span>Fast and easy setup, right from the Magento Admin.</span></li>
                         </ul>
                         ","
-                        <p>With <a href=""http://docs.magento.com/m2/ce/user_guide/payment/klarna.html"" target=""_blank"">Klarna</a>, reduce purchase stress and improve your shopping experience with several retail finance and direct-payment options that are easily integrated into your existing buying journey. Shoppers can choose to pay now by online payment or direct debit, pay later by invoice, or pay in installments.</p>
-                        <ul>
-                        <li><span>Customers never leave your site, and enjoy a smoother shopping experience.</span></li>
-                        <li><span>Easy application process with the ability to pay over time increases average order value and conversion rates.</span></li>
-                        <li><span>Assumes all credit and fraud risk, and ensures you are paid for ordered goods.</span></li>
-                        <li><span>Ready for all devices, and enables shoppers to use their Klarna account at any Klarna merchant with just a few clicks.</span></li>
-                        <li><span>Fast and easy setup, right from the Magento Admin.</span></li>
-                        </ul>
-                        "
+<p><a href=""http://docs.magento.com/m2/ce/user_guide/payment/klarna.html"" target=""_blank"">Klarna</a>を使用すると、既存の購入経路に簡単に統合できる複数の小売金融および直接支払いオプションを使用して、購入のストレスを軽減し、ショッピング体験を改善できます。買い物客は、オンライン支払いまたは口座振替で今すぐ支払うか、後で請求書で支払うか、分割払いするかを選択できます。</p>
+<ul>
+<li><span>顧客はサイトを離れることがなく、よりスムーズなショッピング体験を楽しむことができます。</span></li>
+<li><span>時間の経過とともに支払う機能を備えた簡単な申請プロセスにより、平均注文額とコンバージョン率が向上します。</span></li>
+<li><span>すべての信用および詐欺リスクを想定し、注文された商品の支払いを確実にします。</span></li>
+<li><span>すべてのデバイスに対応しており、買い物客は数回クリックするだけで、KlarnaマーチャントでKlarnaアカウントを使用できます。</span></li>
+<li><span>Magento Adminから直接、すばやく簡単にセットアップできます。</span></li>
+</ul>"
 "Sales and Use Tax Automation","セールスと税務オートメーションの使用"
 "
                         <p><a href=""http://docs.magento.com/m2/ce/user_guide/tax/vertex.html"" target=""_blank"">Vertex Cloud</a> combines sophisticated software with an exceptional team of tax experts to help Magento merchants simplify the sales tax process, and comply with ever-changing tax laws. Merchants can easily access and configure Vertex Cloud from the Magento Admin to meet complex tax challenges.</p>
@@ -82,16 +81,14 @@
                         <li><span>No penalty to merchants for tax estimates from abandoned carts.</span></li>
                         <li><span>Flexible deployment options fit the needs of your organization in the cloud, or on premises.</span></li>
                         </ul>
-                        ","
-                        <p><a href=""http://docs.magento.com/m2/ce/user_guide/tax/vertex.html"" target=""_blank"">Vertex Cloud</a> combines sophisticated software with an exceptional team of tax experts to help Magento merchants simplify the sales tax process, and comply with ever-changing tax laws. Merchants can easily access and configure Vertex Cloud from the Magento Admin to meet complex tax challenges.</p>
-                        <ul>
-                        <li><span>Seamless integration with award-winning support for simple-to-complex tax needs.</span></li>
-                        <li><span>Automatically comply with the latest tax rules for each product and every jurisdiction.</span></li>
-                        <li><span>Perform tax calculations and generate signature-ready PDF returns in one solution.</span></li>
-                        <li><span>No penalty to merchants for tax estimates from abandoned carts.</span></li>
-                        <li><span>Flexible deployment options fit the needs of your organization in the cloud, or on premises.</span></li>
-                        </ul>
-                        "
+                        ","<p><a href=""http://docs.magento.com/m2/ce/user_guide/tax/vertex.html"" target=""_blank"">Vertex Cloud</a>は、洗練されたソフトウェアと税務専門家の優れたチームを組み合わせて、Magento加盟店が売上税プロセスを簡素化し、刻々と変化する税法を順守できるよう支援します。商人は、Magento AdminからVertex Cloudに簡単にアクセスして設定し、複雑な税務上の課題に対応できます。</p>
+<ul>
+<li><span>シンプルで複雑な税務ニーズに対する受賞歴のあるサポートとのシームレスな統合。</span></li>
+<li><span>各製品およびすべての管轄区域の最新の税規則を自動的に遵守します。</span></li>
+<li><span>1つのソリューションで税計算を実行し、署名対応のPDFリターンを生成します。</span></li>
+<li><span>放棄されたカートからの税額の見積もりに対して提供者に罰則はありません。</span></li>
+<li><span>柔軟な展開オプションは、クラウドまたはオンプレミスの組織のニーズに適合します。</span></li>
+</ul>"
 "What's new with Magento 2.2.2","Magento 2.2.2の新機能"
 "
                         <p>Magento 2.2.2 offers advanced new features, including:</p>
@@ -199,20 +196,18 @@
                         <li><span>Built-in solution for transactional emails.</span></li>
                         <li><span>Telephone support and advice from marketing experts included.</span></li>
                         </ul>
-                        ","
-                        <p>Unlock an unparalleled level of insight and control of your eCommerce marketing with
-                        dotmailer Email Marketing Automation. Included with Magento 2.2.2 for easy set-up, dotmailer
-                        ensures every customer’s journey is captured, segmented, and personalized, enabling you to
-                        deliver customer-centric campaigns that beat your results over and over again. Benefits include:
-                        </p>
-                        <ul>
-                        <li><span>No obligation 14-day trial.</span></li>
-                        <li><span>Automation campaigns using your live Magento store data that drive revenue,
-                        including abandoned cart, abandoned browse, product replenishment, and many more.</span></li>
-                        <li><span>Built-in solution for transactional emails.</span></li>
-                        <li><span>Telephone support and advice from marketing experts included.</span></li>
-                        </ul>
-                        "
+                        ","<p>比類のないレベルの洞察力とeコマースマーケティングの制御のロックを解除
+dotmailer Email Marketing Automation。 Magento 2.2.2に含まれており、簡単にセットアップできます。ドットメーラー
+すべての顧客の旅が確実にキャプチャ、セグメント化、パーソナライズされ、
+結果を何度も打ち負かす顧客中心のキャンペーンを実施します。利点は次のとおりです。
+</p>
+<ul>
+<li><span>14日間の試用期間</span></li>
+<li><span>Magentoのライブストアデータを使用した自動化キャンペーンは、収益を促進し、放棄されたカート、放棄された閲覧、製品の補充などが含まれます。</span></li>
+<li><span>トランザクションメール用の組み込みソリューション。</span></li>
+<li><span>電話サポートとマーケティングの専門家からのアドバイスが含まれています。</span></li>
+</ul>
+"
 "Sorry, we had a problem loading our “What’s new” content.","申し訳ありませんが、「新機能」コンテンツの読み込み中に問題が発生しました。"
 "
                         <p>We’ll try to show it again the next time you sign in to Magento Admin.</p>
