@@ -72,4 +72,4 @@
 "Widget ID","ウィジェットID"
 "We're sorry, an error has occurred while loading widget options.","申し訳ありません、ウィジェットオプションを読み込み中に問題が発生しました。"
 "Cancel","キャンセル"
-"Inserting a widget does not create a widget instance.","Inserting a widget does not create a widget instance."
+"Inserting a widget does not create a widget instance.","ウィジェットを挿入しても、ウィジェットインスタンスは作成されません。"
