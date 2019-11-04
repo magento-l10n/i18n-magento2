@@ -253,15 +253,15 @@ Accept or Deny Payment"""
 "Dynamic descriptors are sent on a per-transaction basis and define what will appear on your customers credit card statements for a specific purchase.
                             The clearer the description of your product, the less likely customers will issue chargebacks due to confusion or non-recognition.
                             Dynamic descriptors are not enabled on all accounts by default. If you receive a validation error of 92203 or if your dynamic descriptors are not displaying as expected,
-                            please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>.","Dynamic descriptors are sent on a per-transaction basis and define what will appear on your customers credit card statements for a specific purchase.
-                            The clearer the description of your product, the less likely customers will issue chargebacks due to confusion or non-recognition.
-                            Dynamic descriptors are not enabled on all accounts by default. If you receive a validation error of 92203 or if your dynamic descriptors are not displaying as expected,
-                            please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>."
+                            please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>.","ダイナミックディスクリプタはトランザクションごとに送信され、お客様に特定の購入のためのクレジット カードの明細に表示されるものを定義します。
+                            商品の正確な説明は、顧客との認識違いによるチャージバックなどのトラブルを防止します。
+                            ダイナミックディスクリプタは標準ではすべてのアカウントに対して無効になっています。エラーコード:92203 が発生した場合、またはダイナミックディスクリプタが期待どおりに表示されない場合は、
+                             <a href=""mailto:support@getbraintree.com"">Braintreeサポート</a> にお問い合わせください。"
 "The value in the business name field of a customer's statement. Company name/DBA section must be either 3, 7 or 12 characters
-                                and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters).","The value in the business name field of a customer's statement. Company name/DBA section must be either 3, 7 or 12 characters
-                                and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters)."
-"The value in the phone number field of a customer's statement. Phone must be 10-14 characters and can only contain numbers, dashes, parentheses and periods.","The value in the phone number field of a customer's statement. Phone must be 10-14 characters and can only contain numbers, dashes, parentheses and periods."
-"The value in the URL/web address field of a customer's statement. The URL must be 13 characters or shorter.","The value in the URL/web address field of a customer's statement. The URL must be 13 characters or shorter."
+                                and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters).","お客様のステートメントのビジネスの名前フィールドの値。会社名/DBA セクションは 3、7、12 文字
+                                にする必要があります、製品ディスクリプタはそれぞれ 18、14、または 9 文字までにすることができます (* を含んだ 22 文字以内のトータルディスクリプタ名に使用します)。"
+"The value in the phone number field of a customer's statement. Phone must be 10-14 characters and can only contain numbers, dashes, parentheses and periods.","お客様のステートメントの電話番号フィールドの値です。電話番号は 10-14 文字で数字、ダッシュ、括弧、ピリオドのみ含めることができます。"
+"The value in the URL/web address field of a customer's statement. The URL must be 13 characters or shorter.","顧客ステートメントのURL/webアドレスフィールドの値です。URLは13文字以下でなければなりません。"
 "The Payment Token is not available to perform the request.","この決済トークンはリクエストの処理に使用できません。"
 "Checkout failed to initialize. Verify and try again.","チェックアウトの初期化に失敗しました。 確認して再度お試し下さい。"
 "The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","注文は行われませんでした。まず、利用規約に同意してから、もう一度注文して下さい。"
