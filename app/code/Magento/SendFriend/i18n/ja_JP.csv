@@ -33,7 +33,7 @@
 "Send Email","メール送信"
 "Back","戻る"
 "Welcome, %name","ようこそ, %name"
-"%name,","%name,"
+"%name,","%name、"
 "%sender_name wants to share this product with you:","%sender_name はこの商品をあなたとシェアしたがっています:"
 "Message from %sender_name:","%sender_nameからのメッセージ:"
 "Email to a Friend","友達にメールを送る"
