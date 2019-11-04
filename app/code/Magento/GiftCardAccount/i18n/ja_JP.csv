@@ -153,7 +153,7 @@
 "Code Pool used: <b>%1%</b> (free <b>%2</b> of <b>%3</b> total). Generate new code pool <a href=""#"" data-post=""%4"">here</a>.","コードプール使用率: <b>%1</b> (合計 <b>%3</b>中<b>%2</b>空き). 新しいコードプールを生成するには<a href=""#"" data-post=""%4"">ここをクリック</a>してください。"
 "The ""%1"" Cart doesn't contain products.","""%1"" カートは商品を含んでいません。"
 "The gift card couldn't be deleted from the quote.","ギフトカードを見積もりから削除できませんでした。"
-"Requiring a composite gift card account.","Requiring a composite gift card account."
+"Requiring a composite gift card account.","複合のギフトカードアカウントが必要です。"
 "The gift card code couldn't be added. Verify your information and try again.","ギフトカードコードが追加できませんでした。情報を確認して再度お試し下さい。"
 "The gift card code is either incorrect or expired. Verify and try again.","ギフトカードコードが正しくないか、有効期限が切れています。確認して再度お試し下さい。"
 "Gift Card %1 was removed.","ギフトカード %1 が削除されました。"
