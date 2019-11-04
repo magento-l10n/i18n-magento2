@@ -26,7 +26,7 @@
 "Could not save Requisition List. Maximum number of requisition lists was exceeded.","請求リストを保存できませんでした。最大請求リスト数を超えています。"
 "Exception","例外"
 "exception","例外"
-"Warning message.","Warning message."
+"Warning message.","警告メッセージ."
 "No such entity","そのようなエンティティはありません"
 "Could not save","保存できません"
 "Exception Message","例外メッセージ"
