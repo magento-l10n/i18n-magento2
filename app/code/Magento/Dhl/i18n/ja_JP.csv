@@ -90,5 +90,5 @@
 "Package ready time after order submission (in hours)","注文確定後に荷物が出荷可能になるまでの期間(時間)"
 "The security validation of the XML document has failed.","XMLドキュメントのセキュリティ検証に失敗しました。"
 "Content Type (Non Domestic)","荷物種別(国際)"
-"Documents Allowed Methods","Documents Allowed Methods"
-"Non Documents Allowed Methods","Non Documents Allowed Methods"
+"Documents Allowed Methods","ドキュメント許可メソッド"
+"Non Documents Allowed Methods","非ドキュメント許可メソッド"
