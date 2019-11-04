@@ -49,7 +49,7 @@
 "Collection data files.","コレクションデータファイル"
 "API interfaces reflection data.","APIインターフェースリフレクションデータ。"
 "Results of DDL queries, such as describing tables or indexes.","DDL問合せの結果（表または索引の記述など）。"
-"The store cannot be switched.","The store cannot be switched."
+"The store cannot be switched.","ストアを切り替えられません。"
 "The store that was requested wasn't found. Verify the store and try again.","要求されたストアが見つかりませんでした。ストアを確認して再度お試し下さい。"
 "The website wasn't found. Verify the website and try again.","The website wasn't found. Verify the website and try again."
 "The group wasn't found. Verify the group and try again.","The group wasn't found. Verify the group and try again."
