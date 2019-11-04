@@ -135,4 +135,4 @@
 "Inactive","未アクティブ"
 "Only registered users can write reviews. Please, <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","登録済みユーザーのみレビューを書くことができます。<a href=""%1""> ログイン</a> または <a href=""%2""> アカウントを作成</a>してください。"
 "Enabled","有効"
-"The storage key wasn't set. Add the storage key and try again.","The storage key wasn't set. Add the storage key and try again."
+"The storage key wasn't set. Add the storage key and try again.","ストレージキーが設定されていません。ストレージキーを追加してもう一度試してください。"
