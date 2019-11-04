@@ -44,12 +44,12 @@
                         <li><span>Built on years of Amazon eCommerce innovation, and trusted by merchants and buyers alike.</span></li>
                         <li><span>Available across platforms and devices, in the home and on the go.</span></li>
                         </ul>
-                        ","<p>With <a href=""http://docs.magento.com/m2/ce/user_guide/payment/amazon-pay.html"" target=""_blank"">Amazon Pay</a>, we make it simple for the hundreds of millions of Amazon customers worldwide to easily log in and purchase from your store using information already stored their Amazon account. With easy setup in Magento 2.2.4, Amazon Pay provides your customers with a trusted and familiar checkout experience. In just a few taps, they can complete a transaction without ever leaving your site.</p>
+                        ","<p><a href=""http://docs.magento.com/m2/ce/user_guide/payment/amazon-pay.html"" target=""_blank"">Amazon Pay</a>を利用することで、世界中の何億人ものAmazonのお客様が、すでにAmazonアカウントに保存されている情報を使用して、簡単にログインしてストアから購入できるようにします。 Magento 2.2.4より、簡単なセットアップでAmazon Payは信頼できる使い慣れたチェックアウト体験を顧客に提供します。数回タップするだけで、サイトを離れることなくトランザクションを完了できます。</p>
                         <ul>
-                        <li><span>Your customers use one familiar login to identify themselves and transact anywhere Amazon Pay is offered.</span></li>
-                        <li><span>Checkout experience is covered by the Amazon A-to-z Guarantee at no additional cost.</span></li>
-                        <li><span>Built on years of Amazon eCommerce innovation, and trusted by merchants and buyers alike.</span></li>
-                        <li><span>Available across platforms and devices, in the home and on the go.</span></li>
+                        <li><span>顧客は使い慣れたログイン機能を通して認証処理を行うことができ、Amazon Payが提供されている場所で取引を行うことができます。</span></li>
+                        <li><span>チェックアウト機能は、追加費用なしでAmazonマーケットプレイス保証の対象となります。</span></li>
+                        <li><span>長年にわたるAmazon eコマースの革新に基づいて構築されており、販売者と購入者の両方から信頼されています。</span></li>
+                        <li><span>プラットフォームやデバイスを問わず、自宅でも外出先でも利用できます。</span></li>
                         </ul>
                         "
 "Flexible Payment Terms","柔軟な支払い条件"
@@ -213,17 +213,17 @@
                         <li><span>Telephone support and advice from marketing experts included.</span></li>
                         </ul>
                         "
-"Sorry, we had a problem loading our “What’s new” content.","Sorry, we had a problem loading our “What’s new” content."
+"Sorry, we had a problem loading our “What’s new” content.","申し訳ありませんが、「新機能」コンテンツの読み込み中に問題が発生しました。"
 "
                         <p>We’ll try to show it again the next time you sign in to Magento Admin.</p>
                         <p>To learn more about new features, see our latest Release Notes in
                         <a href=""http://devdocs.magento.com/magento-release-information.html""
                         target=""_blank"">DevDocs' Release Information</a>.
                         </p>","
-                        <p>We’ll try to show it again the next time you sign in to Magento Admin.</p>
-                        <p>To learn more about new features, see our latest Release Notes in
+                        <p>次回Magento管理画面にサインインしたときに再び表示します。</p>
+                        <p>新機能の詳細については、最新のリリースノートの
                         <a href=""http://devdocs.magento.com/magento-release-information.html""
-                        target=""_blank"">DevDocs' Release Information</a>.
+                        target=""_blank"">DevDocsのリリース情報</a>をご覧下さい。
                         </p>"
 "
                         <p>We’ll try to show it again the next time you sign in to Magento Admin.</p>
@@ -231,8 +231,8 @@
                         <a href=""https://devdocs.magento.com/magento-release-information.html""
                         target=""_blank"">DevDocs' Release Information</a>.
                         </p>","
-                        <p>We’ll try to show it again the next time you sign in to Magento Admin.</p>
-                        <p>To learn more about new features, see our latest Release Notes in
+                        <p>次回Magento管理画面にサインインしたときに再び表示します。</p>
+                        <p>新機能の詳細については、最新のリリースノートの
                         <a href=""https://devdocs.magento.com/magento-release-information.html""
-                        target=""_blank"">DevDocs' Release Information</a>.
+                        target=""_blank"">DevDocsのリリース情報</a>をご覧下さい。
                         </p>"
