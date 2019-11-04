@@ -188,4 +188,4 @@
 "The comment is missing. Enter and try again.","コメントが見つかりません。入力して再度お試し下さい。"
 "The security validation of the XML document has failed.","XMLドキュメントのセキュリティ検証に失敗しました。"
 "The ""%1"" carrier is invalid. Verify and try again.","""%1"" 配送業者が無効です。確認して再度お試し下さい。"
-"Shipping labels can't be created. Verify that the store information and settings are complete and try again.","Shipping labels can't be created. Verify that the store information and settings are complete and try again."
+"Shipping labels can't be created. Verify that the store information and settings are complete and try again.","配送ラベルを作成できません。ストア情報と設定が完了しているか確認して、再度お試し下さい。"
