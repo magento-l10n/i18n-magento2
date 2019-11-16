@@ -104,5 +104,5 @@
 "Only necessary if image has been uploaded above. Enter number of pixels, without appending ""px"".","Sadece eğer görüntü tukarıya yüklendiyse gereklidir. ""px"" eklemeden piksel sayısını girin."
 "Email template chosen based on theme fallback when ""Default"" option is selected.","E-posta şablonu, ""Varsayılan"" seçeneği seçildiğinde temanın geri düşümü temel alınarak seçildi."
 "<pre>' . . . . '</pre>","<pre>' . . . . '</pre>"
-"The design config needs an area and a store. Verify that both are set and try again.","The design config needs an area and a store. Verify that both are set and try again."
-"To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in the width/height fields below.","To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in the width/height fields below."
+"The design config needs an area and a store. Verify that both are set and try again.","Tasarım konfigürasyonunun bir alana ve bir mağazaya ihtiyacı var. Her ikisinin de ayarlandığından emin olun ve tekrar deneyin."
+"To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in the width/height fields below.","Yüksek çözünürlüklü ekranlarda logoyu optimize etmek için normal boyutun 3x katı resim yükleyin ve ardından aşağıdaki genişlik / yükseklik alanlarına normal boyutu girin."
