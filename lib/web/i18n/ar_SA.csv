@@ -97,7 +97,7 @@
 "Please enter a valid number.","الرجاء إدخال رقم صحيح."
 "This is required field","هذا حقل مطلوب"
 "Admin is a required field in each row.","Admin is a required field in each row."
-"Password cannot be the same as email address.","Password cannot be the same as email address."
+"Password cannot be the same as email address.","كلمة السر لا يمكن أن تكون مطابقة لعنوان البريد الإلكتروني."
 "Please fix this field.","الرجاء إصلاح هذا الحقل."
 "Please enter a valid email address.","الرجاء ادخال عنوان بريد الكتروني صحيح."
 "Please enter a valid URL.","المرجو إدخال عنوان URL بشكل صحيح."
