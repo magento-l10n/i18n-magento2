@@ -72,5 +72,5 @@
 "Unable to place order. Please try again later.","Δεν είναι δυνατή η καταχώρηση της παραγγελίας. Παρακαλώ, προσπαθήστε ξανά αργότερα."
 "A server error stopped your order from being placed. Please try to place your order again.","Ένα σφάλμα του διακομιστή διέκοψε την υποβολή της παραγγελία σας. Παρακαλώ δοκιμάστε να υποβάλετε την παραγγελία σας ξανά."
 "The transaction details are unavailable. Please try again later.","Τα στοιχεία της συναλλαγής δεν είναι διαθέσιμα. Παρακαλώ δοκιμάστε ξανά αργότερα."
-"Authorize.Net Direct Post (Deprecated)","Authorize.Net Direct Post (Deprecated)"
+"Authorize.Net Direct Post (Deprecated)","Άμεση Δημοσίευση Authorize.Net (Απορρίφθηκε)"
 "Signature Key","Κλειδί Υπογραφής"
