@@ -25,5 +25,5 @@
 "Authentication header format is invalid.","Η μορφή κεφαλίδας ελέγχου ταυτότητας δεν είναι έγκυρη."
 "Authentication header is absent.","Η κεφαλίδα ελέγχου ταυτότητας δεν υπάρχει."
 "REST and SOAP configurations, generated WSDL file.","Ρυθμίσεις REST και SOAP, δημιούργησαν WSDL αρχείο."
-"Specified request cannot be processed.","Specified request cannot be processed."
-"The consumer isn't authorized to access %resources.","The consumer isn't authorized to access %resources."
+"Specified request cannot be processed.","Η καθορισμένη αίτηση δεν μπορεί να επεξεργαστεί."
+"The consumer isn't authorized to access %resources.","Ο καταναλωτής δεν είναι εξουσιοδοτημένος για πρόσβαση στα %resources."
