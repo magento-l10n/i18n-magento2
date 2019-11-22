@@ -2,7 +2,7 @@
 "Are you sure you want to cancel this order? The order amount will not be reverted to %1 because the company is not active.","Are you sure you want to cancel this order? The order amount will not be reverted to %1 because the company is not active."
 "Are you sure you want to cancel this order? The order amount will not be reverted to %1 because the company associated with this customer does not exist.","Are you sure you want to cancel this order? The order amount will not be reverted to %1 because the company associated with this customer does not exist."
 "Page not found.","Η σελίδα δεν βρέθηκε."
-"Something went wrong. Please try again later.","Something went wrong. Please try again later."
+"Something went wrong. Please try again later.","Κάτι πήγε στραβά. Παρακαλώ δοκιμάστε αργότερα."
 "History record no longer exists.","History record no longer exists."
 "Unable to retrieve currency rates at this moment. Please try again later or contact store administrator.","Unable to retrieve currency rates at this moment. Please try again later or contact store administrator."
 "A total of %1 record(s) were updated.","Συνολικά %1 εγγραφή(ές) ενημερώθηκαν."
@@ -48,8 +48,8 @@
 "We refunded %1 online.","Επιστρέψαμε το %1 σε σύνδεση."
 "We refunded %1 offline.","Επιστρέψαμε το %1 χωρίς σύνδεση."
 "We refunded %1 to the company credit.","We refunded %1 to the company credit."
-"Exception message.","Exception message."
-"Exception Message","Exception Message"
+"Exception message.","Μήνυμα εξαίρεσης."
+"Exception Message","Μήνυμα Εξαίρεσης"
 "No such entity","Καμία τέτοια οντότητα"
 "Edit","Επεξεργασία"
 "%1 made an update. %2 can exceed the Credit Limit.","%1 made an update. %2 can exceed the Credit Limit."
@@ -71,7 +71,7 @@
 "Charged off the company credit","Charged off the company credit"
 "The Company credit on all selected companies will be converted using the rate below. This operation cannot be undone.","The Company credit on all selected companies will be converted using the rate below. This operation cannot be undone."
 "Credit allocated to %company_name","Credit allocated to %company_name"
-"Dear %name,","Dear %name,"
+"Dear %name,","Αγαπητέ/ή %name,"
 "Your company has been allocated a credit of %available_credit.
     You can now use the Payment On Account method to place you orders.","Your company has been allocated a credit of %available_credit.
     You can now use the Payment On Account method to place you orders."
