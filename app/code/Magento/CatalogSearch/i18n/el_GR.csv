@@ -47,7 +47,7 @@
 "Number of popular search terms to be cached for faster response. Use “0” to cache all results after a term is searched for the second time.","Number of popular search terms to be cached for faster response. Use “0” to cache all results after a term is searched for the second time."
 "Enable EAV Indexer","Enable EAV Indexer"
 "Enter a search term and try again.","Enter a search term and try again."
-"An error occurred. For details, see the error log.","An error occurred. For details, see the error log."
+"An error occurred. For details, see the error log.","Παρουσιάστηκε ένα σφάλμα. Για λεπτομέρειες, δείτε το αρχείο καταγραφής σφαλμάτων."
 "The bucket doesn't exist.","The bucket doesn't exist."
 "Deprecation Notice","Deprecation Notice"
 "Autocomplete Limit","Autocomplete Limit"

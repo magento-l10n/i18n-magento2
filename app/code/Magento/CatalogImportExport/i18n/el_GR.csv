@@ -23,4 +23,4 @@
 "Disallowed file type.","Μη επιτρεπόμενος τύπος αρχείου."
 "Value for multiselect attribute %s contains duplicated values","Value for multiselect attribute %s contains duplicated values"
 "Invalid Stock data for insert","Invalid Stock data for insert"
-"Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: %1","Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: %1"
+"Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: %1","Η Τιμή για το υπό-χαρακτηριστικό 'type' στο χαρακτηριστικό 'custom_options' περιέχει εσφαλμένη τιμή, αποδεκτές τιμές: %1"
