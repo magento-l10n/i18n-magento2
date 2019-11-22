@@ -1,6 +1,6 @@
 "Current customer does not have access to the resource ""%1""","Current customer does not have access to the resource ""%1"""
 "Customer id %1 does not exist.","Customer id %1 does not exist."
-"Required parameters are missing: %1","Required parameters are missing: %1"
+"Required parameters are missing: %1","Λείπουν οι απαιτούμενες παράμετροι: %1"
 "Customer Address %1 is set as default billing address and can not be deleted","Customer Address %1 is set as default billing address and can not be deleted"
 "Customer Address %1 is set as default shipping address and can not be deleted","Customer Address %1 is set as default shipping address and can not be deleted"
 "Could not find a address with ID ""%address_id""","Could not find a address with ID ""%address_id"""

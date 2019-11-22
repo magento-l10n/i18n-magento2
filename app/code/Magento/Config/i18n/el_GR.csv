@@ -120,7 +120,7 @@
 "Store Email Addresses Section","Ενότητα Διευθύνσεων Email Καταστήματος"
 "Email to a Friend","Αποστολή σε έναν φίλο"
 "Action","Ενέργεια"
-"'The specified image adapter cannot be used because of: ' .","'The specified image adapter cannot be used because of: ' ."
+"'The specified image adapter cannot be used because of: ' .","'Ο καθορισμένος προσαρμογέας εικόνας δεν μπορεί να χρησιμοποιηθεί λόγω της: ' ."
 "The file ""' . . '"" does not exist","The file ""' . . '"" does not exist"
 "The class for ""%1"" type wasn't declared. Enter the class and try again.","The class for ""%1"" type wasn't declared. Enter the class and try again."
 "The ""%1"" email address is incorrect. Verify the email address and try again.","The ""%1"" email address is incorrect. Verify the email address and try again."

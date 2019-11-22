@@ -142,4 +142,4 @@
 "The existing product data is replaced with new data. <b>Exercise caution when replacing data because the existing product data will be completely cleared and all references in the system will be lost.</b>","The existing product data is replaced with new data. <b>Exercise caution when replacing data because the existing product data will be completely cleared and all references in the system will be lost.</b>"
 "Any entities in the import data that already exist in the database are deleted from the database.","Any entities in the import data that already exist in the database are deleted from the database."
 "Are you sure you wan't to delete a file?","Are you sure you wan't to delete a file?"
-"File name","File name"
+"File name","Όνομα αρχείου"
