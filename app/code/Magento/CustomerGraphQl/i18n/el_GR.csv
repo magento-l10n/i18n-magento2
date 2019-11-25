@@ -14,7 +14,7 @@
 "Specify the ""currentPassword"" value.","Specify the ""currentPassword"" value."
 "Specify the ""newPassword"" value.","Specify the ""newPassword"" value."
 """input"" value should be specified","""input"" value should be specified"
-"""model"" value should be specified","""model"" value should be specified"
+"""model"" value should be specified","η τιμή ""model"" πρέπει να οριστεί"
 "Address ""id"" value should be specified","Address ""id"" value should be specified"
 "Specify the ""email"" value.","Specify the ""email"" value."
 "Specify the ""password"" value.","Specify the ""password"" value."
