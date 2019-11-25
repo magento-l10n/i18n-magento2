@@ -121,4 +121,4 @@
 "Action","Ενέργεια"
 "Edit","Επεξεργασία"
 "Run","Εκτέλεση"
-"For Type ""Local Server"" use relative path to Magento installation,  e.g. var/export, var/import, var/export/some/dir","For Type ""Local Server"" use relative path to Magento installation,  e.g. var/export, var/import, var/export/some/dir"
+"For Type ""Local Server"" use relative path to Magento installation,  e.g. var/export, var/import, var/export/some/dir","Για τον τύπο ""Τοπικού διακομιστή"" χρησιμοποιείστε σχετική διαδρομή σε εγκατάσταση Magento, π.χ. η var/export, η var/import, η var/export/καποιος/φάκελος"
