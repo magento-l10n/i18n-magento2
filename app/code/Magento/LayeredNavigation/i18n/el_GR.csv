@@ -28,11 +28,11 @@
 "Interval Division Limit","Όριο Διαστήματος Διαίρεσης"
 "Please specify the number of products, that will not be divided into subintervals.","Παρακαλείστε να προσδιορίσετε τον αριθμό των προϊόντων, που δεν θα χωριστούν σε υποδιαστήματα."
 "Position of attribute in layered navigation block","Η θέση του χαρακτηριστικού στο μπλοκ πολυεπίπεδης πλοήγησης"
-"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price"
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price","Μπορεί να χρησιμοποιηθεί μόνο με τύπου Ναι/Όχι, Αναπτυσσόμενου Μενού, Πολλαπλών Επιλογών και Τιμής"
 "Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
                     <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
                      it will make no affect on Price filter.","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
                     <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
                      it will make no affect on Price filter."
-"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price."
-"Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price.","Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price."
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.","Μπορεί να χρησιμοποιηθεί μόνο με τύπου Ναι/Όχι, Αναπτυσσόμενου Μενού, Πολλαπλών Επιλογών και Τιμής."
+"Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price.","Μπορεί να χρησιμοποιηθεί μόνο με τύπου Ναι/Όχι (Boolean), Αναπτυσσόμενου Μενού, Πολλαπλών Επιλογών και Τιμής."
