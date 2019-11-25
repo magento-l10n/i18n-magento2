@@ -131,7 +131,7 @@
 "Priority","Προτεραιότητα"
 "Cart Price Rule","Κανόνας Τιμών Καλαθιού"
 "Back","Πίσω"
-"Currently Active","Currently Active"
+"Currently Active","Τρέχουσα Κατάσταση Ενεργή"
 "Rule Information","Πληροφορίες Κανόνα"
 "Rule Name","Όνομα κανόνα"
 "Description","Περιγραφή"
@@ -141,15 +141,13 @@
 "
                     If you select and save the rule you will be able to generate multiple coupon codes.
                 ","
-                    If you select and save the rule you will be able to generate multiple coupon codes.
-                "
+Εάν επιλέξετε και αποθηκεύσετε τον κανόνα, θα είστε σε θέση να δημιουργήσετε πολλαπλούς κωδικούς κουπονιού.                "
 "Use Auto Generation","Χρήση Αυτόματης Δημιουργίας"
 "Uses per Coupon","Χρήσεις ανά Κουπόνι"
 "
                     Usage limit enforced for logged in customers only.
                 ","
-                    Usage limit enforced for logged in customers only.
-                "
+Όριο χρήσης που επιβάλλεται για συνδεδεμένους πελάτες μόνο.                "
 "Uses per Customer","Χρήσεις ανά πελάτη"
 "From","Από"
 "To","Έως"
@@ -171,8 +169,8 @@
 "If you select and save the rule you will be able to generate multiple coupon codes.","Εάν επιλέξετε και αποθηκεύσετε τον κανόνα θα είστε σε θέση να παράγετε πολλαπλούς κώδικες κουπονιών."
 "Usage limit enforced for logged in customers only.","Το όριο χρήσης επιβάλλεται μόνο για τους συνδεδεμένους πελάτες."
 "Payment Method","Μέθοδος Πληρωμής"
-"Your coupon was successfully removed","Your coupon was successfully removed"
-"Your coupon was successfully applied","Your coupon was successfully applied"
+"Your coupon was successfully removed","Το κουπόνι σας καταργήθηκε με επιτυχία"
+"Your coupon was successfully applied","Το κουπόνι σας εφαρμόστηκε με επιτυχία"
 "
                         If you select and save the rule you will be able to generate multiple coupon codes.
                     ","
