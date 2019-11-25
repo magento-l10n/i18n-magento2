@@ -1,7 +1,7 @@
 "Cancel","Άκυρο"
 "Preview","Προεπισκόπηση"
 "Done","Επιτυχής"
-"Remove from Update","Remove from Update"
+"Remove from Update","Αφαίρεση από την Ενημερωμένη Έκδοση"
 "Save","Αποθήκευση"
 "Schedule New Update","Πρoγραμματισμένη νέα ενημέρωση"
 "View Specific Date","Προβολή Συγκεκριμένης Ημερομηνίας"
@@ -10,8 +10,7 @@
 "Content Staging Dashboard","Content Staging Dashboard"
 "The Start Time of this Update cannot be changed. It's been already started.","The Start Time of this Update cannot be changed. It's been already started."
 "Future Update in this time range already exists. 
-                            Select a different range to add a new Future Update.","Future Update in this time range already exists. 
-                            Select a different range to add a new Future Update."
+                            Select a different range to add a new Future Update.","Μελλοντική ενημερωμένη έκδοση σε αυτό το χρονικό διάστημα, υπάρχει ήδη. Επιλέξτε μια διαφορετική περιοχή για να προσθέσετε μια νέα μελλοντική ενημερωμένη έκδοση."
 "Cannot save Update.","Cannot save Update."
 "Edit Existing Update","Επεξεργασία Υφιστάμενης Ενημέρωσης"
 "Assign to Another Update","Assign to Another Update"
@@ -83,7 +82,7 @@
 "Name","Όνομα"
 "The Future Update Start Time is invalid. It can't be later than current time + %1 years.","The Future Update Start Time is invalid. It can't be later than current time + %1 years."
 "The Future Update End Time is invalid. It can't be later than current time + %1 years.","The Future Update End Time is invalid. It can't be later than current time + %1 years."
-"Future Update already exists in this time range. Set a different range and try again.","Future Update already exists in this time range. Set a different range and try again."
+"Future Update already exists in this time range. Set a different range and try again.","Η μελλοντική Ενημέρωση υπάρχει ήδη σε αυτό το χρονικό διάστημα. Καθορίστε διαφορετικό διάστημα και δοκιμάστε ξανά."
 "The required parameter is ""%1"". Set parameter and try again.","The required parameter is ""%1"". Set parameter and try again."
 "The ""%1"" action type is invalid. Verify the action type and try again.","The ""%1"" action type is invalid. Verify the action type and try again."
 "The action is invalid. Verify the action and try again.","The action is invalid. Verify the action and try again."

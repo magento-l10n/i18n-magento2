@@ -177,7 +177,7 @@
 "Order Total Excl. Tax","Σύνολο Παραγγελίας χωρίς ΦΠΑ"
 "Order Total Incl. Tax","Σύνολο Παραγγελίας με ΦΠΑ"
 "Order Total","Σύνολο Παραγγελίας"
-"You will be charged for","You will be charged for"
+"You will be charged for","Θα χρεωθείτε για"
 "Warning tax configuration can result in rounding errors. ","Προειδοποίηση ρύθμιση παραμέτρων φόρου μπορεί να οδηγήσει σε σφάλματα στρογγυλοποίησης. "
 "Warning tax discount configuration might result in different discounts
                                 than a customer might expect. ","Προειδοποίηση η έκπτωση φόρου μπορεί να οδηγήσει σε διαφορετικές εκπτώσεις                                από αυτές που αναμένει κάποιος πελάτης. "
@@ -189,4 +189,4 @@
 "The ZIP Code length is invalid. Verify that the length is nine characters or fewer and try again.","The ZIP Code length is invalid. Verify that the length is nine characters or fewer and try again."
 "The ZIP Code is invalid. Use numbers only.","The ZIP Code is invalid. Use numbers only."
 "The tax rate can't be removed because it exists in a tax rule.","The tax rate can't be removed because it exists in a tax rule."
-"""%fieldName"" is required. Enter and try again.","""%fieldName"" is required. Enter and try again."
+"""%fieldName"" is required. Enter and try again.","""%fieldName"" είναι απαραίτητο. Εισάγετε και προσπαθήστε ξανά."
