@@ -213,7 +213,7 @@
 "Page not found.","Η σελίδα δεν βρέθηκε."
 "The scope or scope ID is invalid. Verify both and try again.","Το πεδίο εφαρμογής ή το ID πεδίου εφαρμογής δεν είναι έγκυρο. Επιβεβαιώστε και τα δύο και δοκιμάστε ξανά."
 "The backend model isn't specified for ""%1"".","Το μοντέλο παρασκηνίου δεν έχει καθοριστεί για ""%1""."
-"The ""%templateName"" template contains an incorrect configuration, with a reference to itself. Remove or change the reference, then try again.","The ""%templateName"" template contains an incorrect configuration, with a reference to itself. Remove or change the reference, then try again."
+"The ""%templateName"" template contains an incorrect configuration, with a reference to itself. Remove or change the reference, then try again.","Το πρότυπο ""%templateName"" περιέχει εσφαλμένες ρυθμίσεις, με μια αναφορά στον εαυτό του. Αφαιρέστε ή αλλάξτε την αναφορά και δοκιμάστε ξανά."
 "The config can't be saved because it's empty. Complete the config and try again.","Οι ρυθμίσεις δεν μπορούν να αποθηκευτούν γιατί είναι κενές. Συμπληρώστε τις ρυθμίσεις και δοκιμάστε ξανά."
 "View","Προβολή"
 "This is a demo store. No orders will be fulfilled.","Αυτό είναι δοκιμαστικό κατάστημα. Καμία παραγγελία δεν θα εκπληρωθεί."
