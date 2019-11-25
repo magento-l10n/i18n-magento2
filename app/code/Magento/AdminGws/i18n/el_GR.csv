@@ -17,7 +17,7 @@
 "You need more permissions to save this setting.","Χρειάζεστε περισσότερα δικαιώματα για να αποθηκεύσετε αυτή τη ρύθμιση."
 "Role Scopes","Πεδία Ρόλων"
 "Custom","Προσαρμοσμένο"
-"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view"
+"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","Δεν έχετε δικαιώματα για αποθήκευση αυτού του στοιχείου στο πεδίο εφαρμογής της τρέχουσας προβολής καταστήματος. Παρακαλώ, αλλάξτε σε επιτρεπτή προβολή καταστήματος"
 "More permissions are needed to delete the ""%1"" item.","Περισσότερα δικαιώματα είναι απαραίτητα για να διαγράψετε το στοιχείο «%1»."
 "This entity needs to be assigned to a store view. Verify the entity assignment and try again.","Η οντότητα αυτή πρέπει να αντιστοιχιστεί σε μια προβολή του καταστήματος. Επαληθεύστε την αντιστοίχιση οντότητας και προσπαθήστε ξανά."
 "Orders can only be completed in an active store. Verify the store and try again.","Οι παραγγελίες μπορούν να ολοκληρωθούν μόνο σε ένα ενεργό κατάστημα. Επαληθεύστε το κατάστημα και προσπαθήστε ξανά."
