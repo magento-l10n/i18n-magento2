@@ -154,7 +154,7 @@
 "End","Τέλος"
 "Website","Ιστοσελίδα"
 "LocalizedException","Εξαίρεση με Τοπική ρύθμιση"
-"The quote total specified is unknown. Verify the total and try again.","The quote total specified is unknown. Verify the total and try again."
+"The quote total specified is unknown. Verify the total and try again.","Το καθορισμένο σύνολο προσφοράς είναι άγνωστο. Επιβεβαιώστε το σύνολο και δοκιμάστε ξανά."
 "The attribute specified is unknown. Verify the attribute and try again.","The attribute specified is unknown. Verify the attribute and try again."
 "The valid number of minutes needs to be entered. Enter and try again.","The valid number of minutes needs to be entered. Enter and try again."
 "The Cron expression was unable to be saved.","The Cron expression was unable to be saved."
