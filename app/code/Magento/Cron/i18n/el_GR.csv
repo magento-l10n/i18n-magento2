@@ -7,7 +7,7 @@
 "Invalid cron expression, expecting numeric modulus: %1","Μη έγκυρη έκφραση cron, περιμένοντας numeric modulus': %1"
 "Invalid cron expression, expecting 'from-to' structure: %1","Μη έγκυρη έκφραση cron, περιμένοντας 'from-to' δομή: %1"
 "Some error","Κάποιο λάθος"
-"Invalid callback: Not_Existed_Class::execute can't be called","Invalid callback: Not_Existed_Class::execute can't be called"
+"Invalid callback: Not_Existed_Class::execute can't be called","Μη έγκυρη επιστροφή. Not_Existed_Class::execute δεν μπορεί να κληθεί"
 "Test exception","Δοκιμαστική εξαίρεση"
 "Cron (Scheduled Tasks)","Cron (προγραμματισμένες εργασίες)"
 "For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.","Για σωστές διευθύνσεις URL που δημιουργούνται κατά τη διάρκεια cron τρέχει παρακαλώ σιγουρευτείτε ότι Web > ασφαλές και μη ασφαλές URL βάσης ορίζονται ρητά. Όλες οι χρόνοι είναι μέσα σε λίγα λεπτά."
