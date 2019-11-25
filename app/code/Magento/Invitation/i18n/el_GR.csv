@@ -148,5 +148,5 @@
 "The invitation with the ""%1"" status can't be sent.","The invitation with the ""%1"" status can't be sent."
 "A valid invitation email is missing. Enter and try again.","A valid invitation email is missing. Enter and try again."
 "The proper website couldn't be identified","The proper website couldn't be identified"
-"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."
-"This invitation is addressed to current customer ""%1"".","This invitation is addressed to current customer ""%1""."
+"An email wasn't specified. Enter the email and try again.","Το email δεν καθορίστηκε. Εισάγετε το email και δοκιμάστε ξανά."
+"This invitation is addressed to current customer ""%1"".","Αυτή η πρόσκληση απευθύνεται σε τρέχοντα πελάτη ""%1""."
