@@ -26,5 +26,5 @@
 "Limit the number of password reset request per hour. Use 0 to disable.","Περιορίστε τον αριθμό των αιτήσεων επαναφοράς κωδικού πρόσβασης ανά ώρα. Χρησιμοποιήστε το 0 για να απενεργοποιήσετε."
 "Min Time Between Password Reset Requests","Ελαχ. Χρόνος Μεταξύ των Αιτήσεων Επαναφοράς Κωδικού Πρόσβασης"
 "Delay in minutes between password reset requests. Use 0 to disable.","Καθυστέρηση σε λεπτά μεταξύ αιτήσεων επαναφοράς κωδικού πρόσβασης. Χρησιμοποιήστε το 0 για να απενεργοποιήσετε."
-"Your account is temporarily disabled. Please try again later.","Your account is temporarily disabled. Please try again later."
-"We received too many requests for password resets. Please wait and try again later or contact %1.","We received too many requests for password resets. Please wait and try again later or contact %1."
+"Your account is temporarily disabled. Please try again later.","Ο λογαριασμός σας απενεργοποιήθηκε προσωρινά. Παρακαλούμε δοκιμάστε ξανά αργότερα."
+"We received too many requests for password resets. Please wait and try again later or contact %1.","Λάβαμε πολλές αιτήσεις για επαναφορά κωδικού. Παρακαλούμε περιμένετε και δοκιμάστε ξανά αργότερα ή επικοινωνήστε με %1."

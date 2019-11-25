@@ -32,5 +32,5 @@
 "Unknown condition operator","Άγνωστη κατάσταση χειριστή"
 "There is no information about associated entity type ""%1"".","Δεν υπάρχει καμία πληροφορία σχετικά με συσχετισμένη οντότητα τύπου ""%1""."
 "This won't take long . . .","Αυτό δεν θα αργήσει . . ."
-"Please specify valid %1.","Please specify valid %1."
-"is undefined","is undefined"
+"Please specify valid %1.","Παρακαλώ καθορίστε ένα έγκυρο %1."
+"is undefined","είναι απροσδιόριστο"
