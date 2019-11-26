@@ -104,5 +104,5 @@
 "Only necessary if image has been uploaded above. Enter number of pixels, without appending ""px"".","Απαραίτητες μόνο εάν μια εικόνα έχει φορτωθεί από πάνω. Εισαγάγετε αριθμό pixel, χωρίς προσάρτηση «px»."
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Το επιλεγμένο πρότυπο Email βασίζεται στo μητρικό θέμα όταν έχει επιλεχθεί η επιλογή ""Default""."
 "<pre>' . . . . '</pre>","<pre>' . . . . '</pre>"
-"The design config needs an area and a store. Verify that both are set and try again.","The design config needs an area and a store. Verify that both are set and try again."
-"To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in the width/height fields below.","To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in the width/height fields below."
+"The design config needs an area and a store. Verify that both are set and try again.","Η διαμόρφωση σχεδιασμού χρειάζεται μια περιοχή και ένα κατάστημα. Βεβαιωθείτε ότι έχουν ρυθμιστεί και τα δύο και δοκιμάστε ξανά."
+"To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in the width/height fields below.","Για να βελτιστοποιήσετε το λογότυπο για οθόνες υψηλής ανάλυσης, ανεβάστε μια εικόνα που είναι 3 x κανονικό μέγεθος και στη συνέχεια καθορίστε 1 x Διαστάσεις στα παρακάτω πεδία ύψους/πλάτους."
