@@ -1,4 +1,4 @@
-"Current customer does not have access to the resource ""%1""","Current customer does not have access to the resource ""%1"""
+"Current customer does not have access to the resource ""%1""","Ο τρέχων πελάτης δεν έχει πρόσβαση στον πόρο ""%1"""
 "Customer id %1 does not exist.","Ο πελάτης %1 δεν υπάρχει."
 "Required parameters are missing: %1","Λείπουν οι απαιτούμενες παράμετροι: %1"
 "Customer Address %1 is set as default billing address and can not be deleted","Η Διεύθυνση Πελάτη %1 είναι ορισμένη ως προκαθορισμένη διεύθυνση χρέωσης και δεν μπορεί να διαγραφεί"
