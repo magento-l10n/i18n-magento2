@@ -187,5 +187,5 @@
 "Weight:","Βάρος:"
 "The comment is missing. Enter and try again.","The comment is missing. Enter and try again."
 "The security validation of the XML document has failed.","The security validation of the XML document has failed."
-"The ""%1"" carrier is invalid. Verify and try again.","The ""%1"" carrier is invalid. Verify and try again."
+"The ""%1"" carrier is invalid. Verify and try again.","Ο πάροχος ""%1"" είναι εσφαλμένος. Επαληθεύστε και προσπαθήστε ξανά."
 "Shipping labels can't be created. Verify that the store information and settings are complete and try again.","Shipping labels can't be created. Verify that the store information and settings are complete and try again."
