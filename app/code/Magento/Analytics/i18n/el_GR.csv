@@ -67,6 +67,6 @@
 "The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","The data is invalid. Enter the data as a string or data that can be converted into a string and try again."
 "The data is invalid. Enter the data as a string and try again.","The data is invalid. Enter the data as a string and try again."
 "The data is invalid. Use a valid cipher method and try again.","The data is invalid. Use a valid cipher method and try again."
-"Enter the encryption key and try again.","Enter the encryption key and try again."
-"The ""%1"" source doesn't exist.","The ""%1"" source doesn't exist."
+"Enter the encryption key and try again.","Εισαγάγετε το κλειδί κρυπτογράφησης και δοκιμάστε ξανά."
+"The ""%1"" source doesn't exist.","Η πηγή ""%1"" δεν υπάρχει."
 "Retry Synchronization","Επανάληψη Συγχρονισμού"
