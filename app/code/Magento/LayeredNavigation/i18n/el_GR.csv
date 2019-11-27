@@ -31,8 +31,8 @@
 "Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price","Μπορεί να χρησιμοποιηθεί μόνο με τύπου Ναι/Όχι, Αναπτυσσόμενου Μενού, Πολλαπλών Επιλογών και Τιμής"
 "Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
                     <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
-                     it will make no affect on Price filter.","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
-                    <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
-                     it will make no affect on Price filter."
+                     it will make no affect on Price filter.","Μπορεί να χρησιμοποιηθεί μόνο με τον τύπο εισόδου του καταλόγου Ναι/Όχι, Αναπτυσσόμενο Μενού, Πολλαπλή Επιλογή και Τιμή.
+                     <br>Η τιμή δεν είναι συμβατή με την επιλογή <b>Φιλτράρισμα (χωρίς αποτελέσματα)</b>
+                      δεν θα επηρεάσει το φίλτρο τιμών."
 "Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.","Μπορεί να χρησιμοποιηθεί μόνο με τύπου Ναι/Όχι, Αναπτυσσόμενου Μενού, Πολλαπλών Επιλογών και Τιμής."
 "Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price.","Μπορεί να χρησιμοποιηθεί μόνο με τύπου Ναι/Όχι (Boolean), Αναπτυσσόμενου Μενού, Πολλαπλών Επιλογών και Τιμής."
