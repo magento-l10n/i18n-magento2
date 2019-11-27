@@ -44,14 +44,13 @@
                         <li><span>Built on years of Amazon eCommerce innovation, and trusted by merchants and buyers alike.</span></li>
                         <li><span>Available across platforms and devices, in the home and on the go.</span></li>
                         </ul>
-                        ","<p>With <a href=""http://docs.magento.com/m2/ce/user_guide/payment/amazon-pay.html"" target=""_blank"">Amazon Pay</a>, we make it simple for the hundreds of millions of Amazon customers worldwide to easily log in and purchase from your store using information already stored their Amazon account. With easy setup in Magento 2.2.4, Amazon Pay provides your customers with a trusted and familiar checkout experience. In just a few taps, they can complete a transaction without ever leaving your site.</p>
-                        <ul>
-                        <li><span>Your customers use one familiar login to identify themselves and transact anywhere Amazon Pay is offered.</span></li>
-                        <li><span>Checkout experience is covered by the Amazon A-to-z Guarantee at no additional cost.</span></li>
-                        <li><span>Built on years of Amazon eCommerce innovation, and trusted by merchants and buyers alike.</span></li>
-                        <li><span>Available across platforms and devices, in the home and on the go.</span></li>
-                        </ul>
-                        "
+                        ","<p>Με το <a href=""http://docs.magento.com/m2/ce/user_guide/payment/amazon-pay.html"" target=""_blank""> Amazon Pay</a>, το καθιστούμε απλό για τα εκατοντάδες εκατομμύρια των πελατών της Amazon σε όλο τον κόσμο για να συνδεθείτε εύκολα και να αγοράσετε από το κατάστημά σας χρησιμοποιώντας πληροφορίες που έχουν ήδη αποθηκευτεί στο λογαριασμό τους στο Amazon. Με την εύκολη εγκατάσταση στο Magento 2.2.4, η Amazon Pay παρέχει στους πελάτες σας μια αξιόπιστη και οικεία εμπειρία checkout. Με λίγες βρύσες, μπορούν να ολοκληρώσουν μια συναλλαγή χωρίς να εγκαταλείψουν ποτέ τον ιστότοπό σας.</p>
+                        <ul>
+                        <li><span>Οι πελάτες σας χρησιμοποιούν ένα γνωστό όνομα σύνδεσης για να εντοπίσουν και να πραγματοποιήσουν συναλλαγές οπουδήποτε προσφέρεται το Amazon Pay.</span></li>
+                        <li><span>Η εμπειρία Ολοκλήρωσης Παραγγελίας καλύπτεται από την Εγγύηση A-to-Z του Amazon χωρίς πρόσθετο κόστος.</span></li>
+                        <li><span>Κατασκευασμένο σε χρόνια καινοτομίας του ηλεκτρονικού εμπορίου του Amazon, και εμπιστευόμενο από τους εμπόρους και τους αγοραστές.</span></li>
+                        <li><span>Διατίθεται σε διάφορες πλατφόρμες και συσκευές, στο σπίτι και εν κινήσει.</span></li>
+                        </ul>                        "
 "Flexible Payment Terms","Ευέλικτοι Όροι Πληρωμής"
 "
                         <p>With <a href=""http://docs.magento.com/m2/ce/user_guide/payment/klarna.html"" target=""_blank"">Klarna</a>, reduce purchase stress and improve your shopping experience with several retail finance and direct-payment options that are easily integrated into your existing buying journey. Shoppers can choose to pay now by online payment or direct debit, pay later by invoice, or pay in installments.</p>
@@ -63,15 +62,14 @@
                         <li><span>Fast and easy setup, right from the Magento Admin.</span></li>
                         </ul>
                         ","
-                        <p>With <a href=""http://docs.magento.com/m2/ce/user_guide/payment/klarna.html"" target=""_blank"">Klarna</a>, reduce purchase stress and improve your shopping experience with several retail finance and direct-payment options that are easily integrated into your existing buying journey. Shoppers can choose to pay now by online payment or direct debit, pay later by invoice, or pay in installments.</p>
-                        <ul>
-                        <li><span>Customers never leave your site, and enjoy a smoother shopping experience.</span></li>
-                        <li><span>Easy application process with the ability to pay over time increases average order value and conversion rates.</span></li>
-                        <li><span>Assumes all credit and fraud risk, and ensures you are paid for ordered goods.</span></li>
-                        <li><span>Ready for all devices, and enables shoppers to use their Klarna account at any Klarna merchant with just a few clicks.</span></li>
-                        <li><span>Fast and easy setup, right from the Magento Admin.</span></li>
-                        </ul>
-                        "
+<p>Με <a href=""http://docs.magento.com/m2/ce/user_guide/payment/klarna.html"" target=""_blank"">Klarna</a>, μειώστε το άγχος της αγοράς και βελτιώστε την εμπειρία αγορών σας με πολλές επιλογές χρηματοδότησης λιανικής και άμεσης πληρωμής που ενσωματώνονται εύκολα στο υπάρχον ταξίδι αγορών σας. Οι αγοραστές μπορούν να επιλέξουν να πληρώσουν τώρα μέσω ηλεκτρονικής πληρωμής ή άμεσης χρέωσης, να πληρώσουν αργότερα με τιμολόγιο ή να πληρώσουν σε δόσεις.</p>
+                        <ul>
+                        <li><span>Οι πελάτες δεν αφήνουν ποτέ τον ιστότοπό σας και απολαμβάνουν μια ομαλότερη εμπειρία αγορών.</span></li>
+                        <li><span>Η εύκολη διαδικασία υποβολής αιτήσεων με δυνατότητα πληρωμής με την πάροδο του χρόνου αυξάνει τη μέση τιμή παραγγελίας και τους συντελεστές μετατροπής.</span></li>
+                        <li><span>Αναλαμβάνει όλους τους κινδύνους πιστωτικών κινδύνων και απάτης και διασφαλίζει ότι πληρώνεστε για παραγγελθέντα αγαθά.</span></li>
+                        <li><span>Έτοιμη για όλες τις συσκευές και επιτρέπει στους αγοραστές να χρησιμοποιούν το λογαριασμό Klarna σε οποιονδήποτε έμπορο Klarna με μερικά μόνο κλικ.</span></li>
+                        <li><span>Γρήγορη και εύκολη εγκατάσταση, απευθείας από το διαχειριστή Magento.</span></li>
+                        </ul>                        "
 "Sales and Use Tax Automation","Αυτοματοποίηση Πωλήσεων και Χρήσης Φορολογίας"
 "
                         <p><a href=""http://docs.magento.com/m2/ce/user_guide/tax/vertex.html"" target=""_blank"">Vertex Cloud</a> combines sophisticated software with an exceptional team of tax experts to help Magento merchants simplify the sales tax process, and comply with ever-changing tax laws. Merchants can easily access and configure Vertex Cloud from the Magento Admin to meet complex tax challenges.</p>
