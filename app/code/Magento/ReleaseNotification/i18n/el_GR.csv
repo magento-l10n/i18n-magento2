@@ -1,8 +1,8 @@
-"It is impossible to log user action","It is impossible to log user action"
+"It is impossible to log user action","Δεν είναι δυνατή η καταγραφή της ενέργειας χρήστη"
 "Error message","Μήνυμα Σφάλματος"
-"An error occurred while logging process.","An error occurred while logging process."
-"Release Notification","Release Notification"
-"What’s new with Magento 2.2.4","What’s new with Magento 2.2.4"
+"An error occurred while logging process.","Παρουσιάστηκε σφάλμα κατά τη διαδικασία καταγραφής."
+"Release Notification","Ειδοποίηση Έκδοσης"
+"What’s new with Magento 2.2.4","Τι νέο υπάρχει με το Magento 2.2.4"
 "
                         <p>Magento 2.2.4 provides powerful new tools to help reduce cart abandonment and simplify store operations:</p>
                         <br />
@@ -36,7 +36,7 @@
                         </div>
                         <p>To learn more, see the <a href=""http://devdocs.magento.com/guides/v2.2/release-notes/bk-release-notes.html"" target=""_blank"">Release Notes</a> and the <a href=""http://docs.magento.com/m2/ce/user_guide/getting-started.html"" target=""_blank"">Magento User Guide</a>.</p>
                         "
-"Trusted Payment Options","Trusted Payment Options"
+"Trusted Payment Options","Επιλογές Αξιόπιστων Πληρωμών"
 "<p>With <a href=""http://docs.magento.com/m2/ce/user_guide/payment/amazon-pay.html"" target=""_blank"">Amazon Pay</a>, we make it simple for the hundreds of millions of Amazon customers worldwide to easily log in and purchase from your store using information already stored their Amazon account. With easy setup in Magento 2.2.4, Amazon Pay provides your customers with a trusted and familiar checkout experience. In just a few taps, they can complete a transaction without ever leaving your site.</p>
                         <ul>
                         <li><span>Your customers use one familiar login to identify themselves and transact anywhere Amazon Pay is offered.</span></li>
@@ -52,7 +52,7 @@
                         <li><span>Available across platforms and devices, in the home and on the go.</span></li>
                         </ul>
                         "
-"Flexible Payment Terms","Flexible Payment Terms"
+"Flexible Payment Terms","Ευέλικτοι Όροι Πληρωμής"
 "
                         <p>With <a href=""http://docs.magento.com/m2/ce/user_guide/payment/klarna.html"" target=""_blank"">Klarna</a>, reduce purchase stress and improve your shopping experience with several retail finance and direct-payment options that are easily integrated into your existing buying journey. Shoppers can choose to pay now by online payment or direct debit, pay later by invoice, or pay in installments.</p>
                         <ul>
@@ -72,7 +72,7 @@
                         <li><span>Fast and easy setup, right from the Magento Admin.</span></li>
                         </ul>
                         "
-"Sales and Use Tax Automation","Sales and Use Tax Automation"
+"Sales and Use Tax Automation","Αυτοματοποίηση Πωλήσεων και Χρήσης Φορολογίας"
 "
                         <p><a href=""http://docs.magento.com/m2/ce/user_guide/tax/vertex.html"" target=""_blank"">Vertex Cloud</a> combines sophisticated software with an exceptional team of tax experts to help Magento merchants simplify the sales tax process, and comply with ever-changing tax laws. Merchants can easily access and configure Vertex Cloud from the Magento Admin to meet complex tax challenges.</p>
                         <ul>
@@ -92,7 +92,7 @@
                         <li><span>Flexible deployment options fit the needs of your organization in the cloud, or on premises.</span></li>
                         </ul>
                         "
-"What's new with Magento 2.2.2","What's new with Magento 2.2.2"
+"What's new with Magento 2.2.2","Τι νέο υπάρχει με το Magento 2.2.2"
 "
                         <p>Magento 2.2.2 offers advanced new features, including:</p>
                         <br />
@@ -154,7 +154,7 @@
                         and <a href=""https://magento.com/legal/terms/cloud-terms"" target=""_blank"">Terms
                         of Service</a>. You may opt out at any time from the Stores Configuration page.</p>
                         "
-"Instant Purchase","Instant Purchase"
+"Instant Purchase","Άμεση αγορά"
 "
                         <p>Now you can deliver an Amazon-like experience with a new, streamlined checkout option.
                         Logged-in customers can use previously-stored payment credentials and shipping information
@@ -186,7 +186,7 @@
                         merchant needs.</span></li>
                         </ul>
                         "
-"Email Marketing Automation","Email Marketing Automation"
+"Email Marketing Automation","Αυτοματοποίηση Μάρκετινγκ Email"
 "
                         <p>Unlock an unparalleled level of insight and control of your eCommerce marketing with
                         dotmailer Email Marketing Automation. Included with Magento 2.2.2 for easy set-up, dotmailer
@@ -214,26 +214,26 @@
                         <li><span>Telephone support and advice from marketing experts included.</span></li>
                         </ul>
                         "
-"Sorry, we had a problem loading our “What’s new” content.","Sorry, we had a problem loading our “What’s new” content."
+"Sorry, we had a problem loading our “What’s new” content.","Λυπούμαστε, αντιμετωπίσαμε πρόβλημα φόρτωσης του περιεχομένου ""Τι νέο υπάρχει""."
 "
                         <p>We’ll try to show it again the next time you sign in to Magento Admin.</p>
                         <p>To learn more about new features, see our latest Release Notes in
                         <a href=""http://devdocs.magento.com/magento-release-information.html""
                         target=""_blank"">DevDocs' Release Information</a>.
                         </p>","
-                        <p>We’ll try to show it again the next time you sign in to Magento Admin.</p>
-                        <p>To learn more about new features, see our latest Release Notes in
-                        <a href=""http://devdocs.magento.com/magento-release-information.html""
-                        target=""_blank"">DevDocs' Release Information</a>.
-                        </p>"
+<p> Θα προσπαθήσουμε να το δείξουμε ξανά την επόμενη φορά που θα συνδεθείτε στο διαχειριστή Magento. </p>
+                         <p> Για να μάθετε περισσότερα σχετικά με τις νέες λειτουργίες, ανατρέξτε στις πιο πρόσφατες σημειώσεις έκδοσης
+                         <a href=""http://devdocs.magento.com/magento-release-information.html""
+                         target=""_ blank"">Πληροφορίες Έκδοσης του DevDocs</a>.
+                         </p>"
 "
                         <p>We’ll try to show it again the next time you sign in to Magento Admin.</p>
                         <p>To learn more about new features, see our latest Release Notes in
                         <a href=""https://devdocs.magento.com/magento-release-information.html""
                         target=""_blank"">DevDocs' Release Information</a>.
                         </p>","
-                        <p>We’ll try to show it again the next time you sign in to Magento Admin.</p>
-                        <p>To learn more about new features, see our latest Release Notes in
-                        <a href=""https://devdocs.magento.com/magento-release-information.html""
-                        target=""_blank"">DevDocs' Release Information</a>.
-                        </p>"
+<p> Θα προσπαθήσουμε να το δείξουμε ξανά την επόμενη φορά που θα συνδεθείτε στο διαχειριστή Magento. </p>
+                         <p> Για να μάθετε περισσότερα σχετικά με τις νέες λειτουργίες, ανατρέξτε στις πιο πρόσφατες σημειώσεις έκδοσης
+                         <a href = ""https://devdocs.magento.com/magento-release-information.html""
+                         target = ""_ blank""> Πληροφορίες Έκδοσης του DevDocs</a>.
+                         </p>"
