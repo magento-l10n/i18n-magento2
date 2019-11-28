@@ -20,22 +20,21 @@
                         </div>
                         <p>To learn more, see the <a href=""http://devdocs.magento.com/guides/v2.2/release-notes/bk-release-notes.html"" target=""_blank"">Release Notes</a> and the <a href=""http://docs.magento.com/m2/ce/user_guide/getting-started.html"" target=""_blank"">Magento User Guide</a>.</p>
                         ","
-                        <p>Magento 2.2.4 provides powerful new tools to help reduce cart abandonment and simplify store operations:</p>
-                        <br />
-                        <div class=""trusted-payments-highlight"">
-                        <h3>Trusted Payment Options</h3>
-                        <p>Online or on the go, your shoppers can easily purchase in a familiar, trusted way with Amazon Pay.</p>
-                        </div>
-                        <div class=""flexible-payments-highlight"">
-                        <h3>Flexible Payment Terms</h3>
-                        <p>Increase sales by providing shoppers with the flexibility to pay now, later, or in installments using Klarna&#8217;s integrated payment option.</p>
-                        </div>
-                        <div class=""tax-automation-highlight"">
-                        <h3>Sales and Use Tax Automation</h3>
-                        <p>Merchants can now automatically perform instant and accurate sales tax calculations on shopping cart items with Vertex Cloud.</p>
-                        </div>
-                        <p>To learn more, see the <a href=""http://devdocs.magento.com/guides/v2.2/release-notes/bk-release-notes.html"" target=""_blank"">Release Notes</a> and the <a href=""http://docs.magento.com/m2/ce/user_guide/getting-started.html"" target=""_blank"">Magento User Guide</a>.</p>
-                        "
+<p>Το Magento 2.2.4 παρέχει ισχυρά νέα εργαλεία για να μειώσετε την εγκατάλειψη του καλαθιού και να απλοποιήσετε τις λειτουργίες αποθήκευσης:</p>
+                        <br />
+                        <div class=""trusted-payments-highlight"">
+                        <h3>Επιλογές αξιόπιστων πληρωμών</h3>
+                        <p>Συνδεδεμένοι ή εν κινήσει, οι αγοραστές σας μπορούν εύκολα να αγοράσουν με έναν οικείο και αξιόπιστο τρόπο με την Amazon Pay.</p>
+                        </div>
+                        <div class=""flexible-payments-highlight"">
+                        <h3>Ευέλικτοι όροι πληρωμής</h3>
+                        <p>Αυξήστε τις πωλήσεις παρέχοντας στους αγοραστές την ευελιξία να πληρώσουν τώρα, αργότερα ή σε δόσεις χρησιμοποιώντας την ολοκληρωμένη επιλογή πληρωμής του Klarna.</p>
+                        </div>
+                        <div class=""tax-automation-highlight"">
+                        <h3>Αυτόματη φορολογία πωλήσεων και χρήσης</h3>
+                        <p>Οι έμποροι μπορούν τώρα να πραγματοποιούν αυτόματα ακριβείς και ακριβείς υπολογισμούς φόρου επί των πωλήσεων σε είδη καλαθιού αγορών με Cloud Cloud.</p>
+                        </div>
+                        <p>Για να μάθετε περισσότερα, ανατρέξτε στις <a href=""http://devdocs.magento.com/guides/v2.2/release-notes/bk-release-notes.html"" target=""_blank""> Σημειώσεις έκδοσης</a> και τον <a href=""http://docs.magento.com/m2/ce/user_guide/getting-started.html"" target=""_blank"">Οδηγό χρήστη Magento</a>.</p>                        "
 "Trusted Payment Options","Επιλογές Αξιόπιστων Πληρωμών"
 "<p>With <a href=""http://docs.magento.com/m2/ce/user_guide/payment/amazon-pay.html"" target=""_blank"">Amazon Pay</a>, we make it simple for the hundreds of millions of Amazon customers worldwide to easily log in and purchase from your store using information already stored their Amazon account. With easy setup in Magento 2.2.4, Amazon Pay provides your customers with a trusted and familiar checkout experience. In just a few taps, they can complete a transaction without ever leaving your site.</p>
                         <ul>
