@@ -81,15 +81,14 @@
                         <li><span>Flexible deployment options fit the needs of your organization in the cloud, or on premises.</span></li>
                         </ul>
                         ","
-                        <p><a href=""http://docs.magento.com/m2/ce/user_guide/tax/vertex.html"" target=""_blank"">Vertex Cloud</a> combines sophisticated software with an exceptional team of tax experts to help Magento merchants simplify the sales tax process, and comply with ever-changing tax laws. Merchants can easily access and configure Vertex Cloud from the Magento Admin to meet complex tax challenges.</p>
-                        <ul>
-                        <li><span>Seamless integration with award-winning support for simple-to-complex tax needs.</span></li>
-                        <li><span>Automatically comply with the latest tax rules for each product and every jurisdiction.</span></li>
-                        <li><span>Perform tax calculations and generate signature-ready PDF returns in one solution.</span></li>
-                        <li><span>No penalty to merchants for tax estimates from abandoned carts.</span></li>
-                        <li><span>Flexible deployment options fit the needs of your organization in the cloud, or on premises.</span></li>
-                        </ul>
-                        "
+<p><a href=""http://docs.magento.com/m2/ce/user_guide/tax/vertex.html"" target=""_blank"">Το Vertex Cloud</a> συνδυάζει εξελιγμένο λογισμικό με μια εξαιρετική ομάδα φοροτεχνικοί για να βοηθήσουν τους εμπόρους Magento να απλοποιήσουν τη διαδικασία φορολόγησης των πωλήσεων και να συμμορφωθούν με τους συνεχώς μεταβαλλόμενους φορολογικούς νόμους. Οι έμποροι μπορούν εύκολα να έχουν πρόσβαση και να διαμορφώσουν το Vertex Cloud από το Magento Admin για να αντιμετωπίσουν πολύπλοκες φορολογικές προκλήσεις.</p>
+                        <ul>
+                        <li><span>Ολοκλήρωση της ενοποίησης με βραβευμένη υποστήριξη για απλές και σύνθετες φορολογικές ανάγκες.</span></li>
+                        <li><span>Αυτόματη συμμόρφωση με τους πιο πρόσφατους φορολογικούς κανόνες για κάθε προϊόν και κάθε δικαιοδοσία.</span></li>
+                        <li><span>Πραγματοποιήστε υπολογισμούς φόρου και δημιουργήστε επιστροφές PDF με δυνατότητα υπογραφής σε μια λύση.</span></li>
+                        <li><span>Δεν υπάρχει ποινή στους εμπόρους για φορολογικές εκτιμήσεις από εγκαταλελειμμένα καροτσάκια.</span></li>
+                        <li><span>Οι ευέλικτες επιλογές ανάπτυξης ταιριάζουν στις ανάγκες του οργανισμού σας στο σύννεφο ή στις εγκαταστάσεις.</span></li>
+                        </ul>                        "
 "What's new with Magento 2.2.2","Τι νέο υπάρχει με το Magento 2.2.2"
 "
                         <p>Magento 2.2.2 offers advanced new features, including:</p>
@@ -113,27 +112,26 @@
                         <a href=""http://devdocs.magento.com/"" target=""_blank"">Magento DevDocs</a>.
                         </p>
                         ","
-                        <p>Magento 2.2.2 offers advanced new features, including:</p>
-                        <br />
-                        <div class=""analytics-highlight"">
-                        <h3>Advanced Reporting</h3>
-                        <p>Gain valuable insights through a dynamic suite of product, order, and customer reports,
-                        powered by Magento Business Intelligence.</p>
-                        </div>
-                        <div class=""instant-purchase-highlight"">
-                        <h3>Instant Purchase</h3>
-                        <p>Simplify ordering and boost conversion rates by allowing your customers to use stored
-                        payment and shipping information to skip tedious checkout steps.</p>
-                        </div>
-                        <div class=""email-marketing-highlight"">
-                        <h3>Email Marketing Automation</h3>
-                        <p>Send smarter, faster email campaigns with marketing automation from dotmailer, powered by
-                        your Magento store's live data.</p>
-                        </div>
-                        <p>Release notes and additional details can be found at
-                        <a href=""http://devdocs.magento.com/"" target=""_blank"">Magento DevDocs</a>.
-                        </p>
-                        "
+<p>Το Magento 2.2.2 προσφέρει προηγμένες νέες λειτουργίες, όπως:</p>
+                        <br />
+                        <div class=""analytics-highlight"">
+                        <h3>Σύνθετες αναφορές</h3>
+                        <p>Αποκτήστε πολύτιμες γνώσεις μέσω μιας δυναμικής σουίτας αναφορών προϊόντων, παραγγελιών και πελατών,
+                        powered by Magento Business Intelligence.</p>
+                        </div>
+                        <div class=""instant-purchase-highlight"">
+                        <h3>Άμεση αγορά</h3>
+                        <p>Απλοποιήστε την παραγγελία και αυξήστε τα ποσοστά μετατροπής επιτρέποντας στους πελάτες σας να χρησιμοποιούν αποθηκευμένα
+                        πληροφορίες πληρωμής και αποστολής για να παραλείψετε τα κουραστικά βήματα πληρωμής.</p>
+                        </div>
+                        <div class=""email-marketing-highlight"">
+                        <h3>Αυτοματοποίηση μάρκετινγκ ηλεκτρονικού ταχυδρομείου</h3>
+                        <p>Στείλτε πιο έξυπνες και ταχύτερες καμπάνιες ηλεκτρονικού ταχυδρομείου με αυτοματοποίηση μάρκετινγκ από το dotmailer, το οποίο τροφοδοτείται από
+                        τα ζωντανά δεδομένα του καταστήματος Magento.</p>
+                        </div>
+                        <p>Οι σημειώσεις έκδοσης και οι πρόσθετες λεπτομέρειες μπορούν να βρεθούν στο
+                        <a href=""http://devdocs.magento.com/"" target=""_blank"">Magento DevDocs</a>.
+                        </p>                        "
 "Advanced Reporting","Προηγμένες αναφορές"
 "<p>Advanced Reporting
                         provides you with a dynamic suite of reports with rich insights about the health of your
@@ -143,15 +141,14 @@
                         Reporting <a href=""https://magento.com/legal/terms/privacy"" target=""_blank"">Privacy Policy</a>
                         and <a href=""https://magento.com/legal/terms/cloud-terms"" target=""_blank"">Terms
                         of Service</a>. You may opt out at any time from the Stores Configuration page.</p>
-                        ","<p>Advanced Reporting
-                        provides you with a dynamic suite of reports with rich insights about the health of your
-                        business.</p><br /><p>As part of the Advanced Reporting service, we may also use your customer
-                        data for such purposes as benchmarking, improving our products and services, and providing you
-                        with new and improved analytics.</p><br /><p>By using Magento 2.2.2, you agree to the Advanced
-                        Reporting <a href=""https://magento.com/legal/terms/privacy"" target=""_blank"">Privacy Policy</a>
-                        and <a href=""https://magento.com/legal/terms/cloud-terms"" target=""_blank"">Terms
-                        of Service</a>. You may opt out at any time from the Stores Configuration page.</p>
-                        "
+                        ","<p>Η Σύνθετη αναφορά
+                         σας παρέχει μια δυναμική σειρά αναφορών με πλούσιες γνώσεις σχετικά με την υγεία της επιχείρησής σας
+                         </p><br /><p>Στο πλαίσιο της υπηρεσίας Advanced Reporting, μπορούμε επίσης να χρησιμοποιήσουμε τον πελάτη σας
+                         δεδομένα για σκοπούς όπως η συγκριτική αξιολόγηση, η βελτίωση των προϊόντων και υπηρεσιών μας και η παροχή σας
+                         με νέες και βελτιωμένες αναλύσεις.</p><br /><p>Με τη χρήση του Magento 2.2.2, συμφωνείτε με τους Προχωρημένους
+                         Αναφορά <a href=""https://magento.com/legal/terms/privacy"" target=""_blank"">Πολιτικής Απορρήτου</a>
+                         και <a href=""https://magento.com/legal/terms/cloud-terms"" target=""_blank"">Όροι
+                         της υπηρεσίας</a>. Μπορείτε να εξαιρεθείτε ανά πάσα στιγμή από τη σελίδα Configuration Stores.</p>                        "
 "Instant Purchase","Άμεση αγορά"
 "
                         <p>Now you can deliver an Amazon-like experience with a new, streamlined checkout option.
@@ -169,21 +166,20 @@
                         merchant needs.</span></li>
                         </ul>
                         ","
-                        <p>Now you can deliver an Amazon-like experience with a new, streamlined checkout option.
-                        Logged-in customers can use previously-stored payment credentials and shipping information
-                        to skip steps, making the process faster and easier, especially for mobile shoppers. Key
-                        features include:
-                        </p>
-                        <ul>
-                        <li><span>Configurable “Instant Purchase” button to place orders.</span></li>
-                        <li><span>Support for all payment solutions using Braintree Vault, including Braintree Credit
-                        Card, Braintree PayPal, and PayPal Payflow Pro.</span></li>
-                        <li><span>Shipping to the customer’s default address using the lowest cost, available shipping
-                        method.</span></li>
-                        <li><span>Ability for developers to customize the Instant Purchase business logic to meet
-                        merchant needs.</span></li>
-                        </ul>
-                        "
+<p>Τώρα μπορείτε να απολαύσετε μια εμπειρία Amazon με μια νέα, βελτιωμένη επιλογή checkout.
+                        Οι συνδεδεμένοι πελάτες μπορούν να χρησιμοποιούν διαπιστευτήρια πληρωμής που έχουν αποθηκευτεί στο παρελθόν και πληροφορίες αποστολής
+                        να παρακάμψουν τα βήματα, καθιστώντας τη διαδικασία πιο γρήγορη και ευκολότερη, ειδικά για τους αγοραστές από κινητές συσκευές. Κλειδί
+                        χαρακτηριστικά περιλαμβάνουν:
+                        </p>
+                        <ul>
+                        <li><span>Διαμορφώσιμο κουμπί ""Άμεση αγορά"" για την τοποθέτηση παραγγελιών.</span></li>
+                        <li><span>Υποστήριξη για όλες τις λύσεις πληρωμής που χρησιμοποιούν τη Braintree Vault, συμπεριλαμβανομένης της πίστωσης Braintree
+                        Κάρτα, Braintree PayPal και PayPal Payflow Pro.</span></li>
+                        <li><span>Αποστολή στην προεπιλεγμένη διεύθυνση του πελάτη χρησιμοποιώντας το χαμηλότερο κόστος, διαθέσιμη αποστολή
+                        </span></li>
+                        <li><span>Ικανότητα για προγραμματιστές να προσαρμόσουν την επιχειρησιακή λογική της Άμεσης Αγοράς
+                        εμπορικές ανάγκες.</span></li>
+                        </ul>                        "
 "Email Marketing Automation","Αυτοματοποίηση Μάρκετινγκ Email"
 "
                         <p>Unlock an unparalleled level of insight and control of your eCommerce marketing with
@@ -199,19 +195,18 @@
                         <li><span>Telephone support and advice from marketing experts included.</span></li>
                         </ul>
                         ","
-                        <p>Unlock an unparalleled level of insight and control of your eCommerce marketing with
-                        dotmailer Email Marketing Automation. Included with Magento 2.2.2 for easy set-up, dotmailer
-                        ensures every customer’s journey is captured, segmented, and personalized, enabling you to
-                        deliver customer-centric campaigns that beat your results over and over again. Benefits include:
-                        </p>
-                        <ul>
-                        <li><span>No obligation 14-day trial.</span></li>
-                        <li><span>Automation campaigns using your live Magento store data that drive revenue,
-                        including abandoned cart, abandoned browse, product replenishment, and many more.</span></li>
-                        <li><span>Built-in solution for transactional emails.</span></li>
-                        <li><span>Telephone support and advice from marketing experts included.</span></li>
-                        </ul>
-                        "
+<p>Ξεκλειδώστε ένα ασύγκριτο επίπεδο γνώσης και ελέγχου με το μάρκετινγκ ηλεκτρονικού εμπορίου σας
+                        dotmailer Email Marketing Αυτοματισμού. Περιλαμβάνεται με το Magento 2.2.2 για εύκολη ρύθμιση, dotmailer
+                        εξασφαλίζει ότι το ταξίδι του κάθε πελάτη είναι καταγεγραμμένο, κατακερματισμένο και εξατομικευμένο, επιτρέποντάς σας να το κάνετε
+                        παραδώστε πελατοκεντρικές καμπάνιες που σας χτυπούν ξανά και ξανά. Τα οφέλη περιλαμβάνουν:
+                        </p>
+                        <ul>
+                        <li><span>Δεν υπάρχει υποχρέωση δοκιμής 14 ημερών.</span></li>
+                        <li><span>Οι καμπάνιες αυτοματισμού που χρησιμοποιούν τα ζωντανά δεδομένα καταστημάτων Magento που οδηγούν τα έσοδα,
+                        συμπεριλαμβανομένων εγκαταλελειμμένων καλαθιού, εγκαταλελειμμένης περιήγησης, ανανέωσης προϊόντος και πολλά άλλα.</span></li>
+                        <li><span>Ενσωματωμένη λύση για ηλεκτρονικά μηνύματα συναλλαγών</span></li>
+                        <li><span>Η τηλεφωνική υποστήριξη και συμβουλές από τους ειδικούς μάρκετινγκ συμπεριλαμβάνονται.</span></li>
+                        </ul>                        "
 "Sorry, we had a problem loading our “What’s new” content.","Λυπούμαστε, αντιμετωπίσαμε πρόβλημα φόρτωσης του περιεχομένου ""Τι νέο υπάρχει""."
 "
                         <p>We’ll try to show it again the next time you sign in to Magento Admin.</p>
