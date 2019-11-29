@@ -1,2 +1,2 @@
-"""option_id"" and ""parent_id"" values should be specified","""option_id"" and ""parent_id"" values should be specified"
-"""sku"" value should be specified","""sku"" value should be specified"
+"""option_id"" and ""parent_id"" values should be specified","""option_id"" 와 ""parent_id"" 값이 지정되어야 합니다"
+"""sku"" value should be specified","""sku"" (stock-keep-unit) 값이 지정되어야 합니다"
