@@ -197,9 +197,9 @@
 "Dear %name,","Αγαπητέ/ή %name,"
 "You have been assigned to <a href=""%customer_url"">%company_name</a> as the Company Admin.","Ανατεθήκατε στο <a href=""%customer_url"">%company_name</a> ως διαχειριστής της εταιρείας."
 "When you sign in to your account, you can:","Όταν συνδεθείτε στο λογαριασμό σας, θα μπορείτε να:"
-"* Create and manage company users and teams","* Create and manage company users and teams"
-"* Manage user permissions for the store","* Manage user permissions for the store"
-"* Create and manage company shipping and billing addresses","* Create and manage company shipping and billing addresses"
+"* Create and manage company users and teams","* Δημιουργήστε και διαχειριστείτε τους χρήστες και τις ομάδες της εταιρείας"
+"* Manage user permissions for the store","* Διαχείριση δικαιωμάτων χρήστη για το κατάστημα"
+"* Create and manage company shipping and billing addresses","* Δημιουργία και διαχείριση εταιρικών διευθύνσεων αποστολής και χρέωσης"
 "You've been added to the <a href=%customer_url>%company_name</a> as the company member.
     Once you enter your account,
     the company's shared resources will be available for you.","Έχετε προστεθεί στο <a href=%customer_url>%company_name</a> ως μέλος της εταιρείας.
@@ -232,10 +232,10 @@
     and use other B2B features."
 "Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details.","Ο τύπος του λογαριασμού σας έχει αλλάξει από Διαχειριστής Εταιρείας σε έναν κανονικό λογαριασμό χρήστη. Αν νομίζετε ότι πρόκειται για λάθος, επικοινωνήστε με τον διευθυντή σας για λεπτομέρειες."
 "%name,","%name,"
-"You have been assigned to %company_name as the Sales Representative.","You have been assigned to %company_name as the Sales Representative."
+"You have been assigned to %company_name as the Sales Representative.","Ανατεθήκατε στο %company_name ως Υπεύθυνος Πωλήσεων."
 "When you sign in to your account, you will be able to:","Όταν συνδεθείτε στο λογαριασμό σας, θα είστε σε θέση να:"
-"* View and manage company quotes in Admin Panel","* View and manage company quotes in Admin Panel"
-"* View and edit company profile in Admin Panel","* View and edit company profile in Admin Panel"
+"* View and manage company quotes in Admin Panel","* Δείτε και διαχειριστείτε τις προσφορές της εταιρείας στον Πίνακα Διαχειριστών"
+"* View and edit company profile in Admin Panel","* Προβάλετε και επεξεργαστείτε το προφίλ της εταιρίας στον Πίνακα Διαχειριστών"
 "Your company account <strong>%company_name</strong> has been blocked.
     Your company members can continue using the website,
     but they will not be able to place orders.","Your company account <strong>%company_name</strong> has been blocked.
@@ -294,8 +294,8 @@
 "Default 'Assign Company Admin' Email","Default 'Assign Company Admin' Email"
 "Default 'Company Admin Inactive' Email","Default 'Company Admin Inactive' Email"
 "Default 'Company Admin Changed To Member' Email","Default 'Company Admin Changed To Member' Email"
-"Default 'Customer Status Active' Email","Default 'Customer Status Active' Email"
-"Default 'Customer Status Inactive' Email","Default 'Customer Status Inactive' Email"
+"Default 'Customer Status Active' Email","Προεπιλεγμένο Email ""Ενεργής Κατάστασης Πελάτη"""
+"Default 'Customer Status Inactive' Email","Προεπιλεγμένο Email ""Ανενεργής Κατάστασης Πελάτη"""
 "Company Status Change","Αλλαγή Κατάστασης Εταιρείας"
 "Send Company Status Change Email Copy To","Αποστείλετε Αντίγραφο Email Αλλαγής Κατάστασης Εταιρείας Σε"
 "Comma-separated. The recipient(s) will get a copy of an email which is by default sent to the Company Admin only.","Comma-separated. The recipient(s) will get a copy of an email which is by default sent to the Company Admin only."
@@ -313,7 +313,7 @@
 "Account Information (View)","Πληροφορίες Λογαριασμού (Προβολή)"
 "Legal Address (View)","Νόμιμη Διεύθυνση (Προβολή)"
 "Contacts (View)","Επαφές (Προβολή)"
-"Company User Management","Company User Management"
+"Company User Management","Διαχείριση Εταιρικών Χρηστών"
 "View roles and permissions","Προβολή ρόλων και δικαιωμάτων"
 "Manage roles and permissions","Διαχείριση ρόλων και δικαιωμάτων"
 "View users and teams","Προβολή χρηστών και ομάδων"
