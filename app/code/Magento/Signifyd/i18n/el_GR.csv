@@ -12,8 +12,8 @@
 "Case entity not found.","Η οντότητα περίπτωσης δεν βρέθηκε."
 "Case Update: New score for the order is %1. Previous score was %2.","Ενημέρωση Περίπτωσης: Νέα βαθμολογία για την παραγγελία είναι %1. Η προηγούμενη βαθμολογία ήταν %2."
 "Awaiting the Signifyd guarantee disposition.","Αναμονή της διάθεσης εγγύησης Signifiedd."
-"Only single entrance of ""%1"" node is required.","Only single entrance of ""%1"" node is required."
-"Not empty value for ""%1"" node is required.","Not empty value for ""%1"" node is required."
+"Only single entrance of ""%1"" node is required.","Απαιτείται μόνο μία είσοδος του κόμβου ""%1""."
+"Not empty value for ""%1"" node is required.","Δεν απαιτείται κενή τιμή για τον κόμβο ""%1""."
 "%1 must implement %2","%1 πρέπει να εφαρμόζει %2"
 "Error","Σφάλμα"
 "Cannot generate message.","Δεν είναι δυνατό να δημιουργηθεί το μήνυμα."
@@ -35,11 +35,11 @@
                     <p>Benefits:<ul>
                     <li>Grow your business without fear of fraud</li>
                     <li>Accept more orders and maximize your revenue</li>
-                    <li>Automate order review and shift fraud off your plate</li></ul></p>","Signifyd automatically reviews your orders for fraud, telling you in seconds which orders to ship, and which to reject.
-                    We back our approvals with 100% chargeback protection, reimbursing you the full order amount plus fees should you ever receive a fraudulent chargeback.
-                    <p>Benefits:<ul>
-                    <li>Grow your business without fear of fraud</li>
-                    <li>Accept more orders and maximize your revenue</li>
-                    <li>Automate order review and shift fraud off your plate</li></ul></p>"
-"<a href=""https://www.signifyd.com/resources/manual/magento-2/signifyd-on-magento-integration-guide/"" target=""_blank"">View our setup guide</a> for step-by-step instructions on how to integrate Signifyd with Magento.<br />For support contact <a href=""mailto:support@signifyd.com"">support@signifyd.com</a>.","<a href=""https://www.signifyd.com/resources/manual/magento-2/signifyd-on-magento-integration-guide/"" target=""_blank"">View our setup guide</a> for step-by-step instructions on how to integrate Signifyd with Magento.<br />For support contact <a href=""mailto:support@signifyd.com"">support@signifyd.com</a>."
-"Your webhook URL will be used to <a href=""https://app.signifyd.com/settings/notifications"" target=""_blank"">configure</a> a guarantee completed webhook in Signifyd. Webhooks are used to sync Signifyd`s guarantee decisions back to Magento.","Your webhook URL will be used to <a href=""https://app.signifyd.com/settings/notifications"" target=""_blank"">configure</a> a guarantee completed webhook in Signifyd. Webhooks are used to sync Signifyd`s guarantee decisions back to Magento."
+                    <li>Automate order review and shift fraud off your plate</li></ul></p>","Signifyd εξετάζει αυτόματα τις παραγγελίες σας για απάτη, σας λέει σε λίγα δευτερόλεπτα ποιες παραγγελίες πρέπει να στείλετε και ποιες να απορρίψετε.
+                     Υποστηρίζουμε τις εγκρίσεις μας με 100% προστασία επιστροφής χρέωσης, επιστρέφοντάς σας το πλήρες ποσό της παραγγελίας καθώς και τα τέλη που θα έπρεπε να λάβετε με δόλια αντιστροφή χρέωσης.
+                     <p>Οφέλη:<ul>
+                     <li>Αναπτύξτε την επιχείρησή σας χωρίς φόβο απάτης</li>
+                     <li>Αποδεχτείτε περισσότερες παραγγελίες και μεγιστοποιήστε τα έσοδά σας</li>
+                     <li>Αυτοματοποιήστε την αναθεώρηση της παραγγελίας και μεταφέρετε την απάτη μακριά από πάνω σας</li></ul></p>"
+"<a href=""https://www.signifyd.com/resources/manual/magento-2/signifyd-on-magento-integration-guide/"" target=""_blank"">View our setup guide</a> for step-by-step instructions on how to integrate Signifyd with Magento.<br />For support contact <a href=""mailto:support@signifyd.com"">support@signifyd.com</a>.","<a href=""https://www.signifyd.com/resources/manual/magento-2/signifyd-on-magento-integration-guide/"" target=""_blank"">Δείτε τον οδηγό εγκατάστασης</a> για τις οδηγίες βήμα προς βήμα σχετικά με τον τρόπο ενσωμάτωσης του Signifyd με το Magento.<br />Για υποστήριξη επικοινωνήστε με το <a href=""mailto:support@signifyd.com"">support@signifyd.com</a>."
+"Your webhook URL will be used to <a href=""https://app.signifyd.com/settings/notifications"" target=""_blank"">configure</a> a guarantee completed webhook in Signifyd. Webhooks are used to sync Signifyd`s guarantee decisions back to Magento.","Η διεύθυνση URL του webhook σας θα χρησιμοποιηθεί για να <a href=""https://app.signifyd.com/settings/notifications"" target=""_blank"">ρυθμίσετε</a> μια εγγύηση που ολοκληρώθηκε στην ιστοσελίδα Signifyd. Τα Webhooks χρησιμοποιούνται για τον συγχρονισμό των αποφάσεων εγγύησης της Signifyd στο Magento."
