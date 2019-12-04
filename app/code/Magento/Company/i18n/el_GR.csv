@@ -66,7 +66,7 @@
 "Add New Role","Προσθήκη νέου ρόλου"
 "Edit Role","Επεξεργασία Ρόλου"
 "Roles and Permissions","Ρόλοι και Δικαιώματα"
-"The tree retrieved successfully.","The tree retrieved successfully."
+"The tree retrieved successfully.","Το δέντρο ανακτήθηκε με επιτυχία."
 "The item was successfully moved.","Το στοιχείο μεταφέρθηκε με επιτυχία."
 "The team was successfully deleted.","Η ομάδα διαγράφηκε με επιτυχία."
 "The team was successfully updated.","Η ομάδα ενημερώθηκε με επιτυχία."
@@ -113,7 +113,7 @@
 "Could not save company: %1","Δεν ήταν δυνατή η αποθήκευση της εταιρίας: %1"
 "Cannot delete structure with id %1","Δεν είναι δυνατή η διαγραφή δομής με id %1"
 "Could not create team","Δεν ήταν δυνατόν να δημιουργηθεί ομάδα"
-"This team has child users or teams aligned to it and cannot be deleted. Please re-align the child users or teams first.","This team has child users or teams aligned to it and cannot be deleted. Please re-align the child users or teams first."
+"This team has child users or teams aligned to it and cannot be deleted. Please re-align the child users or teams first.","Αυτή η ομάδα έχει χρήστες ή ομάδες παιδιά συσχετισμένες με αυτήν δεν μπορεί να διαγραφεί. Παρακαλούμε πάλι να επανασυσχετίσετε πρώτα τους χρήστες ή τις ομάδες παιδιά."
 "Could not update team","Δεν ήταν δυνατή η ενημέρωση ομάδας"
 "Cannot delete team with id %1","Δεν είναι δυνατό να διαγράψετε την ομάδα με αναγνωριστικό %1"
 "You cannot assign a different role to a company admin.","Δεν μπορείτε να αναθέσετε διαφορετικό ρόλο σε έναν διαχειριστή της εταιρείας."
@@ -218,18 +218,18 @@
     has been approved and you have been set as the Company Admin.
     You can now create and manage your company structure.
     Your company members are able to request quotes, create requisition lists,
-    and use other B2B features.","Your company registration request (for the <strong>%company_name</strong>)
-    has been approved and you have been set as the Company Admin.
-    You can now create and manage your company structure.
-    Your company members are able to request quotes, create requisition lists,
-    and use other B2B features."
+    and use other B2B features.","Το αίτημα εγγραφής της εταιρείας σας (για το <strong>%company_name</strong>)
+     έχει εγκριθεί και έχετε οριστεί ως διαχειριστής της εταιρείας.
+     Τώρα μπορείτε να δημιουργήσετε και να διαχειριστείτε τη δομή της εταιρείας σας.
+     Τα μέλη της εταιρείας σας μπορούν να ζητήσουν προσφορές, να δημιουργήσουν λίστες απαιτήσεων,
+     και να χρησιμοποιήσουν άλλες λειτουργίες B2B."
 "The status of your company <strong>%company_name</strong>
     is now <strong>Active</strong>.
     Once you login, you will be able to place orders on behalf of your company
-    and use other B2B features.","The status of your company <strong>%company_name</strong>
-    is now <strong>Active</strong>.
-    Once you login, you will be able to place orders on behalf of your company
-    and use other B2B features."
+    and use other B2B features.","Η κατάσταση της εταιρείας σας <strong>%company_name</strong>
+     είναι τώρα <strong>Ενεργή</strong>.
+     Μόλις συνδεθείτε, θα μπορείτε να πραγματοποιείτε παραγγελίες εκ μέρους της εταιρείας σας
+     και να χρησιμοποιήσετε άλλες λειτουργίες B2B."
 "Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details.","Ο τύπος του λογαριασμού σας έχει αλλάξει από Διαχειριστής Εταιρείας σε έναν κανονικό λογαριασμό χρήστη. Αν νομίζετε ότι πρόκειται για λάθος, επικοινωνήστε με τον διευθυντή σας για λεπτομέρειες."
 "%name,","%name,"
 "You have been assigned to %company_name as the Sales Representative.","Ανατεθήκατε στο %company_name ως Υπεύθυνος Πωλήσεων."
@@ -238,9 +238,9 @@
 "* View and edit company profile in Admin Panel","* Προβάλετε και επεξεργαστείτε το προφίλ της εταιρίας στον Πίνακα Διαχειριστών"
 "Your company account <strong>%company_name</strong> has been blocked.
     Your company members can continue using the website,
-    but they will not be able to place orders.","Your company account <strong>%company_name</strong> has been blocked.
-    Your company members can continue using the website,
-    but they will not be able to place orders."
+    but they will not be able to place orders.","Ο λογαριασμός εταιρείας σας <strong>%company_name</strong> έχει αποκλειστεί.
+     Τα μέλη της εταιρείας σας μπορούν να συνεχίσουν να χρησιμοποιούν την ιστοσελίδα,
+     αλλά δεν θα είναι σε θέση να πραγματοποιήσουν παραγγελίες."
 "If you have any questions, please contact the seller.","Εάν έχετε οποιεσδήποτε ερωτήσεις, επικοινωνήστε με τον πωλητή."
 "Your company account <strong>%company_name</strong> has been suspended, pending approval from the seller.","Ο εταιρικός λογαριασμός σας <strong>%company_name</strong> έχει ανασταλεί, εν αναμονή της έγκρισης από τον πωλητή."
 "Your company registration request (for the <strong>%company_name</strong>) has been rejected
@@ -286,28 +286,28 @@
 "Comma-separated","Διαχωρισμένες με κόμμα"
 "Send Email Copy Method","Μέθοδος Αποστολής Αντίγραφου Email"
 "Default Company Registration Email","Πρότυπο Email Εταιρικής Εγγραφής"
-"Customer-Related Emails","Customer-Related Emails"
-"Default 'Sales Rep Assigned' Email","Default 'Sales Rep Assigned' Email"
+"Customer-Related Emails","Συσχετιζόμενα με Πελάτη Email"
+"Default 'Sales Rep Assigned' Email","Προεπιλεγμένο Email 'Ανατεθειμένος Υπεύθυνος Πωλήσεων'"
 "This email is sent to the company's Sales Rep and the Company Admin.","Αυτό το email αποστέλλεται στον Υπεύθυνο Πωλήσεων και στον Διαχειριστή της Εταιρείας."
-"Default 'Assign Company to Customer' Email","Default 'Assign Company to Customer' Email"
+"Default 'Assign Company to Customer' Email","Προεπιλεγμένο Email 'Αναθέστε Εταιρεία σε Πελάτη'"
 "This email is sent to the customer only.","Αυτό το email αποστέλλεται μόνο στον πελάτη."
-"Default 'Assign Company Admin' Email","Default 'Assign Company Admin' Email"
-"Default 'Company Admin Inactive' Email","Default 'Company Admin Inactive' Email"
-"Default 'Company Admin Changed To Member' Email","Default 'Company Admin Changed To Member' Email"
+"Default 'Assign Company Admin' Email","Προεπιλεγμένο Email 'Αναθέστε Διαχειριστή Εταιρείας'"
+"Default 'Company Admin Inactive' Email","Προεπιλεγμένο Email 'Ανενεργός Διαχειριστής Εταιρείας'"
+"Default 'Company Admin Changed To Member' Email","Προεπιλεγμένο Email 'Διαχειριστής Άλλαξε Σε Μέλος'"
 "Default 'Customer Status Active' Email","Προεπιλεγμένο Email ""Ενεργής Κατάστασης Πελάτη"""
 "Default 'Customer Status Inactive' Email","Προεπιλεγμένο Email ""Ανενεργής Κατάστασης Πελάτη"""
 "Company Status Change","Αλλαγή Κατάστασης Εταιρείας"
 "Send Company Status Change Email Copy To","Αποστείλετε Αντίγραφο Email Αλλαγής Κατάστασης Εταιρείας Σε"
-"Comma-separated. The recipient(s) will get a copy of an email which is by default sent to the Company Admin only.","Comma-separated. The recipient(s) will get a copy of an email which is by default sent to the Company Admin only."
-"Default 'Company Status Change To Active 1"" Email","Default 'Company Status Change To Active 1"" Email"
+"Comma-separated. The recipient(s) will get a copy of an email which is by default sent to the Company Admin only.","Διαχωρισμένες με κόμμα. Ο παραλήπτης(-ες) θα λάβει ένα αντίγραφο ενός email, το οποίο αποστέλλεται από προεπιλογή μόνο στον Διαχειριστή της Εταιρείας."
+"Default 'Company Status Change To Active 1"" Email","Προεπιλεγμένο Email 'Κατάσταση Εταιρείας Άλλαξε Σε Ενεργή 1'"
 "This email is sent when company status changes from Pending Approval to Active.","Αυτό το email αποστέλλεται όταν η κατάσταση της εταιρείας αλλάζει από την Έγκριση σε Εκκρεμότητα σε Ενεργή."
-"Default 'Company Status Change To Active 2"" Email","Default 'Company Status Change To Active 2"" Email"
+"Default 'Company Status Change To Active 2"" Email","Προεπιλεγμένο Email 'Κατάσταση Εταιρείας Άλλαξε Σε Ενεργή 2'"
 "This email is sent when company status changes from Rejected or Blocked to Active.","Αυτό το email αποστέλλεται όταν η κατάσταση της εταιρείας αλλάζει από Απόρριψη ή Αποκλεισμένη σε Ενεργή."
-"Default 'Company Status Change To Rejected"" Email","Default 'Company Status Change To Rejected"" Email"
+"Default 'Company Status Change To Rejected"" Email","Προεπιλεγμένο Email 'Κατάσταση Εταιρείας Άλλαξε Σε Απόρριψη'"
 "This email is sent when company status changes to Rejected.","Αυτό το email αποστέλλεται όταν η κατάσταση της εταιρείας αλλάζει σε Απορρίφθηκε."
-"Default 'Company Status Change To Blocked"" Email","Default 'Company Status Change To Blocked"" Email"
+"Default 'Company Status Change To Blocked"" Email","Προεπιλεγμένο Email 'Κατάσταση Εταιρείας Άλλαξε Σε Αποκλεισμένη'"
 "This email is sent when company status changes Blocked.","Αυτό το email αποστέλλεται όταν η κατάσταση της εταιρείας αλλάζει σε Αποκλεισμένη."
-"Default 'Company Status Change To Pending Approval"" Email","Default 'Company Status Change To Pending Approval"" Email"
+"Default 'Company Status Change To Pending Approval"" Email","Προεπιλεγμένο Email 'Κατάσταση Εταιρείας Άλλαξε Σε Αναμένει Έγκριση'"
 "This email is sent when company status changes to Pending Approval.","Αυτό το email αποστέλλεται όταν η κατάσταση της εταιρείας αλλάζει σε Εκκρεμότητα Έγκρισης."
 "All","Όλα"
 "Account Information (View)","Πληροφορίες Λογαριασμού (Προβολή)"
@@ -320,7 +320,7 @@
 "Manage users and teams","Διαχείριση χρηστών και ομάδων"
 "Sales","Πωλήσεις"
 "Checkout (place order)","Ολοκλήρωση Παραγγελίας (υποβολή παραγγελίας)"
-"Use Pay On Account method","Use Pay On Account method"
+"Use Pay On Account method","Χρήση Πληρωμής Σε μέθοδο Λογαριασμού"
 "View orders","Προβολή παραγγελιών"
 "View orders of subordinate users","Προβολή παραγγελιών δευτερευόντων χρηστών"
 "Are you sure you want to set the selected companies as active?","Είστε βέβαιοι ότι θέλετε να ορίσετε τις επιλεγμένες εταιρείες ως ενεργές;"
