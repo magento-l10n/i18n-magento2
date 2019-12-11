@@ -109,7 +109,7 @@
 "Store(s) affected: ","Loja(s) afetada(s): "
 "Click on the link to <a href=""%1"">ignore this notification</a>","Clique no link para <a href=""%1"">ignorar esta notificação</a>"
 "With customer tax applied “Before Discount”, the final discount calculation may not match customers’ expectations. ","With customer tax applied “Before Discount”, the final discount calculation may not match customers’ expectations. "
-"Your current tax configuration may result in rounding errors. ","Your current tax configuration may result in rounding errors. "
+"Your current tax configuration may result in rounding errors. ","Aviso de configuração de impostos pode resultar em erros de arredondamento. "
 "Please see <a href=""%1"">documentation</a> for more details. ","Please see <a href=""%1"">documentation</a> for more details. "
 "Click here to go to <a href=""%1"">Tax Configuration</a> and change your settings.","Click here to go to <a href=""%1"">Tax Configuration</a> and change your settings."
 "Invalid type of tax class ""%1""","Invalid type of tax class ""%1"""
