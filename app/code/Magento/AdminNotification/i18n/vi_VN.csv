@@ -28,7 +28,7 @@
 "Wrong notification ID specified.","Sai thông báo ID."
 "{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} không được khuyến khích sử dụng trong chế độ môi trường sản phẩm để khai báo Base Unsecure URL / Base Secure URL. Chúng tôi khuyến cáo nên thay đổi giá trị này trong Magento của bạn <a href=""%1""> mục cấu hình</a>."
 "One or more of the Cache Types are invalidated: %1. ","Một hoặc nhiều Cache Types không đúng: %1. "
-"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Please go to <a href=""%1"">Cache Management</a> and refresh cache types."
+"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Vui lòng vào <a href=""%1>Quản lý Bộ nhớ đệm</a> và làm mới."
 "We were unable to synchronize one or more media files. Please refer to the log file for details.","Chúng tôi không thể đồng bộ hóa một hoặc nhiều tệp phương tiện. Vui lòng tham khảo tệp log để biết thêm chi tiết."
 "Synchronization of media storages has been completed.","Đồng bộ hóa bộ nhớ phương tiện đã hoàn tất."
 "Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.","Máy chủ web của bạn bị thiết lập không đúng và cho phép truy cập trái phép vào những tệp nhạy cảm."
