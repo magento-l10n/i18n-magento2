@@ -1,4 +1,4 @@
-"Concrete type for %1 not implemented","Concrete type for %1 not implemented"
+"Concrete type for %1 not implemented","نوع البناء لـ %1 غير مطبق"
 "Missing key %1 in product data","المفتاح %1 مفقود في بيانات المنتج"
 """model"" value should be specified","يجب تحديد قيمة ""الموديل"""
 """path"" value should be specified","يجب تخصيص قيمة ""path"""
