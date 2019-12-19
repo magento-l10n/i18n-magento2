@@ -28,11 +28,11 @@
 "Interval Division Limit","Limit wewnętrznego podziału"
 "Please specify the number of products, that will not be divided into subintervals.","Prosimy sprecyzowac ilość produktów, które nie będą dzielona na podprzedziały."
 "Position of attribute in layered navigation block","Pozycja cechy w bloku warstwowej nawigacji"
-"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price"
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price","Może być użyte tylko z polem typu Tak/Nie, rozwijaną listą, polem wielokrotnego wyboru i ceną"
 "Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
                     <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
-                     it will make no affect on Price filter.","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
-                    <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
-                     it will make no affect on Price filter."
-"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price."
-"Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price.","Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price."
+                     it will make no affect on Price filter.","Może być użyte tylko z polem typu Tak/Nie, rozwijaną listą, polem wielokrotnego wyboru i ceną.
+                    <br>Cena nie jest kompatybilna z opcją <b>'Filtrowalne (bez wyników)'</b> - 
+                     nie wpłynie to na filtr cenowy."
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.","Może być użyte tylko z polem typu Tak/Nie, rozwijaną listą, polem wielokrotnego wyboru i ceną."
+"Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price.","Może być użyte tylko z polem typu Tak/Nie (Boolean), rozwijaną listą, polem wielokrotnego wyboru i ceną."
