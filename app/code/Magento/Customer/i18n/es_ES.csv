@@ -113,7 +113,7 @@
 "Wrong email.","Se especificó una dirección de correo electrónico incorrecta."
 "Your password reset link has expired.","Su enlace de restablecimiento de contraseña ha caducado."
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","Debes confirmar tu cuenta. Por favor compruebe su correo electrónico para el enlace de confirmación o <a href=""%1"">haga clic aquí</a> para un nuevo enlace."
-"There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.","Ya existe una cuenta con esta dirección de correo electrónico. Si está seguro de que esa es su dirección de correo electrónico, <a href=""%1"">pulse aquí</a> para conseguir su contraseña y acceder a su cuenta."
+"There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.","Este correo ya tiene una cuenta activa, si olvidaste tu contraseña la puedes recuperar dando <a href=""%1"">click aquí</a>."
 "We can't save the customer.","No se puede guardar al cliente."
 "Please make sure your passwords match.","Por favor, asegúrese de que sus contraseñas coinciden."
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.","Si eres un cliente registrado de IVA, por favor haga clic <a href=""%1""> aquí</a> para ingresar su dirección de envío para el adecuado cálculo del IVA."
