@@ -413,7 +413,7 @@
 "Admin Session Lifetime (seconds)","Järjestelmänvalvojan istunnon kesto (sekuntia)"
 "Please enter at least 60 and at most 31536000 (one year).","Syötä vähintään 60 ja enintään 31536000 (vuosi)."
 "Enable Charts","Salli diagrammit"
-"Web","Web"
+"Web","Verkko"
 "Url Options","Url-asetukset"
 "Add Store Code to Urls","Lisää kaupan kielikoodi URL-osoitteisiin"
 "<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).","<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.)."
