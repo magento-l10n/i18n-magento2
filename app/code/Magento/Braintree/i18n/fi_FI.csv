@@ -101,7 +101,7 @@
 "Name","Nimi"
 "Phone","Puhelin"
 "URL","Osoite"
-"CVV is required.","CVV is required."
+"CVV is required.","CVV vaaditaan."
 "CVV must be 4 digits for American Express and 3 digits for other card types.","CVV on oltava 4 numeroa American Express ja 3 numeroa muissa korteissa."
 "Expiration date is required.","Expiration date is required."
 "Expiration date is invalid.","Expiration date is invalid."
