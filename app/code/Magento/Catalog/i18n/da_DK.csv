@@ -437,7 +437,7 @@
 "%1 doesn't extend \Magento\Framework\Filter\Template","%1 doesn't extend \Magento\Framework\Filter\Template"
 "As low as","Fra"
 "test","test"
-"Some text is here.","Some text is here."
+"Some text is here.","Noget tekst er påkrævet."
 "Some exception","Nogle undtagelse"
 "Could not get extension attributes","Kunne ikke hente udvidelsesattributter"
 "message","besked"
