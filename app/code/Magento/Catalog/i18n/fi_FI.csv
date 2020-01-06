@@ -863,7 +863,7 @@
 "Images Upload Configuration","Kuvien Lataamisen asetukset"
 "Quality","Laatu"
 "Jpeg quality for resized images 1-100%.","Jpeg quality for resized images 1-100%."
-"Cost","Kustannus"
+"Cost","Kustannushinta"
 "The ""%1"" attribute is required. Enter and try again.","The ""%1"" attribute is required. Enter and try again."
 "Attributes were missing and must be specified.","Attributes were missing and must be specified."
 "The value of Admin must be unique. (%1)","The value of Admin must be unique. (%1)"
