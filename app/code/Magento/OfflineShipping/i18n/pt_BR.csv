@@ -26,7 +26,7 @@
 "Please correct %1 ""%2"" in the Row #%3.","Por favor, corrija o %1 ""%2"" na linha #%3."
 "Please correct Shipping Price ""%1"" in the Row #%2.","Por favor corrija o Valor dos Portes ""%1"" na Linha #%2."
 "Duplicate Row #%1 (duplicates row #%2)","Duplicar a linha #%1 (duplica a linha #%2)"
-"Please correct Table Rates File Format.","Por favor corrija o formato de ficheiro das taxas tabeladas."
+"Please correct Table Rates File Format.","Por favor corrija o formato do arquivo das taxas tabeladas."
 "No","Não"
 "For matching items only","Apenas para os itens correspondentes"
 "For shipment with matching items","Para envio com os itens correspondentes"
