@@ -12,7 +12,7 @@
 "Output path %1 doesn't exist","O caminho %1 não existe"
 "Unknown DB param: %1","Parâmetro de BD desconhecido: %1"
 "Paths file already exists","Caminhos de arquivo já existem"
-"Paths file cannot be created","Não é possível criar caminho do ficheiro"
+"Paths file cannot be created","Caminhos do arquivo não podem ser criados"
 "Please select item(s).","Por favor, selecione o(s) item(s)."
 "A total of %1 record(s) have been deleted.","Um total de %1 registro(s) foram excluídos."
 "Support","Atendimento"
