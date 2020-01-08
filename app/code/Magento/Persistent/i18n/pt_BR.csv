@@ -1,7 +1,7 @@
 "Not you?","Não é você?"
 "Your shopping cart has been updated with new prices.","O seu carrinho de compras foi atualizado com novos preços."
 "Welcome, %1!","Bem-vindo, %1!"
-"We cannot load the configuration from file %1.","Não conseguimos carregar a configuração do ficheiro %1."
+"We cannot load the configuration from file %1.","Não foi possível carregar a configuração do arquivo %1."
 "Method ""%1"" is not defined in ""%2""","O método ""%1"" não está definido em ""%2"""
 "To check out, please sign in using your email address.","Para efetuar o checkout, por favor inicie a sessão usando seu endereço de e-mail."
 "Remember Me","Permanecer logado"

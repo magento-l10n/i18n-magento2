@@ -1,7 +1,7 @@
 "Import failed: %1","Falha na Importação: %1"
 "Class for type ""%1"" was not declared","A Classe para o tipo ""%1"" não foi declarada"
 "%1 does not implement %2","%1 não implementa %2"
-"File app/etc/%1 can't be read. Please check if it exists and has read permissions.","Ficheiro app/etc/%1 não pode ser lido. Por favor, verifique a sua existência e permissões de leitura."
+"File app/etc/%1 can't be read. Please check if it exists and has read permissions.","O arquivo app/etc/%1 não pode ser lido. Por favor, verifique se existe e tem permissões de leitura."
 "There are no sensitive configurations to fill","Não há nenhuma configuração sensível para preencher"
 "Value can't be empty","Valor não pode ser vazio"
 "A configuration with this path does not exist or is not sensitive","Uma configuração com este caminho não existe ou não é sensível"
