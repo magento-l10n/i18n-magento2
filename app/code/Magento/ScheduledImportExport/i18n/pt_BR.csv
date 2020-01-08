@@ -14,7 +14,7 @@
 "FTP Host[:Port]","FTP Host [: porta]"
 "User Name","Nome de Usuário"
 "Password","Senha"
-"File Mode","Modo de Ficheiro"
+"File Mode","Modo Arquivo"
 "Passive Mode","Modo Passivo"
 "Failed Email Receiver","Receptor do E-mail falhou"
 "Failed Email Sender","Remetente do E-mail falhou"
