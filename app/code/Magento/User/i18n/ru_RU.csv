@@ -109,7 +109,7 @@
 "Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?","Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?"
 "Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?"
 "Password Reset Confirmation for %name","Password Reset Confirmation for %name"
-"%name,","%название,"
+"%name,","%name,"
 "There was recently a request to change the password for your account.","There was recently a request to change the password for your account."
 "If you requested this change, reset your password here:","If you requested this change, reset your password here:"
 "If you did not make this request, you can ignore this email and your password will remain the same.","If you did not make this request, you can ignore this email and your password will remain the same."
