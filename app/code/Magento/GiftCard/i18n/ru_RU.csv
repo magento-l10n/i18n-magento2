@@ -63,7 +63,7 @@
 "Availability","Наличие"
 "In stock","В наличии"
 "You've been sent a gift from %store_name","You've been sent a gift from %store_name"
-"%name,","%название,"
+"%name,","%name,"
 "%sender has sent you a gift card for use at <a href=""%store_url"">%store_name</a> and it is now ready to be used for purchases.","%sender has sent you a gift card for use at <a href=""%store_url"">%store_name</a> and it is now ready to be used for purchases."
 "Gift Card Codes:","Коды подарочных карт:"
 "Gift Card Code:","Код подарочной карты:"
