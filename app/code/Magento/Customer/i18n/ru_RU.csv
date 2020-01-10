@@ -369,7 +369,7 @@
 "Tax/VAT number","Номер НДС/Налога"
 "Phone Number","Номер телефона"
 "Welcome to %store_name","Добро пожаловать в %store_name"
-"%name,","%название,"
+"%name,","%name,"
 "Welcome to %store_name.","Добро пожаловать на %store_name."
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Для входа на наш сайт, используйте эти учетные данные во время проверки или на странице Мой аккаунт</a> <a href=""%customer_url"">:"
 "Email:","Электронная почта:"
