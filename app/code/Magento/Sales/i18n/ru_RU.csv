@@ -654,7 +654,7 @@
 "Add to Cart","Добавить в корзину"
 "Search","Поиск"
 "Credit memo for your %store_name order","Кредит ноты для заказа %store_name"
-"%name,","%название,"
+"%name,","%name,"
 "Thank you for your order from %store_name.","Благодарим вас за ваш заказ от %store_name."
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Вы можете проверить статус вашего заказа, <a href=""%account_url"">войдя в свой аккаунт</a>."
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>"
