@@ -312,7 +312,7 @@
 "New Comment for RMA #%increment_id","New Comment for RMA #%increment_id"
 "Customer %name has left a new comment:","Customer %name has left a new comment:"
 "%store_name : New Return #%increment_id","%store_name : New Return #%increment_id"
-"%name,","%navn,"
+"%name,","%name,"
 "Your return request has been updated. Please see below.","Your return request has been updated. Please see below."
 "You can check the status of your return by <a href=""%account_url"">logging into your account</a> or <a href=""%form_url"">using your order number</a>.","You can check the status of your return by <a href=""%account_url"">logging into your account</a> or <a href=""%form_url"">using your order number</a>."
 "If you have any questions, please feel free to contact us at <a href=""mailto:%support_email"">%support_email</a> or by phone at %store_phone","Hvis du har spørsmål, ta gjerne kontakt oss på <a href=""mailto:%support_email"">%support_email</a> eller på telefon %store_phone"
