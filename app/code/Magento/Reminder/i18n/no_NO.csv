@@ -129,7 +129,7 @@
 "Validate error 2","Valideringfeil 2"
 "text","text"
 "Promotion reminder at %store_name","Promotion reminder at %store_name"
-"%name,","%navn,"
+"%name,","%name,"
 "Hurry up to take advantage of our %promotion_name promotion!","Hurry up to take advantage of our %promotion_name promotion!"
 "Hurry up to take advantage of this promotion!","Hurry up to take advantage of this promotion!"
 "To take advantage of the promotion you need to sign in at <a href=""%account_url"">%store_name</a> and apply the coupon ""%coupon_code"" in the shopping cart.","For å benytte deg av kampanjen må du logge deg på <a href=""%account_url"">%store_name</a> og bruke rabattkoden ""%coupon_code"" i handlekurven."
