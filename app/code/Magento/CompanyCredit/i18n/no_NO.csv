@@ -71,7 +71,7 @@
 "Charged off the company credit","Charged off the company credit"
 "The Company credit on all selected companies will be converted using the rate below. This operation cannot be undone.","The Company credit on all selected companies will be converted using the rate below. This operation cannot be undone."
 "Credit allocated to %company_name","Credit allocated to %company_name"
-"Dear %name,","Kjære %navn,"
+"Dear %name,","Kjære %name,"
 "Your company has been allocated a credit of %available_credit.
     You can now use the Payment On Account method to place you orders.","Your company has been allocated a credit of %available_credit.
     You can now use the Payment On Account method to place you orders."
