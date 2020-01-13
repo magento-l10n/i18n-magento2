@@ -194,7 +194,7 @@
 "Change","Endre"
 "This action will replace your Company Admin.","Denne handlingen vil erstatte din firmaadministrator."
 "* Your latest changes on the company profile have not been saved yet.","*Din seneste forandring på firmaprofilen har ikke blitt lagret enda."
-"Dear %name,","Kjære %navn,"
+"Dear %name,","Kjære %name,"
 "You have been assigned to <a href=""%customer_url"">%company_name</a> as the Company Admin.","You have been assigned to <a href=""%customer_url"">%company_name</a> as the Company Admin."
 "When you sign in to your account, you can:","Når du logger inn på kontoen din, vil du kunne:"
 "* Create and manage company users and teams","* Create and manage company users and teams"
@@ -231,7 +231,7 @@
     Once you login, you will be able to place orders on behalf of your company
     and use other B2B features."
 "Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details.","Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details."
-"%name,","%navn,"
+"%name,","%name,"
 "You have been assigned to %company_name as the Sales Representative.","You have been assigned to %company_name as the Sales Representative."
 "When you sign in to your account, you will be able to:","Når du logger inn på kontoen din, vil du kunne:"
 "* View and manage company quotes in Admin Panel","* View and manage company quotes in Admin Panel"
