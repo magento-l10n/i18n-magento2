@@ -49,7 +49,7 @@
 "Remove","Fjern"
 "Refunded to Store Credit","Refunded to Store Credit"
 "Store Credit update","Store Credit update"
-"%name,","%navn,"
+"%name,","%name,"
 "We have updated your <a href=""%store_url"">%store_name</a> account and you have credit that you can use for future purchases.","We have updated your <a href=""%store_url"">%store_name</a> account and you have credit that you can use for future purchases."
 "Your Store Credit balance is now %balance.","Your Store Credit balance is now %balance."
 "Store credit","Store credit"
