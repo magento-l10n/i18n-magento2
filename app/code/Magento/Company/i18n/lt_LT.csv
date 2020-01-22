@@ -233,7 +233,7 @@
 "Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details.","Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details."
 "%name,","%name,"
 "You have been assigned to %company_name as the Sales Representative.","You have been assigned to %company_name as the Sales Representative."
-"When you sign in to your account, you will be able to:","When you sign in to your account, you will be able to:"
+"When you sign in to your account, you will be able to:","Prisijungę galėsite:"
 "* View and manage company quotes in Admin Panel","* View and manage company quotes in Admin Panel"
 "* View and edit company profile in Admin Panel","* View and edit company profile in Admin Panel"
 "Your company account <strong>%company_name</strong> has been blocked.
