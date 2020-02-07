@@ -68,7 +68,7 @@
 "Please select an industry.","Пожалуйста, выберите отрасль."
 "The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","Данные неверны. Введите данные как строку или данные, которые могут быть преобразованы в строку и повторите попытку."
 "The data is invalid. Enter the data as a string and try again.","Данные неверны. Введите данные как строку и попробуйте еще раз."
-"The data is invalid. Use a valid cipher method and try again.","The data is invalid. Use a valid cipher method and try again."
+"The data is invalid. Use a valid cipher method and try again.","Недопустимые данные. Используйте правильный метод шифрования и повторите попытку."
 "Enter the encryption key and try again.","Введите ключ шифрования и повторите попытку."
 "The ""%1"" source doesn't exist.","Источник «%1» не существует."
 "Retry Synchronization","Повторите попытку синхронизации"
