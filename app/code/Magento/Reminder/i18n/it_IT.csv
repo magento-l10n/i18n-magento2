@@ -130,7 +130,7 @@ Sostituisce titoli/descrizioni di default. Se la e-mail non è specificato, verr
 "Validate error 2","Valida errore 2"
 "text","testo"
 "Promotion reminder at %store_name","Promemoria Promozione a %store_name"
-"%name,","%nome,"
+"%name,","%name,"
 "Hurry up to take advantage of our %promotion_name promotion!","Affrettatevi per approfittare della nostra promozione %promotion_name!"
 "Hurry up to take advantage of this promotion!","Affrettatevi per approfittare di questa promozione!"
 "To take advantage of the promotion you need to sign in at <a href=""%account_url"">%store_name</a> and apply the coupon ""%coupon_code"" in the shopping cart.","Per approfittare della promozione è necessario accedere alla <a href=""%account_url"">%store_name</a> e applicare il coupon ""%coupon_code"" nel carrello."
