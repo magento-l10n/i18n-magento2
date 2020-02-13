@@ -312,7 +312,7 @@
 "New Comment for RMA #%increment_id","Nuovo commento per l'RMA #%increment_id"
 "Customer %name has left a new comment:","Il cliente %name ha lasciato un nuovo commento:"
 "%store_name : New Return #%increment_id","%store_name: Nuovo ritorno #%increment_id"
-"%name,","%nome,"
+"%name,","%name,"
 "Your return request has been updated. Please see below.","La richiesta di reso è stata aggiornata. Vedere di seguito."
 "You can check the status of your return by <a href=""%account_url"">logging into your account</a> or <a href=""%form_url"">using your order number</a>.","È possibile controllare lo stato del tuo reso <a href=""%account_url""> accedendo al tuo account</a> o <a href=""%form_url""> utilizzando il tuo numero di ordine</a>."
 "If you have any questions, please feel free to contact us at <a href=""mailto:%support_email"">%support_email</a> or by phone at %store_phone","Se avete domande, non esitate a contattarci al <a href=""mailto:%support_email""> %support_email</a> o per telefono al %store_phone"
