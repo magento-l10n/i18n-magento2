@@ -4,6 +4,6 @@
 "Error while generating js translation dictionary: ""%s""","Erreur lors de la génération du dictionnaire de traduction JS : ""%s"""
 "Translation Strategy","Stratégie de traduction"
 "Translations","Traductions"
-"Translation files","Fichiers de traduction"
-"Translation files.","Fichiers de traduction."
+"Translation files","Traductions"
+"Translation files.","Traductions."
 "Please put your store into maintenance mode and redeploy static files after changing strategy","Veuillez mettre votre boutique en mode maintenance et redéployer les fichiers statiques après avoir modifié la stratégie"
