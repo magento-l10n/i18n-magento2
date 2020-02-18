@@ -32,7 +32,7 @@
 "Please correct the quantity for some products.","Моля коригирайте количеството на някои продукти."
 "The most you may purchase is %1.","Можете за закупите най-много %1."
 "We don't have as many ""%1"" as you requested.","Желаното количество от продукт ""%1"" не е налично."
-"We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","Не са толкова ""%1"" колкото поискахте, но ще поръчаме останалите %2."
+"We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","Наличността от """"%1"""" е по-малка от %2."
 "We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","Не разполагаме с ""%1"" в исканото количество, така ще поръчаме останалите %2."
 "You can buy %1 only in quantities of %2 at a time.","Можете да закупите %1 само в количества от %2 в даден момент."
 "You can buy this product only in quantities of %1 at a time.","Можете да закупите този продукт само в количества от  %1 наведнъж."
