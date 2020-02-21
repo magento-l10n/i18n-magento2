@@ -68,5 +68,5 @@
 "The data is invalid. Enter the data as a string and try again.","I dati non sono validi. Immettere i dati come una stringa e riprovare."
 "The data is invalid. Use a valid cipher method and try again.","I dati non sono validi. Utilizzare un metodo di crittografia valido e riprovare."
 "Enter the encryption key and try again.","Immettere la chiave di iscrizione e riprovare."
-"The ""%1"" source doesn't exist.","The ""%1"" source doesn't exist."
+"The ""%1"" source doesn't exist.","La fonte ""% 1"" non esiste."
 "Retry Synchronization","Riprova a sincronizzare"
