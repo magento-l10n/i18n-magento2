@@ -1,4 +1,4 @@
-"Please correct the data sent.","Please correct the data sent."
-"Entity type model '%1' is not found","Entity type model '%1' is not found"
+"Please correct the data sent.","അയച്ച ഡാറ്റ ശരിയാക്കുക."
+"Entity type model '%1' is not found","എന്റിറ്റി ടൈപ്പ് മോഡൽ '%1' കണ്ടെത്തിയില്ല"
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType"
 "There are no product types available for export","There are no product types available for export"
