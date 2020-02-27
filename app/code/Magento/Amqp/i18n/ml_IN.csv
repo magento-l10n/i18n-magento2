@@ -1,3 +1,3 @@
-"RPC call failed, connection timed out after %time_out.","RPC call failed, connection timed out after %time_out."
-"Message has been rejected: %1","Message has been rejected: %1"
-"Error while checking if topic is synchronous","Error while checking if topic is synchronous"
+"RPC call failed, connection timed out after %time_out.","ആർ‌പി‌സി കോൾ‌ പരാജയപ്പെട്ടു, %time_out ന് ശേഷം കണക്ഷൻ‌ കാലഹരണപ്പെട്ടു."
+"Message has been rejected: %1","സന്ദേശം നിരസിച്ചു:%1"
+"Error while checking if topic is synchronous","വിഷയം സമന്വയിപ്പിക്കുന്നുണ്ടോയെന്ന് പരിശോധിക്കുമ്പോൾ പിശക്"
