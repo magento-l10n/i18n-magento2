@@ -1,4 +1,4 @@
 "Please correct the data sent.","അയച്ച ഡാറ്റ ശരിയാക്കുക."
 "Entity type model '%1' is not found","എന്റിറ്റി ടൈപ്പ് മോഡൽ '%1' കണ്ടെത്തിയില്ല"
-"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType"
-"There are no product types available for export","There are no product types available for export"
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","എന്റിറ്റി ടൈപ്പ് മോഡൽ \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType ന്റെ ഒരു ഇൻസ്റ്റൻസ് ആയിരിക്കണം"
+"There are no product types available for export","കയറ്റുമതിക്കായി പ്രോഡക്റ്റ് ടൈപ്പ് ഒന്നും ലഭ്യമല്ല"
