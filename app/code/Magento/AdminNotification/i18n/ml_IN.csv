@@ -25,7 +25,7 @@
 "minor","മൈനർ"
 "notice","അറിയിപ്പ്"
 "Wrong message type","തെറ്റായ മെസ്സേജ് ടൈപ്പ്"
-"Wrong notification ID specified.","Wrong notification ID specified."
+"Wrong notification ID specified.","തെറ്റായ നോട്ടിഫിക്കേഷൻ ഐഡി വ്യക്തമാക്കി."
 "{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>."
 "One or more of the Cache Types are invalidated: %1. ","One or more of the Cache Types are invalidated: %1. "
 "Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Please go to <a href=""%1"">Cache Management</a> and refresh cache types."
