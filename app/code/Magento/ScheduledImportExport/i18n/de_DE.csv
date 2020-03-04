@@ -21,7 +21,7 @@
 "Failed Email Template","Vorlage für fehlgeschlagene E-Mails"
 "Send Failed Email Copy To","Sende Kopie von fehlgeschlagener E-Mail an"
 "Send Failed Email Copy Method","%sender hat Ihnen eine Geschenkkarte für <a href=""%store_url"">%store_name</a> geschickt und sie kann jetzt für Einkäufe genutzt werden."
-"Export Settings","Import-Einstellungen"
+"Export Settings","Export-Einstellungen"
 "Export File Information","Dateiinformationen exportieren"
 "Export Failed Emails","Fehlgeschlagene E-Mails exportieren"
 "File Format","Dateiformat"
