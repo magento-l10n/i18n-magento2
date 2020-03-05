@@ -517,7 +517,7 @@
 "If no value is specified, the system default is used. The system default may be modified by third-party extensions.","Wenn kein Wert bestimmt ist, werden System-Standardvorgaben verwendet. Die System-Standardvorgabe kann durch Drittanbieter-Erweiterungen angepasst/modifiziert sein."
 "label","Kennzeichen"
 "Enable Frontend Resize","Frontend-Resize aktivieren"
-"Invalid security or form key. Please refresh the page.","Ungültiger Sichereheits- oder Formularschlüssel. Bitte aktualisieren Sie die Seite."
+"Invalid security or form key. Please refresh the page.","Ungültiger Sicherheits- oder Formularschlüssel. Bitte aktualisieren Sie die Seite."
 "An item needs to be selected. Select and try again.","Ein Element muss ausgewählt werden. Treffen Sie eine Auswahl und versuchen Sie es erneut."
 "These cache type(s) don't exist: %1","Diese Zwischenspeicher-Typ/Typen existieren nicht: %1"
 "The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","Die Konto-Anmeldung war nicht korrekt oder Ihr Konto ist vorübergehend deaktiviert. Bitte warten Sie und versuchen Sie es später erneut."
