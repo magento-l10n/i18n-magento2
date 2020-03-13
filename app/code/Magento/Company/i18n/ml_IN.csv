@@ -97,7 +97,7 @@
 "Invalid login or password.","ലോഗിൻ അല്ലെങ്കിൽ പാസ്‌വേഡ് അസാധുവാണ്."
 "This account is locked.","ഈ അക്കൗണ്ട് ലോക്കുചെയ്‌തു."
 "Your account is not yet approved. If you have questions, please contact the seller.","നിങ്ങളുടെ അക്കൗണ്ട് ഇതുവരെ അംഗീകരിച്ചിട്ടില്ല. നിങ്ങൾക്ക് ചോദ്യങ്ങളുണ്ടെങ്കിൽ, വിൽപ്പനക്കാരനുമായി ബന്ധപ്പെടുക."
-"There was an error saving custom attributes.","There was an error saving custom attributes."
+"There was an error saving custom attributes.","ഇഷ്‌ടാനുസൃത ആട്രിബ്യൂട്ടുകൾ സേവ് ചെയ്യുന്നതിൽ ഒരു പിശക് ഉണ്ടായിരുന്നു."
 "Invalid value of ""%value"" provided for the %fieldName field.","%ഫീൽഡ്നെയിം ഫീൽഡിനായി ""%മൂല്യം"" അസാധുവായ മൂല്യം നൽകി."
 """%fieldName"" is required. Enter and try again.","""%ഫീൽഡ്നെയിം"" ആവശ്യമാണ്. നൽകി വീണ്ടും ശ്രമിക്കുക."
 "No such entity with %fieldName = %fieldValue","%FieldName = %fieldValue ഉള്ള അത്തരം എന്റിറ്റികളൊന്നുമില്ല"
