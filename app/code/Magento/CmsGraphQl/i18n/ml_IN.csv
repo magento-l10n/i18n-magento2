@@ -1,3 +1,3 @@
-"""identifiers"" of CMS blocks should be specified","""identifiers"" of CMS blocks should be specified"
-"""Page id should be specified","""Page id should be specified"
-"The CMS block with the ""%1"" ID doesn't exist.","The CMS block with the ""%1"" ID doesn't exist."
+"""identifiers"" of CMS blocks should be specified","സി‌എം‌എസ് ബ്ലോക്കുകളുടെ ""ഐഡന്റിഫയറുകൾ"" വ്യക്തമാക്കണം"
+"""Page id should be specified","""പേജ് ഐഡി വ്യക്തമാക്കണം"
+"The CMS block with the ""%1"" ID doesn't exist.","""%1"" ഐഡി ഉള്ള സി‌എം‌എസ് ബ്ലോക്ക് നിലവിലില്ല."
