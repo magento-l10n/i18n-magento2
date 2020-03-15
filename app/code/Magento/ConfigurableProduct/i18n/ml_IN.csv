@@ -38,7 +38,7 @@
 "Configuration must have specified attributes","കോൺഫിഗറേഷനിൽ നിർദ്ദിഷ്ട ആട്രിബ്യൂട്ടുകൾ ഉണ്ടായിരിക്കണം"
 "Type %1 is not an instance of %2","%1 ടൈപ്പ് %2 ന്റെ ഇൻസ്റ്റൻസ് അല്ല"
 "Choose Affected Attribute Set","ബാധിത ആട്രിബ്യൂട്ട് സെറ്റ് തിരഞ്ഞെടുക്കുക"
-"Add configurable attributes to the current Attribute Set","Add configurable attributes to the current Attribute Set"
+"Add configurable attributes to the current Attribute Set","നിലവിലെ ആട്രിബ്യൂട്ട് സെറ്റിലേക്ക് ക്രമീകരിക്കാവുന്ന ആട്രിബ്യൂട്ടുകൾ ചേർക്കുക"
 "Confirm","Confirm"
 "New Attribute Set Name","New Attribute Set Name"
 "Select Associated Product","Select Associated Product"
