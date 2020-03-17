@@ -19,5 +19,5 @@
 "Old rate:","പഴയ നിരക്ക്:"
 "Currency","കറൻസി"
 "Please correct the input data for %1 => %2 rate","""%1 => %2"" നിരക്കിനായി ഇൻപുട്ട് ഡാറ്റ ശരിയാക്കുക"
-"The Import Service is incorrect. Verify the service and try again.","The Import Service is incorrect. Verify the service and try again."
-"The import model can't be initialized. Verify the model and try again.","The import model can't be initialized. Verify the model and try again."
+"The Import Service is incorrect. Verify the service and try again.","ഇമ്പോർട് സർവീസ് തെറ്റാണ്. സേവനം പരിശോധിച്ച് വീണ്ടും ശ്രമിക്കുക."
+"The import model can't be initialized. Verify the model and try again.","ഇമ്പോർട് മോഡൽ സമാരംഭിക്കാൻ കഴിയില്ല. മോഡൽ പരിശോധിച്ച് വീണ്ടും ശ്രമിക്കുക."
