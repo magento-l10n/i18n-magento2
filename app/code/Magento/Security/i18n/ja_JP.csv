@@ -12,7 +12,7 @@
 "Too many password reset requests. Please wait and try again or contact %1.","パスワードリセット要求が多すぎます。 お待ちいただきもう一度お試しいただくか、%1 にお問い合わせください。"
 "Incorrect Security Checker class. It has to implement SecurityCheckerInterface","セキュリティチェッカークラスが正しくありません。 SecurityCheckerInterfaceを実装する必要があります"
 "some error","なんらかのエラー"
-"This administrator account is open in more than one location. Note that other locations might be different browsers or sessions on the same computer.","Tこの管理者アカウントは、複数の場所で開いています。 他の場所は、同じコンピュータ上のブラウザやセッションが異なる場合があります。"
+"This administrator account is open in more than one location. Note that other locations might be different browsers or sessions on the same computer.","この管理者アカウントは、複数の場所で開いています。 他の場所は、同じコンピュータ上のブラウザやセッションが異なる場合があります。"
 "Concurrent session information:","同時セッション情報:"
 "IP Address","IPアドレス"
 "Time of session start","セッション開始時刻"
