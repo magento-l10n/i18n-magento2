@@ -1,4 +1,4 @@
-"Document is not saved due to error.","Document is not saved due to error."
-"More than one node matching the query: %1","More than one node matching the query: %1"
-"Invalid XML in file %1:\n%2","Invalid XML in file %1:\n%2"
-"Invalid Document \n%1","Invalid Document \n%1"
+"Document is not saved due to error.","പിശക് കാരണം പ്രമാണം സേവ് ചെയ്തിട്ടില്ല."
+"More than one node matching the query: %1","ചോദ്യവുമായി പൊരുത്തപ്പെടുന്ന ഒന്നിലധികം നോഡുകൾ: %1"
+"Invalid XML in file %1:\n%2","%1:\n%2 ഫയലിലെ അസാധുവായ എക്സ്എം‌എൽ"
+"Invalid Document \n%1","പ്രമാണം അസാധുവാണ് \n%1"
