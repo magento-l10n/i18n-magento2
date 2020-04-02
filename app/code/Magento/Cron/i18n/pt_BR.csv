@@ -19,5 +19,5 @@
 "Success History Lifetime","Tempo de vida do Histórico de Sucesso"
 "Failure History Lifetime","Tempo de vida do Histórico de Falhas"
 "Use Separate Process","Use um processo separado"
-"Cron (Scheduled Tasks) - all the times are in minutes","Cron (tarefas agendadas) - todas as vezes são em minutos"
+"Cron (Scheduled Tasks) - all the times are in minutes","Cron (Tarefas Agendadas) - todas as vezes são em minutos"
 "For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.","Para URLs corretas gerados durante o cron roda certifique-se de que a Web> URLs seguros e Unsecure base são ajustados de forma explícita."
