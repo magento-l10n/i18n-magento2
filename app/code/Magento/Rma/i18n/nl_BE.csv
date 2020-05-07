@@ -312,7 +312,7 @@
 "New Comment for RMA #%increment_id","Nieuwe commentaar voor RMA #%increment_id"
 "Customer %name has left a new comment:","Klant %name heeft een nieuwe opmerking achtergelaten:"
 "%store_name : New Return #%increment_id","%store_name: Nieuwe retour #%increment_id"
-"%name,","%naam,"
+"%name,","%name,"
 "Your return request has been updated. Please see below.","Uw retourverzoek is bijgewerkt. Zie hieronder."
 "You can check the status of your return by <a href=""%account_url"">logging into your account</a> or <a href=""%form_url"">using your order number</a>.","U kan de status van uw retour bekijken door <a href=""%account_url"">in te loggen op uw account</a> of <a href=""%form_url"">door gebruik van uw bestelnummer</a>."
 "If you have any questions, please feel free to contact us at <a href=""mailto:%support_email"">%support_email</a> or by phone at %store_phone","Indien u nog vragen heeft, aarzel dan niet om ons te contacteren op <a href=""mailto:%support_email"">%support_email</a> of telefonisch op %store_phone"
