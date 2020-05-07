@@ -427,7 +427,7 @@
 "Orders","Pedidos"
 "Payment Amount Authorization","Autorização de montante de pagamento"
 "Merchant Location","Localização do Comerciante"
-"Merchant Country","Páis do Comerciante"
+"Merchant Country","País do Vendedor"
 "If not specified, Default Country from General Config will be used","Se não estiver especificado, será usado o País Pré-definido da Configuração Geral"
 "Recommended Solutions:","Soluções recomendadas:"
 "Other PayPal Payment Solutions:","Outras soluções de pagamento PayPal:"
