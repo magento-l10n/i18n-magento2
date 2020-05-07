@@ -21,6 +21,6 @@
 "Entity type model must be an instance of Magento\CatalogImportExport\Model\Import\Product\Type\AbstractType","Modelo de tipo de entidad debe ser una instancia de \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType"
 "Entity type model must be an instance of '%1'","El modelo de tipo de entidad debe ser una instancia de '%1'"
 "Disallowed file type.","Tipo de archivo no aceptado."
-"Value for multiselect attribute %s contains duplicated values","Value for multiselect attribute %s contains duplicated values"
+"Value for multiselect attribute %s contains duplicated values","El valor para el atributo multiselecto %s contiene valores duplicados"
 "Invalid Stock data for insert","Datos de valores no válidos para insertar"
-"Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: %1","Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: %1"
+"Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: %1","El valor del sub-atributo 'type' en el atributo 'custom_options' contiene un valor incorrecto, los valores aceptables son: %1"
