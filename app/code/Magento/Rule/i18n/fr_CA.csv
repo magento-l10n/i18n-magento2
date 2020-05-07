@@ -32,5 +32,5 @@
 "Unknown condition operator","Opérateur de condition inconnu"
 "There is no information about associated entity type ""%1"".","Il n’y a pas d’information sur le type d’entité associée ""%1""."
 "This won't take long . . .","Ce ne sera pas long. . ."
-"Please specify valid %1.","Please specify valid %1."
-"is undefined","is undefined"
+"Please specify valid %1.","Veuillez spécifier %1 valide ."
+"is undefined","est indéfini"
