@@ -5,4 +5,4 @@
 "Successful Messages Lifetime","Durée de vie des messages réussis"
 "Failed Messages Lifetime","Durée de vie des messages en erreur"
 "New Messages Lifetime","Durée de vie des nouveaux messages"
-"MySQL Message Queue Cleanup - all the times are in minutes. Use ""0"" if you want to skip automatic clearance","MySQL Message Queue Cleanup - all the times are in minutes. Use ""0"" if you want to skip automatic clearance"
+"MySQL Message Queue Cleanup - all the times are in minutes. Use ""0"" if you want to skip automatic clearance","Nettoyage de la file de messages MySQL - tous les temps sont en minutes. Utilisez ""0"" si vous voulez ignorer la suppression automatique"
