@@ -78,7 +78,7 @@
 "Create New Campaign","Crear nueva campaña"
 "Campaign/Promo Name","Nombre de campaña/promoción"
 "Action","Acción"
-"MMM d, y h:mm a","MMM d, y h:mm a"
+"MMM d, y h:mm a","d 'de' MMM 'de' yyyy, H:mm"
 "Name","Nombre"
 "The Future Update Start Time is invalid. It can't be later than current time + %1 years.","La hora de inicio de la actualización futura no es válida. No puede ser anterior a la hora actual + %1 years."
 "The Future Update End Time is invalid. It can't be later than current time + %1 years.","La hora de inicio de la actualización futura no es válida. No puede ser más tarde que la hora actual + %1 years."

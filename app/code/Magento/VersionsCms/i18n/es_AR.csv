@@ -15,7 +15,7 @@
 "Defines this node as Chapter/Section","Este nodo se define como sección de capítulo"
 "Pagination Options for Nested Pages","Opciones de paginación de páginas anidadas"
 "Enable Pagination","Habilitar paginación"
-"Frame","Frame"
+"Frame","Marco"
 "Set the number of links to display at one time.","Establecer el número de enlaces a mostrar a la vez."
 "Frame Skip","Salto de frame"
 "If the Current Frame Position does not cover Utmost Pages, will render Link to Current Position plus/minus this Value","Si la posición actual del frame no cubre la mayoría de las páginas, se procesará un enlace a la posición actual más/menos este valor"

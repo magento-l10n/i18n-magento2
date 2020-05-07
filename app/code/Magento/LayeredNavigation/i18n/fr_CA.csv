@@ -28,11 +28,11 @@
 "Interval Division Limit","Limite de division d'intervalle"
 "Please specify the number of products, that will not be divided into subintervals.","Spécifiez le nombre de produits qui ne seront pas divisés en sous-intervalles."
 "Position of attribute in layered navigation block","Position de l'attribut dans le bloc de navigation par filtres"
-"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price"
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price","Peut être utilisé uniquement avec le type d'entrée du catalogue Oui/Non, Dropdown, choix multiple et prix"
 "Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
                     <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
-                     it will make no affect on Price filter.","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
-                    <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
-                     it will make no affect on Price filter."
-"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price."
-"Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price.","Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price."
+                     it will make no affect on Price filter.","Peut être utilisé uniquement avec le type d'entrée du catalogue Oui/Non, Dropdown, choix multiple et prix.
+                    <br>Le prix n'est pas compatible avec <b>'Filtrable (aucun résultat)'</b> option - 
+                     il n'affectera pas le filtre de prix."
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.","Peut être utilisé uniquement avec le type d'entrée du catalogue Oui/Non, Dropdown, choix multiple et prix."
+"Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price.","Peut être utilisé uniquement avec le type d'entrée du catalogue Oui/Non (Boolean), Dropdown, choix multiple et prix."
