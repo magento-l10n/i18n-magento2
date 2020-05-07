@@ -109,7 +109,7 @@
 "Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?","Waarschuwin:\r\nDeze actie verwijderd de gebruik van de reeds toegekende rollen\r\nBent u zeker?"
 "Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","Waarschuwin:\r\nDeze actie verwijderd de gebruikers van de reeds toegekende rollen\r\nBent u zeker?"
 "Password Reset Confirmation for %name","Wachtwoord reset bevestiging voor %name"
-"%name,","%naam,"
+"%name,","%name,"
 "There was recently a request to change the password for your account.","Er was onlangs een aanvraag om het wachtwoord van uw account te wijzigen."
 "If you requested this change, reset your password here:","Indien u deze wijziging heeft aangevraagd, stel je wachtoord hier opnieuw in:"
 "If you did not make this request, you can ignore this email and your password will remain the same.","Indien u deze aanvraag niet heeft ingediend, kan u deze email negeren en uw wachtwoord zal ongewijzigd blijven."
