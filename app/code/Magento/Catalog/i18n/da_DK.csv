@@ -434,7 +434,7 @@
 "Product with SKU %1 is not linked to product with SKU %2","Produkt med SKU %1 er ikke knyttet til produkt med SKU %2"
 "Multiple Select","Marker flere"
 "Dropdown","Dropdown"
-"%1 doesn't extend \Magento\Framework\Filter\Template","%1 doesn't extend \Magento\Framework\Filter\Template"
+"%1 doesn't extend \Magento\Framework\Filter\Template","%1 udvuder ikke \Magento\Framework\Model\AbstractModel"
 "As low as","Fra"
 "test","test"
 "Some text is here.","Noget tekst er påkrævet."
