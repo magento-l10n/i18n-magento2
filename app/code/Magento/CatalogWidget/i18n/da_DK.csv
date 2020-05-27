@@ -1,4 +1,4 @@
-"Conditions Combination","Conditions Combination"
+"Conditions Combination","Betingelses kombination"
 "Product Attribute","Produkt attribut"
 "SKU","Varenummer"
 "Please choose a condition to add.","Vælg en betingelse som skal tilføjes."
@@ -10,20 +10,17 @@
 "Catalog Products List","Katalog produktliste"
 "List of Products","Liste over produkter"
 "Title","Titel"
-"Display Page Control","Display Page Control"
+"Display Page Control","Vis sidevisning"
 "Number of Products per Page","Antal produkter pr. side"
 "Number of Products to Display","Antallet af produkter som vises"
 "Template","Skabelon"
-"Products Grid Template","Products Grid Template"
+"Products Grid Template","Produkt gitterskabelon"
 "Cache Lifetime (Seconds)","Datacachens levetid (sekunder)"
-"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache."
+"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 er standard, hvis ikke andet er valgt. For øjeblikket opdatering, ryd cachelaget Blocks HTML Output cache."
 "Conditions","Betingelser"
 "
                     Time in seconds between the widget updates.
                     <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
                     <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.
                 ","
-                    Time in seconds between the widget updates.
-                    <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
-                    <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.
-                "
+Tid angivet i sekunder imellem opdateringer af denne Widget. <br /> Hvis ikke angivet, er standarden 86400 sekunder (24 timer). For at opdatere denne Widget, gå til Cache Management og ryd Blocks HTML Output cachen.<br />Denne Widget vil ikke vise produkter der opfylder de angivne betingelser, før cachen er opdateret.                "
