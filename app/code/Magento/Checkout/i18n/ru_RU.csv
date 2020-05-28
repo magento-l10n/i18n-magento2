@@ -209,7 +209,7 @@
 "The product wasn't found. Verify the product and try again.","The product wasn't found. Verify the product and try again."
 "A server error stopped your order from being placed. Please try to place your order again.","A server error stopped your order from being placed. Please try to place your order again."
 "The shipping address is missing. Set the address and try again.","The shipping address is missing. Set the address and try again."
-"The shipping information was unable to be saved. Verify the input data and try again.","The shipping information was unable to be saved. Verify the input data and try again."
+"The shipping information was unable to be saved. Verify the input data and try again.","Информация о доставке не может быть сохранена. Проверьте введенные данные и повторите попытку."
 "The shipping method can't be set for an empty cart. Add an item to cart and try again.","The shipping method can't be set for an empty cart. Add an item to cart and try again."
 "Billing Address","Адрес для выставления счета"
 "Something went wrong with your request. Please try again later.","Something went wrong with your request. Please try again later."
