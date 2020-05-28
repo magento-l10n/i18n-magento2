@@ -1,3 +1,3 @@
-"We can't find the role for the user you wanted.","出了错，同时编制允许的资源列表。 “”你可以找到更多的例外日志。"
-"Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","编译允许资源列表时出错。可以从异常日志查找更多可用信息。"
-"The role wasn't found for the user. Verify the role and try again.","The role wasn't found for the user. Verify the role and try again."
+"We can't find the role for the user you wanted.","找不到您想要的用户的角色。"
+"Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","编译允许资源列表时出错。您可以从异常日志查找更多可用信息。"
+"The role wasn't found for the user. Verify the role and try again.","找不到用户所属的角色。请验证角色后再试。"
