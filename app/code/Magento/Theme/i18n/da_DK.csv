@@ -216,6 +216,6 @@
 "The ""%templateName"" template contains an incorrect configuration, with a reference to itself. Remove or change the reference, then try again.","The ""%templateName"" template contains an incorrect configuration, with a reference to itself. Remove or change the reference, then try again."
 "The config can't be saved because it's empty. Complete the config and try again.","The config can't be saved because it's empty. Complete the config and try again."
 "View","Vis"
-"This is a demo store. No orders will be fulfilled.","This is a demo store. No orders will be fulfilled."
+"This is a demo store. No orders will be fulfilled.","Denne butik er kun til demonstration. Ordrer vil ikke blive behandlet."
 "Not all browsers support all these formats!","Not all browsers support all these formats!"
 "ID","ID"
