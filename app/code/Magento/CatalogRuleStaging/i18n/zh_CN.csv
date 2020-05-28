@@ -45,4 +45,4 @@
 "Future Update End Time cannot be equal or earlier than Start Time.","将更新的结束时间不能等于或早于开始时间。"
 "Move to Another Campaign","移到另一个促销活动"
 "Deleting the update will remove the catalog price rule from this campaign and all scheduled changes will be lost.","此更新将删除目录价格规则从这场运动和预定的所有更改将都会丢失。"
-"Future Update already exists in this time range. Set a different range and try again.","Future Update already exists in this time range. Set a different range and try again."
+"Future Update already exists in this time range. Set a different range and try again.","在此时间范围内已经存在计划更新。设置其他范围，然后重试。"

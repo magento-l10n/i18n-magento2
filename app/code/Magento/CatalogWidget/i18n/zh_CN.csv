@@ -23,7 +23,7 @@
                     <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
                     <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.
                 ","
-                    Time in seconds between the widget updates.
-                    <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
-                    <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.
+                    窗口小部件更新所用的时间（以秒为单位）。
+                    <br/>如果未设定。 等于 86400 秒(24小时)。 要立即更新小部件，请前往缓存管理并清除网页模块 HTML 输出缓存。
+                    <br/>在刷新缓存之前，窗口小部件不会开始显示匹配指定条件的产品。
                 "
