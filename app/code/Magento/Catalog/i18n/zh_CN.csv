@@ -918,27 +918,27 @@
 "The linked products data is invalid. Verify the data and try again.","链接的产品数据无效。验证数据，然后重试。"
 "The product that was requested doesn't exist. Verify the product and try again.","请求的产品不存在。请验证产品，然后重试。"
 "The Product with the ""%1"" SKU doesn't exist.","不存在SKU为""%1""的产品。"
-"The ""%1"" product couldn't be removed.","The ""%1"" product couldn't be removed."
-"Category with ID: %s doesn't exist","Category with ID: %s doesn't exist"
-"Product Name or SKU","Product Name or SKU"
-"Start typing to find products","Start typing to find products"
-"Product with ID: %s doesn't exist","Product with ID: %s doesn't exist"
-"Processor %1 doesn't implement WysiwygConfigDataProcessorInterface. It will be skipped","Processor %1 doesn't implement WysiwygConfigDataProcessorInterface. It will be skipped"
-"An item needs to be selected. Select and try again.","An item needs to be selected. Select and try again."
-"Use Static URLs for Media Content in WYSIWYG","Use Static URLs for Media Content in WYSIWYG"
-"Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.","Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes."
-"Default Layouts","Default Layouts"
-"Default Product Layout","Default Product Layout"
-"Default Category Layout","Default Category Layout"
+"The ""%1"" product couldn't be removed.","无法删除产品""%1""。"
+"Category with ID: %s doesn't exist","不存在ID为%s的分类。"
+"Product Name or SKU","产品名称或 SKU"
+"Start typing to find products","开始键入搜索产品"
+"Product with ID: %s doesn't exist","不存在ID为""%s""的产品。"
+"Processor %1 doesn't implement WysiwygConfigDataProcessorInterface. It will be skipped","处理程序 %1 未实现 WysiwygConfigDataProcessorInterface。它将被跳过"
+"An item needs to be selected. Select and try again.","至少需要选择一项。请选中后再试。"
+"Use Static URLs for Media Content in WYSIWYG","在 WYSIWYG 中使用静态链接获取媒体内容"
+"Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.","媒体内容将作为静态URL插入编辑器。如果系统配置中的基础URL更改，媒体内容不会更新。"
+"Default Layouts","默认布局"
+"Default Product Layout","默认产品布局"
+"Default Category Layout","默认分类布局"
 "
                     Time in seconds between the widget updates.
                     <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
                     <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.
                 ","
-                    Time in seconds between the widget updates.
-                    <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
-                    <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.
+                    窗口小部件更新所用的时间（以秒为单位）。
+                    <br/>如果未设定。 等于 86400 秒(24小时)。 要立即更新小部件，请前往缓存管理并清除网页模块 HTML 输出缓存。
+                    <br/>在刷新缓存纸前，窗口小部件不会开始显示匹配指定条件的产品。
                 "
-"Text Editor input type requires WYSIWYG to be enabled in Stores > Configuration > Content Management.","Text Editor input type requires WYSIWYG to be enabled in Stores > Configuration > Content Management."
-"Attribute code ""%1"" is invalid. Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Attribute code ""%1"" is invalid. Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter."
+"Text Editor input type requires WYSIWYG to be enabled in Stores > Configuration > Content Management.","文本编辑器输入类型要求在商店> 配置 > 内容管理中启用 WYSIWYG。"
+"Attribute code ""%1"" is invalid. Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","属性代码“% 1”无效。该字段只能使用字母（a - z或A-Z），数字（0 - 9）或下划线（_），第一个字符应该是字母。"
 "Advanced","高级"
