@@ -1,3 +1,3 @@
-"""identifiers"" of CMS blocks should be specified","""identifiers"" of CMS blocks should be specified"
-"""Page id should be specified","""Page id should be specified"
-"The CMS block with the ""%1"" ID doesn't exist.","The CMS block with the ""%1"" ID doesn't exist."
+"""identifiers"" of CMS blocks should be specified","应指定CMS区块的“identifiers”"
+"""Page id should be specified","“应指定页面id"
+"The CMS block with the ""%1"" ID doesn't exist.","ID为""%1""的CMS 区块不存在。"
