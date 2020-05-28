@@ -61,5 +61,5 @@
 "Refund Store Credit Automatically","自动退还商店信用"
 "Store Credit Update Email Sender","商店信用更新电子邮件发件人"
 "Store Credit Update Email Template","商店信用更新电子邮件模板"
-"A balance is needed to save a balance history.","A balance is needed to save a balance history."
-"The balance history action code is unknown. Verify the code and try again.","The balance history action code is unknown. Verify the code and try again."
+"A balance is needed to save a balance history.","保存余额历史记录需要有余额。"
+"The balance history action code is unknown. Verify the code and try again.","余额历史记录操作代码未知。请检查代码后重试。"

@@ -1,4 +1,4 @@
-"This block no longer exists.","此模块不再存在。"
+"This block no longer exists.","此区块已不存在。"
 "Future Update in this time range already exists. Select a different range to add a new Future Update.","将来的更新，在此时间范围内已存在。选择一个不同的范围，以添加一个新的未来更新。"
 "Error","错误"
 "Currently Active","当前处于活动状态"
@@ -55,4 +55,4 @@
 "Deleting the update will remove the page from this campaign and all scheduled changes will be lost.","此更新将删除页面从这场运动和预定的所有更改将都会丢失。"
 "Remove CMS Page from Campaign","从活动中删除CMS页面"
 "Remove CMS Block from Campaign","从竞选中移除CMS块"
-"Future Update already exists in this time range. Set a different range and try again.","Future Update already exists in this time range. Set a different range and try again."
+"Future Update already exists in this time range. Set a different range and try again.","在此时间范围内已经存在计划更新。设置其他范围，然后重试。"
