@@ -155,7 +155,7 @@
 "An error occurred while enabling cache.","Errore durante l'abilitazione della cache."
 "%1 cache type(s) refreshed.","%1 tipi di cache aggiornati."
 "An error occurred while refreshing cache.","Si è verificato un errore durante l'aggiornamento della cache."
-"Dashboard","Pannello di controllo"
+"Dashboard","Cruscotto"
 "We updated lifetime statistic.","Abbiamo aggiornato le statistiche."
 "We can't refresh lifetime statistics.","Non è possibile aggiornare le statistiche."
 "invalid request","richiesta non valida"
