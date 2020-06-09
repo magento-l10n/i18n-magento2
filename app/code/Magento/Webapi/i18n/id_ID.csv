@@ -2,7 +2,7 @@
 "Operation allowed only in HTTPS","Operasi hanya diperbolehkan di HTTPS"
 "Cannot perform GET operation with store code 'all'","Tidak bisa melakukan operasi dengan menyimpan semua kode"
 "Request does not match any route.","Permintaan tidak cocok dengan rute apapun."
-"Not allowed parameters: %1. Please use only %2 and %3.","Parameter yang tidak diizinkan: %1. Harap gunakan hanya %2 dan %3."
+"Not allowed parameters: %1. Please use only %2 and %3.","Parameter yang tidak diizinkan: %1. Silakan gunakan hanya %2 dan %3."
 "Requested service is not available: ""%1""","Layanan yang diminta tidak tersedia: "" %1 """
 "Operation ""%1"" not found.","Operasi "" %1 "" tidak ditemukan."
 "SOAP extension is not loaded.","Ekstensi SOAP tidak dimuat."
