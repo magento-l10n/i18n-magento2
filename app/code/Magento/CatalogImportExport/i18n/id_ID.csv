@@ -2,7 +2,7 @@
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Model jenis entitas harus berupa instance dari \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType"
 "There are no product types available for export.","Tidak ada jenis produk yang tersedia untuk diekspor."
 "'Entity type model must be an instance of ' .","'Model tipe entitas harus menjadi instance dari'."
-"Wrong attribute set code ""%1"", please correct it and try again.","Atribut yang salah menetapkan kode ""%1"", perbaiki dan coba lagi."
+"Wrong attribute set code ""%1"", please correct it and try again.","Kode set atribut salah ""%1"", perbaiki dan coba lagi."
 "Category ""%1"" has not been created.","Kategori ""%1"" belum dibuat."
 "File directory '%1' is not readable.","Direktori file ' %1 ' tidak dapat dibaca."
 "File directory '%1' is not writable.","Direktori file ' %1 ' tidak dapat ditulis."
