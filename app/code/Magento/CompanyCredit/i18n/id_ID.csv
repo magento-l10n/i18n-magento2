@@ -38,7 +38,7 @@
 "Could not save company credit limit","Could not save company credit limit"
 "Invalid value of ""%value"" provided for the %fieldName field.","Nilai ""nilai%"" tidak valid diberikan untuk bidang %fieldName."
 "Please enter a valid %1/%2 currency rate.","Please enter a valid %1/%2 currency rate."
-"Invoice created for %1","Invoice created for %1"
+"Invoice created for %1","Faktur telah dibuat untuk %1"
 "The selected credit currency is not valid. 
                         Customers will not be able to place orders until you update the credit currency.","The selected credit currency is not valid. 
                         Customers will not be able to place orders until you update the credit currency."
@@ -102,7 +102,7 @@
 "Payment on Account","Payment on Account"
 "Enabled","Diaktifkan"
 "New Order Status","Status Orde Baru"
-"Sort Order","Urut pesanan"
+"Sort Order","Pengurutan"
 "Title","Judul"
 "Payment from Applicable Countries","Pembayaran dari Negara yang Berlaku"
 "Payment from Specific Countries","Pembayaran dari Negara Tertentu"

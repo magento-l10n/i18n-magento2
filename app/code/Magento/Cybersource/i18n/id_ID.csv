@@ -54,7 +54,7 @@
 "Payment from Specific Countries","Pembayaran dari Negara Tertentu"
 "Minimum Order Total","Minimum Order Total"
 "Maximum Order Total","Maksimum Orderan Total"
-"Sort Order","Urut pesanan"
+"Sort Order","Pengurutan"
 "Authorize Only","Hanya yang Berwenang"
 "Webhook URL","Webhook URL"
 "Webhook URL should be set in your Cybersource account as Transaction Response Page.","Webhook URL should be set in your Cybersource account as Transaction Response Page."
