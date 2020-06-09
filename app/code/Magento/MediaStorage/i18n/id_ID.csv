@@ -14,7 +14,7 @@
 "Path ""%value%"" is protected and cannot be used.","Path "" %value%"" terlindungi dan tidak bisa digunakan."
 "Path ""%value%"" is not available and cannot be used.","Jalur "" %value% "" tidak tersedia dan tidak dapat digunakan."
 "Path ""%value%"" may not include parent directory traversal (""../"", "".."").","Path ""%value% "" mungkin tidak termasuk parent directory traversal (""../"", "".."")."
-"Please set available and/or protected paths list(s) before validation.","Harap sediakan daftar jalur yang tersedia dan/atau yang dilindungi sebelum validasi."
+"Please set available and/or protected paths list(s) before validation.","Silakan sediakan daftar jalur yang tersedia dan/atau yang dilindungi sebelum validasi."
 "File with an extension ""%value%"" is protected and cannot be uploaded","File dengan ekstensi ""%value%"" dilindungi dan tidak dapat diunggah"
 "Unable to create directory: %1","Tidak dapat membuat direktori:%1"
 "Unable to save file: %1","Tidak dapat menyimpan file:%1"
