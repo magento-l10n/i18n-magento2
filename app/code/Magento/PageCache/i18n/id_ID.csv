@@ -1,5 +1,5 @@
 "Export VCL for Varnish %1","Ekspor VCL untuk Varnish %1"
-"Ttl value ""%1"" is not valid. Please use only numbers equal or greater than zero.","Nilai ttl ""%1"" tidak valid. Harap gunakan hanya angka yang sama atau lebih besar dari nol."
+"Ttl value ""%1"" is not valid. Please use only numbers equal or greater than zero.","Nilai ttl ""%1"" tidak valid. Silakan gunakan hanya angka yang sama atau lebih besar dari nol."
 "Built-in Cache","Built-in Cache"
 "Varnish Cache (Recommended)","Varnish Cache (Disarankan)"
 "Unsupported varnish version","Versi pernis yang tidak didukung"
