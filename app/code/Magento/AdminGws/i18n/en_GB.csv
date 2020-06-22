@@ -1,7 +1,7 @@
 "All","All"
 "None","None"
 "Allowed Scopes","Allowed Scopes"
-"You need more permissions to delete this item(s): %1.","Bu maddeyi (leri) silmek için gerekli izinlere ihtiyacın var: %1."
+"You need more permissions to delete this item(s): %1.","You need more permissions to delete this item(s): %1."
 "You need more permissions to apply some of the rule updates.","You need more permissions to apply some of the rule updates."
 "Please assign this entity to a store view.","Please assign this entity to a store view."
 "You can create orders only in an active store.","You can create orders only in an active store."
