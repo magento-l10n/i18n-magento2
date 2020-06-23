@@ -528,7 +528,7 @@
 "Billing Agreement Signup","Abrechnungsvereinbarungsregistrierung"
 "Whether to create a billing agreement, if there are no active billing agreements available.","Eine Abrechnungsvereinbarung erstellen, wenn keine aktiven Abrechnungsvereinbarungen verfügbar sind."
 "Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.","Händler müssen sich für die Verwendung der ""Zahlungsvereinbarung"" bei PayPal anmelden. Bitte aktivieren Sie diese Option erst, wenn PayPal die Zahlungsvereinbarungen für Ihr Händlerkonto freigeschaltet hat."
-"Skip Order Review Step","Bestellbewertungs-Schritt überspringen"
+"Skip Order Review Step","Bestellübersicht überspringen"
 "PayPal Billing Agreement Settings","PayPal-Abrechnungsvereinbarungeinstellungen"
 "Enabled","Aktiviert"
 "Will appear as a payment option only for customers who have at least one active billing agreement.","Wird nur dann als Zahlungsoption angezeigt, wenn der Kunde mindestens eine aktive Zahlungsvereinbarung besitzt."
