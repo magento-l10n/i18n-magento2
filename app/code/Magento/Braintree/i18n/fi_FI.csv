@@ -125,7 +125,7 @@
 "Postal code may contain no more than 9 letter or number characters.","Postal code may contain no more than 9 letter or number characters."
 "Region is too long.","Region is too long."
 "Street address is required.","Street address is required."
-"Street address is too long.","Street address is too long."
+"Street address is too long.","Katuosoite on liian pitkä."
 "Postal code can only contain letters, numbers, spaces, and hyphens.","Postal code can only contain letters, numbers, spaces, and hyphens."
 "US state codes must be two characters to meet PayPal Seller Protection requirements.","Yhdysvaltain valtion on oltava kaksi merkkiä täyttää PayPal myyjän vaatimukset."
 "Incomplete PayPal account information.","Epätäydellinen PayPal tilin tiedot."
