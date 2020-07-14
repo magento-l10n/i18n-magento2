@@ -41,7 +41,7 @@
 "Go to Details Page","Go to Details Page"
 "New View","New View"
 "Default View","Oletusnäkymä"
-"${ $.visible } out of ${ $.total } visible","${ $.visible } out of ${ $.total } visible"
+"${ $.visible } out of ${ $.total } visible","${ $.visible } / ${ $.total } näkyvillä"
 "You have successfully saved your edits.","You have successfully saved your edits."
 "There are {placeholder} messages requires your attention.","There are {placeholder} messages requires your attention."
 "from","alkaen"
