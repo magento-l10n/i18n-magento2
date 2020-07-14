@@ -447,7 +447,7 @@
                         Email template chosen based on theme fallback when ""Default"" option is selected.","This email will be sent instead of the Default Welcome Email, after account confirmation. <br /><br />
                         Email template chosen based on theme fallback when ""Default"" option is selected."
 "Generate Human-Friendly Customer ID","Generate Human-Friendly Customer ID"
-"Password Options","Password Options"
+"Password Options","Salasana-asetukset"
 "Forgot Email Template","Salasanan palautuksen sähköpostimalli"
 "Remind Email Template","Remind Email Template"
 "Reset Password Template","Reset Password Template"
