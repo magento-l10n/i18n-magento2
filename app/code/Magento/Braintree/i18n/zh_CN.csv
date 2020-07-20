@@ -239,31 +239,31 @@
 "Your Kount ID","你的 Kount ID"
 "Use Cache","使用高速缓存"
 "Edit My Credit Cards","编辑我的信用卡"
-"Pay with PayPal","Pay with PayPal"
-"Transaction is cancelled offline.","Transaction is cancelled offline."
-"Braintree Settlement","Braintree Settlement"
-"If you don't specify the merchant account to use to process a transaction, Braintree will process it using your default merchant account.","If you don't specify the merchant account to use to process a transaction, Braintree will process it using your default merchant account."
+"Pay with PayPal","通过PayPal支付"
+"Transaction is cancelled offline.","交易已离线取消。"
+"Braintree Settlement","Braintree结算报告"
+"If you don't specify the merchant account to use to process a transaction, Braintree will process it using your default merchant account.","如果您没有指定用于处理交易的商人帐户，Braintree将使用您的默认商人帐户进行处理。"
 "Be sure to Enable Advanced Fraud Protection in Your Braintree Account in Settings/Processing Section","请确保您在设置/处理科的布伦特里帐户启用先进的防欺诈保护"
 "Used for direct fraud tool integration. Make sure you also contact <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> to setup your Kount account.","用于直接欺诈工具集成。请确保您还联系 <a href=""mailto:accounts@braintreepayments.com""> accounts@braintreepayments.com</a> 来设置你把帐户。"
-"Be sure to Enable AVS and/or CVV in Your Braintree Account in Settings/Processing Section.","Be sure to Enable AVS and/or CVV in Your Braintree Account in Settings/Processing Section."
+"Be sure to Enable AVS and/or CVV in Your Braintree Account in Settings/Processing Section.","请务必在设置/处理单元中，启用Braintree账户中AVS或CVV。"
 "It is recommended to set this value to ""PayPal"" per store views.","它建议设置此值与""贝宝""每一个商店界面。"
 "This feature needs be enabled first for the merchant account through PayPal technical support.","通过贝宝技术支持的商人帐户，需要首先启用此功能。"
 "Also affects mini-shopping cart.","也会影响迷你购物车。"
 "Dynamic descriptors are sent on a per-transaction basis and define what will appear on your customers credit card statements for a specific purchase.
                             The clearer the description of your product, the less likely customers will issue chargebacks due to confusion or non-recognition.
                             Dynamic descriptors are not enabled on all accounts by default. If you receive a validation error of 92203 or if your dynamic descriptors are not displaying as expected,
-                            please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>.","Dynamic descriptors are sent on a per-transaction basis and define what will appear on your customers credit card statements for a specific purchase.
-                            The clearer the description of your product, the less likely customers will issue chargebacks due to confusion or non-recognition.
-                            Dynamic descriptors are not enabled on all accounts by default. If you receive a validation error of 92203 or if your dynamic descriptors are not displaying as expected,
-                            please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>."
+                            please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>.","动态描述符是按交易方式发送的，并定义您的客户信用卡对特定购买的说明。
+                            你的产品描述越清晰，客户就越不可能因为混淆或不认识而提出退款。
+                            默认情况下，不会在所有帐户上启用动态描述符。如果收到验证错误为92203，或者动态描述符没有按预期显示，
+                            请联系 <a href=""mailto:support@getbraintree.com"">Braintree 支持</a>。"
 "The value in the business name field of a customer's statement. Company name/DBA section must be either 3, 7 or 12 characters
-                                and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters).","The value in the business name field of a customer's statement. Company name/DBA section must be either 3, 7 or 12 characters
-                                and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters)."
-"The value in the phone number field of a customer's statement. Phone must be 10-14 characters and can only contain numbers, dashes, parentheses and periods.","The value in the phone number field of a customer's statement. Phone must be 10-14 characters and can only contain numbers, dashes, parentheses and periods."
-"The value in the URL/web address field of a customer's statement. The URL must be 13 characters or shorter.","The value in the URL/web address field of a customer's statement. The URL must be 13 characters or shorter."
-"The Payment Token is not available to perform the request.","The Payment Token is not available to perform the request."
-"Checkout failed to initialize. Verify and try again.","Checkout failed to initialize. Verify and try again."
-"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","The order wasn't placed. First, agree to the terms and conditions, then try placing your order again."
+                                and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters).","客户声明在商业名称字段中的值。 公司名称/DBA部分必须是 3 7 或 12 个字符
+                                ，产品描述符最多可以是18、14或9个字符(对于总共22个字符的描述符名称，中间加一个*)。"
+"The value in the phone number field of a customer's statement. Phone must be 10-14 characters and can only contain numbers, dashes, parentheses and periods.","客户语句的电话号码字段中的值。电话必须是10-14个字符，且只能包含数字、破折号、 括号和时间。"
+"The value in the URL/web address field of a customer's statement. The URL must be 13 characters or shorter.","客户语句的 URL /web 地址字段中的值。URL必须是13个字符或更短。"
+"The Payment Token is not available to perform the request.","支付令牌不可用于执行请求。"
+"Checkout failed to initialize. Verify and try again.","结算初始化失败。验证后再试。"
+"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","订单未生成。请先同意条款和条件，然后尝试重新下单。"
 "Paypal account","贝宝Paypal帐户"
 "Coinbase account","Coinbase 帐户"
 "Europe bank account","欧洲银行帐户"
