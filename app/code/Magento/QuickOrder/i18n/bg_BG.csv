@@ -4,7 +4,7 @@
 "You should correct the quantity for the product.","Трябва да коригирате количеството на продукта."
 "The SKU is out of stock.","SKU е изчерпан."
 "We don't have the quantity you requested.","Нямаме налично исканото количество."
-"An error occurred. For details, see the error log.","An error occurred. For details, see the error log."
+"An error occurred. For details, see the error log.","Възникна грешка. За подробности вижте регистъра на грешки."
 "Exception message","Съобщение на изключение"
 "The file could not be uploaded because it is in the wrong format. Please select a CSV file to upload.","Файлът не може да бъде качен, защото е в неправилен формат. Моля изберете CSV файл за качване."
 "Add from File","Добавяне от файл"
