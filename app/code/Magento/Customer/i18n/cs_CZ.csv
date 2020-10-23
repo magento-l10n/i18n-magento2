@@ -387,7 +387,7 @@
 "Thank you for confirming your %store_name account.","Děkujeme za potvrzení vašeho účtu %store_name."
 "To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","K přihlášení na náš web a nastavení hesla klikněte na tento <a href=""%create_password_url"">odkaz</a>:"
 "Your %store_name email has been changed","Vaše emailová adresa v obchodu %store_name byla změněna"
-"Hello,","Ahoj,"
+"Hello,","Dobrý den,"
 "We have received a request to change the following information associated with your account at %store_name: email.","Obdrželi jsme požadavek na změnu následujících údajů spojené s vaším účtem v %store_name: email."
 "If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","Pokud k této činnosti nemáte oprávnění, kontaktujte nás ihned prosím na <a href=""mailto:%store_email"">%store_email</a>"
 "or call us at <a href=""tel:%store_phone"">%store_phone</a>","nebo volejte na <a href=""tel:%store_phone"">%store_phone</a>"
