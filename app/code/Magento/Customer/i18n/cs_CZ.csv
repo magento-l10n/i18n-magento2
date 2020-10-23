@@ -468,7 +468,7 @@
 "Number of Lines in a Street Address","Počet řádků ulice"
 "Valid range: 1-4","Valid range: 1-4"
 "Show Prefix","Zobrazit titul před"
-"The title that goes before name (Mr., Mrs., etc.)","Titul před jménem (Ing., MUDr., atp.)"
+"The title that goes before name (Mr., Mrs., etc.)","Oslovení nebo titul před jménem (Ing., MUDr., atp.)"
 "Prefix Dropdown Options","Volby rozbalovacího výběru titulů"
 "Semicolon (;) separated values.<br/>Leave empty for open text field.","Semicolon (;) separated values.<br/>Leave empty for open text field."
 "Show Middle Name (initial)","Zobrazit prostřední jméno"
