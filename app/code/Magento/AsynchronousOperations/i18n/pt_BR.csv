@@ -11,7 +11,7 @@
 "Sorry, something went wrong during product prices update. Please see log for details.","Desculpa, algo deu errado durante a atualização de preços do produto. Por favor, veja o log para obter detalhes."
 "%1 item(s) are currently being updated.","%1 Item (ns) estão sendo atualizados."
 "Task ""%1"": ","Tarefa ""%1"": "
-"%1 item(s) have been scheduled for update.","O(s) item(ns) %1 foram agendadas para atualização."
+"%1 item(s) have been scheduled for update.","%1 item(ns) foram agendados para atualização."
 "%1 item(s) have been successfully updated.","%1 Item (ns) foram atualizados com êxito."
 "%1 item(s) failed to update","%1 Item(ns) falharão ao atualizar"
 "Details","Detalhes"
