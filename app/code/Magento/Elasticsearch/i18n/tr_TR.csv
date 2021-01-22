@@ -1,4 +1,4 @@
-"The search failed because of a search engine misconfiguration.","The search failed because of a search engine misconfiguration."
+"The search failed because of a search engine misconfiguration.","Arama motorunun ayarları yanlış olduğu için arama başarısız oldu."
 "There is no such data mapper ""%1"" for interface %2","Arabirim% 2 için böyle bir veri eşleştiricisi ""% 1"" yok"
 "Data mapper ""%1"" must implement interface %2","Veri eşleyicisi ""% 1"", arabirimi% 2'yi uygulamalıdır"
 "Could not ping search engine: %1","Arama motoruna erişilemiyor: %1"
