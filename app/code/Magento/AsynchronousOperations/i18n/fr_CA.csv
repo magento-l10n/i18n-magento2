@@ -8,7 +8,7 @@
 "Topic %1","Sujet %1"
 "Something went wrong while processing the request.","Une erreur est survenue lors du traitement."
 "Error processing %key element of input data","Erreur de traitement %key élément de données d'entrées"
-"Sorry, something went wrong during product prices update. Please see log for details.","Désolé, quelque chose s'est mal passé pendant la mise à jour des prix. Voir le log pour les détails."
+"Sorry, something went wrong during product prices update. Please see log for details.","Désolé, quelque chose s'est mal passé pendant la mise à jour des prix. Voir le journal pour les détails."
 "%1 item(s) are currently being updated.","%1 des éléments sont en cours d'actualisation"
 "Task ""%1"": ","Tâche « %1 » : "
 "%1 item(s) have been scheduled for update.","Des éléments sont prêts pour une mise à jour."
