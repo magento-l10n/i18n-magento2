@@ -1,2 +1,2 @@
-"Specify the ""public_hash"" value.","Specify the ""public_hash"" value."
-"Could not find a token using public hash: %1","Could not find a token using public hash: %1"
+"Specify the ""public_hash"" value.","""public_hash"" değeri belirtiniz."
+"Could not find a token using public hash: %1","Genel kod kullanılarak herhangi bir anahtar bulunamadı: %1"
