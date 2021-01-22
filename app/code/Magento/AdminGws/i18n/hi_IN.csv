@@ -17,7 +17,7 @@
 "You need more permissions to save this setting.","You need more permissions to save this setting."
 "Role Scopes","Role Scopes"
 "Custom","उपयोगकर्ता"
-"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view"
+"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","आपके पास वर्तमान स्टोर दृश्य के दायरे में इस आइटम को सहेजने की अनुमति नहीं है। कृपया, अनुमत स्टोर दृश्य पर स्विच करें"
 "More permissions are needed to delete the ""%1"" item.","More permissions are needed to delete the ""%1"" item."
 "This entity needs to be assigned to a store view. Verify the entity assignment and try again.","This entity needs to be assigned to a store view. Verify the entity assignment and try again."
 "Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again."
