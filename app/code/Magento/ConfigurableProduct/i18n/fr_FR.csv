@@ -33,7 +33,7 @@
 "Product with id ""%1"" does not contain required attribute ""%2"".","Produit avec l’id ""%1"" ne contient pas l’attribut obligatoire ""%2""."
 "Products ""%1"" and ""%2"" have the same set of attribute values.","Les produits ""%1"" et ""%2"" ont les mêmes valeurs de jeux d'attributs."
 "You can't add the item to shopping cart.","Impossible d'ajouter le produit au panier"
-"You need to choose options for your item.","Javascript doit être activé dans votre navigateur pour utiliser toutes les fonctionnalités de ce site."
+"You need to choose options for your item.","Vous devez choisir des options pour votre article."
 "Some product variations fields are not valid.","Certains champs de variations du produit ne sont pas valides."
 "Configuration must have specified attributes","La configuration doit avoir des attributs spécifiés"
 "Type %1 is not an instance of %2","Le type %1 n'est pas un exemple de %2"
