@@ -94,7 +94,7 @@
 "Please enter a valid value, ex: 10,20,30","Пожалуйста, введите допустимое значение, прим.: 10,20,30"
 "Please enter a valid value from list","Пожалуйста, введите допустимое значение из списка"
 "Please enter valid SKU key.","Пожалуйста, введите действительный ключ артикула."
-"Please enter a valid number.","Пожалуйста, введите действительный номер."
+"Please enter a valid number.","Пожалуйста, укажите число."
 "This is required field","Это поле обязательно для заполнения"
 "Admin is a required field in each row.","Поле Администратор обязательное в каждой строке."
 "Password cannot be the same as email address.","Пароль не должен совпадать c адресом электронной почты."
