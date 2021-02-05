@@ -52,7 +52,6 @@
 "%name,","%name,"
 "We have updated your <a href=""%store_url"">%store_name</a> account and you have credit that you can use for future purchases.","Wir haben Ihr <a href=""%store_url"">%store_name</a>-Konto aktualisiert und Sie haben Guthaben, das Sie für zukünftige Einkäufe verwenden können."
 "Your Store Credit balance is now %balance.","Ihre Shop-Guthaben ist jetzt %balance."
-"Store credit","Shop-Guthaben"
 "Store credit available","Guthaben verfügbar"
 "Your store credit was successfully applied","Ihr Shop-Guthaben wurde erfolgreich angewendet"
 "Store Credit Options","Optionen für Shop-Guthaben"
@@ -61,5 +60,3 @@
 "Refund Store Credit Automatically","Shop-Guthaben automatisch erstatten"
 "Store Credit Update Email Sender","Absender für Shop-Guthaben-Update-E-Mail"
 "Store Credit Update Email Template","Vorlage für Shop-Guthaben-Update-E-Mail"
-"A balance is needed to save a balance history.","Eine Buchung ist notwendig, um den Saldo anzuzeigen."
-"The balance history action code is unknown. Verify the code and try again.","Der Aktionscode für den Saldo ist unbekannt. Bitte überprüfen Sie den Code und versuchen Sie es erneut."
