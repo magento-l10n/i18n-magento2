@@ -15,8 +15,7 @@
 "Country code is invalid: %1","Ο κωδικός χώρας δεν είναι έγκυρος: %1"
 "Import Tax Rates","Εισαγωγή Συντελεστών ΦΠΑ"
 "Export Tax Rates","Εξαγωγή Συντελεστών ΦΠΑ"
+"Please select a file to import!","Please select a file to import!"
+"Import/Export Tax Rates","Εισαγωγή/Εξαγωγή Συντελεστών ΦΠΑ"
 "CSV","CSV"
 "Excel XML","Excel XML"
-"Import/Export Tax Rates","Εισαγωγή/Εξαγωγή Συντελεστών ΦΠΑ"
-"Please select a file to import!","Please select a file to import!"
-
