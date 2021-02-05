@@ -19,5 +19,3 @@
 "Success History Lifetime","Gültigkeitsdauer für Erfolgshistorie"
 "Failure History Lifetime","Gültigkeitsdauer für Fehlerhistorie"
 "Use Separate Process","Verwendung eigener Prozess"
-"Cron (Scheduled Tasks) - all the times are in minutes","Cron (Zeitgesteuerte Aufgaben) - Alle Zeitangaben in Minuten"
-"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.","Für korrekte URLs, die während eines während cron runs generiert wurden, stellen Sie bitte sicher, dass Web > sichere und unsichere Basis-URLs explizit festgelegt sind."
