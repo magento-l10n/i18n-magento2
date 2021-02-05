@@ -13,7 +13,4 @@
 "Delete","삭제"
 "PayPal Account","PayPal Account"
 "Cancel","취소"
-"No payment tokens are available for the specified order payment.","No payment tokens are available for the specified order payment."
-"Credit Card was successfully removed","신용 카드를 성공적으로 제거하였습니다."
-"My Credit Cards","내 신용카드"
-"You have no credit cards.","신용카드가 등록되어 있지 않습니다."
+"Are you sure you want to delete this card: %1?","Are you sure you want to delete this card: %1?"
