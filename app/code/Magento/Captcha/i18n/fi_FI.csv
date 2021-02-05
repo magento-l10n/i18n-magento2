@@ -9,6 +9,7 @@
 "Reload captcha","Uudelleenlataa CAPTCHA"
 "Please type the letters and numbers below","Ole hyvä ja kirjoita alapuolella olevat kirjaimet"
 "Attention: Captcha is case sensitive.","Huomio: Captchassa kirjainkoolla on väliä."
+"Please provide CAPTCHA code and try again","Please provide CAPTCHA code and try again"
 "CAPTCHA","CAPTCHA"
 "Enable CAPTCHA in Admin","Ota CAPTCHA käyttöön hallintasivulla"
 "Font","Fontti"
@@ -24,5 +25,3 @@
 "Case Sensitive","Kirjainkoolla on väliä"
 "Enable CAPTCHA on Storefront","Ota CAPTCHA käyttöön kaupan etusivulla"
 "CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","Jos valittu, CAPTCHA on aina käytössä lomakkeilla ""Luo käyttäjä"" ja ""Unohditko salasanasi""."
-"Please enter the letters from the image","Kirjoita kuvan kirjaimet"
-"Please type the letters below","Ole hyvä ja kirjoita alapuolella olevat kirjaimet"
