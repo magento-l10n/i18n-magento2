@@ -22,8 +22,3 @@
 "If empty, UTF-8 will be used.","Om den är tom, används UTF-8."
 "Web Services Configuration","Konfiguration av Web servicetjänster"
 "REST and SOAP configurations, generated WSDL file","Rest och SOAP konfigurering, genrerad WSDL fil"
-"Authentication header format is invalid.","Authentication header format is invalid."
-"Authentication header is absent.","Authentication header is absent."
-"REST and SOAP configurations, generated WSDL file.","REST and SOAP configurations, generated WSDL file."
-"Specified request cannot be processed.","Specified request cannot be processed."
-"The consumer isn't authorized to access %resources.","The consumer isn't authorized to access %resources."
