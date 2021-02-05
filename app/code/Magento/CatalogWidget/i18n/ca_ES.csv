@@ -16,13 +16,15 @@
 "Template","Plantilla"
 "Products Grid Template","Plantilla de graella de productes"
 "Cache Lifetime (Seconds)","Durada de la memòria cau (segons)"
-"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 per defecte, si no està configurat. Per actualitzar a l’instant, esborreu la memòria cau de la sortida HTML de Blocks."
+"Time in seconds between the widget updates.
+<br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
+<br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.","Time in seconds between the widget updates.
+<br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
+<br/>Widget will not show products that begin to match the specified conditions until cache is refreshed."
+"",""
+"Time in seconds between the widget updates.
+<br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
+<br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.","Time in seconds between the widget updates.
+<br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
+<br/>Widget will not show products that begin to match the specified conditions until cache is refreshed."
 "Conditions","Condicions"
-"
-                    Time in seconds between the widget updates.
-                    <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
-                    <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.
-                ","
-Temps en segons entre les actualitzacions del widget.
-                    <br/> Si no es defineix, és igual a 86400 segons (24 hores). Per actualitzar el widget a l’instant, vés a Gestió de memòria cau i elimina la memòria cau de la sortida HTML de Blocs.
-                    <br/> El widget no mostrarà productes que comencen a coincidir amb les condicions especificades fins que no s’actualitzi la memòria cau.                "
