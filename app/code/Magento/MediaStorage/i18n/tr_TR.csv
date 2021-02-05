@@ -23,6 +23,3 @@
 "Select Media Database","Medya Veritabanı Seçiniz"
 "After selecting a new media storage location, press the Synchronize button to transfer all media to that location. Media will not be available in the new location until the synchronization process is complete.","Yeni bir medya depolama alanı seçtikten sonra, Senkronizasyon butonuna basınız. Senkronizasyon işlemi yapılmadan medya dosyaları yeni depolama alanında bulunmaz."
 "Environment Update Time","Çevresel verilerin güncellenme zamanı"
-"The ""%1"" file doesn't exist. Verify the file and try again.","The ""%1"" file doesn't exist. Verify the file and try again."
-"Cannot resize image ""%1"" - original image not found","Cannot resize image ""%1"" - original image not found"
-"Cannot resize images - product images not found","Cannot resize images - product images not found"
