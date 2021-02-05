@@ -209,7 +209,7 @@
 "You saved the product attribute.","Vous avez sauvegardé l'attribut produit."
 "An attribute with this code already exists.","Un attribut avec ce code existe déjà."
 "An attribute with the same code (%1) already exists.","Un attribut avec le même code (%1) existe déjà."
-"Code (%1) is a reserved key and cannot be used as attribute code.","Code (%1) is a reserved key and cannot be used as attribute code."
+"Code (%1) is a reserved key and cannot be used as attribute code.","Le code (%1) est une clé réservée et ne peut pas être utilisé comme code d'attribut."
 "The value of Admin must be unique.","La valeur pour Admin doit être unique."
 "The value of Admin scope can't be empty.","La valeur du champ d'action de l’Admin ne peut pas être vide."
 "You duplicated the product.","Vous avez dupliqué le produit."
@@ -709,15 +709,17 @@
 "Cache Lifetime (Seconds)","Durée de vie du cache (secondes)"
 "Time in seconds between the widget updates.
 <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
-<br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.","Time in seconds between the widget updates.
-<br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
-<br/>Widget will not show products that begin to match the specified conditions until cache is refreshed."
+<br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.","                    Temps en secondes les mises à jour du widget.
+                    <br/>Si non défini, égal à 86400 secondes (24 heures). Pour mettre à jour instantanément le widget, allez dans la gestion du cache et videz le cache des blocs HTML.
+                    <br/>Le widget ne montrera pas les produits qui commencent à correspondre aux conditions spécifiées jusqu'à ce que le cache soit actualisé.
+"
 "",""
 "Time in seconds between the widget updates.
 <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
-<br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.","Time in seconds between the widget updates.
-<br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
-<br/>Widget will not show products that begin to match the specified conditions until cache is refreshed."
+<br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.","                    Temps en secondes les mises à jour du widget.
+                    <br/>Si non défini, égal à 86400 secondes (24 heures). Pour mettre à jour instantanément le widget, allez dans la gestion du cache et videz le cache des blocs HTML.
+                    <br/>Le widget ne montrera pas les produits qui commencent à correspondre aux conditions spécifiées jusqu'à ce que le cache soit actualisé.
+"
 "Catalog Product Link","Lien produit catalogue"
 "Link to a Specified Product","Lien vers un produit spécifique"
 "Select Product...","Choisir un produit..."
@@ -811,13 +813,13 @@
 "The value of Admin must be unique. (%1)","La valeur pour Admin doit être unique. (%1)"
 "Product Name or SKU","Nom du produit ou REF"
 "Start typing to find products","Commencez à taper pour trouver des produits"
-"Product with ID: (%1) doesn't exist","Product with ID: (%1) doesn't exist"
-"Category with ID: (%1) doesn't exist","Category with ID: (%1) doesn't exist"
+"Product with ID: (%1) doesn't exist","Le produit avec l'ID : (%1) n'existe pas"
+"Category with ID: (%1) doesn't exist","La catégorie avec l'ID: (%1) n'existe pas"
 "You added product %1 to the <a href=""%2"">comparison list</a>.","Vous avez ajouté le produit %1 à la liste de comparaison <a href=""%2""></a>."
-"Edit Product Design","Edit Product Design"
-"Edit Category Design","Edit Category Design"
-"A total of %1 record(s) haven't been deleted. Please see server logs for more details.","A total of %1 record(s) haven't been deleted. Please see server logs for more details."
+"Edit Product Design","Modifier le design du produit"
+"Edit Category Design","Editer le design de catégorie"
+"A total of %1 record(s) haven't been deleted. Please see server logs for more details.","Un total de %1 enregistrement(s) n'a pas été supprimé. Veuillez consulter les journaux serveur pour plus de détails."
 "Are you sure you want to delete this category?","Êtes-vous sûr(e) de vouloir supprimer cette catégorie ?"
-"Attribute Set Information","Attribute Set Information"
-"Failed to retrieve product links for ""%1""","Failed to retrieve product links for ""%1"""
+"Attribute Set Information","Informations sur le jeu d'attributs"
+"Failed to retrieve product links for ""%1""","Impossible de récupérer les liens de produit pour ""%1"""
 
