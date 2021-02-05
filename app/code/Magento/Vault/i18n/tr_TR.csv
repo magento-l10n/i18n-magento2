@@ -13,7 +13,4 @@
 "Delete","Sil"
 "PayPal Account","Paypal Hesabı"
 "Cancel","İptal"
-"No payment tokens are available for the specified order payment.","Belirtilen siparişin ödemesi için ödeme belirteçleri bulunamadı."
-"Credit Card was successfully removed","Kredi kartı başarılı bir şekilde kaldırıldı"
-"My Credit Cards","Kredi kartları"
-"You have no credit cards.","Kredi kartı bulunmamaktadır."
+"Are you sure you want to delete this card: %1?","Are you sure you want to delete this card: %1?"
