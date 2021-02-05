@@ -13,7 +13,4 @@
 "Delete","Διαγραφή"
 "PayPal Account","Λογαριασμός PayPal"
 "Cancel","Άκυρο"
-"No payment tokens are available for the specified order payment.","Δεν υπάρχουν διαθέσιμα διακριτικά πληρωμής για την καθορισμένη πληρωμή παραγγελίας."
-"Credit Card was successfully removed","Πιστωτική κάρτα διαγράφηκε με επιτυχία"
-"My Credit Cards","Οι Πιστωτικές Κάρτες μου"
-"You have no credit cards.","Δεν έχετε πιστωτικές κάρτες."
+"Are you sure you want to delete this card: %1?","Are you sure you want to delete this card: %1?"
