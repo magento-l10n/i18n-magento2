@@ -1,11 +1,13 @@
 "Subscription status","وضعیت اشتراک"
 "Sorry, there has been an error processing your request. Please try again later.","با عرض پوزش، خطایی در پردازش درخواست شما وجود دارد. لطفا بعدا دوباره امتحان کنید."
+"Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.","Sorry, there was an error processing your registration request to Magento Analytics. Please try again later."
+"Error occurred during postponement notification","Error occurred during postponement notification"
 "Time value has an unsupported format","مقدار زمان فرمت پشتیبانی نشده است"
 "Cron settings can't be saved","تنظیمات Cron را نمی توان ذخیره کرد"
 "There was an error save new configuration value.","خطایی در ذخیره مقدار پیکربندی جدید وجود دارد."
-"Please select a vertical.","لطفا یک عمودی انتخاب کنید."
+"Please select an industry.","لطفا یک زمینه کاری انتخاب کنید."
 "--Please Select--","--لطفا انتخاب کنيد--"
-"Command was not found.","دستوری یافت نشد."
+"Command %1"" was not found.""","Command %1"" was not found."""
 "Input data must be string or convertible into string.","داده های ورودی رشته یا قابل تبدیل به رشته باید باشد."
 "Input data must be non-empty string.","داده های ورودی باید رشته غیر خالی باشند."
 "Not valid cipher method.","روش رمزنگاری معتبر نیست."
@@ -16,14 +18,17 @@
 "File is not ready yet.","فایل هنوز آماده نشده است."
 "Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","URL پایه شما تغییر کرده است و گزارش های شما در حال به روز رسانی است. به محض اتمام پردازش، گزارش پیشرفته در دسترس خواهد بود. لطفا بعدا دوباره امتحان کنید."
 "Failed to synchronize data to the Magento Business Intelligence service. ","همگام سازی داده ها با سرویس کسب و کار مجنتو انجام نشد. "
-"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">همگامسازی مجدد</a>"
+"Retry Synchronization","همگام سازی مجدد"
 "TestMessage","پیغام تست"
+"Error message","Error message"
 "Apps and Games","برنامه ها و بازی ها"
 "Athletic/Sporting Goods","کالاهای ورزشی"
 "Art and Design","هنر و طراحی"
 "Advanced Reporting","گزارش پیشرفته"
 "Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","بینش جدیدی از عملکرد کسب و کار خود با استفاده از محصول پویای ما، سفارش ها و گزارش های مشتری هایتان به دست آورید."
+"View details","View details"
 "Go to Advanced Reporting","برو به گزارش پیشرفته"
+"An error occurred while subscription process.","An error occurred while subscription process."
 "Analytics","تجزیه و تحلیل"
 "API","API"
 "Configuration","پیکربندی"
@@ -31,21 +36,22 @@
 "BI Essentials","ملزومات BI"
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>.","این سرویس یک مجموعه پویا از گزارش ها را با اطلاعاتی غنی از کسب و کار شما فراهم می کند.
-گزارش های خود را می توانید به صورت امن در داشبورد شخصی شده در خارج از پنل مدیریت با کلیک بر روی
-به لینک گزارش پیشرفته بروید. </ br> برای کسب اطلاعات بیشتر، <a href=""https://magento.com/legal/terms/cloud-terms""> <a href=""https://magento.com/legal/terms/cloud-terms"">
-                 شرایط و ضوابط </a>."
+                ""Go to Advanced Reporting"" link. </br> For more information, see our
+                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.
+                ","This service provides a dynamic suite of reports with rich insights about your business.
+                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
+                ""Go to Advanced Reporting"" link. </br> For more information, see our
+                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.
+                "
 "Advanced Reporting Service","سرویس گزارش پیشرفته"
-"Time of day to send data","زمانی از روز برای ارسال اطلاعات"
 "Industry","زمینه کاری"
-"In order to personalize your Advanced Reporting experience, please select your industry.","برای شخصی سازی گزارش پیشرفته، لطفا زمینه کاری خود را انتخاب کنید."
+"Time of day to send data","زمانی از روز برای ارسال اطلاعات"
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong> آشنایی بیشتر با اطلاعات کسب و کار تجاری مجنتو </strong>"
 "Magento Business Intelligence provides you with a simple and clear path to
                     becoming more data driven.</br> Learn more about <a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence به شما یک راه ساده و روشن برای شما فراهم می کند
-                     در حال تبدیل شدن به اطلاعات بیشتری است. </ br> درباره <a target = ""_ blank""
-                     href = ""https://dashboard.rjmetrics.com/v2/magento/signup/""> محدوده های Magento BI Essentials و BI Pro </a>."
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> tier.","Magento Business Intelligence provides you with a simple and clear path to
+                    becoming more data driven.</br> Learn more about <a target=""_blank""
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> tier."
 "Auto Parts","بخش های خودکار"
 "Baby/Children’s Apparel, Gear and Toys","پوشاک، لوازم و اسباب بازی نوزاد/کودک"
 "Beauty and Cosmetics","آرایشی و بهداشتی"
@@ -64,12 +70,16 @@
 "Pet Goods","لوازم حیوانات خانگی"
 "Pharma and Medical Devices","دارو و تجهیزات پزشکی"
 "Technology B2B","فناوری B2B"
-"Other","دیگر"
-"The time value is using an unsupported format. Enter a supported format and try again.","مقدار زمان، از فرمت پشتیبانی نشده ای استفاده می کند. از فرمت صحیح استفاده کرده و دوباره امتحان کنید."
-"Please select an industry.","لطفا یک زمینه کاری انتخاب کنید."
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","داده نامعتبر است. داده را به عنوان یک رشته وارد کنید یا از داده ای استفاده کنید که قابلیت تبدیل به رشته را دارد و دوباره امتحان کنید."
-"The data is invalid. Enter the data as a string and try again.","داده نامعتبر است. داده را به عنوان یک رشته وارد کنید و دوباره امتحان کنید."
-"The data is invalid. Use a valid cipher method and try again.","داده نامعتبر است. از یک روش رمزنگاری معتبر استفاده کنید و دوباره امتحان کنید."
-"Enter the encryption key and try again.","کلید رمز را وارد کنید و دوباره امتحان کنید."
-"The ""%1"" source doesn't exist.","منبع ""%1"" وجود ندارد."
-"Retry Synchronization","همگام سازی مجدد"
+"Analytics Subscription","Analytics Subscription"
+"powered by Magento Business Intelligence","powered by Magento Business Intelligence"
+"Are you sure you want to opt out?","Are you sure you want to opt out?"
+"Cancel","Cancel"
+"Opt out","Opt out"
+"<p>Advanced Reporting in included,
+                    free of charge, in your Magento software. When you opt out, we collect no product, order, and
+                    customer data to generate our dynamic reports.</p><p>To opt in later: You can always turn on Advanced
+                    Reporting in you Admin Panel.</p>","<p>Advanced Reporting in included,
+                    free of charge, in your Magento software. When you opt out, we collect no product, order, and
+                    customer data to generate our dynamic reports.</p><p>To opt in later: You can always turn on Advanced
+                    Reporting in you Admin Panel.</p>"
+"In order to personalize your Advanced Reporting experience, please select your industry.","برای شخصی سازی گزارش پیشرفته، لطفا زمینه کاری خود را انتخاب کنید."
