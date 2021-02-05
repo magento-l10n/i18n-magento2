@@ -9,6 +9,7 @@
 "Reload captcha","Recargar captcha"
 "Please type the letters and numbers below","Por favor, escriba las letras y los números siguientes"
 "Attention: Captcha is case sensitive.","Atención: El Captcha es sensible a mayúsculas."
+"Please provide CAPTCHA code and try again","Please provide CAPTCHA code and try again"
 "CAPTCHA","CAPTCHA"
 "Enable CAPTCHA in Admin","Habilitar CAPTCHA en admin"
 "Font","Tipo de letra"
@@ -24,5 +25,3 @@
 "Case Sensitive","Sensible a mayúsculas"
 "Enable CAPTCHA on Storefront","Habilitar CAPTCHA en tienda"
 "CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","El CAPTCHA estará habilitado siempre para los formularios de ""Nuevo usuario"" y ""Olvido de contraseña"", sólo si es elegido así."
-"Please enter the letters from the image","Por favor, introduce las letras de la imagen"
-"Please type the letters below","Por favor, escriba las letras de abajo"
