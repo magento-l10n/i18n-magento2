@@ -77,4 +77,4 @@
 "Debug","Fouten opsporen"
 "Show Method if Not Applicable","Laat verzendmethode zien indien niet van toepassing"
 "Sort Order","Sorteervolgorde"
-"Expected Delivery:","Verwachte levering:"
+"Can't convert a shipping cost from ""%1-%2"" for FedEx carrier.","Can't convert a shipping cost from ""%1-%2"" for FedEx carrier."
