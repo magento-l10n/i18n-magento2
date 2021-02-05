@@ -15,8 +15,7 @@
 "Country code is invalid: %1","国コードが無効です: %1"
 "Import Tax Rates","税率のインポート"
 "Export Tax Rates","税率のエクスポート"
+"Please select a file to import!","Please select a file to import!"
+"Import/Export Tax Rates","税率のインポート / エクスポート"
 "CSV","CSVファイル"
 "Excel XML","Excel形式XML"
-"Import/Export Tax Rates","税率のインポート / エクスポート"
-"Please select a file to import!","Please select a file to import!"
-

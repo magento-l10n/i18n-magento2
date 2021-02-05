@@ -2,7 +2,7 @@
 "Delete Tax","Dzēst nodokli"
 "All Websites","Visas lapas"
 "FPT","Fiksētā nodokļu likme"
-"You must set unique country-state combinations within the same fixed product tax","Jāiestata unikālu valsts-štat kombinācijas ar vienu un to pašu fiksēto produkta nodokli"
+"Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again.","Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again."
 "Including FPT only","Iekļaut tikai VN"
 "Including FPT and FPT description","Iekļaut VN un VN aprakstu"
 "Excluding FPT. Including FPT description and final price","Izņemot fiksēto nodokļu likmi. Iekļaujot fiksētās nodokļu likmes aprakstu un vērtību"

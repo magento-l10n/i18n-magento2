@@ -1,6 +1,7 @@
-"Consumer is not authorized to access %resources","Consumer is not authorized to access %resources"
+"The consumer isn't authorized to access %resources.","The consumer isn't authorized to access %resources."
 "Operation allowed only in HTTPS","Operation allowed only in HTTPS"
 "Cannot perform GET operation with store code 'all'","Cannot perform GET operation with store code 'all'"
+"Specified request cannot be processed.","Specified request cannot be processed."
 "Request does not match any route.","Request does not match any route."
 "Not allowed parameters: %1. Please use only %2 and %3.","Nem engedélyezett paraméterek: %1. Csak %2 és %3 műveletek használhatóak."
 "Requested service is not available: ""%1""","A kért szolgáltatás nem elérhető: ""%1"""

@@ -1,3 +1,4 @@
+"Can't convert a shipping cost from ""%1-%2"" for FedEx carrier.","Can't convert a shipping cost from ""%1-%2"" for FedEx carrier."
 "Europe First Priority","עדיפות ראשונה באירופה"
 "1 Day Freight","1 יום הובלה"
 "2 Day Freight","2 ימי הובלה"
@@ -43,6 +44,7 @@
 "status","מצב"
 "Empty response","תגובה ריקה"
 "None","ללא"
+"Expected Delivery:","Expected Delivery:"
 "Field ","שדה "
 " is required."," נדרש."
 "FedEx","FedEx"
@@ -77,4 +79,3 @@
 "Debug","דיבאג"
 "Show Method if Not Applicable","הצג שיטה אם אינה ישימה"
 "Sort Order","סדר מיון"
-"Can't convert a shipping cost from ""%1-%2"" for FedEx carrier.","Can't convert a shipping cost from ""%1-%2"" for FedEx carrier."

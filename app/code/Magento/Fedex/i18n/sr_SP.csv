@@ -1,3 +1,4 @@
+"Can't convert a shipping cost from ""%1-%2"" for FedEx carrier.","Can't convert a shipping cost from ""%1-%2"" for FedEx carrier."
 "Europe First Priority","Europe First Priority"
 "1 Day Freight","1 Day Freight"
 "2 Day Freight","2 Day Freight"
@@ -43,6 +44,7 @@
 "status","status"
 "Empty response","Empty response"
 "None","Ниједно"
+"Expected Delivery:","Expected Delivery:"
 "Field ","Field "
 " is required."," is required."
 "FedEx","FedEx"
@@ -77,4 +79,3 @@
 "Debug","Отклањање грешака"
 "Show Method if Not Applicable","Show Method if Not Applicable"
 "Sort Order","Редослед слагања"
-"Can't convert a shipping cost from ""%1-%2"" for FedEx carrier.","Can't convert a shipping cost from ""%1-%2"" for FedEx carrier."

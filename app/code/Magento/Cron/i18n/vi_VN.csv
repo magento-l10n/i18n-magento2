@@ -7,8 +7,6 @@
 "Invalid cron expression, expecting numeric modulus: %1","Biểu hiện lịch trình không hợp lệ, số mô đun dự đoán: %1"
 "Invalid cron expression, expecting 'from-to' structure: %1","Cron không hợp lệ, chờ đợi cấu trúc: %1"
 "Some error","Có lỗi xảy ra"
-"Invalid callback: Not_Existed_Class::execute can't be called","Invalid callback: Not_Existed_Class::execute can't be called"
-"Test exception","Test exception"
 "Cron (Scheduled Tasks)","Định kỳ (theo lịch trình công việc)"
 "For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.","Cho đúng các URL được tạo ra trong cron chạy Hãy chắc chắn rằng Web > Secure và Unsecure căn cứ URL được thiết lập một cách rõ ràng. Tất cả thời gian trong vài phút."
 "Cron configuration options for group:","Cron configuration options for group:"

@@ -1,3 +1,4 @@
+"Purchase order number is a required field.","Nomor PO wajib diisi."
 "Make Check payable to:","Lakukan pembayaran cek ke:"
 "Send Check to:","Kirim Cek ke:"
 "Purchase Order Number","Nomor pesanan pembelian"
@@ -11,7 +12,6 @@
 "New Order Status","Status Orde Baru"
 "Sort Order","Pengurutan"
 "Title","Judul"
-"Purchase order number is a required field.","Nomor PO wajib diisi."
 "Payment from Applicable Countries","Pembayaran dari Negara yang Berlaku"
 "Payment from Specific Countries","Pembayaran dari Negara Tertentu"
 "Make Check Payable to","Jadikan Hutang Cek"
@@ -21,4 +21,3 @@
 "Bank Transfer Payment","Pembayaran Transfer Bank"
 "Instructions","Instruksi"
 "Cash On Delivery Payment","Cash On Delivery Payment"
-"Automatically Invoice All Items","Otomatis Tagihkan Faktur Semua Item"

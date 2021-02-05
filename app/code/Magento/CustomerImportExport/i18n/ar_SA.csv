@@ -1,5 +1,5 @@
 "Please specify a website.","الرجاء تحديد الموقع على شبكة الإنترنت."
-"Please specify an email.","الرجاء تحديد بريد الكتروني."
+"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."
 "We found an invalid value in a website column.","نحن العثور على قيمة غير صحيحة في عمود موقع."
 "Please enter a valid email.","الرجاء إدخال عنوان بريد الكتروني صحيح."
 "Please make sure attribute ""%s"" is not empty.","الرجاء التأكد من السمة ""%s"" ليس فارغاً."

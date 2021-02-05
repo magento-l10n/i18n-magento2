@@ -1,2 +1,2 @@
-"We can't find the role for the user you wanted.","No se puede encontrar el role para el usuario deseado."
+"The role wasn't found for the user. Verify the role and try again.","The role wasn't found for the user. Verify the role and try again."
 "Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Algo salió mal mientras se compilaba una lista de recursos permitidos. Puedes encontrar más información en el registro de excepciones."

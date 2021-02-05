@@ -1,3 +1,4 @@
+"Purchase order number is a required field.","Purchase order number is a required field."
 "Make Check payable to:","支票抬头："
 "Send Check to:","所有商品自动生成发票"
 "Purchase Order Number","采购订单编号"
@@ -11,7 +12,6 @@
 "New Order Status","新订单状态"
 "Sort Order","排序"
 "Title","标题"
-"Purchase order number is a required field.","Purchase order number is a required field."
 "Payment from Applicable Countries","来自特定国家的付款"
 "Payment from Specific Countries","具体国家的付款"
 "Make Check Payable to","应付支票："
@@ -21,4 +21,3 @@
 "Bank Transfer Payment","银行转移支付"
 "Instructions","说明"
 "Cash On Delivery Payment","现金交货付款"
-"Automatically Invoice All Items","自动发票的所有项目"

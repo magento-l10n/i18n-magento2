@@ -1,5 +1,5 @@
 "Please specify a website.","请指定的网站。"
-"Please specify an email.","请注明邮件。"
+"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."
 "We found an invalid value in a website column.","商店列表中的无效值 (商店不存在)"
 "Please enter a valid email.","请输入有效的邮箱地址"
 "Please make sure attribute ""%s"" is not empty.","请确保""%s""属性不为空。"

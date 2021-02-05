@@ -2,7 +2,7 @@
 "Delete Tax","세금 삭제"
 "All Websites","모든 웹사이트 "
 "FPT","FPT"
-"You must set unique country-state combinations within the same fixed product tax","You must set unique country-state combinations within the same fixed product tax"
+"Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again.","Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again."
 "Including FPT only","FPT만 포함"
 "Including FPT and FPT description","FPT와 설명 포함"
 "Excluding FPT. Including FPT description and final price","FPT 제외. FPT 설명과 최종 가격 포함"

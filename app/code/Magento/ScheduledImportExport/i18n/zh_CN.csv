@@ -10,7 +10,7 @@
 "Status","状态"
 "Server Type","服务器类型"
 "File Directory","文件目录"
-"For Type ""Local Server"" use relative path to Magento installation, e.g. var/export, var/import, var/export/some/dir","对于""本地服务器""类型使用 Magento 安装，例如 var/出口、 var/导入、 var/出口/一些/dir 的相对路径"
+"For Type ""Local Server"" use relative path to Magento installation,  e.g. var/export, var/import, var/export/some/dir. If remote storage is configured, use paths like import_export/export, import_export/import, import_export/export/some/dir.","For Type ""Local Server"" use relative path to Magento installation,  e.g. var/export, var/import, var/export/some/dir. If remote storage is configured, use paths like import_export/export, import_export/import, import_export/export/some/dir."
 "FTP Host[:Port]","FTP 主机 [: 端口]"
 "User Name","用户名称"
 "Password","密码"

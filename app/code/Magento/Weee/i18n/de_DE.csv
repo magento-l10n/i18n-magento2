@@ -2,7 +2,7 @@
 "Delete Tax","Steuer löschen"
 "All Websites","Alle Webseiten"
 "FPT","FPT"
-"You must set unique country-state combinations within the same fixed product tax","Sie müssen innerhalb derselben festen Produktsteuer eindeutige Land-Staat Kombinationen setzen"
+"Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again.","Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again."
 "Including FPT only","Ausschließlich inklusive FPT"
 "Including FPT and FPT description","Einschließlich FPT und FPT-Beschreibung"
 "Excluding FPT. Including FPT description and final price","FPT ausschließen. FPT-Beschreibung und Endpreis einschließlen"

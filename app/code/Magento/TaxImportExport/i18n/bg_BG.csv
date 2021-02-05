@@ -15,8 +15,7 @@
 "Country code is invalid: %1","Country code is invalid: %1"
 "Import Tax Rates","Импортиране на данъчните ставки"
 "Export Tax Rates","Експортиране на данъчните ставки"
+"Please select a file to import!","Please select a file to import!"
+"Import/Export Tax Rates","Данъчните ставки за импортиране/експортиране"
 "CSV","CSV"
 "Excel XML","Excel XML"
-"Import/Export Tax Rates","Данъчните ставки за импортиране/експортиране"
-"Please select a file to import!","Please select a file to import!"
-

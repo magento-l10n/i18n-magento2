@@ -1,3 +1,4 @@
+"Purchase order number is a required field.","配送番号は必須項目です。"
 "Make Check payable to:","小切手支払を可能にする:"
 "Send Check to:","小切手の宛先を指定:"
 "Purchase Order Number","配送番号"
@@ -11,7 +12,6 @@
 "New Order Status","新規注文ステータス"
 "Sort Order","表示順"
 "Title","タイトル"
-"Purchase order number is a required field.","配送番号は必須項目です。"
 "Payment from Applicable Countries","支払方法を適用できる国"
 "Payment from Specific Countries","特定の国からの支払い"
 "Make Check Payable to","小切手の振出先を指定"
@@ -21,4 +21,3 @@
 "Bank Transfer Payment","銀行振込"
 "Instructions","説明"
 "Cash On Delivery Payment","代引き支払い"
-"Automatically Invoice All Items","自動ですべての商品を請求する。"

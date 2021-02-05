@@ -1,3 +1,4 @@
+"Purchase order number is a required field.","Purchase order number is a required field."
 "Make Check payable to:","Czek wypłacany dla"
 "Send Check to:","Adres do przelewu:"
 "Purchase Order Number","Numer wykupienia zamówienia:"
@@ -11,7 +12,6 @@
 "New Order Status","Status nowego zamówienia"
 "Sort Order","Kolejność sortowania"
 "Title","Tytuł"
-"Purchase order number is a required field.","Purchase order number is a required field."
 "Payment from Applicable Countries","Płatność ze stosownych krajów"
 "Payment from Specific Countries","Płatność z wybranych krajów"
 "Make Check Payable to","Czek wypłacany dla"
@@ -21,4 +21,3 @@
 "Bank Transfer Payment","Płatność przelewem bankowym"
 "Instructions","Instrukcje"
 "Cash On Delivery Payment","Płatne przy odbiorze"
-"Automatically Invoice All Items","Automatycznie fakturuj wszystkie produkty"

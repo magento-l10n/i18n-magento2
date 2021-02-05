@@ -1,3 +1,4 @@
+"Can't convert a shipping cost from ""%1-%2"" for FedEx carrier.","Can't convert a shipping cost from ""%1-%2"" for FedEx carrier."
 "Europe First Priority","ヨーロッパ速達"
 "1 Day Freight","翌日配達"
 "2 Day Freight","2営業日配達"
@@ -43,6 +44,7 @@
 "status","ステータス"
 "Empty response","空の返信"
 "None","なし"
+"Expected Delivery:","Expected Delivery:"
 "Field ","フィールド "
 " is required."," は必須です。"
 "FedEx","FeedEx"
@@ -77,4 +79,3 @@
 "Debug","デバッグ"
 "Show Method if Not Applicable","配送方法が利用できない場合でも表示する"
 "Sort Order","表示順"
-"Can't convert a shipping cost from ""%1-%2"" for FedEx carrier.","Can't convert a shipping cost from ""%1-%2"" for FedEx carrier."

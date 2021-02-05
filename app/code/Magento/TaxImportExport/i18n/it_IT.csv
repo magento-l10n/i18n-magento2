@@ -15,8 +15,7 @@
 "Country code is invalid: %1","Country code is invalid: %1"
 "Import Tax Rates","Importa aliquote fiscali"
 "Export Tax Rates","Esporta aliquote fiscali"
+"Please select a file to import!","Please select a file to import!"
+"Import/Export Tax Rates","Importazione/esportazione delle aliquote fiscali"
 "CSV","CSV"
 "Excel XML","Excel XML"
-"Import/Export Tax Rates","Importazione/esportazione delle aliquote fiscali"
-"Please select a file to import!","Please select a file to import!"
-

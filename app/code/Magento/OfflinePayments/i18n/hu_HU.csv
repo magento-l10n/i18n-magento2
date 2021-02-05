@@ -1,3 +1,4 @@
+"Purchase order number is a required field.","Purchase order number is a required field."
 "Make Check payable to:","Make Check payable to:"
 "Send Check to:","Send Check to:"
 "Purchase Order Number","Beszerzési rendelési szám: %1"
@@ -11,7 +12,6 @@
 "New Order Status","Új megrendelés állapota"
 "Sort Order","Rendezési sorrend"
 "Title","Cím"
-"Purchase order number is a required field.","Purchase order number is a required field."
 "Payment from Applicable Countries","Fizetés az elérhető országokból"
 "Payment from Specific Countries","Fizetés a megadott országokból"
 "Make Check Payable to","Make Check Payable to"
@@ -21,4 +21,3 @@
 "Bank Transfer Payment","Banki átutalásos fizetés"
 "Instructions","Utasítások"
 "Cash On Delivery Payment","Utánvétes fizetés"
-"Automatically Invoice All Items","Az összes elem automatikus számlázása"

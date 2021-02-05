@@ -1,6 +1,7 @@
-"Consumer is not authorized to access %resources","Forbrugeren er ikke autoriseret til at få adgang til % ressourcer"
+"The consumer isn't authorized to access %resources.","The consumer isn't authorized to access %resources."
 "Operation allowed only in HTTPS","Handlingen er tilladt kun i HTTPS"
 "Cannot perform GET operation with store code 'all'","Cannot perform GET operation with store code 'all'"
+"Specified request cannot be processed.","Specified request cannot be processed."
 "Request does not match any route.","Request does not match any route."
 "Not allowed parameters: %1. Please use only %2 and %3.","Not allowed parameters: %1. Please use only %2 and %3."
 "Requested service is not available: ""%1""","Requested service is not available: ""%1"""

@@ -8,8 +8,6 @@
 Sayısal modül bekleyen geçersiz cron ifadesi:% 1"
 "Invalid cron expression, expecting 'from-to' structure: %1","Geçişli cron ifadesi, 'gelen-için' yapı bekliyor:%1"
 "Some error","Bazı hata"
-"Invalid callback: Not_Existed_Class::execute can't be called","Geçersiz geri arama: Not_Existed_Class:: execute çağrılamıyor"
-"Test exception","Test istisnası"
 "Cron (Scheduled Tasks)","Cron (Zamanlanmış Görevler)"
 "For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.","Cron yayınlarında üretilen doğru URL'ler için Web> Güvenli ve Güvensiz Temel URL'lerin açıkça ayarlandığından emin olun. Tüm zaman bir dakika içinde."
 "Cron configuration options for group:","Grup için cron yapılandırma seçenekleri:"

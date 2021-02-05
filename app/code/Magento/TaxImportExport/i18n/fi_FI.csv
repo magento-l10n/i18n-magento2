@@ -15,8 +15,7 @@
 "Country code is invalid: %1","Maakoodi on virheellinen: %1"
 "Import Tax Rates","Tuo verokannat"
 "Export Tax Rates","Export Tax Rates"
+"Please select a file to import!","Please select a file to import!"
+"Import/Export Tax Rates","Tuo/vie veroluokkia"
 "CSV","CSV"
 "Excel XML","Excel XML"
-"Import/Export Tax Rates","Tuo/vie veroluokkia"
-"Please select a file to import!","Please select a file to import!"
-

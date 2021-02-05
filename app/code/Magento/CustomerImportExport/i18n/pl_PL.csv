@@ -1,5 +1,5 @@
 "Please specify a website.","Proszę określić stronę internetową."
-"Please specify an email.","Proszę podać e-mail."
+"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."
 "We found an invalid value in a website column.","Znaleźliśmy nieprawidłową wartość w kolumnie strony."
 "Please enter a valid email.","Prosimy wpisać poprawny adres e-mail."
 "Please make sure attribute ""%s"" is not empty.","Proszę upewnić się, że atrybut ""%s"" nie jest pusty."

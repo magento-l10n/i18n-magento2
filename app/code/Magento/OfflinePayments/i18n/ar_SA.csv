@@ -1,3 +1,4 @@
+"Purchase order number is a required field.","Purchase order number is a required field."
 "Make Check payable to:","تقديم شيك مستحق الدفع لـ:"
 "Send Check to:","ارسل الشيك الى:"
 "Purchase Order Number","رقم طلب الشراء"
@@ -11,7 +12,6 @@
 "New Order Status","حالة طلب جديدة"
 "Sort Order","الترتيب"
 "Title","العنوان"
-"Purchase order number is a required field.","Purchase order number is a required field."
 "Payment from Applicable Countries","الدفع من البلدان المطبقة"
 "Payment from Specific Countries","الدفع من بلدان معينة"
 "Make Check Payable to","تقديم شيك مستحق الدفع لـ"
@@ -21,4 +21,3 @@
 "Bank Transfer Payment","Bank Transfer Payment"
 "Instructions","التعليمات"
 "Cash On Delivery Payment","الدفع عند الاستلام"
-"Automatically Invoice All Items","Automatically Invoice All Items"

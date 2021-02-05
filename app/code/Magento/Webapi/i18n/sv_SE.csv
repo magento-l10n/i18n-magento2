@@ -1,6 +1,7 @@
-"Consumer is not authorized to access %resources","Kunden har inte behörighet att komma åt % resurser"
+"The consumer isn't authorized to access %resources.","The consumer isn't authorized to access %resources."
 "Operation allowed only in HTTPS","Åtgärden tillåts endast i HTTPS"
 "Cannot perform GET operation with store code 'all'","Kan inte utföra GET-åtgärd med butikskod 'all'"
+"Specified request cannot be processed.","Specified request cannot be processed."
 "Request does not match any route.","Begäran matchar inte någon rutt."
 "Not allowed parameters: %1. Please use only %2 and %3.","Inte tillåtna parametrar: %1. Använd endast %2 och %3."
 "Requested service is not available: ""%1""","Begärda tjänsten är inte tillgänglig: ""%1"""

@@ -1,5 +1,5 @@
 "Please specify a website.","Geef een website op."
-"Please specify an email.","Geef een e-mailadres op."
+"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."
 "We found an invalid value in a website column.","We vonden een ongeldige waarde in een kolom van de website."
 "Please enter a valid email.","Vul een geldig e-mailadres in"
 "Please make sure attribute ""%s"" is not empty.","Zorg ervoor dat kenmerk ""%s"" niet leeg is."

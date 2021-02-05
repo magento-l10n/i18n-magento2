@@ -2,7 +2,7 @@
 "Delete Tax","حذف مالیات"
 "All Websites","همه‌ی وب‌سایت‌ها"
 "FPT","FPT"
-"You must set unique country-state combinations within the same fixed product tax","شما باید ترکیب کشور/ایالت با مالیات ثابت همان محصول را تنظیم کنید"
+"Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again.","Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again."
 "Including FPT only","شامل FPT تنها"
 "Including FPT and FPT description","شامل FPT و توصیف FPT"
 "Excluding FPT. Including FPT description and final price","به جز FPT. از جمله شرح FPT و قیمت نهایی"

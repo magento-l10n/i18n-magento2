@@ -1,5 +1,5 @@
 "Please specify a website.","Hãy chỉ ra một trang web."
-"Please specify an email.","Hãy chỉ ra một email."
+"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."
 "We found an invalid value in a website column.","Chúng tôi tìm thấy một giá trị không hợp lệ trong một cột trang web."
 "Please enter a valid email.","Vui lòng nhập email hợp lệ."
 "Please make sure attribute ""%s"" is not empty.","Hãy chắc chắn rằng thuộc tính ""%s"" không bị trống."

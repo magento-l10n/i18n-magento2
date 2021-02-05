@@ -2,7 +2,7 @@
 "Delete Tax","Xóa bỏ thuế"
 "All Websites","Tất cả trang Web"
 "FPT","FPT"
-"You must set unique country-state combinations within the same fixed product tax","Bạn phải thiết lập sự kết hợp đặc biệt giữa Quốc gia-Bang với thuế sản phẩm cố định"
+"Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again.","Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again."
 "Including FPT only","Chỉ bao gồm FPT"
 "Including FPT and FPT description","Bao gồm cả FPT và mô tả FPT"
 "Excluding FPT. Including FPT description and final price","Không bao gồm FPT. Bao gồm mô tả FPT và giá cuối cùng"

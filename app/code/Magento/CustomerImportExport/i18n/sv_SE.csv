@@ -1,5 +1,5 @@
 "Please specify a website.","Ange en webbplats."
-"Please specify an email.","Vänligen ange din e-post."
+"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."
 "We found an invalid value in a website column.","Vi hittade ett ogiltigt värde i en webbplatskolumn."
 "Please enter a valid email.","Vänligen ange en giltig e-post."
 "Please make sure attribute ""%s"" is not empty.","Kontrollera att attributet ""%s"" inte är tom."

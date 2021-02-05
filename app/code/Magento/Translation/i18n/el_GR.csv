@@ -2,6 +2,8 @@
 "Embedded (Translation on Admin side)","Ενσωματωμένο (Μετάφραση στην πλευρά Διαχειριστή)"
 "Error while translating phrase ""%s"" in file %s.","Σφάλμα κατά την μετάφραση φράσης ""%s"" στο αρχείο %s."
 "Error while generating js translation dictionary: ""%s""","Σφάλμα κατά την δημιουργία λεξικού μετάφρασης js: ""%s"""
+"translate","translate"
 "Translation Strategy","Στρατηγική μετάφρασης"
+"Please put your store into maintenance mode and redeploy static files after changing strategy","Please put your store into maintenance mode and redeploy static files after changing strategy"
 "Translations","Μεταφράσεις"
 "Translation files","Μετάφραση αρχείων"

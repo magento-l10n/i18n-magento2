@@ -1,6 +1,7 @@
-"Consumer is not authorized to access %resources","顧客は%resourcesにアクセスする権限がありません"
+"The consumer isn't authorized to access %resources.","The consumer isn't authorized to access %resources."
 "Operation allowed only in HTTPS","オペレーションはHTTPSでのみ許可されています"
 "Cannot perform GET operation with store code 'all'","GETオペレーションがストアコード'all'では実行できませんでした"
+"Specified request cannot be processed.","Specified request cannot be processed."
 "Request does not match any route.","リクエストはどのルートにもマッチしません。"
 "Not allowed parameters: %1. Please use only %2 and %3.","許可されてないパラメーター: %1。 %2 と %3のみ使用してください。"
 "Requested service is not available: ""%1""","要求されたサービスは使えません: ""%1"""

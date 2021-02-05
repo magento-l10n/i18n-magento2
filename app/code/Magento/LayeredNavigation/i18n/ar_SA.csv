@@ -2,9 +2,14 @@
 "Filterable (with results)","يمكن تصفيتها (مع النتائج)"
 "Filterable (no results)","ترشيح (لا توجد نتائج)."
 "Use in Layered Navigation","استخدم في طبقات الملاحة"
-"Can be used only with catalog input type Dropdown, Multiple Select and Price","يمكن استخدامه فقط مع نوع الحق القائمة المنسدلة، واختيار المتعدد والسعر"
-"Can be used only with catalog input type Dropdown, Multiple Select and Price.","يمكن استخدامها فقط مع نوع الإدخال كتالوج القائمة المنسدلة، حدد متعددة والأسعار."
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price"
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
+                    <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
+                     it will make no affect on Price filter.","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
+                    <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
+                     it will make no affect on Price filter."
 "Use in Search Results Layered Navigation","استخدام نتائج البحث في الطبقات التنقل"
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price."
 "Position","موقع"
 "Position in Layered Navigation","وضع في الملاحة الطبقات"
 "Position of attribute in layered navigation block.","مكان السمة في قسم التنقل في الطبقات."
@@ -27,3 +32,4 @@
 "This setting will be applied when all prices in the specific price interval are equal.","This setting will be applied when all prices in the specific price interval are equal."
 "Interval Division Limit","Interval Division Limit"
 "Please specify the number of products, that will not be divided into subintervals.","Please specify the number of products, that will not be divided into subintervals."
+"Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price.","Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price."

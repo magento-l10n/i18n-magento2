@@ -1,3 +1,4 @@
+"Purchase order number is a required field.","Purchase order number is a required field."
 "Make Check payable to:","Tee shekki maksettavaksi:"
 "Send Check to:","Lähetä shekki:"
 "Purchase Order Number","Ostotilausnumero"
@@ -11,7 +12,6 @@
 "New Order Status","Uuden tilauksen tila"
 "Sort Order","Lajittelujärjestys"
 "Title","Otsikko"
-"Purchase order number is a required field.","Purchase order number is a required field."
 "Payment from Applicable Countries","Maksu mahdollisista maista"
 "Payment from Specific Countries","Maksu mahdollisista maista"
 "Make Check Payable to","Make Check Payable to"
@@ -21,4 +21,3 @@
 "Bank Transfer Payment","Tilisiirto"
 "Instructions","Ohjeet"
 "Cash On Delivery Payment","Postiennakko"
-"Automatically Invoice All Items","Automatically Invoice All Items"

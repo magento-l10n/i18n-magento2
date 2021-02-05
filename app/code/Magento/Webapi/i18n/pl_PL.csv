@@ -1,6 +1,7 @@
-"Consumer is not authorized to access %resources","Konsument nie jest upoważniony do dostępu do %resources"
+"The consumer isn't authorized to access %resources.","The consumer isn't authorized to access %resources."
 "Operation allowed only in HTTPS","Operacja jest dozwolona tylko w HTTPS"
 "Cannot perform GET operation with store code 'all'","Nie można wykonać operacji GET dla kodu sklepu ""all"""
+"Specified request cannot be processed.","Specified request cannot be processed."
 "Request does not match any route.","Wniosek nie odpowiada żadnej ścieżce."
 "Not allowed parameters: %1. Please use only %2 and %3.","Parametr: %1 nie dozwolony. Proszę używać tylko %2 i %3."
 "Requested service is not available: ""%1""","Żądana usługa nie dostępna: ""%1"""

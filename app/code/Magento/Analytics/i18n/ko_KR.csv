@@ -1,18 +1,16 @@
 "Subscription status","가입 상태"
 "Sorry, there has been an error processing your request. Please try again later.","작업도중 오류가 발생 했습니다. 다시 시도해 주십시오"
-"Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.","Sorry, there was an error processing your registration request to Magento Analytics. Please try again later."
-"Error occurred during postponement notification","Error occurred during postponement notification"
-"Time value has an unsupported format","Time value has an unsupported format"
+"The time value is using an unsupported format. Enter a supported format and try again.","The time value is using an unsupported format. Enter a supported format and try again."
 "Cron settings can't be saved","Cron 설정은 저장할 수 없습니다."
 "There was an error save new configuration value.","새 구성 값 저장 오류가 발생 했습니다."
 "Please select an industry.","Please select an industry."
 "--Please Select--","--선택해 주십시오--"
-"Command %1"" was not found.""","Command %1"" was not found."""
-"Input data must be string or convertible into string.","Input data must be string or convertible into string."
-"Input data must be non-empty string.","Input data must be non-empty string."
-"Not valid cipher method.","Not valid cipher method."
-"Encryption key can't be empty.","Encryption key can't be empty."
-"Source ""%1"" is not exist","Source ""%1"" is not exist"
+"Command ""%1"" was not found.","Command ""%1"" was not found."
+"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","The data is invalid. Enter the data as a string or data that can be converted into a string and try again."
+"The data is invalid. Enter the data as a string and try again.","The data is invalid. Enter the data as a string and try again."
+"The data is invalid. Use a valid cipher method and try again.","The data is invalid. Use a valid cipher method and try again."
+"Enter the encryption key and try again.","Enter the encryption key and try again."
+"The ""%1"" source doesn't exist.","The ""%1"" source doesn't exist."
 "These arguments can't be empty ""%1""","이 인수는 비어있는 ""%1"" 될 수 없습니다."
 "Cannot find predefined integration user!","미리 정의 된 통합 사용자를 찾을 수 없습니다!"
 "File is not ready yet.","아직 파일이 준비 되지 않습니다."
@@ -20,15 +18,12 @@
 "Failed to synchronize data to the Magento Business Intelligence service. ","Magento 비즈니스 인텔리전스 서비스 데이터를 동기화 하지 못했습니다. "
 "Retry Synchronization","Retry Synchronization"
 "TestMessage","TestMessage"
-"Error message","Error message"
 "Apps and Games","애플 리 케이 션 및 게임"
 "Athletic/Sporting Goods","체육/스포츠 용품"
 "Art and Design","미술 및 디자인"
 "Advanced Reporting","고급 보고"
 "Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","새로운 통찰력을 얻고, 고객 데이터에 맞게 우리의 동적 제품, 주문 및 고객 보고서를 사용 하 여 귀하의 비즈니스의 수행 명령을 갖는다"
-"View details","View details"
 "Go to Advanced Reporting","이동 고급 보고"
-"An error occurred while subscription process.","An error occurred while subscription process."
 "Analytics","분석"
 "API","API"
 "Configuration","환경설정"
@@ -36,22 +31,22 @@
 "BI Essentials","양방향의 요점"
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our
-                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.
-                ","This service provides a dynamic suite of reports with rich insights about your business.
+                ""Go to Advanced Reporting"" link. </br> For more information, see our <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
+                terms and conditions</a>.","This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our
-                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.
-                "
+                ""Go to Advanced Reporting"" link. </br> For more information, see our <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
+                terms and conditions</a>."
 "Advanced Reporting Service","고급 보고 서비스"
-"Industry","업종"
 "Time of day to send data","데이터를 보내는 시간"
+"Industry Data","Industry Data"
+"Industry","업종"
+"In order to personalize your Advanced Reporting experience, please select your industry.","당신의 고급  보고 경험을 개인화 하기 위해 업종를 선택 하십시오."
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Magento 비즈니스 인텔리전스</strong>에서 더 많은 통찰력을 얻을"
 "Magento Business Intelligence provides you with a simple and clear path to
                     becoming more data driven.</br> Learn more about <a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> tier.","Magento Business Intelligence provides you with a simple and clear path to
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence provides you with a simple and clear path to
                     becoming more data driven.</br> Learn more about <a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> tier."
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers."
 "Auto Parts","자동차 부품"
 "Baby/Children’s Apparel, Gear and Toys","아기/어린이 의류, 장비 및 장난감"
 "Beauty and Cosmetics","아름다움과 화장품"
@@ -70,16 +65,4 @@
 "Pet Goods","애완 동물 상품"
 "Pharma and Medical Devices","제약 및 의료 기기"
 "Technology B2B","Technology B2B"
-"Analytics Subscription","Analytics Subscription"
-"powered by Magento Business Intelligence","powered by Magento Business Intelligence"
-"Are you sure you want to opt out?","Are you sure you want to opt out?"
-"Cancel","Cancel"
-"Opt out","Opt out"
-"<p>Advanced Reporting in included,
-                    free of charge, in your Magento software. When you opt out, we collect no product, order, and
-                    customer data to generate our dynamic reports.</p><p>To opt in later: You can always turn on Advanced
-                    Reporting in you Admin Panel.</p>","<p>Advanced Reporting in included,
-                    free of charge, in your Magento software. When you opt out, we collect no product, order, and
-                    customer data to generate our dynamic reports.</p><p>To opt in later: You can always turn on Advanced
-                    Reporting in you Admin Panel.</p>"
-"In order to personalize your Advanced Reporting experience, please select your industry.","당신의 고급  보고 경험을 개인화 하기 위해 업종를 선택 하십시오."
+"Other","Other"

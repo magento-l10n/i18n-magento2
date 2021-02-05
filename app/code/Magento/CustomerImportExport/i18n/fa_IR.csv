@@ -1,5 +1,5 @@
 "Please specify a website.","لطفا یک وب سایت را مشخص کنید."
-"Please specify an email.","لطفا یک ایمیل مشخص کنید."
+"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."
 "We found an invalid value in a website column.","ما یک مقدار نامعتبر در یک ستون وب سایت یافتیم."
 "Please enter a valid email.","لطفا یک ایمیل معتبر وارد نمایید."
 "Please make sure attribute ""%s"" is not empty.","لطفا مطمئن شوید که ویژگی ""%s"" خالی نیست."

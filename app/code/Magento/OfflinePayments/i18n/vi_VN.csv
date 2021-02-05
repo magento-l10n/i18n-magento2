@@ -1,3 +1,4 @@
+"Purchase order number is a required field.","Purchase order number is a required field."
 "Make Check payable to:","Thực hiện kiểm tra phải trả cho:"
 "Send Check to:","Gửi kiểm tra đến:"
 "Purchase Order Number","Số đơn hàng được thanh toán"
@@ -11,7 +12,6 @@
 "New Order Status","Trạng thái đơn hàng mới"
 "Sort Order","Thứ tự sắp xếp"
 "Title","Tiêu đề"
-"Purchase order number is a required field.","Purchase order number is a required field."
 "Payment from Applicable Countries","Thanh Toán từ Các Nước Được Áp Dụng"
 "Payment from Specific Countries","Thanh Toán từ Các Nước Cụ Thể"
 "Make Check Payable to","Thực hiện kiểm tra phải trả cho"
@@ -21,4 +21,3 @@
 "Bank Transfer Payment","Thanh toán chuyển khoản ngân hàng"
 "Instructions","Lời chỉ đẫn"
 "Cash On Delivery Payment","Tiền mặt ngày giao hàng thanh toán"
-"Automatically Invoice All Items","Tự động hoá đơn tất cả các mục"

@@ -7,8 +7,6 @@
 "Invalid cron expression, expecting numeric modulus: %1","Ongeldige cron expressie, verwacht wordt een numerieke modulus: %1"
 "Invalid cron expression, expecting 'from-to' structure: %1","Ongeldige cron expressie, verwacht wordt ' van-naar ' structuur: %1"
 "Some error","Een fout"
-"Invalid callback: Not_Existed_Class::execute can't be called","Ongeldige callback: Not_Existed_Class::execute kan worden aangeroepen"
-"Test exception","Text exception"
 "Cron (Scheduled Tasks)","Cron (Geplande taken)"
 "For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.","Om correcte URL's te genereren tijdens cron, zorg er voor dat Web > Veilige en onbeveiligde Base URL's expliciet zijn ingesteld. Alle tijden zijn in minuten."
 "Cron configuration options for group:","Cron configuratie-opties voor groep:"

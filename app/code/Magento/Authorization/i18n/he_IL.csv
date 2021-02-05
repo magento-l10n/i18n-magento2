@@ -1,2 +1,2 @@
-"We can't find the role for the user you wanted.","אנחנו לא מוצאים את התפקיד עבור משתמש שרצית."
+"The role wasn't found for the user. Verify the role and try again.","The role wasn't found for the user. Verify the role and try again."
 "Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","אירע שיבוש במהלך הקומפילציה של רשימת המשאבים המותרים. פרטים נוספים ניתן למצוא ב-exceptions log."

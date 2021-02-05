@@ -2,7 +2,7 @@
 "Delete Tax","删除税"
 "All Websites","所有网站"
 "FPT","FPT"
-"You must set unique country-state combinations within the same fixed product tax","您必须在相同的固定产品税中设置独特的国家组合"
+"Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again.","Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again."
 "Including FPT only","只包括 FPT"
 "Including FPT and FPT description","包括 FPT 和 FPT 描述"
 "Excluding FPT. Including FPT description and final price","不包括 FPT。包括 FPT 描述和最终价格"

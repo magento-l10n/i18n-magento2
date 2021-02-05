@@ -10,7 +10,7 @@
 "Status","ステータス"
 "Server Type","サーバタイプ"
 "File Directory","ファイルディレクトリ"
-"For Type ""Local Server"" use relative path to Magento installation, e.g. var/export, var/import, var/export/some/dir","サーバタイプが「ローカルサーバ」の場合、相対パスを使用してください。(例) var/export, var/import, var/export/some/dir"
+"For Type ""Local Server"" use relative path to Magento installation,  e.g. var/export, var/import, var/export/some/dir. If remote storage is configured, use paths like import_export/export, import_export/import, import_export/export/some/dir.","For Type ""Local Server"" use relative path to Magento installation,  e.g. var/export, var/import, var/export/some/dir. If remote storage is configured, use paths like import_export/export, import_export/import, import_export/export/some/dir."
 "FTP Host[:Port]","FTPホスト名[:ポート番号]"
 "User Name","ユーザ名"
 "Password","パスワード"

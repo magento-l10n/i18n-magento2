@@ -1,5 +1,5 @@
 "Please specify a website.","Zvolte web prosím."
-"Please specify an email.","Zadejte e-mail prosím."
+"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."
 "We found an invalid value in a website column.","Ve sloupci website byl nalezen neplatný údaj."
 "Please enter a valid email.","Zadejte platný e-mail."
 "Please make sure attribute ""%s"" is not empty.","Ujistěte se, že atribut ""%s"" není prázdný."
