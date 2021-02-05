@@ -26,5 +26,6 @@
 "Limit the number of password reset request per hour. Use 0 to disable.","Ограничи броя на искане за нулиране на парола за час. Използвайте 0 за да деактивирате."
 "Min Time Between Password Reset Requests","Минимално време между заявки за възстановяване на парола"
 "Delay in minutes between password reset requests. Use 0 to disable.","Закъснение в минути между паролата и нулиране на заявка. Използвайте 0 за да деактивирате."
-"Your account is temporarily disabled. Please try again later.","Вашият акаунт е временно деактивиран. Моля, опитайте отново по-късно."
-"We received too many requests for password resets. Please wait and try again later or contact %1.","Получихме твърде много заявки за възстановяване на паролата. Моля, изчакайте и опитайте отново по-късно или се свържете с %1."
+"""%1"" must be later than the current date.","""%1"" must be later than the current date."
+"User Expiration","User Expiration"
+"""%1"" is not a valid date.","""%1"" is not a valid date."
