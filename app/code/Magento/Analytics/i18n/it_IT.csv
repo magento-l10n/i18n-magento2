@@ -1,11 +1,13 @@
 "Subscription status","Stato dell'abbonamento"
 "Sorry, there has been an error processing your request. Please try again later.","Siamo spiacenti, si è verificato un errore durante l'elaborazione della tua richiesta. Per favore riprova più tardi."
+"Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.","Sorry, there was an error processing your registration request to Magento Analytics. Please try again later."
+"Error occurred during postponement notification","Error occurred during postponement notification"
 "Time value has an unsupported format","Il valore temporale ha un formato non supportato"
 "Cron settings can't be saved","Le impostazioni di Cron non possono essere salvate"
 "There was an error save new configuration value.","Si è verificato un errore durante il salvataggio del nuovo valore di configurazione."
-"Please select a vertical.","Selezionare una verticale."
+"Please select an industry.","Si prega di selezionare un settore."
 "--Please Select--","--Seleziona--"
-"Command was not found.","Il comando non è stato trovato."
+"Command %1"" was not found.""","Command %1"" was not found."""
 "Input data must be string or convertible into string.","I dati di input devono essere stringa o convertibili in stringa."
 "Input data must be non-empty string.","I dati di input devono essere una stringa non vuota."
 "Not valid cipher method.","Metodo di cifratura non valido."
@@ -16,14 +18,17 @@
 "File is not ready yet.","Il file non è ancora pronto."
 "Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","L'URL di base è stato modificato e i tuoi rapporti sono in corso di aggiornamento. I rapporti avanzati saranno disponibili una volta che questa modifica è stata elaborata. Per favore riprova più tardi."
 "Failed to synchronize data to the Magento Business Intelligence service. ","Impossibile sincronizzare i dati con il servizio Magento Business Intelligence."
-"<a href=""%1"">Retry Synchronization</a>","<a href=""%1""> Riprova sincronizzazione </a>"
+"Retry Synchronization","Riprova a sincronizzare"
 "TestMessage","Messaggio di Test"
+"Error message","Error message"
 "Apps and Games","Applicazioni e giochi"
 "Athletic/Sporting Goods","Prodotti Sportivi"
 "Art and Design","Arte e Design"
 "Advanced Reporting","Rapporti Avanzati"
 "Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Ottieni nuovi informazioni e prende il comando di prestazioni del vostro business, utilizzando i nostri prodotti dinamici, ordini e rapporti dei clienti personalizzati in base ai dati dei tuoi clienti."
+"View details","View details"
 "Go to Advanced Reporting","Vai ai Rapporti Avanzati"
+"An error occurred while subscription process.","An error occurred while subscription process."
 "Analytics","Analytics"
 "API","API"
 "Configuration","Configurazione"
@@ -31,18 +36,22 @@
 "BI Essentials","Essenziali Business intelligence"
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>.","Questo servizio fornisce una suite di dinamica di rapporti con ricchi approfondimenti sulla tua attività commerciale.                 I report sono accessibili in modo sicuro su un dashboard personalizzato di fuori del pannello di amministrazione in cliccando sul link ""Vai Advanced Reporting"". </br> Per ulteriori informazioni, vedere i nostri <a href=""https://magento.com/legal/terms/cloud-terms""> termini e condizioni</a>."
+                ""Go to Advanced Reporting"" link. </br> For more information, see our
+                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.
+                ","This service provides a dynamic suite of reports with rich insights about your business.
+                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
+                ""Go to Advanced Reporting"" link. </br> For more information, see our
+                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.
+                "
 "Advanced Reporting Service","Servizio Rapporti Avanzati"
-"Time of day to send data","Ora del giorno per inviare i dati"
 "Industry","Settore"
-"In order to personalize your Advanced Reporting experience, please select your industry.","Al fine di personalizzare la tua esperienza Advanced Reporting, si prega di selezionare il tuo settore."
+"Time of day to send data","Ora del giorno per inviare i dati"
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Ottieni ulteriori informazioni da Magento Business Intelligence</strong>"
 "Magento Business Intelligence provides you with a simple and clear path to
                     becoming more data driven.</br> Learn more about <a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence fornisce un percorso semplice e chiaro per
-                    prendere decisioni migliori guidati dai dati.</br> maggiori informazioni <a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials e BI Pro</a> livelli."
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> tier.","Magento Business Intelligence provides you with a simple and clear path to
+                    becoming more data driven.</br> Learn more about <a target=""_blank""
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> tier."
 "Auto Parts","Ricambi auto"
 "Baby/Children’s Apparel, Gear and Toys","Bambino/Bambini abbigliamento, Attrezzi e Giocattoli"
 "Beauty and Cosmetics","Bellezza e Cosmetici"
@@ -61,12 +70,16 @@
 "Pet Goods","Prodotti per animali domestici"
 "Pharma and Medical Devices","Farmaci e dispositivi medici"
 "Technology B2B","Tecnologia B2B"
-"Other","Altro"
-"The time value is using an unsupported format. Enter a supported format and try again.","Il valore dell'ora è in un formato non supportato. Immettere un formato supportato e riprovare."
-"Please select an industry.","Si prega di selezionare un settore."
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","I dati non sono validi. Immettere i dati come una stringa o dati che possono essere convertiti in una stringa e riprovare."
-"The data is invalid. Enter the data as a string and try again.","I dati non sono validi. Immettere i dati come una stringa e riprovare."
-"The data is invalid. Use a valid cipher method and try again.","I dati non sono validi. Utilizzare un metodo di crittografia valido e riprovare."
-"Enter the encryption key and try again.","Immettere la chiave di iscrizione e riprovare."
-"The ""%1"" source doesn't exist.","La fonte ""% 1"" non esiste."
-"Retry Synchronization","Riprova a sincronizzare"
+"Analytics Subscription","Analytics Subscription"
+"powered by Magento Business Intelligence","powered by Magento Business Intelligence"
+"Are you sure you want to opt out?","Are you sure you want to opt out?"
+"Cancel","Cancel"
+"Opt out","Opt out"
+"<p>Advanced Reporting in included,
+                    free of charge, in your Magento software. When you opt out, we collect no product, order, and
+                    customer data to generate our dynamic reports.</p><p>To opt in later: You can always turn on Advanced
+                    Reporting in you Admin Panel.</p>","<p>Advanced Reporting in included,
+                    free of charge, in your Magento software. When you opt out, we collect no product, order, and
+                    customer data to generate our dynamic reports.</p><p>To opt in later: You can always turn on Advanced
+                    Reporting in you Admin Panel.</p>"
+"In order to personalize your Advanced Reporting experience, please select your industry.","Al fine di personalizzare la tua esperienza Advanced Reporting, si prega di selezionare il tuo settore."
