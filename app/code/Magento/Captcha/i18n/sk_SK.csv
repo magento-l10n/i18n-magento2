@@ -9,6 +9,7 @@
 "Reload captcha","Obnoviť"
 "Please type the letters and numbers below","Please type the letters and numbers below"
 "Attention: Captcha is case sensitive.","Pozor: Captcha rozišuje malé a veľké písmená."
+"Please provide CAPTCHA code and try again","Please provide CAPTCHA code and try again"
 "CAPTCHA","CAPTCHA"
 "Enable CAPTCHA in Admin","Povoliť CAPTCHA v Administrácii"
 "Font","Písmo"
@@ -24,5 +25,3 @@
 "Case Sensitive","Rozlišovať malé a veľké písmená"
 "Enable CAPTCHA on Storefront","Povoliť CAPTCHA v obchode"
 "CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","Ak to povolíte, formuláre ""Vytvoriť užívateľa"" a ""Zabudnuté heslo"" budú vždy vyžadovať CAPTCHAu."
-"Please enter the letters from the image","Zadajte písmená z obrázku"
-"Please type the letters below","Prosím zadajte znaky nižšie"
