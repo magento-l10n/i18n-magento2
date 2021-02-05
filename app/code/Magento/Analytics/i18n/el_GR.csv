@@ -1,11 +1,13 @@
 "Subscription status","Κατάσταση συνδρομής"
 "Sorry, there has been an error processing your request. Please try again later.","Λυπούμαστε, υπήρξε σφάλμα κατά την επεξεργασία του αιτήματός σας. Παρακαλούμε δοκιμάστε ξανά αργότερα."
+"Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.","Sorry, there was an error processing your registration request to Magento Analytics. Please try again later."
+"Error occurred during postponement notification","Error occurred during postponement notification"
 "Time value has an unsupported format","Η τιμή ώρας έχει μορφή που δεν υποστηρίζεται"
 "Cron settings can't be saved","Οι ρυθμίσεις Cron δεν μπορούν να αποθηκευτούν"
 "There was an error save new configuration value.","Παρουσιάστηκε ένα σφάλμα κατά την αποθήκευση νέας τιμής ρύθμισης παραμέτρων."
-"Please select a vertical.","Παρακαλώ επιλέξτε μια κάθετο."
+"Please select an industry.","Επιλέξτε έναν κλάδο."
 "--Please Select--","--Παρακαλώ Επιλέξτε--"
-"Command was not found.","Η εντολή δεν βρέθηκε."
+"Command %1"" was not found.""","Command %1"" was not found."""
 "Input data must be string or convertible into string.","Τα δεδομένα εισόδου πρέπει να είναι string ή μετατρέψιμοι σε string."
 "Input data must be non-empty string.","Τα δεδομένα εισόδου πρέπει να είναι μη κενό string."
 "Not valid cipher method.","Η μέθοδος κρυπτογράφησης δεν είναι έγκυρη."
@@ -16,14 +18,17 @@
 "File is not ready yet.","Το αρχείο δεν είναι έτοιμο ακόμα."
 "Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Το URL βάσης σας έχει αλλάξει και oi αναφορές σας ενημερώνονται. Οι προηγμένες αναφορές θα είναι διαθέσιμες, αφού ολοκληρωθεί αυτή η αλλαγή. Παρακαλούμε δοκιμάστε ξανά αργότερα."
 "Failed to synchronize data to the Magento Business Intelligence service. ","Αποτυχία συγχρονισμού δεδομένων στην υπηρεσία Magento Business Intelligence service. "
-"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">επανάληψη προσπάθειας συγχρονισμού</a>"
+"Retry Synchronization","Επανάληψη Συγχρονισμού"
 "TestMessage","Μήνυμα δοκιμής"
+"Error message","Error message"
 "Apps and Games","Εφαρμογές και Παιχνίδια"
 "Athletic/Sporting Goods","Αθλητικά/Σπορτ αγαθά"
 "Art and Design","Τέχνη και Σχεδιασμός"
 "Advanced Reporting","Προηγμένες αναφορές"
 "Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Απόκτησε νέες γνώσεις και να έλεγξε τις επιδόσεις της επιχείρησης σου, χρησιμοποιώντας τις δυναμικές αναφορές προϊόντος, παραγγελίας και πελατών προσαρμοσμένες στα δεδομένα των πελατών σου."
+"View details","View details"
 "Go to Advanced Reporting","Πήγαινε στις προηγμένες αναφορές"
+"An error occurred while subscription process.","An error occurred while subscription process."
 "Analytics","Στατιστικά"
 "API","API"
 "Configuration","Ρύθμιση παραμέτρων"
@@ -31,17 +36,22 @@
 "BI Essentials","Βασικά στοιχεία για το BI"
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>.","Η υπηρεσία αυτή παρέχει μια δυναμική σουίτα με εκθέσεις με πλούσια στατιστικά στοιχεία για την επιχείρησή σας.                 Μπορείτε να έχετε πρόσβαση στις αναφορές σας με ασφάλεια σε ένα εξατομικευμένο ταμπλό έξω από το admin panel, κάνοντας κλικ στον σύνδεσμο «Πηγαίνετε στις προηγμένες αναφορές». </br> για περισσότερες πληροφορίες, ανατρέξτε στο θέμα μας στους</a><a href=""https://magento.com/legal/terms/cloud-terms"">όρους και προϋποθέσεις."
+                ""Go to Advanced Reporting"" link. </br> For more information, see our
+                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.
+                ","This service provides a dynamic suite of reports with rich insights about your business.
+                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
+                ""Go to Advanced Reporting"" link. </br> For more information, see our
+                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.
+                "
 "Advanced Reporting Service","Υπηρεσία Προηγμένων Αναφορών"
-"Time of day to send data","Ώρα της ημέρας για την αποστολή δεδομένων"
 "Industry","Βιομηχανία"
-"In order to personalize your Advanced Reporting experience, please select your industry.","Προκειμένου να εξατομικεύσετε την εμπειρία σας των Προηγμένων Αναφορών, επιλέξτε τον κλάδο σας."
+"Time of day to send data","Ώρα της ημέρας για την αποστολή δεδομένων"
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Λάβετε περισσότερες πληροφορίες από την Magento Business Intelligence</strong>"
 "Magento Business Intelligence provides you with a simple and clear path to
                     becoming more data driven.</br> Learn more about <a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Το Magento Business Intelligence σας παρέχει μια απλή και ξεκάθαρη διαδρομή
-                        που γίνεται όλο και οδηγούμενη από δεδομένα.</br>Μάθετε περισσότερα σχετικά <a target=""_ blank"" href = ""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials και BI Pro</a>."
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> tier.","Magento Business Intelligence provides you with a simple and clear path to
+                    becoming more data driven.</br> Learn more about <a target=""_blank""
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> tier."
 "Auto Parts","Ανταλλακτικά αυτοκινήτου"
 "Baby/Children’s Apparel, Gear and Toys","Παιδικά ενδύματα, εργαλεία και παιχνίδια"
 "Beauty and Cosmetics","Προϊόντα ομορφιάς και καλλυντικά"
@@ -60,12 +70,16 @@
 "Pet Goods","Αγαθά κατοικιδίων"
 "Pharma and Medical Devices","Φαρμακευτικές και Ιατρικές συσκευές"
 "Technology B2B","Τεχνολογία B2B"
-"Other","Άλλο"
-"The time value is using an unsupported format. Enter a supported format and try again.","Η τιμή ώρας χρησιμοποιεί μη υποστηριζόμενη μορφή. Πληκτρολογήστε μια υποστηριζόμενη μορφή και δοκιμάστε ξανά."
-"Please select an industry.","Επιλέξτε έναν κλάδο."
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","Τα δεδομένα δεν είναι έγκυρα. Καταχωρίστε τα δεδομένα ως συμβολοσειρά ή δεδομένα που μπορούν να μετατραπούν σε μια συμβολοσειρά και δοκιμάστε ξανά."
-"The data is invalid. Enter the data as a string and try again.","Τα δεδομένα δεν είναι έγκυρα. Εισαγάγετε τα δεδομένα ως συμβολοσειρά και προσπαθήστε ξανά."
-"The data is invalid. Use a valid cipher method and try again.","Τα δεδομένα δεν είναι έγκυρα. Χρησιμοποιήστε μια έγκυρη μέθοδο κρυπτογράφησης και δοκιμάστε ξανά."
-"Enter the encryption key and try again.","Εισαγάγετε το κλειδί κρυπτογράφησης και δοκιμάστε ξανά."
-"The ""%1"" source doesn't exist.","Η πηγή ""%1"" δεν υπάρχει."
-"Retry Synchronization","Επανάληψη Συγχρονισμού"
+"Analytics Subscription","Analytics Subscription"
+"powered by Magento Business Intelligence","powered by Magento Business Intelligence"
+"Are you sure you want to opt out?","Are you sure you want to opt out?"
+"Cancel","Cancel"
+"Opt out","Opt out"
+"<p>Advanced Reporting in included,
+                    free of charge, in your Magento software. When you opt out, we collect no product, order, and
+                    customer data to generate our dynamic reports.</p><p>To opt in later: You can always turn on Advanced
+                    Reporting in you Admin Panel.</p>","<p>Advanced Reporting in included,
+                    free of charge, in your Magento software. When you opt out, we collect no product, order, and
+                    customer data to generate our dynamic reports.</p><p>To opt in later: You can always turn on Advanced
+                    Reporting in you Admin Panel.</p>"
+"In order to personalize your Advanced Reporting experience, please select your industry.","Προκειμένου να εξατομικεύσετε την εμπειρία σας των Προηγμένων Αναφορών, επιλέξτε τον κλάδο σας."
