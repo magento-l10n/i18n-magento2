@@ -18,6 +18,3 @@
 "You must first configure currency options before being able to see currency rates.","Konfigurieren Sie zunächst Währungsoptionen um Wechselkurse sehen zu können."
 "Old rate:","Alter Preis:"
 "Currency","Währung"
-"Please correct the input data for %1 => %2 rate","Bitte die Inputdaten von %1 => %2 korrigieren"
-"The Import Service is incorrect. Verify the service and try again.","Der Import-Service ist nicht korrekt. Bitte überprüfen Sie den Service und versuchen Sie es erneut."
-"The import model can't be initialized. Verify the model and try again.","Das Importmodell kann nicht initialisiert werden. Bitte überprüfen Sie das Modell und versuchen Sie es erneut."
