@@ -7,8 +7,6 @@
 "Invalid cron expression, expecting numeric modulus: %1","Неважећи израз кронирања, очекује се нумерички модул: %1"
 "Invalid cron expression, expecting 'from-to' structure: %1","Invalid cron expression, expecting 'from-to' structure: %1"
 "Some error","Неке грешке"
-"Invalid callback: Not_Existed_Class::execute can't be called","Неважећи повратни позив: Not_Existed_Class::execute се не може позвати"
-"Test exception","Тест изузетак"
 "Cron (Scheduled Tasks)","Крон (Планирани задаци)"
 "For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.","За исправан УРЛ адресе генерисан током извршавања крона уверите се да је та Веб > сигурна и несигурна основна УРЛ адреса тачно постављена. Сва времена су у минутама."
 "Cron configuration options for group:","Cron configuration options for group:"
