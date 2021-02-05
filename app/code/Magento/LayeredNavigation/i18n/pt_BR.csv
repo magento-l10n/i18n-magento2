@@ -27,11 +27,3 @@
 "This setting will be applied when all prices in the specific price interval are equal.","Esta configuração será aplicada quando todos os preços no intervalo de preço específico forem iguais."
 "Interval Division Limit","Limite de Divisão de Interalo"
 "Please specify the number of products, that will not be divided into subintervals.","Por favor, especifique a quantidade de produtos que não serão divididos em sub-intervalos."
-"Position of attribute in layered navigation block","Posição do atributo no bloco de navegação em camadas."
-"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price","Pode ser usado somente com um dos tipos de campo de catálogo, Sim/Não, Menu Suspenso, Múltipla Seleção ou Preço"
-"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
-                    <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
-                     it will make no affect on Price filter.","Pode ser usado apenas com o tipo de entrada de catálogo Sim/Não, Menu suspenso, Seleção múltipla e Preço.                     
-<br> O preço não é compatível com a opção <b> 'Filtrável (sem resultados)' </b> -                      isso não afetará o filtro de preços."
-"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.","Pode ser usado somente com um dos tipos de campo de catálogo, Sim/Não, Menu Suspenso, Múltipla Seleção ou Preço."
-"Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price.","Apenas pode ser usado com tipo de input de catalogo Sim/Não (Booleano), Menu, Seleção Múltipla e Preço."
