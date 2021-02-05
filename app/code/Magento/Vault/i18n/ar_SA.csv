@@ -13,7 +13,4 @@
 "Delete","احذف"
 "PayPal Account","حساب باي بال"
 "Cancel","إلغاء"
-"No payment tokens are available for the specified order payment.","No payment tokens are available for the specified order payment."
-"Credit Card was successfully removed","تم بنجاح إزالة بطاقة الائتمان"
-"My Credit Cards","بطاقات الائتمان"
-"You have no credit cards.","لا يوجد كروت إئتمانية."
+"Are you sure you want to delete this card: %1?","Are you sure you want to delete this card: %1?"
