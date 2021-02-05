@@ -10,7 +10,7 @@
 "Status","وضعيت"
 "Server Type","نوع سرور"
 "File Directory","دایرکتوری فایل"
-"For Type ""Local Server"" use relative path to Magento installation, e.g. var/export, var/import, var/export/some/dir","برای نوع ""Local Server"" از مسیر نسبی به نصب Magento استفاده کنید، برای مثال var/export, var/import, var/export/some/dir"
+"For Type ""Local Server"" use relative path to Magento installation,  e.g. var/export, var/import, var/export/some/dir. If remote storage is configured, use paths like import_export/export, import_export/import, import_export/export/some/dir.","For Type ""Local Server"" use relative path to Magento installation,  e.g. var/export, var/import, var/export/some/dir. If remote storage is configured, use paths like import_export/export, import_export/import, import_export/export/some/dir."
 "FTP Host[:Port]","هاست FTP [:پورت]"
 "User Name","نام كاربر"
 "Password","کلمه عبور"
