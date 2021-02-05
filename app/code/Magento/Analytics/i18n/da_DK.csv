@@ -1,11 +1,13 @@
 "Subscription status","Abonnementsstatus"
 "Sorry, there has been an error processing your request. Please try again later.","Desværre, der er sket en fejl under behandling af din anmodning. Prøv igen senere."
+"Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.","Sorry, there was an error processing your registration request to Magento Analytics. Please try again later."
+"Error occurred during postponement notification","Error occurred during postponement notification"
 "Time value has an unsupported format","Tidsværdi har en ikke-understøttet format"
 "Cron settings can't be saved","Cron indstillinger kan ikke gemmes"
 "There was an error save new configuration value.","Der opstod en fejl da ny konfigurationsværdien skulle gemmes."
-"Please select a vertical.","Vælg venligst en lodret."
+"Please select an industry.","Vælg venligst en branche."
 "--Please Select--","--Vælg--"
-"Command was not found.","Kommandoen blev ikke fundet."
+"Command %1"" was not found.""","Command %1"" was not found."""
 "Input data must be string or convertible into string.","Input data skal være en streng eller være konverterbar til en streng."
 "Input data must be non-empty string.","Input data skal være en ikke-tom streng."
 "Not valid cipher method.","Ugyldig krypteringsmetode."
@@ -16,14 +18,17 @@
 "File is not ready yet.","Filen er ikke klar endnu."
 "Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Din Base URL-adresse er blevet ændret og dine rapporter opdateres. Avancerede rapporter vil være tilgængelige når denne ændring er blevet behandlet. Prøv igen senere."
 "Failed to synchronize data to the Magento Business Intelligence service. ","Ikke kunne synkronisere data til tjenesten Magento Business Intelligence. "
-"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Forsøg at synkronisere igen</a>"
+"Retry Synchronization","Prøv at synkronisere igen"
 "TestMessage","TestBesked"
+"Error message","Error message"
 "Apps and Games","Apps og spil"
 "Athletic/Sporting Goods","Atletisk/sports varer"
 "Art and Design","Kunst og design"
 "Advanced Reporting","Avanceret rapport"
 "Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Få ny indsigt og overtage styringen over din virksomheds ydeevne, ved hjælp af vores dynamiske produkt-, ordre- og kunderapporter skræddersyet til dine kundedata."
+"View details","View details"
 "Go to Advanced Reporting","Gå til avanceret rapportering"
+"An error occurred while subscription process.","An error occurred while subscription process."
 "Analytics","Analyser"
 "API","API"
 "Configuration","Konfiguration"
@@ -31,21 +36,22 @@
 "BI Essentials","BI Essentials"
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>.","Denne service giver en dynamisk suite af rapporter med omfattende indsigt om din virksomhed.
-                dine rapporter kan tilgås sikkert på et personligt dashboard uden for admin panel ved at klikke på linket
-                ""Gå til avanceret rapportering"". </br> for mere information, se vores <a href=""https://magento.com/legal/terms/cloud-terms"">
-                forretningsbetingelser</a>."
+                ""Go to Advanced Reporting"" link. </br> For more information, see our
+                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.
+                ","This service provides a dynamic suite of reports with rich insights about your business.
+                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
+                ""Go to Advanced Reporting"" link. </br> For more information, see our
+                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.
+                "
 "Advanced Reporting Service","Avanceret rapport service"
-"Time of day to send data","Tidspunkt på dagen at sende data"
 "Industry","Industri"
-"In order to personalize your Advanced Reporting experience, please select your industry.","For at personliggøre din avancerede rapport, skal du vælge din branche."
+"Time of day to send data","Tidspunkt på dagen at sende data"
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>få mere indsigt fra Magento Business Intelligence</strong>"
 "Magento Business Intelligence provides you with a simple and clear path to
                     becoming more data driven.</br> Learn more about <a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence provides you with a simple and clear path to
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> tier.","Magento Business Intelligence provides you with a simple and clear path to
                     becoming more data driven.</br> Learn more about <a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers."
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> tier."
 "Auto Parts","Autodele"
 "Baby/Children’s Apparel, Gear and Toys","Baby/børns beklædning, udstyr og legetøj"
 "Beauty and Cosmetics","Skønhed og kosmetik"
@@ -64,12 +70,16 @@
 "Pet Goods","Kæledyrsartikler"
 "Pharma and Medical Devices","Pharma og medicinsk udstyr"
 "Technology B2B","Teknologi B2B"
-"Other","Andet"
-"The time value is using an unsupported format. Enter a supported format and try again.","Formatet for tidsangivelse er ikke understøttet. Angiv et gyldigt format og prøv igen."
-"Please select an industry.","Vælg venligst en branche."
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","Dataene er ugyldige. Indtaste data som en streng eller data, der kan konverteres til en streng og prøv igen."
-"The data is invalid. Enter the data as a string and try again.","Dataene er ugyldige. Indtaste data som en streng og prøv igen."
-"The data is invalid. Use a valid cipher method and try again.","Dataene er ugyldige. Brug en gyldigt ciffer-metode, og prøv igen."
-"Enter the encryption key and try again.","Angiv krypteringsnøglen, og prøv igen."
-"The ""%1"" source doesn't exist.","Kilden ""%1"" findes ikke."
-"Retry Synchronization","Prøv at synkronisere igen"
+"Analytics Subscription","Analytics Subscription"
+"powered by Magento Business Intelligence","powered by Magento Business Intelligence"
+"Are you sure you want to opt out?","Are you sure you want to opt out?"
+"Cancel","Cancel"
+"Opt out","Opt out"
+"<p>Advanced Reporting in included,
+                    free of charge, in your Magento software. When you opt out, we collect no product, order, and
+                    customer data to generate our dynamic reports.</p><p>To opt in later: You can always turn on Advanced
+                    Reporting in you Admin Panel.</p>","<p>Advanced Reporting in included,
+                    free of charge, in your Magento software. When you opt out, we collect no product, order, and
+                    customer data to generate our dynamic reports.</p><p>To opt in later: You can always turn on Advanced
+                    Reporting in you Admin Panel.</p>"
+"In order to personalize your Advanced Reporting experience, please select your industry.","For at personliggøre din avancerede rapport, skal du vælge din branche."
