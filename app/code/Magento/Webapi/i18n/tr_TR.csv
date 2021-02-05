@@ -1,6 +1,7 @@
-"Consumer is not authorized to access %resources","Tüketici %resources 'e erişmeye yetkili değil"
+"The consumer isn't authorized to access %resources.","The consumer isn't authorized to access %resources."
 "Operation allowed only in HTTPS","İşleme yalnızca HTTPS'de izin verildi"
 "Cannot perform GET operation with store code 'all'","Mağaza kodu 'all' ile GET işlemi gerçekleştirilemiyor"
+"Specified request cannot be processed.","Specified request cannot be processed."
 "Request does not match any route.","İstek hiçbir rota ile uyuşmuyor."
 "Not allowed parameters: %1. Please use only %2 and %3.","İzin verilmeyen parametreler: %1. Lütfen yalnızca %2 ve %3'ü kullanın."
 "Requested service is not available: ""%1""","İstenen ""%1"" hizmeti kullanılabilir değil"
