@@ -1,3 +1,4 @@
+"Purchase order number is a required field.","Purchase order number is a required field."
 "Make Check payable to:","Make Check payable to:"
 "Send Check to:","Send Check to:"
 "Purchase Order Number","Purchase Order Number"
@@ -11,7 +12,6 @@
 "New Order Status","Nou estat de la comanda"
 "Sort Order","Sort Order"
 "Title","Title"
-"Purchase order number is a required field.","Purchase order number is a required field."
 "Payment from Applicable Countries","Payment from Applicable Countries"
 "Payment from Specific Countries","Payment from Specific Countries"
 "Make Check Payable to","Make Check Payable to"
@@ -21,4 +21,3 @@
 "Bank Transfer Payment","Bank Transfer Payment"
 "Instructions","Instructions"
 "Cash On Delivery Payment","Cash On Delivery Payment"
-"Automatically Invoice All Items","Automatically Invoice All Items"
