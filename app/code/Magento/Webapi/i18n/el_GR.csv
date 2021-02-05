@@ -1,6 +1,7 @@
-"Consumer is not authorized to access %resources","Ο Καταναλωτής δεν έχει εξουσιοδότηση για πρόσβαση σε πόρους %"
+"The consumer isn't authorized to access %resources.","The consumer isn't authorized to access %resources."
 "Operation allowed only in HTTPS","Η λειτουργία επιτρέπεται μόνο σε HTTPS"
 "Cannot perform GET operation with store code 'all'","Δεν μπορεί να εκτελέσει λειτουργία GET με κωδικός κατάστημα «όλα»"
+"Specified request cannot be processed.","Specified request cannot be processed."
 "Request does not match any route.","Η Αίτηση δεν συμφωνεί με οποιαδήποτε διαδρομή."
 "Not allowed parameters: %1. Please use only %2 and %3.","Μη επιτρεπόμενοι παράμετροι: %1. Παρακαλούμε χρησιμοποιήστε μόνο %2 και %3."
 "Requested service is not available: ""%1""","Η υπηρεσία που ζητήσατε δεν είναι διαθέσιμη: ""%1"""
