@@ -78,7 +78,7 @@
 "subtotal","소계"
 "grand total","grand total"
 "Shopping cart %1 amount %2 %3:","Shopping cart %1 amount %2 %3:"
-"Unknown quote total specified","Unknown quote total specified"
+"The quote total specified is unknown. Verify the total and try again.","The quote total specified is unknown. Verify the total and try again."
 "Numeric Attribute","Numeric Attribute"
 "weight","중량"
 "row weight","행 무게"
@@ -86,7 +86,7 @@
 "base price","base price"
 "base cost","base cost"
 "Item %1 %2 %3:","Item %1 %2 %3:"
-"Unknown attribute specified","Unknown attribute specified"
+"The attribute specified is unknown. Verify the attribute and try again.","The attribute specified is unknown. Verify the attribute and try again."
 "Items Subselection","Items Subselection"
 "Coupon Code","쿠폰 코드"
 "Shopping cart %1 a coupon applied","Shopping cart %1 a coupon applied"
@@ -122,27 +122,16 @@
 "The item was added to wish list %1, store view %2.","The item was added to wish list %1, store view %2."
 "If an item is %1 in the wish list and %2 of these conditions match:","If an item is %1 in the wish list and %2 of these conditions match:"
 "Condition type is unexpected","Condition type is unexpected"
-"Please specify a valid number of minute.","Please specify a valid number of minute."
-"Unable to save Cron expression","Unable to save Cron expression"
+"The valid number of minutes needs to be entered. Enter and try again.","The valid number of minutes needs to be entered. Enter and try again."
+"The Cron expression was unable to be saved.","The Cron expression was unable to be saved."
 "<b>Important</b>: If you select ""Use Auto Generation"", this rule will no longer be used in any automated email reminder rules for abandoned carts","<b>
  Important</b>
  : If you select ""Use Auto Generation"", this rule will no longer be used in any automated email reminder rules for abandoned carts"
 "Validate error 1","Validate error 1"
 "Validate error 2","Validate error 2"
-"LocalizedException","LocalizedException"
 "text","text"
 "Promotion reminder at %store_name","Promotion reminder at %store_name"
 "%name,","%name,"
-"Hurry up to take advantage of our %promotion_name promotion!","Hurry up to take advantage of our %promotion_name promotion!"
-"Hurry up to take advantage of this promotion!","Hurry up to take advantage of this promotion!"
-"To take advantage of the promotion you need to sign in at <a href=""%account_url"">%store_name</a> and apply the coupon ""%coupon_code"" in the shopping cart.","프로모션 혜택을 받으시려면 <a href=""%account_url"">
- %store_name</a>
- 에서 회원가입하신 후 장바구니에서 쿠폰코드 ""%coupon_code""를 적용하세요."
-"To take advantage of the promotion you need to sign in at <a href=""%account_url"">%store_name</a>","프로모션 혜택을 받으시려면 <a href=""%account_url"">
- %store_name</a>
- 에서 회원가입하신 후 장바구니에서 쿠폰코드 ""%coupon_code""를 적용하세요."
-"This coupon can be used only up to %coupon_limit time(s) by you or other customers.","This coupon can be used only up to %coupon_limit time(s) by you or other customers."
-"You can use this coupon up to %coupon_limit time(s).","You can use this coupon up to %coupon_limit time(s)."
 "Promo Section","Promo Section"
 "Automated Email Reminder Rules","Automated Email Reminder Rules"
 "Enable Reminder Emails","Enable Reminder Emails"
