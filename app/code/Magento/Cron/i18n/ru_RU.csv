@@ -7,8 +7,6 @@
 "Invalid cron expression, expecting numeric modulus: %1","Invalid cron expression, expecting numeric modulus: %1"
 "Invalid cron expression, expecting 'from-to' structure: %1","Invalid cron expression, expecting 'from-to' structure: %1"
 "Some error","Некоторая ошибка"
-"Invalid callback: Not_Existed_Class::execute can't be called","Invalid callback: Not_Existed_Class::execute can't be called"
-"Test exception","Тестовое исключение"
 "Cron (Scheduled Tasks)","Cron (запланированные задачи)"
 "For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.","For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes."
 "Cron configuration options for group:","Параметры конфигурации в cron для группы:"
