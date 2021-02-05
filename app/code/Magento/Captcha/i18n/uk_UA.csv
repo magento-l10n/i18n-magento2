@@ -9,6 +9,7 @@
 "Reload captcha","Перезавантажити captcha"
 "Please type the letters and numbers below","Будь ласка, введіть літери та цифри нижче"
 "Attention: Captcha is case sensitive.","Увага: Captcha чутливий до регістру."
+"Please provide CAPTCHA code and try again","Please provide CAPTCHA code and try again"
 "CAPTCHA","CAPTCHA"
 "Enable CAPTCHA in Admin","Увімкнути CAPTCHA в адмін-панелі"
 "Font","Шрифт"
@@ -24,5 +25,3 @@
 "Case Sensitive","Чутливе до регістру"
 "Enable CAPTCHA on Storefront","Увімкнути CAPTCHA на Вітрині"
 "CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","Якщо вибрано, то CAPTCHA завжди увімкнений для форм ""Створити користувача"" та ""Забули пароль""."
-"Please enter the letters from the image","Будь ласка, введіть літери із зображення"
-"Please type the letters below","Будь ласка, введіть літери нижче"
