@@ -9,6 +9,7 @@
 "Reload captcha","Uppdatera captcha"
 "Please type the letters and numbers below","Vänligen skriv in bokstäver och siffror nedan"
 "Attention: Captcha is case sensitive.","OBS: Captcha är skiftlägeskänsligt."
+"Please provide CAPTCHA code and try again","Please provide CAPTCHA code and try again"
 "CAPTCHA","CAPTCHA"
 "Enable CAPTCHA in Admin","Aktivera CAPTCHA i Admin"
 "Font","Typsnitt"
@@ -24,5 +25,3 @@
 "Case Sensitive","Skiftlägeskänslig"
 "Enable CAPTCHA on Storefront","Aktivera CAPTCHA i webbutiken"
 "CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","CAPTCHA för ""Skapa användare"" och ""Glömt lösenord"" former är alltid aktiverad om valt."
-"Please enter the letters from the image","Skriv in bokstäverna från bilden"
-"Please type the letters below","Skriv in bokstäverna nedan"
