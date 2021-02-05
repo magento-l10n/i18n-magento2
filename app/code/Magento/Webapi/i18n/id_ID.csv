@@ -1,6 +1,7 @@
-"Consumer is not authorized to access %resources","Konsumen tidak berwenang mengakses% sumber"
+"The consumer isn't authorized to access %resources.","The consumer isn't authorized to access %resources."
 "Operation allowed only in HTTPS","Operasi hanya diperbolehkan di HTTPS"
 "Cannot perform GET operation with store code 'all'","Tidak bisa melakukan operasi dengan menyimpan semua kode"
+"Specified request cannot be processed.","Specified request cannot be processed."
 "Request does not match any route.","Permintaan tidak cocok dengan rute apapun."
 "Not allowed parameters: %1. Please use only %2 and %3.","Parameter yang tidak diizinkan: %1. Silakan gunakan hanya %2 dan %3."
 "Requested service is not available: ""%1""","Layanan yang diminta tidak tersedia: "" %1 """
