@@ -1,3 +1,5 @@
+"sales_rule","sales_rule"
+"Magento\SalesRule\Api\Data\RuleInterface","Magento\SalesRule\Api\Data\RuleInterface"
 "An error occurred during processing; coupon with id %1 expiration date wasn't updated. The error message was: %2","Възникна грешка по време на преработката; ваучер с ИД %1 дата на изтичане не е актуализирана. Съобщението за грешка е: %2"
 "Future Update in this time range already exists. Select a different range to add a new Future Update.","Бъдеща актуализация в този времеви диапазон вече съществува. Изберете различен диапазон, за да добавите нов ъпдейт в бъдеще."
 "ID","ИД"
@@ -43,7 +45,3 @@
 "Start Time","Начален час"
 "End Time","Краен час"
 "Cart Price Rules","Правила за цени в количката"
-"Remove Cart Price Rule from Campaign","Премахване на правило за цена на количката от кампания"
-"Move to Another Campaign","Премести в друга кампания"
-"Deleting the update will remove the cart price rule from this campaign and all scheduled changes will be lost.","Изтриването на актуализация ще премахне каталог цена правилото от тази кампания и всички планирани промени ще бъдат загубени."
-"Future Update already exists in this time range. Set a different range and try again.","Future Update already exists in this time range. Set a different range and try again."
