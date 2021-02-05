@@ -13,7 +13,4 @@
 "Delete","Supprimer"
 "PayPal Account","Compte PayPal"
 "Cancel","Annuler"
-"No payment tokens are available for the specified order payment.","Aucun jeton de paiement n'est disponible pour le paiement de commande spécifié."
-"Credit Card was successfully removed","Carte de paiement supprimée avec succès"
-"My Credit Cards","Mes cartes de crédit"
-"You have no credit cards.","Vous n'avez pas de carte de paiement."
+"Are you sure you want to delete this card: %1?","Are you sure you want to delete this card: %1?"
