@@ -22,8 +22,3 @@
 "If empty, UTF-8 will be used.","Jika kosong, UTF-8 akan digunakan."
 "Web Services Configuration","Konfigurasi Layanan Web"
 "REST and SOAP configurations, generated WSDL file","Konfigurasi REST dan SOAP, menghasilkan file WSDL"
-"Authentication header format is invalid.","Format header otentikasi tidak valid."
-"Authentication header is absent.","Header otentikasi tidak ada."
-"REST and SOAP configurations, generated WSDL file.","Konfigurasi REST dan SOAP, menghasilkan file WSDL."
-"Specified request cannot be processed.","Specified request cannot be processed."
-"The consumer isn't authorized to access %resources.","The consumer isn't authorized to access %resources."
