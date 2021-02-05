@@ -1,18 +1,16 @@
 "Subscription status","Előfizetés állapota"
 "Sorry, there has been an error processing your request. Please try again later.","Sajnáljuk, de hiba történt a kérés feldolgozása során! Kérjük, próbálja meg később újra!"
-"Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.","Sorry, there was an error processing your registration request to Magento Analytics. Please try again later."
-"Error occurred during postponement notification","Error occurred during postponement notification"
-"Time value has an unsupported format","Az idő nem támogatott formátumban van megadva"
+"The time value is using an unsupported format. Enter a supported format and try again.","The time value is using an unsupported format. Enter a supported format and try again."
 "Cron settings can't be saved","Nem lehet menteni a cron beállításokat"
 "There was an error save new configuration value.","Hiba történt az új konfigurációs érték mentése során!"
 "Please select an industry.","Válassza ki az iparágat."
 "--Please Select--","--Kérem, válasszon--"
-"Command %1"" was not found.""","Command %1"" was not found."""
-"Input data must be string or convertible into string.","A megadott adat nem karakterlánc, vagy nem konvertálható azzá."
-"Input data must be non-empty string.","A megadott adatnak nem üres karakterláncnak kell lennie."
-"Not valid cipher method.","Nem érvényes titkosító eljárás."
-"Encryption key can't be empty.","Titkosító kulcs nem lehet üres."
-"Source ""%1"" is not exist","""%1"" forrás nem létezik"
+"Command ""%1"" was not found.","Command ""%1"" was not found."
+"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","The data is invalid. Enter the data as a string or data that can be converted into a string and try again."
+"The data is invalid. Enter the data as a string and try again.","The data is invalid. Enter the data as a string and try again."
+"The data is invalid. Use a valid cipher method and try again.","The data is invalid. Use a valid cipher method and try again."
+"Enter the encryption key and try again.","Enter the encryption key and try again."
+"The ""%1"" source doesn't exist.","The ""%1"" source doesn't exist."
 "These arguments can't be empty ""%1""","Ezek az értékek nem lehetnek üresek ""%1"""
 "Cannot find predefined integration user!","Nem található az előre definiált felhasználóintegráció!"
 "File is not ready yet.","A fájl még nincs kész."
@@ -20,15 +18,12 @@
 "Failed to synchronize data to the Magento Business Intelligence service. ","Failed to synchronize data to the Magento Business Intelligence service. "
 "Retry Synchronization","Újraszinkronizálás"
 "TestMessage","Tesztüzenet"
-"Error message","Error message"
 "Apps and Games","Alkalmazások és játékok"
 "Athletic/Sporting Goods","Sportszerek"
 "Art and Design","Művészet és dizájn"
 "Advanced Reporting","Fejlett jelentéskészítés"
 "Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data."
-"View details","View details"
 "Go to Advanced Reporting","Ugrás a fejlett jelentéskészítésre"
-"An error occurred while subscription process.","An error occurred while subscription process."
 "Analytics","Analitika"
 "API","API"
 "Configuration","Konfiguráció"
@@ -36,22 +31,22 @@
 "BI Essentials","BI Essentials"
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our
-                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.
-                ","This service provides a dynamic suite of reports with rich insights about your business.
+                ""Go to Advanced Reporting"" link. </br> For more information, see our <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
+                terms and conditions</a>.","This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our
-                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.
-                "
+                ""Go to Advanced Reporting"" link. </br> For more information, see our <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
+                terms and conditions</a>."
 "Advanced Reporting Service","Fejlett jelentési szolgáltatás"
-"Industry","Ipar"
 "Time of day to send data","Napon belüli időpont az adatok küldésére"
+"Industry Data","Industry Data"
+"Industry","Ipar"
+"In order to personalize your Advanced Reporting experience, please select your industry.","Válassza ki az iparágat a fejlett jelentéskészítő testreszabásához."
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>További részletek a Magento Business Intelligence-ről</strong>"
 "Magento Business Intelligence provides you with a simple and clear path to
                     becoming more data driven.</br> Learn more about <a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> tier.","Magento Business Intelligence provides you with a simple and clear path to
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence provides you with a simple and clear path to
                     becoming more data driven.</br> Learn more about <a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> tier."
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers."
 "Auto Parts","Autó alkatrészek"
 "Baby/Children’s Apparel, Gear and Toys","Baba/gyermek ruházat, felszerelés és játékok"
 "Beauty and Cosmetics","Szépségápolás és kozmetika"
@@ -70,16 +65,4 @@
 "Pet Goods","Kisállat termékek"
 "Pharma and Medical Devices","Gyógyszeripari és orvostechnikai eszközök"
 "Technology B2B","Technológia B2B"
-"Analytics Subscription","Analytics Subscription"
-"powered by Magento Business Intelligence","powered by Magento Business Intelligence"
-"Are you sure you want to opt out?","Are you sure you want to opt out?"
-"Cancel","Cancel"
-"Opt out","Opt out"
-"<p>Advanced Reporting in included,
-                    free of charge, in your Magento software. When you opt out, we collect no product, order, and
-                    customer data to generate our dynamic reports.</p><p>To opt in later: You can always turn on Advanced
-                    Reporting in you Admin Panel.</p>","<p>Advanced Reporting in included,
-                    free of charge, in your Magento software. When you opt out, we collect no product, order, and
-                    customer data to generate our dynamic reports.</p><p>To opt in later: You can always turn on Advanced
-                    Reporting in you Admin Panel.</p>"
-"In order to personalize your Advanced Reporting experience, please select your industry.","Válassza ki az iparágat a fejlett jelentéskészítő testreszabásához."
+"Other","Other"
