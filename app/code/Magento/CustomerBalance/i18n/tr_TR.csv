@@ -52,7 +52,6 @@
 "%name,","%isim,"
 "We have updated your <a href=""%store_url"">%store_name</a> account and you have credit that you can use for future purchases.","<a href=""%store_url"">%store_name</a> hesabınızı güncelledik ve sonraki satın alma işlemleri için kullanabileceğiniz krediniz var."
 "Your Store Credit balance is now %balance.","Mağaza Kredi bakiyeniz şu anda %balance."
-"Store credit","Mağaza Kredisi"
 "Store credit available","Mağaza kredisi mevcut"
 "Your store credit was successfully applied","Mağaza krediniz başarıyla uygulandı"
 "Store Credit Options","Mağaza Kredi Seçenekleri"
@@ -61,5 +60,3 @@
 "Refund Store Credit Automatically","Otomatik Olarak Mağaza Kredisi Para İadesi"
 "Store Credit Update Email Sender","Mağaza Kredisi Eposta Gönderen Güncelleştirmesi"
 "Store Credit Update Email Template","Mağaza Kredisi Eposta Şablonu Güncelleştirmesi"
-"A balance is needed to save a balance history.","Bir bakiye geçmişini kaydetmek için bir bakiye gereklidir."
-"The balance history action code is unknown. Verify the code and try again.","Bakiye geçmişi işlem kodu bilinmiyor. Kodu doğrulayın ve tekrar deneyin."
