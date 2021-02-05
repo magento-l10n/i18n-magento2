@@ -23,6 +23,3 @@
 "Select Media Database","Välj Media databas"
 "After selecting a new media storage location, press the Synchronize button to transfer all media to that location. Media will not be available in the new location until the synchronization process is complete.","Efter att du har valt en ny medialagringsplats, trycker du på synkronisera-knappen för att överföra allt media till den platsen. Media kommer inte att vara tillgängligt på den nya platsen förrän synkroniseringsprocessen är klar."
 "Environment Update Time","Tidpunkt för uppdateringen av miljö"
-"The ""%1"" file doesn't exist. Verify the file and try again.","The ""%1"" file doesn't exist. Verify the file and try again."
-"Cannot resize image ""%1"" - original image not found","Cannot resize image ""%1"" - original image not found"
-"Cannot resize images - product images not found","Cannot resize images - product images not found"
