@@ -243,8 +243,3 @@
 "New Report","Informe nuevo"
 "Date Generated","Fecha generada"
 "Report Groups","Grupos de informes"
-"An item needs to be selected. Select and try again.","Un elemento debe ser seleccionado. Seleccione y vuelva a intentarlo."
-"All processes should be completed.","Todos los procesos deben ser completados."
-"The ""%1"" utility wasn't found. Verify the utility and try again.","No se encontró la utilidad ""%1"". Verifique la utilidad y vuelva a intentarlo."
-"The ""%1"" utility is unknown. Verify the utility and try again.","La utilidad ""%1"" es desconocida. Verifique la utilidad y vuelva a intentarlo."
-"The root category can't be set. Verify the category and try again.","La categoría raíz no se puede establecer. Verifica la categoría y vuelve a intentarlo."
