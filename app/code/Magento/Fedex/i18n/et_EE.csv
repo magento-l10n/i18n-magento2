@@ -77,4 +77,4 @@
 "Debug","Silumine"
 "Show Method if Not Applicable","Näita meetodit kui seda ei saa kasutada"
 "Sort Order","Sorteerimise järjekord"
-"Expected Delivery:","Expected Delivery:"
+"Can't convert a shipping cost from ""%1-%2"" for FedEx carrier.","Can't convert a shipping cost from ""%1-%2"" for FedEx carrier."
