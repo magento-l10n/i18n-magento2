@@ -13,7 +13,4 @@
 "Delete","Slett"
 "PayPal Account","PayPal-konto"
 "Cancel","Avbryt"
-"No payment tokens are available for the specified order payment.","No payment tokens are available for the specified order payment."
-"Credit Card was successfully removed","Vellykket fjerning av kredittkort"
-"My Credit Cards","Mine kredittkort"
-"You have no credit cards.","Du har ingen kredittkort."
+"Are you sure you want to delete this card: %1?","Are you sure you want to delete this card: %1?"
