@@ -10,7 +10,7 @@
 "Status","Estatus"
 "Server Type","Tipo de servidor"
 "File Directory","Directorio de archivos"
-"For Type ""Local Server"" use relative path to Magento installation, e.g. var/export, var/import, var/export/some/dir","Para tipo ""Servidor Local"" usar ruta de acceso relativa a la instalación de Magento, por ejemplo,var/export, var/import, var/export/some/dir"
+"For Type ""Local Server"" use relative path to Magento installation,  e.g. var/export, var/import, var/export/some/dir. If remote storage is configured, use paths like import_export/export, import_export/import, import_export/export/some/dir.","For Type ""Local Server"" use relative path to Magento installation,  e.g. var/export, var/import, var/export/some/dir. If remote storage is configured, use paths like import_export/export, import_export/import, import_export/export/some/dir."
 "FTP Host[:Port]","FTP Server[:Port]"
 "User Name","Nombre de usuario"
 "Password","Contraseña"
