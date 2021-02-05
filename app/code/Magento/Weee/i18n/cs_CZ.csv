@@ -2,7 +2,7 @@
 "Delete Tax","Odstranit DPH"
 "All Websites","Všechny weby"
 "FPT","Fixní poplatek"
-"You must set unique country-state combinations within the same fixed product tax","You must set unique country-state combinations within the same fixed product tax"
+"Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again.","Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again."
 "Including FPT only","Pouze s fixním poplatkem"
 "Including FPT and FPT description","S fixním poplatkem včetně popisu"
 "Excluding FPT. Including FPT description and final price","Bez poplatku, s poplatkem, popisem a koncovou cenou"
