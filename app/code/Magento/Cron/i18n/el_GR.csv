@@ -19,5 +19,3 @@
 "Success History Lifetime","Διάρκεια ζωής Ιστορικού Επιτυχιών"
 "Failure History Lifetime","Διάρκεια ζωής Ιστορικού Αποτυχιών"
 "Use Separate Process","Χρήση ξεχωριστής διαδικασίας"
-"Cron (Scheduled Tasks) - all the times are in minutes","Cron (Προγραμματισμένες Εργασίες) - όλοι οι χρόνοι είναι σε λεπτά"
-"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.","Για σωστές διευθύνσεις URL που δημιουργούνται κατά τη διάρκεια cron που τρέχουν παρακαλώ σιγουρευτείτε ότι Web > ασφαλές και μη ασφαλές URL βάσης ορίζονται ρητά."
