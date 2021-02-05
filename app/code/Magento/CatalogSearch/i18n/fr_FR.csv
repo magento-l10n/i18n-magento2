@@ -38,5 +38,5 @@
 "Maximum Query Length","Longueur maxi de requête"
 "Rebuild Catalog product fulltext search index","Reconstruire l'index de recherche sur le texte complet du catalogue produit"
 "Please enter a valid price range.","Veuillez saisir une fourchette de prix valide."
-"This value must be compatible with the corresponding setting in the configured search engine. Be aware: a low query length limit may cause the performance impact.","This value must be compatible with the corresponding setting in the configured search engine. Be aware: a low query length limit may cause the performance impact."
-"This value must be compatible with the corresponding setting in the configured search engine.","This value must be compatible with the corresponding setting in the configured search engine."
+"This value must be compatible with the corresponding setting in the configured search engine. Be aware: a low query length limit may cause the performance impact.","Cette valeur doit être compatible avec le paramètre correspondant dans le moteur de recherche configuré. Soyez attentif : une limite de longueur de requête trop basse peut causer un impact sur les performances."
+"This value must be compatible with the corresponding setting in the configured search engine.","Cette valeur doit être compatible avec le paramètre correspondant dans le moteur de recherche configuré."
