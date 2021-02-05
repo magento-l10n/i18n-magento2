@@ -1,3 +1,4 @@
+"Can't convert a shipping cost from ""%1-%2"" for FedEx carrier.","Can't convert a shipping cost from ""%1-%2"" for FedEx carrier."
 "Europe First Priority","Europe First Priority"
 "1 Day Freight","1 Day Freight"
 "2 Day Freight","2 Day Freight"
@@ -43,6 +44,7 @@
 "status","상태"
 "Empty response","Empty response"
 "None","없음"
+"Expected Delivery:","Expected Delivery:"
 "Field ","필드 "
 " is required."," 은 필수항목 입니다."
 "FedEx","FedEx"
@@ -77,4 +79,3 @@
 "Debug","디버그"
 "Show Method if Not Applicable","Show Method if Not Applicable"
 "Sort Order","정렬 순서"
-"Can't convert a shipping cost from ""%1-%2"" for FedEx carrier.","Can't convert a shipping cost from ""%1-%2"" for FedEx carrier."
