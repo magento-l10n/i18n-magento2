@@ -22,8 +22,3 @@
 "If empty, UTF-8 will be used.","Indien leeg zal UTF-8 worden gebruikt."
 "Web Services Configuration","Web Services configuratie"
 "REST and SOAP configurations, generated WSDL file","Door REST en SOAP configuraties gegenereerd WSDL bestand"
-"Authentication header format is invalid.","Authenticatie header formaat is ongeldig."
-"Authentication header is absent.","Authenticatie header is afwezig."
-"REST and SOAP configurations, generated WSDL file.","REST en SOAP configuraties, gegenereerd WSDL bestand."
-"Specified request cannot be processed.","Opgegeven aanvraag kan niet worden verwerkt."
-"The consumer isn't authorized to access %resources.","Gebruiker is niet gemachtigd tot %resources."
