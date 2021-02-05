@@ -19,5 +19,3 @@
 "Success History Lifetime","Success History Lifetime"
 "Failure History Lifetime","Failure History Lifetime"
 "Use Separate Process","Use Separate Process"
-"Cron (Scheduled Tasks) - all the times are in minutes","Cron (naplánované úlohy) - všetky časy sú v minútach"
-"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.","Pre vytovrenie správnych URL odkazov z CRON skriptov, skontrolujte, že sú správne nastavené adresy pre nezabezpečené a zabezpečené stránky (Web -> domovská adresa -> zabezpečená a nezabezpečená)."
