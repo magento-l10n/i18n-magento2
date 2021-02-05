@@ -2,7 +2,7 @@
 "Delete Tax","税削除"
 "All Websites","すべてのウェブサイト"
 "FPT","FPT"
-"You must set unique country-state combinations within the same fixed product tax","固有の国と州の組み合わせを同じ固定商品税で設定する必要があります"
+"Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again.","Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again."
 "Including FPT only","FPT込価格のみ"
 "Including FPT and FPT description","FPT込とFPT概要"
 "Excluding FPT. Including FPT description and final price","FPT除外。 FPT詳細と最終価格含む"
