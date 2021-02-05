@@ -27,6 +27,3 @@
 "Display Prices In Emails","הצגת מחירים באיימלים"
 "Apply Tax To FPT","החל מס על FPT"
 "Include FPT In Subtotal","כלול FPT בסך ביניים"
-"We found a duplicate of website, country and state fields for a fixed product tax","מצאנו כפילות של האתר, מדינה ואזור שדות עבור מס קבוע למוצר"
-"label_value' 'label_value' 'frontend_label","label_value' 'label_value' 'frontend_label"
-"Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again.","Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again."
