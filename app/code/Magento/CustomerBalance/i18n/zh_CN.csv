@@ -52,7 +52,6 @@
 "%name,","%名称，"
 "We have updated your <a href=""%store_url"">%store_name</a> account and you have credit that you can use for future purchases.","我们更新了您的 <a href=""%store_url""> %store_name</a> 帐户和你有信用，您可以使用为未来的采购。"
 "Your Store Credit balance is now %balance.","您的商店信用余额现在是 %balance。"
-"Store credit","店铺信用"
 "Store credit available","可用的商店信用"
 "Your store credit was successfully applied","你的商店信用被成功地应用了"
 "Store Credit Options","存储信贷选项"
@@ -61,5 +60,3 @@
 "Refund Store Credit Automatically","自动退还商店信用"
 "Store Credit Update Email Sender","商店信用更新电子邮件发件人"
 "Store Credit Update Email Template","商店信用更新电子邮件模板"
-"A balance is needed to save a balance history.","保存余额历史记录需要有余额。"
-"The balance history action code is unknown. Verify the code and try again.","余额历史记录操作代码未知。请检查代码后重试。"
