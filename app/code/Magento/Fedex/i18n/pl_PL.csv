@@ -1,3 +1,4 @@
+"Can't convert a shipping cost from ""%1-%2"" for FedEx carrier.","Can't convert a shipping cost from ""%1-%2"" for FedEx carrier."
 "Europe First Priority","Europe First Priority"
 "1 Day Freight","1 Day Freight"
 "2 Day Freight","2 Day Freight"
@@ -43,6 +44,7 @@
 "status","status"
 "Empty response","Pusta odpowiedź"
 "None","Brak"
+"Expected Delivery:","Expected Delivery:"
 "Field ","Pole "
 " is required."," jest wymagane."
 "FedEx","FedEx"
@@ -77,4 +79,3 @@
 "Debug","Tryb debug"
 "Show Method if Not Applicable","Pokaż metodę jeśli niedostępna"
 "Sort Order","Kolejność sortowania"
-"Can't convert a shipping cost from ""%1-%2"" for FedEx carrier.","Can't convert a shipping cost from ""%1-%2"" for FedEx carrier."
