@@ -77,4 +77,4 @@
 "Debug","Depurar"
 "Show Method if Not Applicable","Mostrar el método de envío, incluso si no se aplica"
 "Sort Order","Orden de aparición"
-"Expected Delivery:","Entrega esperada:"
+"Can't convert a shipping cost from ""%1-%2"" for FedEx carrier.","Can't convert a shipping cost from ""%1-%2"" for FedEx carrier."
