@@ -39,7 +39,3 @@
 "Close","Cerrar"
 "Terms & Conditions","Términos y condiciones"
 "Enable Terms and Conditions","Habilitar términos y condiciones"
-"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","El pedido no fue realizado. Primero, acepte los términos y condiciones, luego intente realizar su pedido nuevamente."
-"The ""%1"" checkout agreement couldn't be saved.","El acuerdo de pago ""%1"" no pudo guardarse."
-"The ""%1"" checkout agreement couldn't be removed.","El acuerdo de pago ""%1"" no se puede eliminar."
-"A checkout agreement with the ""%1"" specified ID wasn't found. Verify the ID and try again.","El acuerdo del checkout con el ID especificado ""%1"" no fue encontrado. Verificar el ID y vuelva a intentarlo."
