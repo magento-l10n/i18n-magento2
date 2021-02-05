@@ -27,6 +27,3 @@
 "Display Prices In Emails","Afficher les prix dans les emails"
 "Apply Tax To FPT","Appliquer la taxe à la TFP"
 "Include FPT In Subtotal","Inclure TFP dans le sous-total"
-"We found a duplicate of website, country and state fields for a fixed product tax","Nous avons trouvé un double de champs de site web, pays et État pour une taxe de produit fixe"
-"label_value' 'label_value' 'frontend_label","label_value' 'label_value' 'frontend_label"
-"Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again.","Définissez des combinaisons uniques par pays dans la même taxe fixe sur les produits. Vérifiez les combinaisons et réessayez."
