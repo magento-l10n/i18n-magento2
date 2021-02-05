@@ -9,6 +9,7 @@
 "Reload captcha","טען CAPTCHA מחדש"
 "Please type the letters and numbers below","אנא הקלידו את האותיות והמספרים להלן"
 "Attention: Captcha is case sensitive.","לתשומת לבך: Captcha תלוי רישיות."
+"Please provide CAPTCHA code and try again","Please provide CAPTCHA code and try again"
 "CAPTCHA","CAPTCHA"
 "Enable CAPTCHA in Admin","לאפשר CAPTCHA בממשק הניהול"
 "Font","גופן"
@@ -24,5 +25,3 @@
 "Case Sensitive","תלוי רישיות"
 "Enable CAPTCHA on Storefront","לאפשר CAPTCHA בתצוגת החנות"
 "CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","CAPTCHA עבור טפסי ""צור חשבון"" ו-""שכחתי סיסמה"" תמיד פעילה אם נבחרה."
-"Please enter the letters from the image","נא הזן את האותיות שבתמונה"
-"Please type the letters below","אנא הקלידו את התווים שלהלן"
