@@ -1,11 +1,13 @@
 "Subscription status","Estat de la subscripció"
 "Sorry, there has been an error processing your request. Please try again later.","Ho sento, hi ha hagut un problema progressant la petició. Si us plau, prova-ho més tard."
+"Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.","Sorry, there was an error processing your registration request to Magento Analytics. Please try again later."
+"Error occurred during postponement notification","Error occurred during postponement notification"
 "Time value has an unsupported format","El valor del temps no té un format compatible"
 "Cron settings can't be saved","Les configuracions del Cron no poden ser guardades"
 "There was an error save new configuration value.","N'hi ha hagut un error al guardar el valor de la nova configuració."
-"Please select a vertical.","Si us plau, seleccioneu una vertical."
+"Please select an industry.","Si us plau, seleccioneu una indústria."
 "--Please Select--","--Si us plau, seleccioneu--"
-"Command was not found.","La comanda no s'ha trobat."
+"Command %1"" was not found.""","Command %1"" was not found."""
 "Input data must be string or convertible into string.","Les dades d’entrada han de ser cadenes de text o convertibles en cadena de text."
 "Input data must be non-empty string.","Les dades d’entrada han de ser una cadena de text no buida."
 "Not valid cipher method.","No és vàlid el mètode de xifrat."
@@ -16,14 +18,17 @@
 "File is not ready yet.","El fitxer no està llest encara."
 "Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","L'URL base ha sigut canviada i els teus reports han sigut actualitzats. Els reports avançats estaran disponibles un cop els canvis siguin processats. Si us plau, intenta-ho més tard."
 "Failed to synchronize data to the Magento Business Intelligence service. ","Error al sincronitzar les dades del servei de Magento Business Intelligence. "
-"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Reintentar sincronització</a>"
+"Retry Synchronization","Reintentar sincronització"
 "TestMessage","Missatge de prova"
+"Error message","Error message"
 "Apps and Games","Aplicacions i jocs"
 "Athletic/Sporting Goods","Atlètics/Béns esportius"
 "Art and Design","Art i Disseny"
 "Advanced Reporting","Informes avançats"
 "Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Guanyi noves visites i prengui les rendes del rendiment del seu negoci, utilitzant els nostres informes dinàmics de productes, comandes i clients adaptats a les dades dels seus clients."
+"View details","View details"
 "Go to Advanced Reporting","Vés als informes avançats"
+"An error occurred while subscription process.","An error occurred while subscription process."
 "Analytics","Anàlisi"
 "API","API"
 "Configuration","Configuració"
@@ -31,20 +36,22 @@
 "BI Essentials","BI Essentials"
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>.","Aquest servei proporciona un conjunt dinàmic d’informes amb una àmplia informació sobre el vostre negoci.
-                Podeu accedir als vostres informes de manera segura en un tauler personalitzat fora del tauler d'administració fent clic a l'enllaç ""Informe avançat"". </br> Per obtenir més informació, consulteu la nostra <a href=""https://magento.com/legal/terms/cloud-terms"">
-                termes i condicions </a>."
+                ""Go to Advanced Reporting"" link. </br> For more information, see our
+                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.
+                ","This service provides a dynamic suite of reports with rich insights about your business.
+                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
+                ""Go to Advanced Reporting"" link. </br> For more information, see our
+                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.
+                "
 "Advanced Reporting Service","Servei d'informes avançats"
-"Time of day to send data","Hora del dia per enviar dades"
 "Industry","Indústria"
-"In order to personalize your Advanced Reporting experience, please select your industry.","Per personalitzar l'experiència en els informes avançats, si un plau, seleccioni el tipus de negoci."
+"Time of day to send data","Hora del dia per enviar dades"
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Obtingui més idees amb Magneto Business Intelligence</strong>"
 "Magento Business Intelligence provides you with a simple and clear path to
                     becoming more data driven.</br> Learn more about <a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence us proporciona un camí senzill i clar
-                    per esdevenir més ""data-driven"". </br> Més informació sobre <a target = ""_ blank""
-                    href = ""https://dashboard.rjmetrics.com/v2/magento/signup/""> Nivells de Magento BI Essentials i BI Pro </a>."
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> tier.","Magento Business Intelligence provides you with a simple and clear path to
+                    becoming more data driven.</br> Learn more about <a target=""_blank""
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> tier."
 "Auto Parts","Peces d'automòbil"
 "Baby/Children’s Apparel, Gear and Toys","Indumentària i joguines per a nadons/nens"
 "Beauty and Cosmetics","Bellesa i Cosmètics"
@@ -63,12 +70,16 @@
 "Pet Goods","Productes per mascotes"
 "Pharma and Medical Devices","Dispositius farmacològics i mèdics"
 "Technology B2B","Tecnologia B2B"
-"Other","Altres"
-"The time value is using an unsupported format. Enter a supported format and try again.","El valor de temps utilitza un format no compatible. Introduïu un format compatible i torneu-ho a provar."
-"Please select an industry.","Si us plau, seleccioneu una indústria."
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","Les dades no són vàlides. Introduïu les dades com a cadena de text o dades que es poden convertir en una cadena de text i proveu-ho de nou."
-"The data is invalid. Enter the data as a string and try again.","Les dades no són vàlides. Introduïu les dades com a cadena de text i torneu-ho a provar."
-"The data is invalid. Use a valid cipher method and try again.","Les dades no són vàlides. Feu servir un mètode de xifrat vàlid i torneu-ho a provar."
-"Enter the encryption key and try again.","Introduïu la clau de xifrat i torneu-ho a provar."
-"The ""%1"" source doesn't exist.","L'origen de ""%1"" no existeix."
-"Retry Synchronization","Reintentar sincronització"
+"Analytics Subscription","Analytics Subscription"
+"powered by Magento Business Intelligence","powered by Magento Business Intelligence"
+"Are you sure you want to opt out?","Are you sure you want to opt out?"
+"Cancel","Cancel"
+"Opt out","Opt out"
+"<p>Advanced Reporting in included,
+                    free of charge, in your Magento software. When you opt out, we collect no product, order, and
+                    customer data to generate our dynamic reports.</p><p>To opt in later: You can always turn on Advanced
+                    Reporting in you Admin Panel.</p>","<p>Advanced Reporting in included,
+                    free of charge, in your Magento software. When you opt out, we collect no product, order, and
+                    customer data to generate our dynamic reports.</p><p>To opt in later: You can always turn on Advanced
+                    Reporting in you Admin Panel.</p>"
+"In order to personalize your Advanced Reporting experience, please select your industry.","Per personalitzar l'experiència en els informes avançats, si un plau, seleccioni el tipus de negoci."
