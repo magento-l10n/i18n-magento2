@@ -1,5 +1,5 @@
 "Please specify a website.","Kérem adjon meg egy weblapot."
-"Please specify an email.","Kérjük, adjon meg egy e-mail címet!"
+"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."
 "We found an invalid value in a website column.","Érvénytelen érték található a honlap oszlopban."
 "Please enter a valid email.","Kérjük érvényes emailt adjon meg."
 "Please make sure attribute ""%s"" is not empty.","Kérjük, győződjön meg róla, hogy a(z) ""%s"" attribútum nem üres!"
