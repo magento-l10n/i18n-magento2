@@ -45,3 +45,4 @@
 "Max Recipients","Maksymalna ilość odbiorców"
 "Max Products Sent in 1 Hour","Wysłana maksymalna ilość produktów w 1 godzinie"
 "Limit Sending By","Ogranicz wysyłanie o"
+"We strongly recommend to enable a <a href=""https://devdocs.magento.com/guides/v2.3/security/google-recaptcha.html"" target=_blank"">CAPTCHA solution</a> alongside enabling """"Email to a Friend"""" to ensure abuse of this feature does not occur.""","We strongly recommend to enable a <a href=""https://devdocs.magento.com/guides/v2.3/security/google-recaptcha.html"" target=_blank"">CAPTCHA solution</a> alongside enabling """"Email to a Friend"""" to ensure abuse of this feature does not occur."""

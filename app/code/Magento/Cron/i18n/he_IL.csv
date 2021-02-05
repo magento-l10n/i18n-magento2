@@ -19,5 +19,3 @@
 "Success History Lifetime","היסטוריה עם הצלחה תמידית"
 "Failure History Lifetime","כשל היסטוריה תמידיים"
 "Use Separate Process","השתמש בתהליך נפרד"
-"Cron (Scheduled Tasks) - all the times are in minutes","Cron (משימות מתוזמנות) - כל הזמנים משוערכים בתור דקות"
-"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.","עבור כתובות הURL הנכונים שנוצרו במהלך הcron פועל אנא ודא זאת באמצעות אינטרנט > אבטחה, הURL הבסיס המאובטח והלא מאובטח מוגדרות במפורש."

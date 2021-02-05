@@ -22,6 +22,3 @@
 "Success History Lifetime","نجاح سجل التاريخ منذ البدء"
 "Failure History Lifetime","فشل سجل التاريخ منذ البدء"
 "Use Separate Process","استخدام عملية منفصلة"
-"Cron (Scheduled Tasks) - all the times are in minutes","Cron (Scheduled Tasks) -كل الأوقات بالدقائق"
-"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.","For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.
-"

@@ -19,5 +19,3 @@
 "Success History Lifetime","Sejarah Sukses Seumur Hidup"
 "Failure History Lifetime","Sejarah Kegagalan Seumur Hidup"
 "Use Separate Process","Menggunakan Proses Terpisah"
-"Cron (Scheduled Tasks) - all the times are in minutes","Cron (Scheduled Tasks) - semua waktu dalam hitungan menit"
-"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.","Untuk URL yang benar yang dihasilkan selama pengoperasian cron, pastikan Web> Secure dan Unsecure Base URLs secara eksplisit ditetapkan."

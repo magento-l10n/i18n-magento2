@@ -13,7 +13,4 @@
 "Delete","Smazat"
 "PayPal Account","PayPal účet"
 "Cancel","Zrušit"
-"No payment tokens are available for the specified order payment.","No payment tokens are available for the specified order payment."
-"Credit Card was successfully removed","Platební karta byla odstraněna"
-"My Credit Cards","Mé platební karty"
-"You have no credit cards.","Žádné platební karty nejsou uloženy."
+"Are you sure you want to delete this card: %1?","Are you sure you want to delete this card: %1?"

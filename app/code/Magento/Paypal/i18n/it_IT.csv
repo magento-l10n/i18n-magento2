@@ -1,3 +1,19 @@
+"
+                    <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                                from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                                or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
+                ","
+                    <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                                from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                                or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
+                "
+"payflowpro","payflowpro"
 "Billing Agreements","Accordi di fatturazione"
 "ID","ID"
 "Email","Email"
@@ -21,8 +37,6 @@
 "Order Total","Totale ordine"
 "Purchase Point","Punto di acquisto"
 "Billing Agreement View","Vedi accordo di fatturazione"
-"Are you sure you want to authorize full order amount?","Sei sicuro di voler autorizzare l'intero importo dell'ordine?"
-"Authorize","Autorizza"
 "View Transaction Details","Vedi i dettagli della transazione"
 "Reference Information","Informazioni di riferimento"
 "Transaction Information","Informazioni sulle transazioni"
@@ -49,8 +63,6 @@
 "We can't cancel the billing agreement.","Non è possibile cancellare l'accordo di fatturazione."
 "You deleted the billing agreement.","Hai eliminato l'accordo di fatturazione."
 "We can't delete the billing agreement.","Non è possibile eliminare l'accordo di fatturazione."
-"Payment authorization has been successfully created.","Autorizzazione al pagamento correttamente creata."
-"Unable to make payment authorization.","Impossibile autorizzare il pagamento."
 "Reports","Reports"
 "Sales","Vendite"
 "View Transaction","Vedi transazione"
@@ -69,6 +81,7 @@
 "Express Checkout has been canceled.","L'express checkout è stato annullato."
 "Unable to cancel Express Checkout","Impossibile annullare l'express checkout"
 "Please agree to all the terms and conditions before placing the order.","Si prega di accettare tutti i termini e le condizioni prima di effettuare l'ordine."
+"We can't place the order.","Impossibile inviare l'ordine."
 "We can't process Express Checkout approval.","Non è possibile elaborare l'approvazione del Checkout Express."
 "We can't initialize Express Checkout review.","Non è possibile inizializzare il riepilogo del Checkout Express."
 "We can't update shipping method.","Non è possibile aggiornare il metodo di spedizione."
@@ -79,7 +92,6 @@
 "Requested payment method does not match with order.","Il metodo di pagamento richiesto non corrisponde con l'ordine."
 "Would you like to sign a billing agreement to streamline further purchases with PayPal?","Vuoi completare l'accordo di fatturazione per velocizzare gli acquisti con PayPal?"
 "Error processing payment, please try again later.","Errore durante l'elaborazione del pagamento, riprova più tardi."
-"Authorization is not allowed.","L'azione autorizza non è concessa."
 "Payment Gateway is unreachable at the moment. Please use another payment option.","Il gateway di pagamento non è raggiungibile al momento. Utilizzare un altro metodo di pagamento."
 "PayPal response hasn't required fields.","La risposta di PayPal non ha campi obbligatori."
 "Something went wrong while processing your order.","Qualcosa è andata storta durante l'elaborazione del tuo ordine."
@@ -88,7 +100,6 @@
 "I'm sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you.","Non siamo stati in grado di elaborare il pagamento. Prova con un altro metodo di pagamento o contattaci in modo da poterti aiutare."
 "I'm sorry - but we are not able to complete your transaction. Please contact us so we can assist you.","Non siamo in grado di completare la transazione. Contattaci per fornirti assistenza."
 "A match of the Shipping Address City, State, and Postal Code failed.","Una combinazione dell'Indirizzo di Spedizione città, stato e codice postale non corretta."
-"We can't place the order.","Impossibile inviare l'ordine."
 "The payment method code is not set.","Il codice del metodo di pagamento non è impostato."
 "The reference ID is not set.","L'ID di riferimento non è impostato."
 "Unable to save Billing Agreement:","Impossibile salvare l'accordo di fatturazione:"
@@ -120,9 +131,11 @@
 "IPN (Instant Payment Notification) Only","Solo IPN (notifica immediata del pagamento)"
 "API Signature","Firma API"
 "API Certificate","Certificato API"
-"The maximum number of child authorizations is reached.","È stato raggiunto il numero massimo di autorizzazioni figlie."
+"The ordering amount of %1 is pending approval on the payment gateway.","L'importo dell'ordine di %1 è in attesa di approvazione sul gateway di pagamento."
+"Ordered amount of %1","Importo ordinato di %1"
 "We'll authorize the amount of %1 as soon as the payment gateway approves it.","Autorizzeremo l'importo di %1 non appena verrà approvato dal gateway di pagamento."
 "The authorized amount is %1.","L'importo autorizzato è %1."
+"The maximum number of child authorizations is reached.","È stato raggiunto il numero massimo di autorizzazioni figlie."
 "PayPal can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.","PayPal non è in grado di elaborare gli ordini con un saldo pari a zero. Per completare l'acquisto, si prega di passare attraverso il processo di checkout standard."
 "A payer is not identified.","Non è stato identificato un pagatore."
 "Cannot get secure form URL from PayPal","Impossibile ottenere modulo URL sicuro da PayPal"
@@ -205,9 +218,6 @@
 "N/A. Merchant has indicated that CVV2 is not present on card","N/D. Il commerciante ha indicato che il CVV2 non è presente sulla carta"
 "CNPJ","CNPJ"
 "CPF","CPF"
-"Credit Card","Carta di credito"
-"ending","fine"
-"expires","scadenza"
 "Note: %1","Nota: %1"
 "IPN ""%1"". Case type ""%2"". Case ID ""%3"" %4","IPN ""%1"". Tipo di caso ""%2"". ID caso ""%3"" %4"
 "IPN ""%1"". A dispute has been resolved and closed. %2 Transaction amount %3.","IPN ""%1"". Una controversia è stata risolta e chiusa. %2 Importo transazione %3."
@@ -342,7 +352,6 @@
 "Yes (PayPal recommends this option)","Sì (PayPal consiglia questa opzione)"
 "Created billing agreement #%1.","Creato accordo di fatturazione #%1."
 "We can't create a billing agreement for this order.","Non è possibile creare un accordo di fatturazione per questo ordine."
-"An invoice cannot be created when none of authorization transactions available.","Una fattura non può essere creata senza una transazione di autorizzazione disponibile."
 "Pending PayPal","PayPal in sospeso"
 "PayPal Reversed","PayPal Reversed"
 "PayPal Canceled Reversal","PayPal Reversal cancellato"
@@ -352,6 +361,8 @@
 "Customer","Cliente"
 "Created At","Creato il"
 "Updated At","Aggiornato al"
+"ending","fine"
+"expires","scadenza"
 "Not sure what PayPal payment method to use? Click ","Non sei sicuro di quale metodo di pagamento PayPal utilizzare? Clicca "
 "here","qui"
 " to learn more."," per saperne di più."
@@ -424,8 +435,6 @@
 "Actions","Azioni"
 "Manage","Gestisci"
 "Place Order Using Billing Agreements","Disporre ordine usando i accordi di fatturazione"
-"Orders","Ordini"
-"Payment Amount Authorization","Autorizzazione dell'importo pagato"
 "Merchant Location","Posizione venditore"
 "Merchant Country","Paese venditore"
 "If not specified, Default Country from General Config will be used","Se non specificato, verrà utilizzato il paese predefinito dalla configurazione generale"
@@ -448,7 +457,11 @@
 "Add PayPal as an additional payment method to your checkout page.","Aggiungi PayPal come metodo di pagamento supplementare alla tua pagina di checkout."
 "Required PayPal Settings","Impostazioni PayPal Obbligatorie"
 "Email Associated with PayPal Merchant Account (Optional)","Le email associate con l'account PayPal Venditore (opzionale)"
-"<a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>","<a href=""http://www.magentocommerce.com/paypal"">iniziare ad accettare pagamenti tramite PayPal!</a>"
+"
+                        <a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>
+                    ","
+                        <a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>
+                    "
 "Don't have a PayPal account? Simply enter your email address.","Non hai un conto PayPal? Basta inserire il tuo indirizzo email."
 "API Authentication Methods","Metodi di autenticazione API"
 "API Username","Username API"
@@ -460,29 +473,39 @@
 "Proxy Port","Porta Proxy"
 "Enable this Solution","Abilita questa soluzione"
 "Enable In-Context Checkout Experience","Abilita pratica In-Context Checkout"
-"See PayPal Feature Support details and list of supported regions
-                    <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.","See PayPal Feature Support details and list of supported regions
-                    <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>."
+"
+                    See PayPal Feature Support details and list of supported regions
+                    <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.
+                ","
+                    See PayPal Feature Support details and list of supported regions
+                    <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.
+                "
 "Merchant Account ID","ID Account Venditore"
 "Enable PayPal Credit","Abilita PayPal Credit"
 "PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
                         You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
-                        <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
+                        <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>
+                ","PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
                         You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
-                        <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>"
+                        <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>
+                "
 "Sort Order PayPal Credit","Sequenza di ordinamento PayPal Credit"
 "Advertise PayPal Credit","Advertise PayPal Credit"
-"<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+"
+                    <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                         <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
                         from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
                         Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                         The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                        or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                        or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
+                ","
+                    <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                         <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
                         from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
                         Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                         The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                        or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>."
+                        or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
+                "
 "Publisher ID","ID Publisher"
 "Required to display a banner","Obbligatorio mostrare un banner"
 "Get Publisher ID from PayPal","Ottieni ID Publisher da PayPal"
@@ -523,11 +546,19 @@
 "This feature needs be enabled first for the merchant account through PayPal technical support.","Questa funzionalità deve essere abilitata prima di tutto nell'account venditore tramite supporto tecnico PayPal."
 "Billing Agreement Signup","Accetta accordo di fatturazione"
 "Whether to create a billing agreement, if there are no active billing agreements available.","Crea un accordo di fatturazione, se non c'è nessun accordo di fatturazione attivo disponibile."
-"Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.","Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account."
+"
+                        Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.
+                    ","
+                        Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.
+                    "
 "Skip Order Review Step","Salta step revisione ordine"
 "PayPal Billing Agreement Settings","Impostazioni PayPal accordo di fatturazione"
 "Enabled","Abilitato"
-"Will appear as a payment option only for customers who have at least one active billing agreement.","Will appear as a payment option only for customers who have at least one active billing agreement."
+"
+                            Will appear as a payment option only for customers who have at least one active billing agreement.
+                        ","
+                            Will appear as a payment option only for customers who have at least one active billing agreement.
+                        "
 "Allow in Billing Agreement Wizard","Consenti nella creazione guidata accordo di fatturazione"
 "Settlement Report Settings","Impostazioni report di liquidazione"
 "SFTP Credentials","Credenziali SFTP"
@@ -547,15 +578,31 @@
 "Displays on catalog pages and homepage.","Mostra sulla homepage e nelle pagine del catalogo."
 "PayPal Merchant Pages Style","Stile pagine PayPal del commerciante"
 "Page Style","Stile pagina"
-"Allowable values: ""paypal"", ""primary"" (default), your_custom_value (a custom payment page style from your merchant account profile).","Allowable values: ""paypal"", ""primary"" (default), your_custom_value (a custom payment page style from your merchant account profile)."
+"
+                            Allowable values: ""paypal"", ""primary"" (default), your_custom_value (a custom payment page style from your merchant account profile).
+                        ","
+                            Allowable values: ""paypal"", ""primary"" (default), your_custom_value (a custom payment page style from your merchant account profile).
+                        "
 "Header Image URL","URL dell'immagine header"
-"The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged.","The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged."
+"
+                            The image at the top left of the checkout page. Max size is 750x90-pixel. <strong class=""colorRed"">https</strong> is highly encouraged.
+                        ","
+                            The image at the top left of the checkout page. Max size is 750x90-pixel. <strong class=""colorRed"">https</strong> is highly encouraged.
+                        "
 "Header Background Color","Colore background header"
-"The background color for the header of the checkout page. Case-insensitive six-character HTML hexadecimal color code in ASCII.","The background color for the header of the checkout page. Case-insensitive six-character HTML hexadecimal color code in ASCII."
+"
+                            The background color for the header of the checkout page. Case-insensitive six-character HTML hexadecimal color code in ASCII.
+                        ","
+                            The background color for the header of the checkout page. Case-insensitive six-character HTML hexadecimal color code in ASCII.
+                        "
 "Header Border Color","Colore bordo header"
 "2-pixel perimeter around the header space.","perimetro di 2 pixel attorno allo spazio dell'header."
 "Page Background Color","Colore background pagina"
-"The background color for the checkout page around the header and payment form.","The background color for the checkout page around the header and payment form."
+"
+                            The background color for the checkout page around the header and payment form.
+                        ","
+                            The background color for the checkout page around the header and payment form.
+                        "
 "Payments Advanced","Payments Advanced"
 "Accept payments with a PCI-compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>)","Accetta pagamenti con un checkout conforme PCI-conforme che mantiene i clienti sul tuo sito. (<u>Include Express Checkout</u>)"
 "Payments Advanced and Express Checkout","Pagamenti avanzati ed Express Checkout"
@@ -566,17 +613,21 @@
 "PayPal recommends you set up an additional User on your account at manager.paypal.com, instead of entering your admin username and password here. This will enhance your security and prevent service interruptions if you later change your password. If you do not want to set up an additional User, you can re-enter your Merchant Login here.","PayPal consiglia di impostare un altro utente sul vostro conto presso manager.paypal.com, invece di inserire username e password amministrativa qui. Questo migliorerà la sicurezza e preverrà interruzioni di servizio se cambierai la password in seguito. Se non vuoi impostare un utente aggiuntivo, inserisci nuovamente il login venditore qui."
 "Test Mode","Modalità test"
 "Use Proxy","Utilizza Proxy"
-"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+"
+                    <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                                             <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
                                             from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
                                             Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                                             The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
+                ","
+                    <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                                             <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
                                             from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
                                             Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                                             The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>."
+                                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
+                "
 "Basic Settings - PayPal Payments Advanced","Impostazioni di base - PayPal pagamenti avanzati"
 "It is recommended to set this value to ""Debit or Credit Card"" per store views.","Si consiglia di impostare questo valore a ""Carta di credito o di debito"" per vista negozio."
 "CVV Entry is Editable","Il campo CVV è modificabile"
@@ -593,17 +644,21 @@
 "Website Payments Pro Hosted Solution","Website Payments Pro Hosted Solution"
 "Accept payments with a PCI compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>)","Accetta pagamenti con un checkout conforme PCI-conforme che mantiene i clienti sul tuo sito. (<u>Include Express Checkout</u>)"
 "Payments Pro Hosted Solution","Payments Pro Hosted Solution"
-"<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+"
+                    <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                             <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
                             from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
                             Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                             The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                            or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
+                ","
+                    <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                             <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
                             from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
                             Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                             The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                            or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>."
+                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
+                "
 "Basic Settings - PayPal Payments Pro Hosted Solution","Impostazioni di base - PayPal Payments Pro Hosted Solution"
 "Display Express Checkout in the Payment Information step","Visualizza Express Checkout nello step di informazioni di pagamento"
 "Website Payments Pro Hosted Solution and Express Checkout","Website Payments Pro Hosted Solution e Express Checkout"
@@ -615,7 +670,11 @@
 "Vault Title","Titolo di Deposito"
 "Credit Card Settings","Impostazioni Carta di credito"
 "Allowed Credit Card Types","Tipi di carta di credito validi"
-"Supporting of American Express cards require additional agreement. Learn more at <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.","Supporting of American Express cards require additional agreement. Learn more at <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>."
+"
+                    Supporting of American Express cards require additional agreement. Learn more at <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.
+                ","
+                    Supporting of American Express cards require additional agreement. Learn more at <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.
+                "
 "CVV and AVS Settings","Impostazioni CVV e AVS"
 "Reject Transaction if:","Rifiutare la transazione se:"
 "AVS Street Does Not Match","AVS indirizzi non corrispondono"
@@ -623,123 +682,59 @@
 "Card Issuer Is Outside The United States","L'emittente della carta è fuori dagli Stati Uniti"
 "Card Security Code Does Not Match","Il codice di sicurezza della carta non corrisponde"
 "Payflow Pro and Express Checkout","Payflow Pro e Express Checkout"
-"<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+"
+                    <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                                 <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
                                 from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
                                 Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                                 The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                                or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                                or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
+                ","
+                    <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                                 <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
                                 from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
                                 Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                                 The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                                or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>."
-"We can't contact the PayPal gateway.","Impossibile contattare il gateway di PayPal."
-"The ordering amount of %1 is pending approval on the payment gateway.","L'importo dell'ordine di %1 è in attesa di approvazione sul gateway di pagamento."
-"Ordered amount of %1","Importo ordinato di %1"
-"Matched whole nine-didgit ZIP (no Address)","Corrispondente ad uno ZIP da nove cifre completo (no indirizzo)"
-"Yes. Matched Address and five-didgit ZIP","Sì. Corrisponde l'indirizzo e ZIP di cinque cifre"
-"Invalid method %1::%2(%3)","Metodo non valido %1::%2(%3)"
-"To use PayPal Payments Advanced, you must configure  your PayPal Payments Advanced account on the PayPal website.","Per utilizzare i pagamenti avanzati PayPal, è necessario configurare il tuo account PayPal pagamenti avanzati su sito web PayPal."
-"PayPal Payment Gateways","Gateway di pagamento di PayPal"
-"1","1"
-"PayPal Payment Solutions","Soluzioni di pagamento PayPal"
-"Email Associated with PayPal Merchant Account","Indirizzo email associato all'Account Merchant PayPal"
-"Sandbox Credentials","Credenziali della sandbox"
-"It is recommended to set this value to ""Magento_Paypal"" per store views.","Si consiglia di impostare questo valore su ""Magento_Paypal"" per viste negozio."
-"Payments Advanced (Includes Express Checkout)","Pagamenti avanzati (includi Express Checkout)"
-"Accept payments with a PCI-compliant checkout that keeps customers on your site.","Accetta pagamenti con un checkout PCI-compliant che mantiene i clienti sul tuo sito."
-"Payflow Link (Includes Express Checkout)","Payflow Link (include Express Checkout)"
-"Connect your merchant account with a PCI-compliant gateway that lets customers pay without leaving your site.","Collega il tuo account venditore con un gateway PCI-compliant che consente ai clienti di pagare senza lasciare il vostro sito."
-"Accept payments with a PCI compliant checkout that keeps customers on your site.","Accettare pagamenti con un checkout  PCI compliant che mantiene i clienti sul tuo sito."
-"Connect your merchant account with a fully customizable gateway that lets customers pay without leaving your site.","Collega il tuo account venditore con un gateway completamente personalizzabile che consente di pagare senza lasciare il tuo sito."
-"International AVS Indicator Does Not Match","Indicatore internazionale AVS non corrisponde"
-"Payflow Pro (Includes Express Checkout)","Payflow Pro (include Express Checkout)"
-"Save for later use.","Salva per un uso successivo."
-"Payments Standard","Pagamenti Standard"
-"Accept credit card and PayPal payments securely.","Accept credit card and PayPal payments securely."
-"Basic Settings - PayPal Website Payments Standard","Basic Settings - PayPal Website Payments Standard"
-"Website Payments Standard","Website Payments Standard"
-"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","L'ordine non è stato completato. Devi prima accettare i termini e le condizioni, poi riprova ad effettuare il tuo ordine."
-"The payment couldn't be processed at this time. Please try again later.","The payment couldn't be processed at this time. Please try again later."
-"The verification transaction can't be voided. ","The verification transaction can't be voided. "
-"PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
-                        You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
-                        <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
-                        You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
-                        <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>"
-"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                        <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                        from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                        Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
-                        The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                        or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                        <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                        from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                        Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
-                        The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                        or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>."
-"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
-                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
-                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>."
-"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                                from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
-                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                                or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                                from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
-                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                                or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>."
-"Vault enabled","Deposito abilitato"
-"Gold","Gold"
-"Blue","Blue"
-"Silver","Silver"
-"Black","Black"
-"Vertical","Vertical"
-"Horizontal","Horizontal"
-"Pill","Pill"
-"Rectangle","Rectangle"
-"Medium","Medio"
-"Large","Largo"
-"Responsive","Responsive"
+                                or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
+                "
+"PayPal Express Checkout Payflow Edition lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
+                            You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
+                            <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","PayPal Express Checkout Payflow Edition lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
+                            You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
+                            <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>"
+"Customize Smart Buttons","Customize Smart Buttons"
+"Checkout Page","Checkout Page"
+"Label","Etichetta"
+"The installment feature is available only in these locales: en_MX, es_MX, en_BR, pt_BR.","The installment feature is available only in these locales: en_MX, es_MX, en_BR, pt_BR."
 "Checkout","Checkout"
 "Pay","Pay"
 "Buy Now","Buy Now"
 "PayPal","PayPal"
 "Installment","Installment"
-"PayPal Credit","PayPal Credit"
-"PayPal Guest Checkout Credit Card Icons","PayPal Guest Checkout Credit Card Icons"
-"Elektronisches Lastschriftverfahren - German ELV","Elektronisches Lastschriftverfahren - German ELV"
-"Something went wrong with your request. Please try again later.","Si è verificato un errore sul nostro server. Riprova più tardi."
-"Customize Smart Buttons","Customize Smart Buttons"
-"Checkout Page","Checkout Page"
-"Customize Button","Customize Button"
-"Label","Etichetta"
-"The installment feature is available only in these locales: en_MX, es_MX, en_BR, pt_BR.","The installment feature is available only in these locales: en_MX, es_MX, en_BR, pt_BR."
 "Mexico Installment Period","Mexico Installment Period"
 "Brazil Installment Period","Brazil Installment Period"
 "Layout","Layout"
-"Select Responsive to ensure the PayPal button renders correctly on mobile devices.","Select Responsive to ensure the PayPal button renders correctly on mobile devices."
+"Vertical","Vertical"
+"Horizontal","Horizontal"
+"Size","Size"
+"Responsive","Responsive"
 "Shape","Shape"
+"Pill","Pill"
+"Rectangle","Rectangle"
 "Color","Color"
+"Gold","Gold"
+"Blue","Blue"
+"Silver","Silver"
+"Black","Black"
 "Product Pages","Product Pages"
 "Cart Page","Cart Page"
 "Mini Cart","Mini Cart"
 "Features","Features"
-"Disable Funding Options","Disable Funding Options"
-"PayPal will automatically display each enabled funding option to eligible buyers.
-                                For example, PayPal Credit is only shown to buyers in countries where PayPal Credit is
-                                offered and the currency offered by the merchant is USD.","PayPal will automatically display each enabled funding option to eligible buyers.
-                                For example, PayPal Credit is only shown to buyers in countries where PayPal Credit is
-                                offered and the currency offered by the merchant is USD."
+"PayPal will automatically display each enabled funding option to eligible buyers. For example, PayPal Credit is only shown to buyers in countries where PayPal Credit is offered and the currency offered by the merchant is USD.","PayPal will automatically display each enabled funding option to eligible buyers. For example, PayPal Credit is only shown to buyers in countries where PayPal Credit is offered and the currency offered by the merchant is USD."
+"PayPal Credit","PayPal Credit"
+"PayPal Guest Checkout Credit Card Icons","PayPal Guest Checkout Credit Card Icons"
+"Elektronisches Lastschriftverfahren - German ELV","Elektronisches Lastschriftverfahren - German ELV"
+"Please enter at least 0 and at most 65535","Please enter at least 0 and at most 65535"
+"Order is suspended as an account verification transaction is suspected to be fraudulent.","Order is suspended as an account verification transaction is suspected to be fraudulent."
+"Payment can't be accepted since transaction was rejected by merchant.","Payment can't be accepted since transaction was rejected by merchant."
+"A successful payment transaction has already been completed. Please, check if the order has been placed.","A successful payment transaction has already been completed. Please, check if the order has been placed."

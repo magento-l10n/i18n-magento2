@@ -12,10 +12,11 @@
 "Invalid file upload attempt","Upaya upload unggahan tidak valid"
 "Invalid file upload attempt.","Upaya upload unggahan tidak valid."
 "Invalid file format.","Format file tidak valid."
-"One of the countries has invalid code.","Salah satu negara memiliki kode yang tidak valid."
+"Country code is invalid: %1","Kode Negara tidak valid: %1"
 "Import Tax Rates","Tarif Pajak Impor"
 "Export Tax Rates","Tarif Pajak Ekspor"
 "CSV","Csv"
 "Excel XML","Excel XML"
-"Country code is invalid: %1","Kode Negara tidak valid: %1"
 "Import/Export Tax Rates","Tarif Pajak Impor / Ekspor"
+"Please select a file to import!","Please select a file to import!"
+

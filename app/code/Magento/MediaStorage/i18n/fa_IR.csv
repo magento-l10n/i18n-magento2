@@ -23,6 +23,3 @@
 "Select Media Database","انتخاب پایگاه داده رسانه"
 "After selecting a new media storage location, press the Synchronize button to transfer all media to that location. Media will not be available in the new location until the synchronization process is complete.","پس از انتخاب یک مکان ذخیره سازی رسانه جدید، دکمه همگام سازی را فشار دهید تا همه رسانه را به آن مکان انتقال دهید. رسانه تا زمانی که فرآیند همگام سازی کامل نشود، در مکان جدید در دسترس نخواهد بود."
 "Environment Update Time","زمان به روز رسانی محيط"
-"The ""%1"" file doesn't exist. Verify the file and try again.","The ""%1"" file doesn't exist. Verify the file and try again."
-"Cannot resize image ""%1"" - original image not found","Cannot resize image ""%1"" - original image not found"
-"Cannot resize images - product images not found","Cannot resize images - product images not found"

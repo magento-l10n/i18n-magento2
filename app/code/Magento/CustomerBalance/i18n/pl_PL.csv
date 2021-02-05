@@ -52,7 +52,6 @@
 "%name,","%name,"
 "We have updated your <a href=""%store_url"">%store_name</a> account and you have credit that you can use for future purchases.","Zaktualizowaliśmy twoje <a href=""%store_url""> %store_name</a> konto i masz kredyt, którego możesz użyć płacąc za przyszłe zakupy."
 "Your Store Credit balance is now %balance.","Twój Kredyt Sklepu wynosi teraz %balance."
-"Store credit","Kredyt w sklepie"
 "Store credit available","Dostępny kredyt sklepu"
 "Your store credit was successfully applied","Pomyślnie zastosowano kartę kredytową w sklepie"
 "Store Credit Options","Opcje kredytu kupieckiego"
@@ -61,5 +60,3 @@
 "Refund Store Credit Automatically","Zwróć kredyt kupiecki automatycznie"
 "Store Credit Update Email Sender","Nadawca wiadomości e-mail o aktualizacji kredytu kupieckiego"
 "Store Credit Update Email Template","Szablon wiadomości e-mail o aktualizacji kredytu kupieckiego"
-"A balance is needed to save a balance history.","A balance is needed to save a balance history."
-"The balance history action code is unknown. Verify the code and try again.","The balance history action code is unknown. Verify the code and try again."

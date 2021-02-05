@@ -6,7 +6,7 @@
 "Filename","ファイル名"
 "example: sitemap.xml","例: sitemap.xml"
 "Path","パス"
-"example: ""/sitemap/"" or ""/"" for base path (path must be writeable)","例: ""/sitemap/"" あるいは ""/"" をベースパスに (パスは書き込み可のでなければならない)"
+"example: ""/media/sitemap/"" for base path (path must be writeable)","example: ""/media/sitemap/"" for base path (path must be writeable)"
 "Store View","ストアビュー"
 "Generate","生成"
 "XML Sitemap","XML サイトマップ"
@@ -64,3 +64,4 @@
 "Link for Google","Googleへリンク"
 "Last Generated","最終作成日"
 "Action","アクション"
+"Store Url Options","Store Url Options"

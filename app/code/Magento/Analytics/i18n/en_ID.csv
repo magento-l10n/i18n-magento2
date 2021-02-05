@@ -1,11 +1,13 @@
 "Subscription status","Status langganan"
 "Sorry, there has been an error processing your request. Please try again later.","Maaf, telah terjadi kesalahan saat memproses permintaan Anda. Silakan coba lagi nanti."
+"Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.","Sorry, there was an error processing your registration request to Magento Analytics. Please try again later."
+"Error occurred during postponement notification","Error occurred during postponement notification"
 "Time value has an unsupported format","Nilai waktu memiliki format yang tidak didukung"
 "Cron settings can't be saved","Setelan cron tidak dapat disimpan"
 "There was an error save new configuration value.","Terjadi kesalahan saat menyimpan nilai konfigurasi baru."
-"Please select a vertical.","Silahkan pilih vertikal."
+"Please select an industry.","Please select an industry."
 "--Please Select--","--Silahkan pilih--"
-"Command was not found.","Perintah tidak ditemukan."
+"Command %1"" was not found.""","Command %1"" was not found."""
 "Input data must be string or convertible into string.","Input data harus berupa string atau convertible menjadi string."
 "Input data must be non-empty string.","Data masukan harus berupa string yang tidak kosong."
 "Not valid cipher method.","Metode cipher tidak valid."
@@ -16,14 +18,17 @@
 "File is not ready yet.","File belum siap."
 "Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","URL Base Anda telah diubah dan laporan Anda sedang diperbarui. Pelaporan Lanjutan akan tersedia setelah perubahan ini diproses. Silakan coba lagi nanti."
 "Failed to synchronize data to the Magento Business Intelligence service. ","Failed to synchronize data to the Magento Business Intelligence service. "
-"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Retry Synchronization</a>"
+"Retry Synchronization","Retry Synchronization"
 "TestMessage","TesPesan"
+"Error message","Error message"
 "Apps and Games","Aplikasi Dan Game"
 "Athletic/Sporting Goods","Barang olahraga/atletik"
 "Art and Design","Seni Dan Desain"
 "Advanced Reporting","Pelaporan Lanjutan"
 "Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Dapatkan wawasan baru dan ambil kendali kinerja bisnis Anda, dengan menggunakan laporan produk, pesanan, dan pelanggan dinamis kami yang disesuaikan dengan data pelanggan Anda."
+"View details","View details"
 "Go to Advanced Reporting","Buka Pelaporan Lanjutan"
+"An error occurred while subscription process.","An error occurred while subscription process."
 "Analytics","Analistik"
 "API","API"
 "Configuration","Konfigurasi"
@@ -31,21 +36,22 @@
 "BI Essentials","BI Penting"
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>.","This service provides a dynamic suite of reports with rich insights about your business.
+                ""Go to Advanced Reporting"" link. </br> For more information, see our
+                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.
+                ","This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>."
+                ""Go to Advanced Reporting"" link. </br> For more information, see our
+                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.
+                "
 "Advanced Reporting Service","Layanan Pelaporan Lanjutan"
-"Time of day to send data","Waktu hari untuk mengirim data"
 "Industry","Industri"
-"In order to personalize your Advanced Reporting experience, please select your industry.","Untuk mempersonalisasi pengalaman Pelaporan Lanjutan Anda, pilih industri Anda."
+"Time of day to send data","Waktu hari untuk mengirim data"
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Get more insights from Magento Business Intelligence</strong>"
 "Magento Business Intelligence provides you with a simple and clear path to
                     becoming more data driven.</br> Learn more about <a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence provides you with a simple and clear path to
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> tier.","Magento Business Intelligence provides you with a simple and clear path to
                     becoming more data driven.</br> Learn more about <a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers."
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> tier."
 "Auto Parts","Bagian otomatis"
 "Baby/Children’s Apparel, Gear and Toys","Perlengkapan Bayi/Anak, Gear dan Mainan"
 "Beauty and Cosmetics","Kecantikan dan Kosmetik"
@@ -64,12 +70,16 @@
 "Pet Goods","Barang hewan"
 "Pharma and Medical Devices","Pharma dan Alat Kesehatan"
 "Technology B2B","Teknologi B2B"
-"Other","Lain"
-"The time value is using an unsupported format. Enter a supported format and try again.","The time value is using an unsupported format. Enter a supported format and try again."
-"Please select an industry.","Please select an industry."
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","The data is invalid. Enter the data as a string or data that can be converted into a string and try again."
-"The data is invalid. Enter the data as a string and try again.","The data is invalid. Enter the data as a string and try again."
-"The data is invalid. Use a valid cipher method and try again.","The data is invalid. Use a valid cipher method and try again."
-"Enter the encryption key and try again.","Enter the encryption key and try again."
-"The ""%1"" source doesn't exist.","The ""%1"" source doesn't exist."
-"Retry Synchronization","Retry Synchronization"
+"Analytics Subscription","Analytics Subscription"
+"powered by Magento Business Intelligence","powered by Magento Business Intelligence"
+"Are you sure you want to opt out?","Are you sure you want to opt out?"
+"Cancel","Cancel"
+"Opt out","Opt out"
+"<p>Advanced Reporting in included,
+                    free of charge, in your Magento software. When you opt out, we collect no product, order, and
+                    customer data to generate our dynamic reports.</p><p>To opt in later: You can always turn on Advanced
+                    Reporting in you Admin Panel.</p>","<p>Advanced Reporting in included,
+                    free of charge, in your Magento software. When you opt out, we collect no product, order, and
+                    customer data to generate our dynamic reports.</p><p>To opt in later: You can always turn on Advanced
+                    Reporting in you Admin Panel.</p>"
+"In order to personalize your Advanced Reporting experience, please select your industry.","Untuk mempersonalisasi pengalaman Pelaporan Lanjutan Anda, pilih industri Anda."

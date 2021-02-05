@@ -1,3 +1,5 @@
+"sales_rule","sales_rule"
+"Magento\SalesRule\Api\Data\RuleInterface","Magento\SalesRule\Api\Data\RuleInterface"
 "An error occurred during processing; coupon with id %1 expiration date wasn't updated. The error message was: %2","Ett fel uppstod under bearbetning. Kupong med id %1 utgångsdatumet uppdaterades inte. Felmeddelandet var: %2"
 "Future Update in this time range already exists. Select a different range to add a new Future Update.","Det finns redan framtida uppdatering i detta tidsintervall. Välj ett annat tidsintervall."
 "ID","ID"
@@ -43,7 +45,3 @@
 "Start Time","Starttid"
 "End Time","End Time"
 "Cart Price Rules","Varukorg pris regler"
-"Remove Cart Price Rule from Campaign","Remove Cart Price Rule from Campaign"
-"Move to Another Campaign","Flytta till annan kampanj"
-"Deleting the update will remove the cart price rule from this campaign and all scheduled changes will be lost.","Deleting the update will remove the cart price rule from this campaign and all scheduled changes will be lost."
-"Future Update already exists in this time range. Set a different range and try again.","Future Update already exists in this time range. Set a different range and try again."

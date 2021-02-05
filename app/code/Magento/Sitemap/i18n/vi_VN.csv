@@ -6,7 +6,7 @@
 "Filename","Tên file"
 "example: sitemap.xml","ví dụ: sitemap.xml"
 "Path","Đường dẫn"
-"example: ""/sitemap/"" or ""/"" for base path (path must be writeable)","ví dụ: ""/sitemap/"" hoặc ""/"" dành cho cơ sở đường dẫn (đường dẫn phải có thể ghi)"
+"example: ""/media/sitemap/"" for base path (path must be writeable)","example: ""/media/sitemap/"" for base path (path must be writeable)"
 "Store View","Xem cửa hàng"
 "Generate","Tạo ra"
 "XML Sitemap","Sơ đồ trang web XML"
@@ -64,3 +64,4 @@
 "Link for Google","Liên kết cho Google"
 "Last Generated","Lần Cuối tạo ra"
 "Action","Thao tác"
+"Store Url Options","Store Url Options"

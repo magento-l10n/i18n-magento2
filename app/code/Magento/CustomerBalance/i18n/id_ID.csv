@@ -52,7 +52,6 @@
 "%name,","%nama,"
 "We have updated your <a href=""%store_url"">%store_name</a> account and you have credit that you can use for future purchases.","Kami telah memperbarui akun <a href=""%store_url""> %store_name </a> Anda dan Anda memiliki kredit yang dapat Anda gunakan untuk pembelian di masa mendatang."
 "Your Store Credit balance is now %balance.","Saldo Kredit Toko Anda sekarang adalah %balance."
-"Store credit","Simpan kredit"
 "Store credit available","Simpan kredit yang tersedia"
 "Your store credit was successfully applied","Kredit toko Anda berhasil diterapkan"
 "Store Credit Options","Simpan Pilihan Kredit"
@@ -61,5 +60,3 @@
 "Refund Store Credit Automatically","Pengembalian kredit toko secara otomatis"
 "Store Credit Update Email Sender","Simpan Kredit Update Email Pengirim"
 "Store Credit Update Email Template","Simpan Template Email Pembaruan Kredit"
-"A balance is needed to save a balance history.","A balance is needed to save a balance history."
-"The balance history action code is unknown. Verify the code and try again.","The balance history action code is unknown. Verify the code and try again."

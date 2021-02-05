@@ -19,5 +19,3 @@
 "Success History Lifetime","成功的历史寿命"
 "Failure History Lifetime","失败的历史寿命"
 "Use Separate Process","使用单独的进程"
-"Cron (Scheduled Tasks) - all the times are in minutes","Cron (计划任务)-所有的时间都是在几分钟内"
-"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.","为正确的 Url 生成期间 cron 运行请确认网络 > 安全和不安全基准网址显式设置。"

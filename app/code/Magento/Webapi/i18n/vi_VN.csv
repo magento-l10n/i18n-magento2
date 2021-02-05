@@ -22,8 +22,3 @@
 "If empty, UTF-8 will be used.","Nếu trống, UTF-8 sẽ được sử dụng."
 "Web Services Configuration","Cấu hình dịch vụ Web"
 "REST and SOAP configurations, generated WSDL file","Cấu hình REST và SOAP tạo ra các file WSDL"
-"Authentication header format is invalid.","Định dạng header của xác thực không hợp lệ."
-"Authentication header is absent.","Header chứng thực không thường xuyên xuất hiện."
-"REST and SOAP configurations, generated WSDL file.","Cấu hình REST và SOAP và tạo ra các file WSDL."
-"Specified request cannot be processed.","Specified request cannot be processed."
-"The consumer isn't authorized to access %resources.","The consumer isn't authorized to access %resources."

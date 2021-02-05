@@ -9,6 +9,7 @@
 "Reload captcha","CAPTCHA herladen"
 "Please type the letters and numbers below","Typ hieronder de letters en cijfers"
 "Attention: Captcha is case sensitive.","Opgelet: Captcha is hoofdletter gevoelig."
+"Please provide CAPTCHA code and try again","Please provide CAPTCHA code and try again"
 "CAPTCHA","CAPTCHA"
 "Enable CAPTCHA in Admin","CAPTCHA activeren in admin"
 "Font","Lettertype"
@@ -24,5 +25,3 @@
 "Case Sensitive","Hoofdletter gevoelig"
 "Enable CAPTCHA on Storefront","CAPTCHA op Storefront inschakelen"
 "CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","CAPTCHA voor ""Account aanmaken"" en ""Wachtwoord vergeten"" altijd ingeschakeld indien gekozen."
-"Please enter the letters from the image","Voer de letters van de afbeelding in"
-"Please type the letters below","Typ de letters hieronder"

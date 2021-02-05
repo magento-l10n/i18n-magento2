@@ -27,6 +27,3 @@
 "Display Prices In Emails","عرض أسعار في رسائل البريد الإلكتروني"
 "Apply Tax To FPT","تطبيق الضريبة على FPT"
 "Include FPT In Subtotal","وتشمل FPT في المجموع الفرعي"
-"We found a duplicate of website, country and state fields for a fixed product tax","وجدنا نسخة مكررة، حقول الموقع والبلد والدولة لفرض ضريبة ثابتة على المنتجات"
-"label_value' 'label_value' 'frontend_label","label_value' 'label_value' 'frontend_label"
-"Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again.","Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again."

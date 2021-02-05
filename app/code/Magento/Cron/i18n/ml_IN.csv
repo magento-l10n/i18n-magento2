@@ -19,5 +19,3 @@
 "Success History Lifetime","Success History Lifetime"
 "Failure History Lifetime","Failure History Lifetime"
 "Use Separate Process","പ്രത്യേക പ്രോസസ്സ് ഉപയോഗിക്കുക"
-"Cron (Scheduled Tasks) - all the times are in minutes","ക്രോൺ (ഷെഡ്യൂൾഡ് ടാസ്‌ക്കുകൾ) - എല്ലാ സമയവും മിനിറ്റിലാണ്"
-"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.","ക്രോൺ റൺസ് സമയത്ത് ജനറേറ്റുചെയ്‌ത ശരിയായ URL- കൾക്കായി വെബ്> സുരക്ഷിതവും സുരക്ഷിതമല്ലാത്തതുമായ അടിസ്ഥാന URL- കൾ വ്യക്തമായി സജ്ജമാക്കിയിട്ടുണ്ടെന്ന് ഉറപ്പാക്കുക."

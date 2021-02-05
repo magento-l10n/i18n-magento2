@@ -12,10 +12,11 @@
 "Invalid file upload attempt","Poging Ongeldig bestand te uploaden"
 "Invalid file upload attempt.","Poging Ongeldig bestand te uploaden."
 "Invalid file format.","Ongeldig bestandsformaat."
-"One of the countries has invalid code.","Eén van de landen heeft een ongeldige code."
+"Country code is invalid: %1","Land code is ongeldig: %1"
 "Import Tax Rates","BTW-tarieven Importeren"
 "Export Tax Rates","Exporteer BTW-tarieven"
 "CSV","CSV"
 "Excel XML","Excel XML"
-"Country code is invalid: %1","Land code is ongeldig: %1"
 "Import/Export Tax Rates","BTW-tarieven in- en exporteren"
+"Please select a file to import!","Please select a file to import!"
+

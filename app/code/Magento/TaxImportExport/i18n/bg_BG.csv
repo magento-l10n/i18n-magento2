@@ -12,10 +12,11 @@
 "Invalid file upload attempt","Невалиден файл качване опит"
 "Invalid file upload attempt.","Невалиден файл качване опит."
 "Invalid file format.","Невалиден файлов формат."
-"One of the countries has invalid code.","Една от страните има невалиден код."
+"Country code is invalid: %1","Country code is invalid: %1"
 "Import Tax Rates","Импортиране на данъчните ставки"
 "Export Tax Rates","Експортиране на данъчните ставки"
 "CSV","CSV"
 "Excel XML","Excel XML"
-"Country code is invalid: %1","Country code is invalid: %1"
 "Import/Export Tax Rates","Данъчните ставки за импортиране/експортиране"
+"Please select a file to import!","Please select a file to import!"
+

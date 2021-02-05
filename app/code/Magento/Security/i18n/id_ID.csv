@@ -26,5 +26,6 @@
 "Limit the number of password reset request per hour. Use 0 to disable.","Batas jumlah permintaan merubah kata sandi setiap waktu. Menggunakan 0 untuk tidak mengaktifkan."
 "Min Time Between Password Reset Requests","Minimal Waktu Permintaan Merubah kata Sandi"
 "Delay in minutes between password reset requests. Use 0 to disable.","Penundaan beberapa menit untuk permintaan mengubah kata sandi. Menggunakan 0 untuk tidak mengaktifkan."
-"Your account is temporarily disabled. Please try again later.","Your account is temporarily disabled. Please try again later."
-"We received too many requests for password resets. Please wait and try again later or contact %1.","We received too many requests for password resets. Please wait and try again later or contact %1."
+"""%1"" must be later than the current date.","""%1"" must be later than the current date."
+"User Expiration","User Expiration"
+"""%1"" is not a valid date.","""%1"" is not a valid date."

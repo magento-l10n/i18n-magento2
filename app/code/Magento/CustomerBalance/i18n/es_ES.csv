@@ -52,7 +52,6 @@
 "%name,","%name,"
 "We have updated your <a href=""%store_url"">%store_name</a> account and you have credit that you can use for future purchases.","Hemos actualizado su cuenta <a href=""%store_url""> %store_name</a> y tienes crédito que puede utilizar para futuras compras."
 "Your Store Credit balance is now %balance.","Su saldo de crédito de la tienda es ahora %balance."
-"Store credit","Crédito en la tienda"
 "Store credit available","Saldo de crédito de la tienda"
 "Your store credit was successfully applied","Su crédito de la tienda fue aplicado con éxito"
 "Store Credit Options","Opciones de crédito de la tienda"
@@ -61,5 +60,3 @@
 "Refund Store Credit Automatically","Reembolsar Crédito de la Tienda Automáticamente"
 "Store Credit Update Email Sender","Remitente de Email de Actualización de crédito de la tienda"
 "Store Credit Update Email Template","Plantilla de Email de actualización de crédito de la tienda"
-"A balance is needed to save a balance history.","Un balance es necesario para guardar el historial."
-"The balance history action code is unknown. Verify the code and try again.","El código de acción del historial de saldo es desconocido. Compruebe el código y vuelva a intentarlo."

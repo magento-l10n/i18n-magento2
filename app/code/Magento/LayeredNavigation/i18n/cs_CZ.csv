@@ -27,12 +27,3 @@
 "This setting will be applied when all prices in the specific price interval are equal.","Toto nastavení bude použito, jsou-li všechny ceny v konkrétním intervalu stejné."
 "Interval Division Limit","Limit intervalu"
 "Please specify the number of products, that will not be divided into subintervals.","Zadejte množství produktů, které nebude rozděleno do intervalů."
-"Position of attribute in layered navigation block","Pořadí atributu v bloku vrstvené navigace"
-"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price"
-"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
-                    <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
-                     it will make no affect on Price filter.","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
-                    <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
-                     it will make no affect on Price filter."
-"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price."
-"Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price.","Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price."

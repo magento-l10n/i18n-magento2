@@ -6,7 +6,7 @@
 "Filename","Dosya Adı"
 "example: sitemap.xml","örnek: sitemap.xml"
 "Path","Yol"
-"example: ""/sitemap/"" or ""/"" for base path (path must be writeable)","örnek: ""sitemap/"" veya ana dizin için ""/"" kullanınız (klasör web sunucusu tarafından yazılabilir olmalıdır)"
+"example: ""/media/sitemap/"" for base path (path must be writeable)","example: ""/media/sitemap/"" for base path (path must be writeable)"
 "Store View","Mağaza Görünümü"
 "Generate","Üret"
 "XML Sitemap","XML site haritası"
@@ -64,3 +64,4 @@
 "Link for Google","Google Linki"
 "Last Generated","Son üretilen"
 "Action","Eylem"
+"Store Url Options","Store Url Options"

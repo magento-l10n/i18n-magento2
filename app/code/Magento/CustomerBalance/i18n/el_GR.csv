@@ -52,7 +52,6 @@
 "%name,","%name,"
 "We have updated your <a href=""%store_url"">%store_name</a> account and you have credit that you can use for future purchases.","Έχουμε ενημερώσει το λογαριασμό σας στο <a href=""%store_url"">%store_name</a> και έχετε πίστωση που μπορείτε να χρησιμοποιήσετε για μελλοντικές αγορές."
 "Your Store Credit balance is now %balance.","Το πιστωτικό σας υπόλοιπο στο Κατάστημα είναι τώρα %balance."
-"Store credit","Πίστωση"
 "Store credit available","Διαθέσιμη πίστωση"
 "Your store credit was successfully applied","Εφαρμόστηκε με επιτυχία η πίστωσή σας στο κατάστημα"
 "Store Credit Options","Επιλογές Πίστωσης"
@@ -61,5 +60,3 @@
 "Refund Store Credit Automatically","Επιστροφή πίστωσης καταστήματος αυτόματα"
 "Store Credit Update Email Sender","Αποστολέας Email Ενημέρωσης Πίστωσης Καταστήματος"
 "Store Credit Update Email Template","Πρότυπο Email Ενημέρωσης Πίστωσης Καταστήματος"
-"A balance is needed to save a balance history.","Ένα υπόλοιπο απαιτείται για την αποθήκευση του ιστορικού υπολοίπου."
-"The balance history action code is unknown. Verify the code and try again.","Ο κωδικός ενέργειας ιστορικού υπολοίπου είναι άγνωστος. Επαληθεύστε τον κωδικό και δοκιμάστε ξανά."

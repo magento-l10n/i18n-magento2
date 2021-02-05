@@ -6,7 +6,7 @@
 "Filename","Nome file"
 "example: sitemap.xml","esempio: sitemap.xml"
 "Path","Percorso"
-"example: ""/sitemap/"" or ""/"" for base path (path must be writeable)","esempio: ""/sitemap/"" o ""/"" per il percorso base (il percorso deve essere scrivibile)"
+"example: ""/media/sitemap/"" for base path (path must be writeable)","example: ""/media/sitemap/"" for base path (path must be writeable)"
 "Store View","Vista Negozio"
 "Generate","Genera"
 "XML Sitemap","Sitemap XML"
@@ -64,3 +64,4 @@
 "Link for Google","Link per Google"
 "Last Generated","L'ultimo generato"
 "Action","Azione"
+"Store Url Options","Store Url Options"

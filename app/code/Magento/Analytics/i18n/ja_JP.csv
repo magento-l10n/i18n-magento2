@@ -1,11 +1,13 @@
 "Subscription status","購読状況"
 "Sorry, there has been an error processing your request. Please try again later.","申し訳ありませんが、リクエストの処理中にエラーが発生しました。後で再度お試し下さい。"
+"Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.","Sorry, there was an error processing your registration request to Magento Analytics. Please try again later."
+"Error occurred during postponement notification","Error occurred during postponement notification"
 "Time value has an unsupported format","時間の値はサポートされていない形式です"
 "Cron settings can't be saved","Cron 設定を保存できません。"
 "There was an error save new configuration value.","新しい設定値を保存中にエラーが発生しました。"
-"Please select a vertical.","垂直方向に選択してください。"
+"Please select an industry.","業種を選択してください。"
 "--Please Select--","--選択してください--"
-"Command was not found.","コマンドは見つかりませんでした。"
+"Command %1"" was not found.""","Command %1"" was not found."""
 "Input data must be string or convertible into string.","入力データは文字列または文字列に変換可能でなければなりません。"
 "Input data must be non-empty string.","入力データは、空でない文字列にする必要があります。"
 "Not valid cipher method.","有効でないサイファーメソッド"
@@ -16,14 +18,17 @@
 "File is not ready yet.","ファイルが読み込めません。"
 "Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","ベースURLが変更され、レポートが更新されています。 この変更が処理されると、詳細なレポートが利用可能になります。 後で再度お試し下さい。"
 "Failed to synchronize data to the Magento Business Intelligence service. ","データをMagento Business Intelligence サービスと同期できませんでした。 "
-"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">同期を再試行</a>"
+"Retry Synchronization","同期の再試行"
 "TestMessage","テストメッセージ"
+"Error message","Error message"
 "Apps and Games","アプリとゲーム"
 "Athletic/Sporting Goods","運動/スポーツ用品"
 "Art and Design","アートとデザイン"
 "Advanced Reporting","詳細なレポート"
 "Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","お客様の顧客データに合わせた動的な商品、注文、顧客レポートを使用して、新しい洞察を得て、ビジネスパフォーマンスの指揮を執ることができます。"
+"View details","View details"
 "Go to Advanced Reporting","詳細なレポートに進む"
+"An error occurred while subscription process.","An error occurred while subscription process."
 "Analytics","アナリティクス"
 "API","API"
 "Configuration","設定"
@@ -31,20 +36,22 @@
 "BI Essentials","BI エッセンシャル"
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>.","このサービスは、動的な一連のレポートにあなたのビジネスに関する豊富な洞察を提供します。
-                「詳細なレポートに移動する」のリンクをクリックすることで、管理パネル外のパーソナライズされたダッシュボードで、レポートに安全にアクセスできます。</br>
-                詳細については、<a href=""https://magento.com/legal/terms/cloud-terms"">契約条件をご覧下さい。</a>"
+                ""Go to Advanced Reporting"" link. </br> For more information, see our
+                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.
+                ","This service provides a dynamic suite of reports with rich insights about your business.
+                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
+                ""Go to Advanced Reporting"" link. </br> For more information, see our
+                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.
+                "
 "Advanced Reporting Service","詳細なレポートサービス"
-"Time of day to send data","データを送信する時刻"
 "Industry","業界"
-"In order to personalize your Advanced Reporting experience, please select your industry.","高度なレポーティングの体験をパーソナライズするには、業界を選択してください。"
+"Time of day to send data","データを送信する時刻"
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Magento Business Intelligenceからより多くの洞察を得る</strong>"
 "Magento Business Intelligence provides you with a simple and clear path to
                     becoming more data driven.</br> Learn more about <a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligenceは、より多くのデータ駆動型になるための
-                    シンプルで明確なパスを提供します。</br>詳細については<a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BIEssentials と BI Pro</a> tiersをご覧下さい。"
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> tier.","Magento Business Intelligence provides you with a simple and clear path to
+                    becoming more data driven.</br> Learn more about <a target=""_blank""
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> tier."
 "Auto Parts","自動パーツ"
 "Baby/Children’s Apparel, Gear and Toys","ベビー・子供服、周辺機器、おもちゃ"
 "Beauty and Cosmetics","美容製品と化粧品"
@@ -63,12 +70,16 @@
 "Pet Goods","ペット用品"
 "Pharma and Medical Devices","製薬と医療用器具"
 "Technology B2B","テクノロジーB2B"
-"Other","その他"
-"The time value is using an unsupported format. Enter a supported format and try again.","サポートされていない形式の時刻の値です。サポートされている形式でやり直してください。"
-"Please select an industry.","業種を選択してください。"
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","データが不正です。文字列または文字列に変換可能なデータを指定してやり直してください。"
-"The data is invalid. Enter the data as a string and try again.","データが不正です。文字列を入力し、再度お試し下さい。"
-"The data is invalid. Use a valid cipher method and try again.","データが不正です。有効な暗号方式を使用して、再度お試し下さい。"
-"Enter the encryption key and try again.","暗号化キーを入力して再度お試し下さい。"
-"The ""%1"" source doesn't exist.","""%1"" ソースが存在しません。"
-"Retry Synchronization","同期の再試行"
+"Analytics Subscription","Analytics Subscription"
+"powered by Magento Business Intelligence","powered by Magento Business Intelligence"
+"Are you sure you want to opt out?","Are you sure you want to opt out?"
+"Cancel","Cancel"
+"Opt out","Opt out"
+"<p>Advanced Reporting in included,
+                    free of charge, in your Magento software. When you opt out, we collect no product, order, and
+                    customer data to generate our dynamic reports.</p><p>To opt in later: You can always turn on Advanced
+                    Reporting in you Admin Panel.</p>","<p>Advanced Reporting in included,
+                    free of charge, in your Magento software. When you opt out, we collect no product, order, and
+                    customer data to generate our dynamic reports.</p><p>To opt in later: You can always turn on Advanced
+                    Reporting in you Admin Panel.</p>"
+"In order to personalize your Advanced Reporting experience, please select your industry.","高度なレポーティングの体験をパーソナライズするには、業界を選択してください。"

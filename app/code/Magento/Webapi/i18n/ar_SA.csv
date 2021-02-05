@@ -22,8 +22,3 @@
 "If empty, UTF-8 will be used.","إذا كان فارغاً، سيتم استخدام ترميز UTF-8."
 "Web Services Configuration","إعدادت خدمات الويب"
 "REST and SOAP configurations, generated WSDL file","إعدادات REST و SOAP، أنشأت ملف WSDL"
-"Authentication header format is invalid.","تنسيق رأس المصادقة غير صالحة."
-"Authentication header is absent.","رأس المصادقة غير موجودة."
-"REST and SOAP configurations, generated WSDL file.","إعدادات REST و SOAP، أنشأت ملف WSDL."
-"Specified request cannot be processed.","Specified request cannot be processed."
-"The consumer isn't authorized to access %resources.","The consumer isn't authorized to access %resources."

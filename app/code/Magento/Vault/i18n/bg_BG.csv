@@ -13,7 +13,4 @@
 "Delete","Изтрий"
 "PayPal Account","PayPal сметка"
 "Cancel","Отказ"
-"No payment tokens are available for the specified order payment.","No payment tokens are available for the specified order payment."
-"Credit Card was successfully removed","Кредитна карта е успешно премахната"
-"My Credit Cards","Моите кредитни карти"
-"You have no credit cards.","Нямате кредитни карти."
+"Are you sure you want to delete this card: %1?","Are you sure you want to delete this card: %1?"

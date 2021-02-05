@@ -70,6 +70,5 @@
 "Select Product...","Ürün Seçiniz..."
 "Conditions","Koşullar"
 "Widget ID","Kutucuk ID"
-"We're sorry, an error has occurred while loading widget options.","Üzgünüz, widget seçenekleri yüklenirken bir hata oluştu."
-"Cancel","İptal"
 "Inserting a widget does not create a widget instance.","Bir widget eklemek, bir widget isteği (instance) oluşturmaz."
+"Are you sure you want to delete the selected widget(s)?","Are you sure you want to delete the selected widget(s)?"

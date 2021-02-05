@@ -19,5 +19,3 @@
 "Success History Lifetime","История на успеха"
 "Failure History Lifetime","История на провалите"
 "Use Separate Process","Използвай отделен процес"
-"Cron (Scheduled Tasks) - all the times are in minutes","Cron (планирани задачи) - всички пъти са в минути"
-"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.","За правилни URL адреси, генерирани по време на cron работи моля уверете се, че уеб > защитен и незащитен база URL адреси са изрично определени."

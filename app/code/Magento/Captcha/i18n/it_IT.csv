@@ -9,6 +9,7 @@
 "Reload captcha","Ricarica il Captcha"
 "Please type the letters and numbers below","Si prega di digitare le lettere e i numeri qui sotto"
 "Attention: Captcha is case sensitive.","Attenzione: il Captcha fa distinzione tra maiuscole e minuscole."
+"Please provide CAPTCHA code and try again","Please provide CAPTCHA code and try again"
 "CAPTCHA","CAPTCHA"
 "Enable CAPTCHA in Admin","Abilita CAPTCHA in Admin"
 "Font","Font"
@@ -25,5 +26,3 @@
 "Enable CAPTCHA on Storefront","
 Usa solo lettere (a-z o A-Z) o numeri (0-9) in questo campo. Non sono consentiti spazi o altri caratteri. <br/> Caratteri con aspetto simile (per esempio ""i"", ""l"", ""1"") diminuiscono la probabilità di riconoscimento corretto dal parte del cliente.                    "
 "CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","Il CAPTCHA per i form ""Crea utente"" e ""Password dimenticata"" è sempre attivato se scelto."
-"Please enter the letters from the image","Inserisci le lettere mostrate nell'immagine"
-"Please type the letters below","Inserisci le lettere qui sotto"

@@ -9,6 +9,7 @@
 "Reload captcha","Lae captcha uuesti"
 "Please type the letters and numbers below","Please type the letters and numbers below"
 "Attention: Captcha is case sensitive.","Tähelepanu: Captcha on tõstutundlik."
+"Please provide CAPTCHA code and try again","Please provide CAPTCHA code and try again"
 "CAPTCHA","CAPTCHA"
 "Enable CAPTCHA in Admin","Luba CAPTCHA administaatoris"
 "Font","Šrift"
@@ -24,5 +25,3 @@
 "Case Sensitive","Tõstutundlik"
 "Enable CAPTCHA on Storefront","Luba CAPTCHA poevaates"
 "CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen."
-"Please enter the letters from the image","Sisesta pildil olev tekst"
-"Please type the letters below","Palun sisestage allpool toodud tähed"

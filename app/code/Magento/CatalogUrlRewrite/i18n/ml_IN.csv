@@ -5,3 +5,8 @@
 "Product URL Suffix","ഉൽപ്പന്ന URL സഫിക്‌സ്"
 "Use Categories Path for Product URLs","ഉൽപ്പന്ന URL കൾക്കായി വിഭാഗങ്ങളുടെ പാത ഉപയോഗിക്കുക"
 "Create Permanent Redirect for URLs if URL Key Changed","URL കീ മാറ്റുകയാണെങ്കിൽ‌ URL കൾ‌ക്കായി സ്ഥിരമായ റീഡയറക്‌ട് സൃഷ്‌ടിക്കുക"
+"Generate ""category/product"" URL Rewrites","Generate ""category/product"" URL Rewrites"
+"URL key ""%1"" matches a reserved endpoint name (%2). Use another URL key.","URL key ""%1"" matches a reserved endpoint name (%2). Use another URL key."
+"Invalid URL key. The ""%1"" URL key can not be used to generate Latin URL key. Please use Latin letters and numbers to avoid generating URL key issues.","Invalid URL key. The ""%1"" URL key can not be used to generate Latin URL key. Please use Latin letters and numbers to avoid generating URL key issues."
+"Invalid URL key. The ""%1"" category name can not be used to generate Latin URL key. Please add URL key or change category name using Latin letters and numbers to avoid generating URL key issues.","Invalid URL key. The ""%1"" category name can not be used to generate Latin URL key. Please add URL key or change category name using Latin letters and numbers to avoid generating URL key issues."
+"<strong class=""colorRed"">Warning!</strong> Turning this option off will result in permanent removal of category/product URL rewrites without an ability to restore them.","<strong class=""colorRed"">Warning!</strong> Turning this option off will result in permanent removal of category/product URL rewrites without an ability to restore them."

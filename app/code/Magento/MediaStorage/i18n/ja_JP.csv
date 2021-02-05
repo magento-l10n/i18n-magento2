@@ -23,6 +23,3 @@
 "Select Media Database","メディアストレージを選択"
 "After selecting a new media storage location, press the Synchronize button to transfer all media to that location. Media will not be available in the new location until the synchronization process is complete.","新しいメディアの置き場所を選択後、同期ボタンを押してその場所にすべてのメディアを移動してください。同期プロセスが完了するまでメディアは新しい場所で有効になりません"
 "Environment Update Time","集計期間"
-"The ""%1"" file doesn't exist. Verify the file and try again.","""%1"" ファイルがありません。ファイルを確認して再度お試し下さい。"
-"Cannot resize image ""%1"" - original image not found","画像 ""%1"" のサイズを変更できません - 元の画像が見つかりません"
-"Cannot resize images - product images not found","画像のサイズを変更できません - 商品画像が見つかりません"

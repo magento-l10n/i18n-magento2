@@ -13,7 +13,4 @@
 "Delete","Poista"
 "PayPal Account","PayPal-tili"
 "Cancel","Peruuta"
-"No payment tokens are available for the specified order payment.","No payment tokens are available for the specified order payment."
-"Credit Card was successfully removed","Luottokortti poistettiin onnistuneesti"
-"My Credit Cards","Omat luottokortit"
-"You have no credit cards.","Sinulla ei ole luottokortteja."
+"Are you sure you want to delete this card: %1?","Are you sure you want to delete this card: %1?"

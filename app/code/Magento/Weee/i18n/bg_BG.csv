@@ -27,6 +27,3 @@
 "Display Prices In Emails","Показване на цените в имейли"
 "Apply Tax To FPT","Приложи данък за FPT"
 "Include FPT In Subtotal","Включи FPT в междинна сума"
-"We found a duplicate of website, country and state fields for a fixed product tax","Намерихме дублирани полата уебсайт, държава и област за Фиксирана Такса за Продукт"
-"label_value' 'label_value' 'frontend_label","label_value' 'label_value' 'frontend_label"
-"Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again.","Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again."

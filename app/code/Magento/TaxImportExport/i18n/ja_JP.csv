@@ -12,10 +12,11 @@
 "Invalid file upload attempt","不正なファイルがアップロードされました"
 "Invalid file upload attempt.","不正なファイルがアップロードされました."
 "Invalid file format.","無効なフォーマット"
-"One of the countries has invalid code.","国コードのうちのひとつが不正です。"
+"Country code is invalid: %1","国コードが無効です: %1"
 "Import Tax Rates","税率のインポート"
 "Export Tax Rates","税率のエクスポート"
 "CSV","CSVファイル"
 "Excel XML","Excel形式XML"
-"Country code is invalid: %1","国コードが無効です: %1"
 "Import/Export Tax Rates","税率のインポート / エクスポート"
+"Please select a file to import!","Please select a file to import!"
+

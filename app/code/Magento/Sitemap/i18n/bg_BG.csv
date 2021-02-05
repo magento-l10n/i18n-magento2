@@ -6,7 +6,7 @@
 "Filename","Име на файл"
 "example: sitemap.xml","example: sitemap.xml"
 "Path","Път"
-"example: ""/sitemap/"" or ""/"" for base path (path must be writeable)","пример: ""/sitemap/"" или ""/"" за база път (пътека трябва да допуска записване)"
+"example: ""/media/sitemap/"" for base path (path must be writeable)","example: ""/media/sitemap/"" for base path (path must be writeable)"
 "Store View","Изглед на магазина"
 "Generate","Генерирай"
 "XML Sitemap","XML карта на сайта"
@@ -64,3 +64,4 @@
 "Link for Google","Връзка за Google"
 "Last Generated","Последно генериран"
 "Action","Действие"
+"Store Url Options","Store Url Options"

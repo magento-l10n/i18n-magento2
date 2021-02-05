@@ -9,6 +9,7 @@
 "Reload captcha","Muat ulang captcha"
 "Please type the letters and numbers below","dan nomor"
 "Attention: Captcha is case sensitive.","Perhatian: Captcha bersifat case sensitive."
+"Please provide CAPTCHA code and try again","Please provide CAPTCHA code and try again"
 "CAPTCHA","CAPTCHA"
 "Enable CAPTCHA in Admin","Mengaktifkan CAPTCHA di Admin"
 "Font","Huruf"
@@ -24,5 +25,3 @@
 "Case Sensitive","Hal - hal sensitif"
 "Enable CAPTCHA on Storefront","Aktifkan CAPTCHA di etalase"
 "CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","CAPTCHA untuk formulir ""Buat pengguna"" dan ""Lupa kata sandi"" selalu diaktifkan jika dipilih."
-"Please enter the letters from the image","Silakan masukkan huruf dari gambar"
-"Please type the letters below","Silakan ketik huruf di bawah ini"

@@ -12,10 +12,11 @@
 "Invalid file upload attempt","کوشش برای آپلود فایل نامعتبر"
 "Invalid file upload attempt.","کوشش برای آپلود فایل نامعتبر."
 "Invalid file format.","فرمت فایل نامعتبر."
-"One of the countries has invalid code.","یکی از کشورها دارای کد نامعتبر است."
+"Country code is invalid: %1","Country code is invalid: %1"
 "Import Tax Rates","ورود نرخ‌های مالیات"
 "Export Tax Rates","صدور نرخ‌های مالیات"
 "CSV","CSV"
 "Excel XML","اکسل XML"
-"Country code is invalid: %1","Country code is invalid: %1"
 "Import/Export Tax Rates","ورودی / خروجی نرخ مالیات"
+"Please select a file to import!","Please select a file to import!"
+

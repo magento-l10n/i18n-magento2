@@ -243,8 +243,3 @@
 "New Report","新しいレポート"
 "Date Generated","発生日"
 "Report Groups","レポートグループ"
-"An item needs to be selected. Select and try again.","商品を選択する必要があります。選択して再度お試し下さい。"
-"All processes should be completed.","すべてのプロセスが完了している必要があります."
-"The ""%1"" utility wasn't found. Verify the utility and try again.","""%1"" ユーティリティが見つかりませんでした。ユーティリティを確認して再度お試し下さい。"
-"The ""%1"" utility is unknown. Verify the utility and try again.","""%1"" ユーティリティが不明です。ユーティリティを確認して再度お試し下さい。"
-"The root category can't be set. Verify the category and try again.","ルートカテゴリを設定できません。カテゴリを確認して再度お試し下さい。"

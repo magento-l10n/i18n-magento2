@@ -39,7 +39,3 @@
 "Close","Tanca"
 "Terms & Conditions","Condicions d'ús"
 "Enable Terms and Conditions","Habilitar les condicions d'ús"
-"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","La comanda no s'ha confirmat. Cal acceptar les condicions d'ús i compra abans de tornar a confirmar."
-"The ""%1"" checkout agreement couldn't be saved.","L'acord de compra ""%1"" no es pot desar."
-"The ""%1"" checkout agreement couldn't be removed.","L'acord de compra ""%1"" no es pot eliminar."
-"A checkout agreement with the ""%1"" specified ID wasn't found. Verify the ID and try again.","Acord de compra amb ID ""%1"" no trobat. Verifiqueu l'ID i torneu-ho a provar."

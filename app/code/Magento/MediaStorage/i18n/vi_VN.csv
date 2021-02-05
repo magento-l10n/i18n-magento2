@@ -23,6 +23,3 @@
 "Select Media Database","Chọn cơ sở dữ liệu phương tiện"
 "After selecting a new media storage location, press the Synchronize button to transfer all media to that location. Media will not be available in the new location until the synchronization process is complete.","Sau khi chọn vị trí lưu trữ phương tiện mới, nhấn nút Đồng bộ hóa để chuyển tất cả các phương tiện đến vị trí đó. Phương tiện sẽ không có sẵn trong vị trí mới cho đến khi quá trình đồng bộ hoá hoàn thành."
 "Environment Update Time","Môi trường Cập Nhật thời gian"
-"The ""%1"" file doesn't exist. Verify the file and try again.","The ""%1"" file doesn't exist. Verify the file and try again."
-"Cannot resize image ""%1"" - original image not found","Cannot resize image ""%1"" - original image not found"
-"Cannot resize images - product images not found","Cannot resize images - product images not found"

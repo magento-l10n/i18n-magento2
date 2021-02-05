@@ -13,7 +13,4 @@
 "Delete","Dzēst"
 "PayPal Account","Paypal konts"
 "Cancel","Atcelt"
-"No payment tokens are available for the specified order payment.","Nav pieejami maksājumu marķieri norādītā pasūtījuma apmaksai."
-"Credit Card was successfully removed","Kredītkarte veiksmīgi nodzēsta"
-"My Credit Cards","Manas kredītkartes"
-"You have no credit cards.","Jums nav kredītkaršu."
+"Are you sure you want to delete this card: %1?","Are you sure you want to delete this card: %1?"

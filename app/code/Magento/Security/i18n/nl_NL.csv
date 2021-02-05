@@ -26,5 +26,6 @@
 "Limit the number of password reset request per hour. Use 0 to disable.","Beperk aantal wachtwoord reset verzoeken per uur. Gebruik 0 om uit te schakelen."
 "Min Time Between Password Reset Requests","Minimale tijd tussen wachtwoord reset verzoeken"
 "Delay in minutes between password reset requests. Use 0 to disable.","Vertraging in minuten tussen wachtwoord reset verzoeken. Gebruik 0 om uit te schakelen."
-"Your account is temporarily disabled. Please try again later.","Uw account is tijdelijk uitgeschakeld. Probeer het later opnieuw."
-"We received too many requests for password resets. Please wait and try again later or contact %1.","We hebben teveel aanvragen ontvangen voor het opnieuw instellen van wachtwoorden. Even geduld aub en probeer het later opnieuw of neem contact op met %1."
+"""%1"" must be later than the current date.","""%1"" must be later than the current date."
+"User Expiration","User Expiration"
+"""%1"" is not a valid date.","""%1"" is not a valid date."

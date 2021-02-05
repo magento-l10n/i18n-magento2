@@ -27,6 +27,3 @@
 "Display Prices In Emails","Wyświetlaj ceny w wiadomościach e-mail"
 "Apply Tax To FPT","Używaj podatków w FPT"
 "Include FPT In Subtotal","Zawrzyj FPT w podsumie"
-"We found a duplicate of website, country and state fields for a fixed product tax","Znaleziono zduplikowaną stronę, kraj lub województwo w zdefiniowanych stawkach podatków"
-"label_value' 'label_value' 'frontend_label","label_value' 'label_value' 'frontend_label"
-"Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again.","Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again."

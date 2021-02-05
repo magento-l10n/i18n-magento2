@@ -9,6 +9,7 @@
 "Reload captcha","Tải lại captcha"
 "Please type the letters and numbers below","Please type the letters and numbers below"
 "Attention: Captcha is case sensitive.","Chú ý: Các Captcha là trường hợp nhạy cảm."
+"Please provide CAPTCHA code and try again","Please provide CAPTCHA code and try again"
 "CAPTCHA","CAPTCHA"
 "Enable CAPTCHA in Admin","Cho phép CAPTCHA trong Admin"
 "Font","Phông chữ"
@@ -24,5 +25,3 @@
 "Case Sensitive","Trường hợp nhạy cảm"
 "Enable CAPTCHA on Storefront","Cho phép CAPTCHA trên Storefront"
 "CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","CAPTCHA cho hình thức ""tạo người dùng"" và ""Quên mật khẩu""luôn luôn được kích hoạt nếu được lựa chọn."
-"Please enter the letters from the image","Vui lòng nhập các ký tự từ hình ảnh"
-"Please type the letters below","Xin vui lòng nhập các ký tự bên dưới"

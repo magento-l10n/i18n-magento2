@@ -85,8 +85,3 @@
 "Website","ウェブサイト"
 "Are you sure you want to delete the selected synonym groups?","選択した同義語グループを削除してもよろしいですか？"
 "Delete items","商品削除"
-"Synonym For","別名"
-"Will make search for the query above return results for this search","検索キーワードで検索して結果を表示します。"
-"Synonym","同義語"
-"Merge existing synonyms","既存の同義語をマージする"
-"The synonym group with the ""%1"" ID can't be deleted. %2","ID ""%1"" の同義語グループは削除できません。%2"

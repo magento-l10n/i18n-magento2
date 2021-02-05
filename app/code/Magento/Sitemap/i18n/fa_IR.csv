@@ -6,7 +6,7 @@
 "Filename","نام فایل"
 "example: sitemap.xml","مثال: sitemap.xml"
 "Path","مسير"
-"example: ""/sitemap/"" or ""/"" for base path (path must be writeable)","مثال: ""/ sitemap /"" یا ""/"" برای مسیر پایه (مسیر باید قابل نوشتن باشد)"
+"example: ""/media/sitemap/"" for base path (path must be writeable)","example: ""/media/sitemap/"" for base path (path must be writeable)"
 "Store View","نمای فروشگاه"
 "Generate","تولید"
 "XML Sitemap","نقشه سایت XML"
@@ -64,3 +64,4 @@
 "Link for Google","لینک برای گوگل"
 "Last Generated","آخرین ساخته شده"
 "Action","اقدام"
+"Store Url Options","Store Url Options"

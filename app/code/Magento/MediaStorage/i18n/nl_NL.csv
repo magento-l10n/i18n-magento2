@@ -23,6 +23,3 @@
 "Select Media Database","Selecteer mediadatabase"
 "After selecting a new media storage location, press the Synchronize button to transfer all media to that location. Media will not be available in the new location until the synchronization process is complete.","Na het selecteren van de nieuwe media opslaglocatie, drukt u op de synchroniseren knop om alle media naar de nieuwe locatie over te brengen. De media zal niet beschikbaar zijn op de nieuwe locatie totdat het synchronisatieproces voltooid is."
 "Environment Update Time","Updatetijd omgeving"
-"The ""%1"" file doesn't exist. Verify the file and try again.","Het bestand ""%1"" bestaat niet. Controleer het bestand en probeer het opnieuw."
-"Cannot resize image ""%1"" - original image not found","Kan formaat van afbeelding ""%1"" niet wijzigen - oorspronkelijke afbeelding niet gevonden"
-"Cannot resize images - product images not found","Kan formaat van afbeelding niet wijzigen - oorspronkelijke afbeelding niet gevonden"

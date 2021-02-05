@@ -1,11 +1,13 @@
 "Subscription status","Obuna holati"
 "Sorry, there has been an error processing your request. Please try again later.","Kechirasiz, so'rovingizni bajarishda xatolik yuz berdi. Keyinroq qayta urinib ko'ring."
+"Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.","Sorry, there was an error processing your registration request to Magento Analytics. Please try again later."
+"Error occurred during postponement notification","Error occurred during postponement notification"
 "Time value has an unsupported format","Vaqt qiymati qo'llab-quvvatlanmaydigan formatga ega"
 "Cron settings can't be saved","Cron sozlamalarini saqlab bo'lmaydi"
 "There was an error save new configuration value.","Yangi konfiguratsiya qiymatini saqlab bo'lmadi."
-"Please select a vertical.","Iltimos, vertikalni tanlang."
+"Please select an industry.","Please select an industry."
 "--Please Select--","--Iltimos tanlang--"
-"Command was not found.","Buyruq topilmadi."
+"Command %1"" was not found.""","Command %1"" was not found."""
 "Input data must be string or convertible into string.","Kiritilgan ma'lumotlar magistral yoki registrda o'zgartirilishi kerak."
 "Input data must be non-empty string.","Kirish ma'lumotlari bo'sh bo'lmasligi kerak."
 "Not valid cipher method.","Parol noto'g'ri."
@@ -16,14 +18,17 @@
 "File is not ready yet.","Fayl hali tayyor emas."
 "Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Sizning taglavhangiz o'zgartirildi va sizning hisobotingiz yangilandi. Ushbu o'zgarish qayta ishlanganidan so'ng Kengaytirilgan hisobotlar mavjud bo'ladi. Iltimos keyinroq qayta urinib ko'ring."
 "Failed to synchronize data to the Magento Business Intelligence service. ","Ma'lumotni Magento Business Intelligence xizmati bilan sinxronlashtirish mumkin bo'lmadi. "
-"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Qayta sinxronlashni sinab ko'ring</a>"
+"Retry Synchronization","Retry Synchronization"
 "TestMessage","Sinov xabari"
+"Error message","Error message"
 "Apps and Games","Ilovalar va o'yinlar"
 "Athletic/Sporting Goods","Sport tovarlari"
 "Art and Design","San'at va Dizayn"
 "Advanced Reporting","Kengaytirilgan hisobot"
 "Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Mahsulotlar, buyurtmalar va mijozlar haqidagi dinamik hisobotlardan foydalanib, yangi g'oyalarni oling va ish samaradorligini tekshiring."
+"View details","View details"
 "Go to Advanced Reporting","Kengaytirilgan hisobotga o'ting"
+"An error occurred while subscription process.","An error occurred while subscription process."
 "Analytics","Tahlillar"
 "API","API"
 "Configuration","Konfiguratsiya"
@@ -31,21 +36,22 @@
 "BI Essentials","BI asoslari"
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>.","Ushbu xizmat biznesingiz haqidagi boy ma'lumotlarga ega bo'lgan dinamik to'plamlarni taqdim etadi.
-				Hisobotlarni administrator panelidan tashqarida shaxsiylashtirilgan asboblar panelida ishonchli tarzda bosishingiz mumkin
-				Kengaytirilgan hisobotlar havolasiga o'ting. </br> Qo'shimcha ma'lumot olish uchun, <a href=""https://magento.com/legal/terms/cloud-terms"">
-				talab va takliflar </a>."
+                ""Go to Advanced Reporting"" link. </br> For more information, see our
+                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.
+                ","This service provides a dynamic suite of reports with rich insights about your business.
+                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
+                ""Go to Advanced Reporting"" link. </br> For more information, see our
+                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.
+                "
 "Advanced Reporting Service","Kengaytirilgan Yozuvlar Xizmati"
-"Time of day to send data","Ma'lumot yuborish vaqti"
 "Industry","Sanoat"
-"In order to personalize your Advanced Reporting experience, please select your industry.","Tajribangizni rivojlangan hisobot bilan shaxsiylashtirish uchun sizning sanoatni tanlang."
+"Time of day to send data","Ma'lumot yuborish vaqti"
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Magento Business Intelligence haqida ko'proq bilish</strong>"
 "Magento Business Intelligence provides you with a simple and clear path to
                     becoming more data driven.</br> Learn more about <a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence sizga ma'lumotlarning miqdorini oshirishning 
-					oddiy va tushunarli usulini beradi </br> Batafsil ma'lumot <a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers."
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> tier.","Magento Business Intelligence provides you with a simple and clear path to
+                    becoming more data driven.</br> Learn more about <a target=""_blank""
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> tier."
 "Auto Parts","Avtomatik ehtiyot qismlar"
 "Baby/Children’s Apparel, Gear and Toys","Bolalar kiyimlari, bolalar kiyimlari va o'yinchoqlar"
 "Beauty and Cosmetics","Go'zallik va kosmetika"
@@ -64,12 +70,16 @@
 "Pet Goods","Uy hayvonlari"
 "Pharma and Medical Devices","Dori va tibbiy asboblar"
 "Technology B2B","Texnologiya B2B"
-"Other","Boshqa"
-"The time value is using an unsupported format. Enter a supported format and try again.","The time value is using an unsupported format. Enter a supported format and try again."
-"Please select an industry.","Please select an industry."
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","The data is invalid. Enter the data as a string or data that can be converted into a string and try again."
-"The data is invalid. Enter the data as a string and try again.","The data is invalid. Enter the data as a string and try again."
-"The data is invalid. Use a valid cipher method and try again.","The data is invalid. Use a valid cipher method and try again."
-"Enter the encryption key and try again.","Enter the encryption key and try again."
-"The ""%1"" source doesn't exist.","The ""%1"" source doesn't exist."
-"Retry Synchronization","Retry Synchronization"
+"Analytics Subscription","Analytics Subscription"
+"powered by Magento Business Intelligence","powered by Magento Business Intelligence"
+"Are you sure you want to opt out?","Are you sure you want to opt out?"
+"Cancel","Cancel"
+"Opt out","Opt out"
+"<p>Advanced Reporting in included,
+                    free of charge, in your Magento software. When you opt out, we collect no product, order, and
+                    customer data to generate our dynamic reports.</p><p>To opt in later: You can always turn on Advanced
+                    Reporting in you Admin Panel.</p>","<p>Advanced Reporting in included,
+                    free of charge, in your Magento software. When you opt out, we collect no product, order, and
+                    customer data to generate our dynamic reports.</p><p>To opt in later: You can always turn on Advanced
+                    Reporting in you Admin Panel.</p>"
+"In order to personalize your Advanced Reporting experience, please select your industry.","Tajribangizni rivojlangan hisobot bilan shaxsiylashtirish uchun sizning sanoatni tanlang."

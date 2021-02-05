@@ -23,6 +23,3 @@
 "Select Media Database","Zvolit databázi médií"
 "After selecting a new media storage location, press the Synchronize button to transfer all media to that location. Media will not be available in the new location until the synchronization process is complete.","Po výběru nového umístění úložiště kliknutím na tlačítko Synchronizovat převedete všechna média. Média budou dostupná až do dokončení celého procesu synchronizace."
 "Environment Update Time","Čas aktualizace prostředí"
-"The ""%1"" file doesn't exist. Verify the file and try again.","The ""%1"" file doesn't exist. Verify the file and try again."
-"Cannot resize image ""%1"" - original image not found","Cannot resize image ""%1"" - original image not found"
-"Cannot resize images - product images not found","Cannot resize images - product images not found"

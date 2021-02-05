@@ -133,17 +133,3 @@
 "The text of the link to the My Account &gt; Order by SKU page","Der Text des Links zu mein Konto &gt; Bestellung mit Artikelnummer"
 "Load a list of SKUs","Laden Sie eine Liste von Artikelnummern"
 "Order by SKU Template","Nach Artikelnummer-Vorlage sortieren"
-"SKU not found in catalog.","Artikelnummer im Katalog nicht gefunden."
-"This file needs to be in .csv format.","Die Datei muss im CSV-Format sein."
-"This customer couldn't be found. Verify the customer and try again.","Dieser Kunde konnte nicht gefunden werden. Überprüfen Sie den Kunden und versuchen Sie es erneut."
-"This store couldn't be found. Verify the store and try again.","Dieser Shop konnte nicht gefunden werden. Überprüfen Sie den Shop und versuchen Sie es erneut."
-"An error occurred. For details, see the error log.","Ein Fehler ist aufgetreten. Für Details schauen Sie bitte in das Fehlerprotokoll."
-"Orders can only be completed in an active store. Verify the store and try again.","Bestellungen können nur in einem aktiven Shop abgeschlossen werden. Überprüfen Sie den Shop und versuchen Sie es erneut."
-"The ordered item needs to be loaded. Load the item and try again.","Der bestellte Artikel muss geladen werden. Laden Sie den Artikel und versuchen Sie es erneut."
-"The quote item ID needs to be received. Set the ID and try again.","Die Wunsch Listen-Artikel-ID muss empfangen worden sein.
-Bestimme die ID und versuche es erneut."
-"The quote item needs to be loaded. Load the item and try again.","subject
-"
-"The wish list item ID needs to be received. Set the ID and try again.","Die Wunschlisten-Artikel-ID muss empfangen worden sein. Setzen Sie die ID und versuchen Sie es erneut."
-"The wish list item needs to be loaded. Load the item and try again.","Der Wunschlisten Artikel muss geladen worden sein. Laden Sie den Artikel und versuchen Sie es erneut."
-"The file is corrupt and can't be used.","Die Datei ist beschädigt und kann nicht verwendet werden."

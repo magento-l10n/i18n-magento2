@@ -6,7 +6,7 @@
 "Filename","Όνομα αρχείου"
 "example: sitemap.xml","παράδειγμα: χάρτης ιστότοπου.xml"
 "Path","Διαδρομή"
-"example: ""/sitemap/"" or ""/"" for base path (path must be writeable)","παράδειγμα: ""/χάρτης ιστότοπου/"" ή ""/"" για βασική διαδρομή (η διαδρομή πρέπει να είναι εγγράψιμη)"
+"example: ""/media/sitemap/"" for base path (path must be writeable)","example: ""/media/sitemap/"" for base path (path must be writeable)"
 "Store View","Προβολή Καταστήματος"
 "Generate","Δημιουργία"
 "XML Sitemap","XML Χάρτη Ιστοτόπου"
@@ -64,3 +64,4 @@
 "Link for Google","Σύνδεσμος για το Google"
 "Last Generated","Τελευταία Δημιουργήθηκε"
 "Action","Ενέργεια"
+"Store Url Options","Store Url Options"

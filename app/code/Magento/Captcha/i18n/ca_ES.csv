@@ -9,6 +9,7 @@
 "Reload captcha","Recarregar captcha"
 "Please type the letters and numbers below","Introduïu les lletres i nombres si us plau"
 "Attention: Captcha is case sensitive.","Atenció: Captcha és sensible a majúscules i minúscules."
+"Please provide CAPTCHA code and try again","Please provide CAPTCHA code and try again"
 "CAPTCHA","CAPTCHA"
 "Enable CAPTCHA in Admin","Habilita CAPTCHA a Admin"
 "Font","Tipus de lletra"
@@ -24,5 +25,3 @@
 "Case Sensitive","Sensible a majúscules i minúscules"
 "Enable CAPTCHA on Storefront","Habilitar CAPTCHA a la botiga"
 "CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","CAPTCHA per als formularis ""Crear usuari"" i ""Contrasenya oblidada"" està sempre activat si s'escull."
-"Please enter the letters from the image","Introduïu les lletres de la imatge"
-"Please type the letters below","Introduïu les lletres si us plau"

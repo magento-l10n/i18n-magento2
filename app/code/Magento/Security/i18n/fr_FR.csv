@@ -26,5 +26,6 @@
 "Limit the number of password reset request per hour. Use 0 to disable.","Limiter le nombre de demande de réinitialisation de mot de passe par heure. Utilisez 0 pour désactiver."
 "Min Time Between Password Reset Requests","Temps minimum entre les requêtes de réinitialisation de mot de passe"
 "Delay in minutes between password reset requests. Use 0 to disable.","Délai en minutes entre les requêtes de réinitialisation de mot de passe. Utilisez 0 pour désactiver."
-"Your account is temporarily disabled. Please try again later.","Votre compte est temporairement désactivé. Veuillez réessayer plus tard."
-"We received too many requests for password resets. Please wait and try again later or contact %1.","Nous avons reçu trop de demandes de réinitialisation de mot de passe. Veuillez patienter et réessayer plus tard ou contactez nous %1."
+"""%1"" must be later than the current date.","""%1"" must be later than the current date."
+"User Expiration","User Expiration"
+"""%1"" is not a valid date.","""%1"" is not a valid date."

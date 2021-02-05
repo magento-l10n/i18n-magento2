@@ -6,7 +6,7 @@
 "Filename","Nama berkas"
 "example: sitemap.xml","contoh: sitemap.xml"
 "Path","Rute"
-"example: ""/sitemap/"" or ""/"" for base path (path must be writeable)","contoh: ""/sitemap/"" atau""/"" untuk rute dasar ( jalan harus bisa ditulis)"
+"example: ""/media/sitemap/"" for base path (path must be writeable)","example: ""/media/sitemap/"" for base path (path must be writeable)"
 "Store View","Tampilan toko"
 "Generate","Pembuatan"
 "XML Sitemap","XML Sitemap"
@@ -64,3 +64,4 @@
 "Link for Google","Link untuk google"
 "Last Generated","Terakhir Dihasilkan"
 "Action","Tindakan"
+"Store Url Options","Store Url Options"

@@ -18,6 +18,3 @@
 "You must first configure currency options before being able to see currency rates.","Primer has de configurar les opcions de moneda abans de poder veure els tipus de canvi de divises."
 "Old rate:","Tarifa antiga:"
 "Currency","Moneda"
-"Please correct the input data for %1 => %2 rate","Corregiu les dades d’entrada per la tarifa ""%1 => %2"""
-"The Import Service is incorrect. Verify the service and try again.","El servei d’importació és incorrecte. Verifiqueu el servei i torneu-ho a provar."
-"The import model can't be initialized. Verify the model and try again.","El model d'importació no es pot inicialitzar. Verifiqueu el model i torneu-ho a provar."

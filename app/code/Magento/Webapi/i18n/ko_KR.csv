@@ -22,8 +22,3 @@
 "If empty, UTF-8 will be used.","비어있으면 UTF-8이 사용됩니다."
 "Web Services Configuration","웹서비스 설정"
 "REST and SOAP configurations, generated WSDL file","REST와 SOAP 설정, WSDL파일 생성"
-"Authentication header format is invalid.","Authentication header format is invalid."
-"Authentication header is absent.","Authentication header is absent."
-"REST and SOAP configurations, generated WSDL file.","REST and SOAP configurations, generated WSDL file."
-"Specified request cannot be processed.","Specified request cannot be processed."
-"The consumer isn't authorized to access %resources.","The consumer isn't authorized to access %resources."

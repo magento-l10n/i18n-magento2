@@ -6,7 +6,7 @@
 "Filename","Tiedostonimi"
 "example: sitemap.xml","esimerkki: sitemap.xml"
 "Path","Polku"
-"example: ""/sitemap/"" or ""/"" for base path (path must be writeable)","example: ""/sitemap/"" or ""/"" for base path (path must be writeable)"
+"example: ""/media/sitemap/"" for base path (path must be writeable)","example: ""/media/sitemap/"" for base path (path must be writeable)"
 "Store View","Kauppanäkymä"
 "Generate","Luo"
 "XML Sitemap","XML-sivukartta"
@@ -64,3 +64,4 @@
 "Link for Google","Linkki Googlea varten"
 "Last Generated","Viimeksi luotu"
 "Action","Toiminto"
+"Store Url Options","Store Url Options"

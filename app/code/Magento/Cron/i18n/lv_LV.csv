@@ -19,5 +19,3 @@
 "Success History Lifetime","Izpildīto uzdevumu uzturēšanas ilgums"
 "Failure History Lifetime","Kļūdu vēstures uzturēšanas ilgums"
 "Use Separate Process","Use Separate Process"
-"Cron (Scheduled Tasks) - all the times are in minutes","Cron (uzdevumu grafiks) - visi laiki ir minūtēs"
-"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.","Lai tiktu ģenerētas korektas saites cron darbības laikā pārliecinieties ka Web > Drošās un Nedrošās pamata saites ir attiecīgi iestatītas."

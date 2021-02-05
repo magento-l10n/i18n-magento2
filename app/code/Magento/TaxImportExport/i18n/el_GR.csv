@@ -12,10 +12,11 @@
 "Invalid file upload attempt","Ανεπιτυχής προσπάθεια αποστολής αρχείου"
 "Invalid file upload attempt.","Ανεπιτυχής προσπάθεια αποστολής αρχείου."
 "Invalid file format.","Μη έγκυρη μορφή αρχείου."
-"One of the countries has invalid code.","Μία από τις χώρες έχουν μη έγκυρο κώδικα."
+"Country code is invalid: %1","Ο κωδικός χώρας δεν είναι έγκυρος: %1"
 "Import Tax Rates","Εισαγωγή Συντελεστών ΦΠΑ"
 "Export Tax Rates","Εξαγωγή Συντελεστών ΦΠΑ"
 "CSV","CSV"
 "Excel XML","Excel XML"
-"Country code is invalid: %1","Ο κωδικός χώρας δεν είναι έγκυρος: %1"
 "Import/Export Tax Rates","Εισαγωγή/Εξαγωγή Συντελεστών ΦΠΑ"
+"Please select a file to import!","Please select a file to import!"
+

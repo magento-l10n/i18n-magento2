@@ -19,5 +19,3 @@
 "Success History Lifetime","Success history lifetime"
 "Failure History Lifetime","Failure history lifetime"
 "Use Separate Process","Gebruik afzonderlijk proces"
-"Cron (Scheduled Tasks) - all the times are in minutes","Cron (Geplande taken) - Alle tijden zijn in minuten"
-"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.","Zorg dat Web > (on)veilige basis-URLs goed zijn ingesteld om correcte URLs te genereren tijdens cron runs."

@@ -19,5 +19,3 @@
 "Success History Lifetime","Lịch sử thành công"
 "Failure History Lifetime","Lịch sử thất bại"
 "Use Separate Process","Sử dụng quy trình riêng biệt"
-"Cron (Scheduled Tasks) - all the times are in minutes","Cron (tác vụ theo lịch trình) - tất cả các lần trong vài phút"
-"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.","Để các URL được tạo ra trong khi chạy cron là đúng thì hãy chắc chắn rằng Web > Secure và Unsecure base URL được thiết lập một cách rõ ràng."

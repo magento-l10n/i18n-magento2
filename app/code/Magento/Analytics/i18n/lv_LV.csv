@@ -1,11 +1,13 @@
 "Subscription status","Pierakstīšanās statuss"
 "Sorry, there has been an error processing your request. Please try again later.","Atvainojiet, radās kļūda, apstrādājot jūsu pieprasījumu. Lūdzu, vēlāk mēģiniet vēlreiz."
+"Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.","Sorry, there was an error processing your registration request to Magento Analytics. Please try again later."
+"Error occurred during postponement notification","Error occurred during postponement notification"
 "Time value has an unsupported format","Laika vērtības formāts netiek atbalstīts"
 "Cron settings can't be saved","Cron iestatījumus nevar saglabāt"
 "There was an error save new configuration value.","Radās kļūda, saglabāt jaunu konfigurācijas vērtību."
-"Please select a vertical.","Izvēlieties vertikālu."
+"Please select an industry.","Izvēlieties industriju."
 "--Please Select--","--Lūdzu izvēlieties--"
-"Command was not found.","Komanda nav atrasta."
+"Command %1"" was not found.""","Command %1"" was not found."""
 "Input data must be string or convertible into string.","Ievades datiem jābūt saitei vai pārvēidojamai par saiti."
 "Input data must be non-empty string.","Ievades dati nedrīkst būt tukša saite."
 "Not valid cipher method.","Nav derīga šifrēšanas metode."
@@ -16,14 +18,17 @@
 "File is not ready yet.","Fails vēl nav gatavs."
 "Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Pamata URL ir mainīta, un atskaites tiek atjauninātas. Papildu Atskaites būs pieejamas tiklīdz šī izmaiņas būs apstrādātas. Lūdzu, vēlāk mēģiniet vēlreiz."
 "Failed to synchronize data to the Magento Business Intelligence service. ","Neizdevās sinhronizēt datus ar Magento Business Intelligence pakalpojumu. "
-"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Atkārot sinhronizāciju</a>"
+"Retry Synchronization","Vēlreiz mēģināt sinhronizēšanu"
 "TestMessage","TestMessage"
+"Error message","Error message"
 "Apps and Games","Aplikācijas un spēles"
 "Athletic/Sporting Goods","Sporta preces"
 "Art and Design","Māksla un dizains"
 "Advanced Reporting","Paplašinātas atskaites"
 "Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Iegūstiet jaunu informāciju un pārvaldiet biznesa izaugsmi lietojot dinamiskas produktu, pasūtījumu un klientu atskaites par jūsu klientu datiem."
+"View details","View details"
 "Go to Advanced Reporting","Iet uz Paplašinātajām atskaitēm"
+"An error occurred while subscription process.","An error occurred while subscription process."
 "Analytics","Analītika"
 "API","API"
 "Configuration","Konfigurācija"
@@ -31,19 +36,21 @@
 "BI Essentials","BI Essentials"
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>.","Serviss piedāvā dinamisku atskaišu pārvaldību par Jūsu biznesu.                Atskaites ir pieejamas drošā, personalizētā panelī ārpus administrācijas paneļa. Nospiediet
-                ""Iet uz Paplašinātajām Atskaitēm"" saiti. </br> Vairāk informācijas
-                <a href=""https://magento.com/legal/terms/cloud-terms"">noteikumos</a>."
+                ""Go to Advanced Reporting"" link. </br> For more information, see our
+                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.
+                ","This service provides a dynamic suite of reports with rich insights about your business.
+                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
+                ""Go to Advanced Reporting"" link. </br> For more information, see our
+                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.
+                "
 "Advanced Reporting Service","Paplašinātu Atskaišu serviss"
-"Time of day to send data","Laiks kurā sūtīt datus"
 "Industry","Industrija"
-"In order to personalize your Advanced Reporting experience, please select your industry.","Lai personalizētu Paplašinātās atskaites, izvēlaties atbilstošu industriju."
+"Time of day to send data","Laiks kurā sūtīt datus"
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Vairāk informācijas no Magento Business Intelligence</strong>"
 "Magento Business Intelligence provides you with a simple and clear path to
                     becoming more data driven.</br> Learn more about <a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence ļauj vienkāršā un saprotamā veidā
-                    strādāt ar datiem.</br> Vairāk informācijas <a target=""_blank""
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> tier.","Magento Business Intelligence provides you with a simple and clear path to
+                    becoming more data driven.</br> Learn more about <a target=""_blank""
                     href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> tier."
 "Auto Parts","Auto daļas"
 "Baby/Children’s Apparel, Gear and Toys","Bērnu apģērbs, rotaļlietas"
@@ -63,12 +70,16 @@
 "Pet Goods","Dzīvnieku preces"
 "Pharma and Medical Devices","Medicīnas preces"
 "Technology B2B","Tehnoloģijas B2B"
-"Other","Cits"
-"The time value is using an unsupported format. Enter a supported format and try again.","Laika vērtības formāts nav atbalstīts. Ievadiet formātu kurš tiek atbalstīts un mēģiniet vēlreiz."
-"Please select an industry.","Izvēlieties industriju."
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","Dati ir nederīgi. Ievadiet datus kā saiti vai datus kurus var pārvērst par saikni un mēģiniet vēlreiz."
-"The data is invalid. Enter the data as a string and try again.","Dati ir nederīgi. Ievadiet datus kā saiti un mēģiniet vēlreiz."
-"The data is invalid. Use a valid cipher method and try again.","Dati ir nederīgi. Izmantojiet derīgu šifrēšanas metodi un mēģiniet vēlreiz."
-"Enter the encryption key and try again.","Ievadiet šifrēšanas atslēgu un mēģiniet vēlreiz."
-"The ""%1"" source doesn't exist.","Avots ""%1"" neeksistē."
-"Retry Synchronization","Vēlreiz mēģināt sinhronizēšanu"
+"Analytics Subscription","Analytics Subscription"
+"powered by Magento Business Intelligence","powered by Magento Business Intelligence"
+"Are you sure you want to opt out?","Are you sure you want to opt out?"
+"Cancel","Cancel"
+"Opt out","Opt out"
+"<p>Advanced Reporting in included,
+                    free of charge, in your Magento software. When you opt out, we collect no product, order, and
+                    customer data to generate our dynamic reports.</p><p>To opt in later: You can always turn on Advanced
+                    Reporting in you Admin Panel.</p>","<p>Advanced Reporting in included,
+                    free of charge, in your Magento software. When you opt out, we collect no product, order, and
+                    customer data to generate our dynamic reports.</p><p>To opt in later: You can always turn on Advanced
+                    Reporting in you Admin Panel.</p>"
+"In order to personalize your Advanced Reporting experience, please select your industry.","Lai personalizētu Paplašinātās atskaites, izvēlaties atbilstošu industriju."

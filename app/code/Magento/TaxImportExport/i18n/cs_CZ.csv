@@ -12,10 +12,11 @@
 "Invalid file upload attempt","Importovaný soubor je neplatný"
 "Invalid file upload attempt.","Importovaný soubor je neplatný."
 "Invalid file format.","Neplatný formát souboru."
-"One of the countries has invalid code.","Jedna ze zemí má neplatný kód."
+"Country code is invalid: %1","Country code is invalid: %1"
 "Import Tax Rates","Importovat daňové sazby"
 "Export Tax Rates","Exportovat daňové sazby"
 "CSV","CSV"
 "Excel XML","Excel XML"
-"Country code is invalid: %1","Country code is invalid: %1"
 "Import/Export Tax Rates","Import / Export daňových sazeb"
+"Please select a file to import!","Please select a file to import!"
+
