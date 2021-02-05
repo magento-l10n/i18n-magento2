@@ -13,7 +13,4 @@
 "Delete","מחק"
 "PayPal Account","חשבון PayPal"
 "Cancel","ביטול"
-"No payment tokens are available for the specified order payment.","No payment tokens are available for the specified order payment."
-"Credit Card was successfully removed","כרטיס האשראי הוסר בהצלחה"
-"My Credit Cards","כרטיסי האשראי שלי"
-"You have no credit cards.","אין לך כרטיסי אשראי."
+"Are you sure you want to delete this card: %1?","Are you sure you want to delete this card: %1?"
