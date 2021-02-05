@@ -1,3 +1,4 @@
+"Can't convert a shipping cost from ""%1-%2"" for FedEx carrier.","Can't convert a shipping cost from ""%1-%2"" for FedEx carrier."
 "Europe First Priority","Europe First Priority"
 "1 Day Freight","1 Day Freight"
 "2 Day Freight","2 Day Freight"
@@ -43,6 +44,7 @@
 "status","stav"
 "Empty response","Žádná odpověď"
 "None","Nic"
+"Expected Delivery:","Expected Delivery:"
 "Field ","Údaj "
 " is required."," je povinný."
 "FedEx","FedEx"
@@ -77,4 +79,3 @@
 "Debug","Ladící režim"
 "Show Method if Not Applicable","Zobrazit způsob, i když není použitelný"
 "Sort Order","Řadit podle"
-"Can't convert a shipping cost from ""%1-%2"" for FedEx carrier.","Can't convert a shipping cost from ""%1-%2"" for FedEx carrier."
