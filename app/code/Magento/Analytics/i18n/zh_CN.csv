@@ -1,18 +1,16 @@
 "Subscription status","订阅状态"
 "Sorry, there has been an error processing your request. Please try again later.","对不起，已处理您的请求时出错。请稍后再试。"
-"Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.","Sorry, there was an error processing your registration request to Magento Analytics. Please try again later."
-"Error occurred during postponement notification","Error occurred during postponement notification"
-"Time value has an unsupported format","时间的格式不支持"
+"The time value is using an unsupported format. Enter a supported format and try again.","The time value is using an unsupported format. Enter a supported format and try again."
 "Cron settings can't be saved","无法保存 Cron 设置"
 "There was an error save new configuration value.","有保存新的配置值时出错。"
 "Please select an industry.","请选择一个工业。"
 "--Please Select--","-- 请选择 --"
-"Command %1"" was not found.""","Command %1"" was not found."""
-"Input data must be string or convertible into string.","输入数据必须是字符串或可被转换成字符串。"
-"Input data must be non-empty string.","输入数据必须是非空字符串。"
-"Not valid cipher method.","无效的加密方法。"
-"Encryption key can't be empty.","加密密钥不能为空。"
-"Source ""%1"" is not exist","源 ""%1"" 不存在"
+"Command ""%1"" was not found.","Command ""%1"" was not found."
+"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","The data is invalid. Enter the data as a string or data that can be converted into a string and try again."
+"The data is invalid. Enter the data as a string and try again.","The data is invalid. Enter the data as a string and try again."
+"The data is invalid. Use a valid cipher method and try again.","The data is invalid. Use a valid cipher method and try again."
+"Enter the encryption key and try again.","Enter the encryption key and try again."
+"The ""%1"" source doesn't exist.","The ""%1"" source doesn't exist."
 "These arguments can't be empty ""%1""","这些参数不能为空 ""%1"""
 "Cannot find predefined integration user!","无法找到预定义的集成用户!"
 "File is not ready yet.","文件尚未准备就绪。"
@@ -20,15 +18,12 @@
 "Failed to synchronize data to the Magento Business Intelligence service. ","无法将数据同步到 Magento 智慧商务（Magento Business Intelligence）服务。 "
 "Retry Synchronization","重试同步"
 "TestMessage","测试消息"
-"Error message","Error message"
 "Apps and Games","应用程序和游戏"
 "Athletic/Sporting Goods","体育/体育用品"
 "Art and Design","艺术与设计"
 "Advanced Reporting","高级报告"
 "Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","通过根据客户数据量身定做的动态产品、订单和客户报告, 获得新的洞察力并掌握您的业务性能。"
-"View details","View details"
 "Go to Advanced Reporting","转到高级报告"
-"An error occurred while subscription process.","An error occurred while subscription process."
 "Analytics","统计"
 "API","应用开发接口（API）"
 "Configuration","设置"
@@ -36,22 +31,22 @@
 "BI Essentials","BI至关重要"
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our
-                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.
-                ","This service provides a dynamic suite of reports with rich insights about your business.
+                ""Go to Advanced Reporting"" link. </br> For more information, see our <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
+                terms and conditions</a>.","This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our
-                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.
-                "
+                ""Go to Advanced Reporting"" link. </br> For more information, see our <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
+                terms and conditions</a>."
 "Advanced Reporting Service","高级报告服务"
-"Industry","工业制品"
 "Time of day to send data","每天发送数据的时间"
+"Industry Data","Industry Data"
+"Industry","工业制品"
+"In order to personalize your Advanced Reporting experience, please select your industry.","为了个性化您的高级报告经验, 请先选择您的行业。"
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong> 从 Magento 商业智能中获得更多的洞察力 </strong>"
 "Magento Business Intelligence provides you with a simple and clear path to
                     becoming more data driven.</br> Learn more about <a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> tier.","Magento Business Intelligence provides you with a simple and clear path to
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence provides you with a simple and clear path to
                     becoming more data driven.</br> Learn more about <a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> tier."
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers."
 "Auto Parts","汽配"
 "Baby/Children’s Apparel, Gear and Toys","婴儿/儿童服装，用品和玩具"
 "Beauty and Cosmetics","美容化妆"
@@ -70,16 +65,4 @@
 "Pet Goods","宠物用品"
 "Pharma and Medical Devices","药品和医疗器械"
 "Technology B2B","技术 B2B"
-"Analytics Subscription","Analytics Subscription"
-"powered by Magento Business Intelligence","powered by Magento Business Intelligence"
-"Are you sure you want to opt out?","Are you sure you want to opt out?"
-"Cancel","Cancel"
-"Opt out","Opt out"
-"<p>Advanced Reporting in included,
-                    free of charge, in your Magento software. When you opt out, we collect no product, order, and
-                    customer data to generate our dynamic reports.</p><p>To opt in later: You can always turn on Advanced
-                    Reporting in you Admin Panel.</p>","<p>Advanced Reporting in included,
-                    free of charge, in your Magento software. When you opt out, we collect no product, order, and
-                    customer data to generate our dynamic reports.</p><p>To opt in later: You can always turn on Advanced
-                    Reporting in you Admin Panel.</p>"
-"In order to personalize your Advanced Reporting experience, please select your industry.","为了个性化您的高级报告经验, 请先选择您的行业。"
+"Other","Other"
