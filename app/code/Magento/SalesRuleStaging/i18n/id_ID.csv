@@ -1,3 +1,5 @@
+"sales_rule","sales_rule"
+"Magento\SalesRule\Api\Data\RuleInterface","Magento\SalesRule\Api\Data\RuleInterface"
 "An error occurred during processing; coupon with id %1 expiration date wasn't updated. The error message was: %2","Terjadi kesalahan saat memproses; kupon dengan tanggal kadaluarsa id %1 tidak diperbarui. Pesan kesalahannya adalah: %2"
 "Future Update in this time range already exists. Select a different range to add a new Future Update.","Update Masa Depan di rentang waktu ini sudah ada. Pilih rentang yang berbeda untuk menambahkan Update Masa Depan yang baru."
 "ID","Id"
@@ -43,7 +45,3 @@
 "Start Time","Waktu mulai"
 "End Time","Waktu Selesai"
 "Cart Price Rules","Aturan Harga Keranjang"
-"Remove Cart Price Rule from Campaign","Hapus Aturan Harga Keranjang dari Kampanye"
-"Move to Another Campaign","Pindah ke Kampanye Lain"
-"Deleting the update will remove the cart price rule from this campaign and all scheduled changes will be lost.","Menghapus pembaruan akan menghapus aturan harga keranjang dari kampanye ini dan semua perubahan terjadwal akan hilang."
-"Future Update already exists in this time range. Set a different range and try again.","Future Update already exists in this time range. Set a different range and try again."
