@@ -22,8 +22,3 @@
 "If empty, UTF-8 will be used.","אם ריק, UTF-8 יהיה בשימוש."
 "Web Services Configuration","הגדרות שירותי אינטרנט"
 "REST and SOAP configurations, generated WSDL file","הגדרות של REST ו-SOAP ייצרו קובץ WSDL"
-"Authentication header format is invalid.","פורמט כותרת האימות שגויה."
-"Authentication header is absent.","כותרת האימות חסרה."
-"REST and SOAP configurations, generated WSDL file.","הגדרות של REST ו-SOAP ייצרו קובץ WSDL."
-"Specified request cannot be processed.","Specified request cannot be processed."
-"The consumer isn't authorized to access %resources.","The consumer isn't authorized to access %resources."
