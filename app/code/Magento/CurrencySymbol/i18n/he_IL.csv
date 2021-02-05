@@ -18,6 +18,3 @@
 "You must first configure currency options before being able to see currency rates.","יש להגדיר אפשרויות מטבע תחילה לפני שהוא יוכל לראות את שערי החליפין."
 "Old rate:","דירוג ישן:"
 "Currency","מטבע"
-"Please correct the input data for %1 => %2 rate","נא תקן את נתוני נקלט עבור %1 => %2 קצב"
-"The Import Service is incorrect. Verify the service and try again.","The Import Service is incorrect. Verify the service and try again."
-"The import model can't be initialized. Verify the model and try again.","The import model can't be initialized. Verify the model and try again."
