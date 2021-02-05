@@ -18,6 +18,3 @@
 "You must first configure currency options before being able to see currency rates.","Anda harus terlebih dulu mengkonfigurasi opsi mata uang sebelum dapat melihat kurs mata uang."
 "Old rate:","Tingkat lama:"
 "Currency","Mata Uang"
-"Please correct the input data for %1 => %2 rate","Please correct the input data for %1 => %2 rate"
-"The Import Service is incorrect. Verify the service and try again.","The Import Service is incorrect. Verify the service and try again."
-"The import model can't be initialized. Verify the model and try again.","The import model can't be initialized. Verify the model and try again."
