@@ -12,10 +12,11 @@
 "Invalid file upload attempt","Ugyldig filopplasting forsøk"
 "Invalid file upload attempt.","Ugyldig filopplastingsforsøk."
 "Invalid file format.","Ugyldig filformat."
-"One of the countries has invalid code.","Ett av landene har ugyldig kode."
+"Country code is invalid: %1","Country code is invalid: %1"
 "Import Tax Rates","Importere skattesatser"
 "Export Tax Rates","Eksportere skattesatser"
 "CSV","CSV"
 "Excel XML","Excel XML"
-"Country code is invalid: %1","Country code is invalid: %1"
 "Import/Export Tax Rates","Import/Export Tax Rates"
+"Please select a file to import!","Please select a file to import!"
+
