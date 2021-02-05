@@ -19,5 +19,3 @@
 "Success History Lifetime","طول عمر تاریخچه موفقیت"
 "Failure History Lifetime","طول عمر تاریخچه شکست"
 "Use Separate Process","استفاده از فرآیند جداگانه"
-"Cron (Scheduled Tasks) - all the times are in minutes","Cron (وظایف زمان بندی شده) – همه‌ی زمان‌ها به دقیقه هستند"
-"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.","برای URLهای تولید شده‌ی درست در طی اجرای cron لطفا اطمینان حاصل نمایید که URLهای مبنای وب > ایمن و نا امن به طور واضح تنظیم شده‌اند."
