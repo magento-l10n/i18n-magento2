@@ -1,3 +1,4 @@
+"Purchase order number is a required field.","Purchase order number is a required field."
 "Make Check payable to:","Vyplatiť šek:"
 "Send Check to:","Send Check to:"
 "Purchase Order Number","Purchase Order Number"
@@ -11,7 +12,6 @@
 "New Order Status","Stav novej objednávky"
 "Sort Order","Poradie radenia"
 "Title","Titulok"
-"Purchase order number is a required field.","Purchase order number is a required field."
 "Payment from Applicable Countries","Platba z dostupných krajín"
 "Payment from Specific Countries","Platba z vybratých krajín"
 "Make Check Payable to","Make Check Payable to"
@@ -21,4 +21,3 @@
 "Bank Transfer Payment","Platba Prevodom"
 "Instructions","Instructions"
 "Cash On Delivery Payment","Cash On Delivery Payment"
-"Automatically Invoice All Items","Automatically Invoice All Items"
