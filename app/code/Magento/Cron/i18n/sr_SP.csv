@@ -19,5 +19,3 @@
 "Success History Lifetime","Историја успеха"
 "Failure History Lifetime","Историја неуспеха"
 "Use Separate Process","Користите посебан процес"
-"Cron (Scheduled Tasks) - all the times are in minutes","Cron (Scheduled Tasks) - all the times are in minutes"
-"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.","For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set."
