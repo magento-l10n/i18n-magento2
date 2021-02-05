@@ -52,7 +52,6 @@
 "%name,","%name,"
 "We have updated your <a href=""%store_url"">%store_name</a> account and you have credit that you can use for future purchases.","Frissítettük az Ön <a href=""%store_url""> %store_name</a> fiókját; Önnek van jövőbeli vásárlásainál felhasználható hitelkerete."
 "Your Store Credit balance is now %balance.","Az Ön bolti hitelegyenlege jelenleg %balance."
-"Store credit","Bolti hitel"
 "Store credit available","Bolti hitel elérhető"
 "Your store credit was successfully applied","Az Ön bolti hitele alkalmazásra került"
 "Store Credit Options","Bolti hitellehetőségek"
@@ -61,5 +60,3 @@
 "Refund Store Credit Automatically","Bolti hitel automatikus visszatérítése"
 "Store Credit Update Email Sender","Bolti hitel frissüléséről küldött e-mail feladója"
 "Store Credit Update Email Template","Bolti hitel frissüléséről küldött e-mail sablonja"
-"A balance is needed to save a balance history.","A balance is needed to save a balance history."
-"The balance history action code is unknown. Verify the code and try again.","The balance history action code is unknown. Verify the code and try again."
