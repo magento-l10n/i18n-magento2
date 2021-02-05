@@ -22,8 +22,3 @@
 "If empty, UTF-8 will be used.","Wenn leer, UTF-8 wird verwendet."
 "Web Services Configuration","Web-Services-Konfiguration"
 "REST and SOAP configurations, generated WSDL file","REST und SOAP Konfigurationen, generierte WSDL-Datei"
-"Authentication header format is invalid.","Authentifizierung Header-Format ist ungültig."
-"Authentication header is absent.","Authentifizierungsheader fehlt."
-"REST and SOAP configurations, generated WSDL file.","REST und SOAP Konfigurationen, generierte WSDL-Datei."
-"Specified request cannot be processed.","Angegebene Anfrage konnte nicht bearbeitet werden."
-"The consumer isn't authorized to access %resources.","Der Consumer ist nicht berechtigt, auf %resources zuzugreifen."
