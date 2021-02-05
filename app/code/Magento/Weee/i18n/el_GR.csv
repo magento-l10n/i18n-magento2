@@ -2,7 +2,7 @@
 "Delete Tax","Διαγραφή Φόρου"
 "All Websites","Όλες οι Ιστοσελίδες"
 "FPT","FPT"
-"You must set unique country-state combinations within the same fixed product tax","Πρέπει να ορίσετε μοναδικούς συνδυασμούς χώρας-κράτους στο ίδιο πλαίσιο της σταθεράς φορολογίας προϊόντος"
+"Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again.","Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again."
 "Including FPT only","Συμπεριλαμβανομένου FPT μόνο"
 "Including FPT and FPT description","Συμπεριλαμβανομένου FPT και FPT Περιγραφής"
 "Excluding FPT. Including FPT description and final price","Εκτός από FPT Συμπεριλαμβανομένων περιγραφής FPT και τελικής τιμής"
