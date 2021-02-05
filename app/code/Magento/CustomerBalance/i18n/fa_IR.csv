@@ -52,7 +52,6 @@
 "%name,","%name"
 "We have updated your <a href=""%store_url"">%store_name</a> account and you have credit that you can use for future purchases.","ما حساب کاربری <a href=""%store_url"">%store_name</a> شما را به روز کردیم و برای خریدهای آینده می توانید از اعتبار حسابتان استفاده کنید."
 "Your Store Credit balance is now %balance.","موجودی اعتبار شما در حال حاضر %balance است."
-"Store credit","اعتبار فروشگاه"
 "Store credit available","اعتبار فروشگاه موجود"
 "Your store credit was successfully applied","اعتبار فروشگاه شما با موفقیت اعمال شد"
 "Store Credit Options","گزینه های اعتبار فروشگاه"
@@ -61,5 +60,3 @@
 "Refund Store Credit Automatically","استرداد اعتبار فروشگاه به صورت خودکار"
 "Store Credit Update Email Sender","فرستنده ایمیل به روز رسانی اعتبار فروشگاه"
 "Store Credit Update Email Template","قالب ایمیل به روز رسانی اعتبار فروشگاه"
-"A balance is needed to save a balance history.","A balance is needed to save a balance history."
-"The balance history action code is unknown. Verify the code and try again.","The balance history action code is unknown. Verify the code and try again."
