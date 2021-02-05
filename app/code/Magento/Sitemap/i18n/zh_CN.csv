@@ -47,6 +47,7 @@
 "Products Options","产品选项"
 "Add Images into Sitemap","将图像添加到站点地图"
 "CMS Pages Options","CMS 页选项"
+"Store Url Options","Store Url Options"
 "Generation Settings","生成设置"
 "Enabled","启动"
 "Error Email Recipient","错误邮件模板"
@@ -64,4 +65,3 @@
 "Link for Google","谷歌的链接"
 "Last Generated","最后一次生成"
 "Action","操作"
-"Store Url Options","Store Url Options"
