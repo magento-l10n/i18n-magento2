@@ -1,3 +1,4 @@
+"Purchase order number is a required field.","Numéro de bon de commande est un champ obligatoire."
 "Make Check payable to:","Libeller le chèque à l'ordre de :"
 "Send Check to:","Envoyer le chèque à :"
 "Purchase Order Number","Numéro de bon de commande"
@@ -11,7 +12,6 @@
 "New Order Status","Statut d'une nouvelle commande"
 "Sort Order","Ordre de tri""Abandoned Carts"
 "Title","Titre"
-"Purchase order number is a required field.","Numéro de bon de commande est un champ obligatoire."
 "Payment from Applicable Countries","Mode de paiement autorisé pour les pays concernés"
 "Payment from Specific Countries","Mode de paiement autorisé pour les pays spécifiques"
 "Make Check Payable to","Libeller le chèque à l'ordre de"
@@ -21,4 +21,3 @@
 "Bank Transfer Payment","Paiement par virement bancaire"
 "Instructions","Instructions"
 "Cash On Delivery Payment","Paiement en espèces à la livraison"
-"Automatically Invoice All Items","Facturer automatiquement tous les articles"
