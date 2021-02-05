@@ -52,7 +52,6 @@
 "%name,","%name,"
 "We have updated your <a href=""%store_url"">%store_name</a> account and you have credit that you can use for future purchases.","Обновихме вашият <a href=""%store_url""> %store_name</a> акаунт и имате кредит, който можете да използвате за бъдещи покупки."
 "Your Store Credit balance is now %balance.","Вашето кредитно салдо сега е %balance."
-"Store credit","Кредит"
 "Store credit available","Наличен кредит"
 "Your store credit was successfully applied","Успешно приложихте вашият кредит"
 "Store Credit Options","Кредитни опции на магазина"
@@ -61,5 +60,3 @@
 "Refund Store Credit Automatically","Възстановяване на кредит автоматично"
 "Store Credit Update Email Sender","Кредит актуализация имейл подател"
 "Store Credit Update Email Template","Кредит актуализация имейл шаблон"
-"A balance is needed to save a balance history.","Необходим е баланс, за да се запази историята на баланса."
-"The balance history action code is unknown. Verify the code and try again.","Кодът за действие на историята на баланса е неизвестен. Проверете кода и опитайте отново."
