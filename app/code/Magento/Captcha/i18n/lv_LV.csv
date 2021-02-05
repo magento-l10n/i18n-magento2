@@ -9,6 +9,7 @@
 "Reload captcha","Pārlēdēt captcha"
 "Please type the letters and numbers below","Ievadiet zemāk esošos burtus un ciparus"
 "Attention: Captcha is case sensitive.","Uzmanību: Captcha ir reģistrjutīgs."
+"Please provide CAPTCHA code and try again","Please provide CAPTCHA code and try again"
 "CAPTCHA","CAPTCHA"
 "Enable CAPTCHA in Admin","Ieslēgt CAPTCHA administrācijas panelim"
 "Font","Fonts"
@@ -24,5 +25,3 @@
 "Case Sensitive","Reģistrjūtīgs"
 "Enable CAPTCHA on Storefront","Ieslēgt CAPTCHA veikala priekšpusē"
 "CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","Ja atzīmēts, tad CAPTCHA ir vienmēr ieslēgta priekš ""Izveidot jaunu lietotāju"" un ""Aizmirsta parole"" formām."
-"Please enter the letters from the image","Lūdzu ievadiet burtus no attēla"
-"Please type the letters below","Ievadiet simbolus"
