@@ -1,3 +1,5 @@
+"sales_rule","sales_rule"
+"Magento\SalesRule\Api\Data\RuleInterface","Magento\SalesRule\Api\Data\RuleInterface"
 "An error occurred during processing; coupon with id %1 expiration date wasn't updated. The error message was: %2","İşlem sırasında hata oluştu; id%1 son kullanma tarihi olan kupon güncellenemedi. Hata mesajı:%2"
 "Future Update in this time range already exists. Select a different range to add a new Future Update.","Gelecek Güncelleme zaten bu zaman aralığında. Yeni bir Gelecek Güncelleme eklemek için farklı bir aralık seçin."
 "ID","No"
@@ -43,7 +45,3 @@
 "Start Time","Başlangıç Zamanı"
 "End Time","Bitiş Saati"
 "Cart Price Rules","Sepet fiyat kuralları"
-"Remove Cart Price Rule from Campaign","Sepet fiyat kuralını kampanyadan kaldır"
-"Move to Another Campaign","Başka bir Uygulamaya Taşı"
-"Deleting the update will remove the cart price rule from this campaign and all scheduled changes will be lost.","Güncelleştirmeyi silmek sepet fiyatı kuralını bu kampanyadan kaldıracak ve ayarlanmış tüm değişiklikler kaybolacak."
-"Future Update already exists in this time range. Set a different range and try again.","Future Update already exists in this time range. Set a different range and try again."
