@@ -77,4 +77,4 @@
 "Debug","Debuggen"
 "Show Method if Not Applicable","Versandart zeigen, auch wenn nicht möglich"
 "Sort Order","Sortierreihenfolge"
-"Expected Delivery:","Voraussichtlicher Liefertermin:"
+"Can't convert a shipping cost from ""%1-%2"" for FedEx carrier.","Can't convert a shipping cost from ""%1-%2"" for FedEx carrier."
