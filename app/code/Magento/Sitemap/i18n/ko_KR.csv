@@ -6,7 +6,7 @@
 "Filename","파일명"
 "example: sitemap.xml","예: sitemap.xml"
 "Path","경로"
-"example: ""/sitemap/"" or ""/"" for base path (path must be writeable)","예: ""/sitemap/"" 이나 ""/"" 같은 기본 경로(경로는 반드시 쓰기 가능이여야 합니다)"
+"example: ""/media/sitemap/"" for base path (path must be writeable)","example: ""/media/sitemap/"" for base path (path must be writeable)"
 "Store View","스토어뷰"
 "Generate","생성"
 "XML Sitemap","XML 사이트맵"
@@ -64,3 +64,4 @@
 "Link for Google","Link for Google"
 "Last Generated","Last Generated"
 "Action","동작"
+"Store Url Options","Store Url Options"
