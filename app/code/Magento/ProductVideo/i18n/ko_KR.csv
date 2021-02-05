@@ -11,7 +11,6 @@
  enter YouTube API Key</a>
  first."
 "Protocol isn't allowed","Protocol isn't allowed"
-"Disallowed file type.","Disallowed file type."
 "Could not get preview image information. Please check your connection and try again.","Could not get preview image information. Please check your connection and try again."
 "Add Video","Add Video"
 "Browse to find or drag image here","Browse to find or drag image here"
@@ -44,10 +43,4 @@
 "Autostart base video","Autostart base video"
 "Show related video","Show related video"
 "Auto restart video","Auto restart video"
-"Images And Videos","이미지 및 비디오"
-"Click here to add videos.","Click here to add videos."
-"Add video","Add video"
-"Click here or drag and drop to add images.","Click here or drag and drop to add images."
-"Make Base","Make Base"
 "Delete image in all store views","Delete image in all store views"
-"The preview image information is unavailable. Check your connection and try again.","The preview image information is unavailable. Check your connection and try again."
