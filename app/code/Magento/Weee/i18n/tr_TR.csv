@@ -2,7 +2,7 @@
 "Delete Tax","Vergiyi sil"
 "All Websites","Tüm Web siteleri"
 "FPT","FPT"
-"You must set unique country-state combinations within the same fixed product tax","Aynı sabit ürün vergisinde benzersiz ülke-devlet kombinasyonlarını ayarlamanız gerekir"
+"Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again.","Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again."
 "Including FPT only","Sadece FPT Dahil"
 "Including FPT and FPT description","FPT ve FPT açıklaması dahil"
 "Excluding FPT. Including FPT description and final price","FPT hariç. FPT dahil açıklama ve son ücret"
