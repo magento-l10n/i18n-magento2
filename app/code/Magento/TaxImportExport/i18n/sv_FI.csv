@@ -15,8 +15,7 @@
 "Country code is invalid: %1","Landskoden är ogiltig: %1"
 "Import Tax Rates","Importera skattesatser"
 "Export Tax Rates","Exportera skattesatser"
+"Please select a file to import!","Please select a file to import!"
+"Import/Export Tax Rates","Importera/exportera momssatser"
 "CSV","CSV"
 "Excel XML","Excel XML"
-"Import/Export Tax Rates","Importera/exportera momssatser"
-"Please select a file to import!","Please select a file to import!"
-
