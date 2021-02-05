@@ -6,7 +6,7 @@
 "Filename","Bestandsnaam"
 "example: sitemap.xml","voorbeeld: sitemap.xml"
 "Path","Pad:"
-"example: ""/sitemap/"" or ""/"" for base path (path must be writeable)","voorbeeld: ""/sitemap/"" of ""/"" voor basispad (pad moet overschrijfbaar zijn)"
+"example: ""/media/sitemap/"" for base path (path must be writeable)","example: ""/media/sitemap/"" for base path (path must be writeable)"
 "Store View","Winkelaanzicht"
 "Generate","Genereren"
 "XML Sitemap","XML-Sitemap"
@@ -64,3 +64,4 @@
 "Link for Google","Link voor Google"
 "Last Generated","Laatst gegenereerd"
 "Action","Actie"
+"Store Url Options","Store Url Options"
