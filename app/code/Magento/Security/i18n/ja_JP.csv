@@ -26,5 +26,6 @@
 "Limit the number of password reset request per hour. Use 0 to disable.","1時間あたりに実行できるパスワードリセットの回数です。0の場合は無効です。"
 "Min Time Between Password Reset Requests","パスワードリセットリクエストの最短間隔"
 "Delay in minutes between password reset requests. Use 0 to disable.","パスワードリセットリクエストを再実行できる間隔を指定します。0の場合は無効です。"
-"Your account is temporarily disabled. Please try again later.","あなたのアカウントは一時的にご利用できません。後で再度お試し下さい。"
-"We received too many requests for password resets. Please wait and try again later or contact %1.","パスワードのリセットのリクエストが多すぎます。 しばらくしてから再度お試し頂くか、%1 にご連絡下さい。"
+"""%1"" must be later than the current date.","""%1"" must be later than the current date."
+"User Expiration","User Expiration"
+"""%1"" is not a valid date.","""%1"" is not a valid date."
