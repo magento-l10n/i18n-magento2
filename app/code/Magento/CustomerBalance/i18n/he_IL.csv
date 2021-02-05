@@ -52,7 +52,6 @@
 "%name,","%name,"
 "We have updated your <a href=""%store_url"">%store_name</a> account and you have credit that you can use for future purchases.","עדכנו את החשבון <a href=""%store_url""> %store_name</a> שלך ויש לך אשראי שבו ניתן להשתמש עבור רכישות עתידיות."
 "Your Store Credit balance is now %balance.","איזון הזיכוי שלך הוא כעת %balance."
-"Store credit","זיכוי חנות"
 "Store credit available","זיכוי חנות זמין"
 "Your store credit was successfully applied","הזיכוי שלך הוחל בהצלחה"
 "Store Credit Options","אפשרויות זיכוי בחנות"
@@ -61,5 +60,3 @@
 "Refund Store Credit Automatically","החזר זיכוי אוטומטי"
 "Store Credit Update Email Sender","עדכון דואר אלטקרוני השולח עבור זיכוי בחנות"
 "Store Credit Update Email Template","תבנית עדכון דואר אלטקרוני עבור זיכוי בחנות"
-"A balance is needed to save a balance history.","A balance is needed to save a balance history."
-"The balance history action code is unknown. Verify the code and try again.","The balance history action code is unknown. Verify the code and try again."
