@@ -19,5 +19,3 @@
 "Success History Lifetime","成功履歴保持期間"
 "Failure History Lifetime","失敗履歴保持期間"
 "Use Separate Process","分離プロセス使用"
-"Cron (Scheduled Tasks) - all the times are in minutes","Cron（タスク予約） - 各時間は分単位"
-"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.","Cron実行中に正しいURLを生成させるには、ウェブ＞セキュアおよび非セキュアベースURLが適切に設定されていることを確認して下さい。"
