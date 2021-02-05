@@ -10,7 +10,7 @@
 "Status","Subjek"
 "Server Type","Jenis Server"
 "File Directory","Beranda Direktori"
-"For Type ""Local Server"" use relative path to Magento installation, e.g. var/export, var/import, var/export/some/dir","Untuk Jenis ""Server Lokal"" menggunakan jalur relatif untuk pemasangan Magento, misal: var / export, var / import, var / export / some / dir"
+"For Type ""Local Server"" use relative path to Magento installation,  e.g. var/export, var/import, var/export/some/dir. If remote storage is configured, use paths like import_export/export, import_export/import, import_export/export/some/dir.","For Type ""Local Server"" use relative path to Magento installation,  e.g. var/export, var/import, var/export/some/dir. If remote storage is configured, use paths like import_export/export, import_export/import, import_export/export/some/dir."
 "FTP Host[:Port]","Host FTP [: Port]"
 "User Name","Nama Pengguna"
 "Password","Kata sandi"
