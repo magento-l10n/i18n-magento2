@@ -1,3 +1,4 @@
+"Can't convert a shipping cost from ""%1-%2"" for FedEx carrier.","Can't convert a shipping cost from ""%1-%2"" for FedEx carrier."
 "Europe First Priority","Europa hoogste prioriteit"
 "1 Day Freight","24 uurs zending"
 "2 Day Freight","48 uurs zending"
@@ -43,6 +44,7 @@
 "status","Status"
 "Empty response","Leeg antwoord"
 "None","Geen"
+"Expected Delivery:","Expected Delivery:"
 "Field ","Veld "
 " is required."," is verplicht."
 "FedEx","FedEx"
@@ -77,4 +79,3 @@
 "Debug","Fouten opsporen"
 "Show Method if Not Applicable","Laat verzendmethode zien indien niet van toepassing"
 "Sort Order","Sorteervolgorde"
-"Can't convert a shipping cost from ""%1-%2"" for FedEx carrier.","Can't convert a shipping cost from ""%1-%2"" for FedEx carrier."
