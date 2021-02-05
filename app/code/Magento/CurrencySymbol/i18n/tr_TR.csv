@@ -18,6 +18,3 @@
 "You must first configure currency options before being able to see currency rates.","Önce para birimi oranlarını görebilmek için para birimi seçeneklerini yapılandırmanız gerekir."
 "Old rate:","Eski oran:"
 "Currency","Para Birimi"
-"Please correct the input data for %1 => %2 rate","Lütfen %1 => %2 oranı için giriş verilerini düzeltin"
-"The Import Service is incorrect. Verify the service and try again.","Veri alma servisi yanlış. Servisi doğrulayıp yeniden deneyiniz."
-"The import model can't be initialized. Verify the model and try again.","Veri alma modeli başlatılamadı. Modeli doğrulayıp yeniden deneyiniz."
