@@ -13,7 +13,4 @@
 "Delete","حذف"
 "PayPal Account","حساب پی پال"
 "Cancel","لغو"
-"No payment tokens are available for the specified order payment.","No payment tokens are available for the specified order payment."
-"Credit Card was successfully removed","کارت اعتباری با موفقیت حذف شد"
-"My Credit Cards","کارت های اعتباری من"
-"You have no credit cards.","شما کارت های اعتباری ندارید."
+"Are you sure you want to delete this card: %1?","Are you sure you want to delete this card: %1?"
