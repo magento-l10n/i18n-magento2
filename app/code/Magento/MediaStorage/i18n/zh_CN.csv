@@ -23,6 +23,3 @@
 "Select Media Database","选择媒体数据库"
 "After selecting a new media storage location, press the Synchronize button to transfer all media to that location. Media will not be available in the new location until the synchronization process is complete.","选择一个新的媒体存储位置后，按同步按钮将所有媒体传输到该位置。在同步过程完成之前，新位置的媒体将不可用。"
 "Environment Update Time","环境更新时间"
-"The ""%1"" file doesn't exist. Verify the file and try again.","The ""%1"" file doesn't exist. Verify the file and try again."
-"Cannot resize image ""%1"" - original image not found","Cannot resize image ""%1"" - original image not found"
-"Cannot resize images - product images not found","Cannot resize images - product images not found"
