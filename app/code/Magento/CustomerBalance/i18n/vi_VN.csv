@@ -52,7 +52,6 @@
 "%name,","%name,"
 "We have updated your <a href=""%store_url"">%store_name</a> account and you have credit that you can use for future purchases.","Chúng tôi đã cập nhật tài khoản <a href=""%store_url""> %store_name</a> của bạn và bạn có tín dụng mà có thể dùng cho việc mua bán trong tương lai."
 "Your Store Credit balance is now %balance.","Số dư tín dụng cửa hàng của bạn bây giờ là %balance."
-"Store credit","Cửa hàng tín dụng"
 "Store credit available","Cửa hàng tín dụng có sẵn"
 "Your store credit was successfully applied","Cửa hàng tín dụng của bạn được áp dụng thành công"
 "Store Credit Options","Tùy chọn Cửa hàng tín dụng"
@@ -61,5 +60,3 @@
 "Refund Store Credit Automatically","Tự động Hoàn trả tín dụng cửa hàng"
 "Store Credit Update Email Sender","Người gửi Email Cập Nhật Cửa hàng tín dụng"
 "Store Credit Update Email Template","Mẫu Email Cập Nhật Cửa hàng tín dụng"
-"A balance is needed to save a balance history.","A balance is needed to save a balance history."
-"The balance history action code is unknown. Verify the code and try again.","The balance history action code is unknown. Verify the code and try again."
