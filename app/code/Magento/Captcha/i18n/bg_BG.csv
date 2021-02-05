@@ -9,6 +9,7 @@
 "Reload captcha","Презареди изображението"
 "Please type the letters and numbers below","Моля въведете буквите и цифрите по-долу"
 "Attention: Captcha is case sensitive.","Внимание: Captcha различава малки и главни букви."
+"Please provide CAPTCHA code and try again","Please provide CAPTCHA code and try again"
 "CAPTCHA","CAPTCHA"
 "Enable CAPTCHA in Admin","Разреши CAPTCHA в администратративната част"
 "Font","Шрифт"
@@ -24,5 +25,3 @@
 "Case Sensitive","Различава малки и главни букви"
 "Enable CAPTCHA on Storefront","Разреши разпознаване на CAPTCHA в магазина"
 "CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","Ако е избрано, CAPTCHA ще бъде разрешена за формите за ""Регистрация"" и ""Забравена парола""."
-"Please enter the letters from the image","Моля, въведете символите от картинката"
-"Please type the letters below","Моля въведете буквите отдолу"
