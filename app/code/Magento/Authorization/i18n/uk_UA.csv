@@ -1,2 +1,2 @@
-"We can't find the role for the user you wanted.","Ми не можемо знайти роль для бажаного вами користувача."
+"The role wasn't found for the user. Verify the role and try again.","The role wasn't found for the user. Verify the role and try again."
 "Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Щось пішло не так під час компілювання списку дозволених ресурсів. Ви можете дізнатися більше у журналі винятків."
