@@ -1,3 +1,5 @@
+"sales_rule","sales_rule"
+"Magento\SalesRule\Api\Data\RuleInterface","Magento\SalesRule\Api\Data\RuleInterface"
 "An error occurred during processing; coupon with id %1 expiration date wasn't updated. The error message was: %2","An error occurred during processing; coupon with id %1 expiration date wasn't updated. The error message was: %2"
 "Future Update in this time range already exists. Select a different range to add a new Future Update.","""Будущее обновление"" для этого диапазона времени уже существует. Выберите другой диапазон для добавления нового ""Будущего обновления""."
 "ID","Идентификатор"
@@ -43,7 +45,3 @@
 "Start Time","Время начала"
 "End Time","Время окончания"
 "Cart Price Rules","Ценовые правила корзины"
-"Remove Cart Price Rule from Campaign","Удалить ценовое правило корзины из кампании"
-"Move to Another Campaign","Переместить в другую кампанию"
-"Deleting the update will remove the cart price rule from this campaign and all scheduled changes will be lost.","Deleting the update will remove the cart price rule from this campaign and all scheduled changes will be lost."
-"Future Update already exists in this time range. Set a different range and try again.","Future Update already exists in this time range. Set a different range and try again."
