@@ -1,7 +1,4 @@
-"catalog_rule","catalog_rule"
-"Magento\CatalogRule\Api\Data\RuleInterface","Magento\CatalogRule\Api\Data\RuleInterface"
-"Future Update in this time range already exists. Select a different range to add a new Future Update.","التحديث في المستقبل في هذا النطاق الزمني موجود بالفعل. حدد مجموعة مختلفة لإضافة ""تحديث مستقبل"" جديد."
-"Future Update End Time cannot be equal or earlier than Start Time.","لا يمكن أن يكون ""وقت انتهاء التحديث"" مساوية أو أقدم من ""وقت البدء""."
+"Future Update already exists in this time range. Set a different range and try again.","Future Update already exists in this time range. Set a different range and try again."
 "Smth went to exception","Smth went to exception
 "
 "ID","التعريف"
@@ -21,9 +18,7 @@
 "End Date","تاريخ الانتهاء"
 "Rule Information","بيانات القاعدة"
 "Rule Name","أسم القاعدة"
-"Status","الحاله"
 "Active","فعال"
-"Inactive","خاملة"
 "Websites","الموقع"
 "Customer Groups","مجموعات العملاء"
 "Conditions","الحالات"
