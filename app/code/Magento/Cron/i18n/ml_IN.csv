@@ -7,8 +7,6 @@
 "Invalid cron expression, expecting numeric modulus: %1","ക്രോൺ എക്‌സ്‌പ്രഷൻ അസാധുവാണ്, സംഖ്യാ മോഡുലസ് പ്രതീക്ഷിക്കുന്നു: %1"
 "Invalid cron expression, expecting 'from-to' structure: %1","'from-to' ഘടന പ്രതീക്ഷിക്കുന്ന ക്രോൺ എക്‌സ്‌പ്രഷൻ അസാധുവാണ്:%1"
 "Some error","ചില പിശക്"
-"Invalid callback: Not_Existed_Class::execute can't be called","അസാധുവായ കോൾബാക്ക്: Not_Existed_Class::എക്സിക്യൂട്ട് വിളിക്കാൻ കഴിയില്ല"
-"Test exception","Test exception"
 "Cron (Scheduled Tasks)","ക്രോൺ (ഷെഡ്യൂൾഡ് ടാസ്‌ക്കുകൾ)"
 "For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.","ക്രോൺ റൺസ് സമയത്ത് ജനറേറ്റുചെയ്‌ത ശരിയായ URL- കൾക്കായി വെബ്> സുരക്ഷിതവും സുരക്ഷിതമല്ലാത്തതുമായ അടിസ്ഥാന URL- കൾ വ്യക്തമായി സജ്ജമാക്കിയിട്ടുണ്ടെന്ന് ഉറപ്പാക്കുക. എല്ലാ സമയവും മിനിറ്റിലാണ്."
 "Cron configuration options for group:","ഗ്രൂപ്പിനായുള്ള ക്രോൺ കോൺഫിഗറേഷൻ ഓപ്ഷനുകൾ:"

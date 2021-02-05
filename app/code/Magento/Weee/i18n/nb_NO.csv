@@ -2,7 +2,7 @@
 "Delete Tax","Slett mva"
 "All Websites","Alle nettsteder"
 "FPT","FPT"
-"You must set unique country-state combinations within the same fixed product tax","You must set unique country-state combinations within the same fixed product tax"
+"Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again.","Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again."
 "Including FPT only","Inkludere kun FPT"
 "Including FPT and FPT description","Inkludert FPT- og FPT-beskrivelse"
 "Excluding FPT. Including FPT description and final price","Excluding FPT. Including FPT description and final price"

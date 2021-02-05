@@ -1,18 +1,16 @@
 "Subscription status","Status pretplate"
 "Sorry, there has been an error processing your request. Please try again later.","Izvinite, dogodila se greška pri obradi vašeg zahteva. Pokušajte ponovo kasnije."
-"Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.","Sorry, there was an error processing your registration request to Magento Analytics. Please try again later."
-"Error occurred during postponement notification","Error occurred during postponement notification"
-"Time value has an unsupported format","Vrednost za vreme nije pravilno napisana"
+"The time value is using an unsupported format. Enter a supported format and try again.","The time value is using an unsupported format. Enter a supported format and try again."
 "Cron settings can't be saved","Podešavanje Kron-a ne može biti sačuvano"
 "There was an error save new configuration value.","Došlo je do greške pri snimanju novih konfiguracionih vrednosti."
 "Please select an industry.","Odaberite državu."
 "--Please Select--","--- Molimo odaberite ---"
-"Command %1"" was not found.""","Command %1"" was not found."""
-"Input data must be string or convertible into string.","Ulazni podatak mora biti znak ili podatak koji se može pretvoriti u znak."
-"Input data must be non-empty string.","Ulazni podatak ne sme biti prazan niz znakova."
-"Not valid cipher method.","Neispravna metoda za šifriranje."
-"Encryption key can't be empty.","Ključ za šifriranje ne može biti prazan."
-"Source ""%1"" is not exist","Ulazni podatak ""%1"" ne postoji"
+"Command ""%1"" was not found.","Command ""%1"" was not found."
+"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","The data is invalid. Enter the data as a string or data that can be converted into a string and try again."
+"The data is invalid. Enter the data as a string and try again.","The data is invalid. Enter the data as a string and try again."
+"The data is invalid. Use a valid cipher method and try again.","The data is invalid. Use a valid cipher method and try again."
+"Enter the encryption key and try again.","Enter the encryption key and try again."
+"The ""%1"" source doesn't exist.","The ""%1"" source doesn't exist."
 "These arguments can't be empty ""%1""","Ovi argumenti ne mogu biti prazni ""%1"""
 "Cannot find predefined integration user!","Nije moguće pronaći korisnički definisane integracije!"
 "File is not ready yet.","Datoteka još uvek nije spremna."
@@ -20,15 +18,12 @@
 "Failed to synchronize data to the Magento Business Intelligence service. ","Greška u sinhronizaciji podataka sa Magento poslovnim servisom inteligencije. "
 "Retry Synchronization","Pokušaj ponovo Sinhronizaciju"
 "TestMessage","Test poruka"
-"Error message","Error message"
 "Apps and Games","Aplikacije i igre"
 "Athletic/Sporting Goods","Sportski/sportske opreme"
 "Art and Design","Umetnost i dizajn"
 "Advanced Reporting","Napredna podešavanja"
 "Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Nov pogled na stvari i preuzimanje komande nad performansama vašeg poslovanja, koristeći dinamičke proizvode, narudžbe i izveštaj o kupcima prilagodene vašim potrebama."
-"View details","View details"
 "Go to Advanced Reporting","Idi na napredne opcije za izveštavanje"
-"An error occurred while subscription process.","An error occurred while subscription process."
 "Analytics","Analitika"
 "API","API"
 "Configuration","Konfiguracija"
@@ -36,22 +31,22 @@
 "BI Essentials","BI osnove"
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our
-                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.
-                ","This service provides a dynamic suite of reports with rich insights about your business.
+                ""Go to Advanced Reporting"" link. </br> For more information, see our <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
+                terms and conditions</a>.","This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our
-                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.
-                "
+                ""Go to Advanced Reporting"" link. </br> For more information, see our <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
+                terms and conditions</a>."
 "Advanced Reporting Service","Napredna usluga izveštavanja"
-"Industry","Industrija"
 "Time of day to send data","Doba dana za slanje podataka"
+"Industry Data","Industry Data"
+"Industry","Industrija"
+"In order to personalize your Advanced Reporting experience, please select your industry.","Molim da podesite vašu granu industrije u meniju Napredna izveštavanja, kako bi ste dobili bolje izveštaje."
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Dobijte više saznanja iz Magento Business Intelligence</strong>"
 "Magento Business Intelligence provides you with a simple and clear path to
                     becoming more data driven.</br> Learn more about <a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> tier.","Magento Business Intelligence provides you with a simple and clear path to
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence provides you with a simple and clear path to
                     becoming more data driven.</br> Learn more about <a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> tier."
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers."
 "Auto Parts","Auto delovi"
 "Baby/Children’s Apparel, Gear and Toys","Odece beba/za decu, opremu i igračke"
 "Beauty and Cosmetics","Lepota i kozmetika"
@@ -70,16 +65,4 @@
 "Pet Goods","Oprema za ljubimce"
 "Pharma and Medical Devices","Farmacija i medicinski uređaji"
 "Technology B2B","B2B tehnologije"
-"Analytics Subscription","Analytics Subscription"
-"powered by Magento Business Intelligence","powered by Magento Business Intelligence"
-"Are you sure you want to opt out?","Are you sure you want to opt out?"
-"Cancel","Cancel"
-"Opt out","Opt out"
-"<p>Advanced Reporting in included,
-                    free of charge, in your Magento software. When you opt out, we collect no product, order, and
-                    customer data to generate our dynamic reports.</p><p>To opt in later: You can always turn on Advanced
-                    Reporting in you Admin Panel.</p>","<p>Advanced Reporting in included,
-                    free of charge, in your Magento software. When you opt out, we collect no product, order, and
-                    customer data to generate our dynamic reports.</p><p>To opt in later: You can always turn on Advanced
-                    Reporting in you Admin Panel.</p>"
-"In order to personalize your Advanced Reporting experience, please select your industry.","Molim da podesite vašu granu industrije u meniju Napredna izveštavanja, kako bi ste dobili bolje izveštaje."
+"Other","Other"

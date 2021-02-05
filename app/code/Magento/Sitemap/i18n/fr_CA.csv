@@ -47,6 +47,7 @@
 "Products Options","Options pour les produits"
 "Add Images into Sitemap","Ajouter les images au plan de site"
 "CMS Pages Options","Options pour les pages CMS"
+"Store Url Options","Store Url Options"
 "Generation Settings","Paramètres généraux"
 "Enabled","Activé"
 "Error Email Recipient","Destinataire du mail d'erreur"
@@ -64,4 +65,3 @@
 "Link for Google","Lien pour Google"
 "Last Generated","Dernière génération"
 "Action","Action"
-"Store Url Options","Store Url Options"
