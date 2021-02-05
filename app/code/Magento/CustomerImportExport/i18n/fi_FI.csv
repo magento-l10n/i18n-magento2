@@ -1,5 +1,5 @@
 "Please specify a website.","Ole hyvä ja määritä sivusto."
-"Please specify an email.","Ole hyvä ja määritä sähköposti."
+"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."
 "We found an invalid value in a website column.","We found an invalid value in a website column."
 "Please enter a valid email.","Anna voimassa oleva sähköpostiosoite."
 "Please make sure attribute ""%s"" is not empty.","Please make sure attribute ""%s"" is not empty."
