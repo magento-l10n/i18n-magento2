@@ -9,6 +9,7 @@
 "Reload captcha","ക്യാപ്‌ച വീണ്ടും ലോഡുചെയ്യുക"
 "Please type the letters and numbers below","ചുവടെയുള്ള അക്ഷരങ്ങളും അക്കങ്ങളും ടൈപ്പ് ചെയ്യുക"
 "Attention: Captcha is case sensitive.","ശ്രദ്ധിക്കുക: കാപ്ച കേസ് സെൻ‌സിറ്റീവ് ആണ്."
+"Please provide CAPTCHA code and try again","Please provide CAPTCHA code and try again"
 "CAPTCHA","ക്യാപ്ച"
 "Enable CAPTCHA in Admin","അഡ്‌മിനിൽ CAPTCHA പ്രവർത്തനക്ഷമമാക്കുക"
 "Font","ഫോണ്ട്"
@@ -24,5 +25,3 @@
 "Case Sensitive","വലിയ അക്ഷരങ്ങളും ചെറിയ അക്ഷരങ്ങളും ശ്രദ്ധിക്കണം"
 "Enable CAPTCHA on Storefront","സ്റ്റോർ‌ഫ്രണ്ടിൽ‌ CAPTCHA പ്രാപ്‌തമാക്കുക"
 "CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","""ഉപയോക്താവിനെ സൃഷ്‌ടിക്കുക"", ""പാസ്‌വേഡ് മറന്നോ"" എന്നീ ഫോമുകൾക്കായുള്ള ക്യാപ്ച തിരഞ്ഞെടുത്തിട്ടുണ്ടെങ്കിൽ എല്ലായ്പ്പോഴും പ്രവർത്തനക്ഷമമാകും."
-"Please enter the letters from the image","ചിത്രത്തിൽ നിന്നുള്ള അക്ഷരങ്ങൾ നൽകുക"
-"Please type the letters below","ചുവടെയുള്ള അക്ഷരങ്ങൾ ടൈപ്പ് ചെയ്യുക"
