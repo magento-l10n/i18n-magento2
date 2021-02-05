@@ -9,6 +9,7 @@
 "Reload captcha","إعادة تحميل كلمة التحقق"
 "Please type the letters and numbers below","الرجاء كتابة الحروف والأرقام أدناه"
 "Attention: Captcha is case sensitive.","انتباه: كلمة التحقق حساسة لحالة الأحرف."
+"Please provide CAPTCHA code and try again","Please provide CAPTCHA code and try again"
 "CAPTCHA","كلمة التحقق"
 "Enable CAPTCHA in Admin","تمكين كلمة التحقق للمشرف"
 "Font","الخط"
@@ -24,5 +25,3 @@
 "Case Sensitive","تحسس حالة الأحرف"
 "Enable CAPTCHA on Storefront","تمكين كلمة التحقق في الواجهة"
 "CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","يتم دوماً تمكين كلمة التحقق لأشكال ""نسيت كلمة المرور"" و ""إنشاء مستخدم"" إذا تم الإختيار."
-"Please enter the letters from the image","الرجاء إدخال الحروف التي في الصورة"
-"Please type the letters below","الرجاء كتابة الأحرف أدناه"
