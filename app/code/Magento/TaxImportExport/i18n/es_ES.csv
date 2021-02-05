@@ -12,10 +12,11 @@
 "Invalid file upload attempt","Intento de subida de un archivo no válido"
 "Invalid file upload attempt.","Intento de subida de un archivo no válido."
 "Invalid file format.","Formato de archivo inválido."
-"One of the countries has invalid code.","Uno de los países tiene un código inválido."
+"Country code is invalid: %1","Código de país invalido: %1"
 "Import Tax Rates","Importar tasas de impuestos"
 "Export Tax Rates","Exportar tasas de impuestos"
 "CSV","CSV"
 "Excel XML","Excel XML"
-"Country code is invalid: %1","Código de país invalido: %1"
 "Import/Export Tax Rates","Importar / Exportar las tasas de impuesto"
+"Please select a file to import!","Please select a file to import!"
+
