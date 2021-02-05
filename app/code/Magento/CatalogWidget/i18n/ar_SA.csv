@@ -16,14 +16,15 @@
 "Template","قالب"
 "Products Grid Template","قالب الشبكة للمنتجات"
 "Cache Lifetime (Seconds)","عمر ذاكرة التخزين المؤقت (بالثواني)"
-"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","الافتراضي 86400، إن لم يعيين. للتحديث الفوري، قم بمسح ذاكرة التخزين المؤقت لـ HTML."
+"Time in seconds between the widget updates.
+<br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
+<br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.","Time in seconds between the widget updates.
+<br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
+<br/>Widget will not show products that begin to match the specified conditions until cache is refreshed."
+"",""
+"Time in seconds between the widget updates.
+<br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
+<br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.","Time in seconds between the widget updates.
+<br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
+<br/>Widget will not show products that begin to match the specified conditions until cache is refreshed."
 "Conditions","الحالات"
-"
-                    Time in seconds between the widget updates.
-                    <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
-                    <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.
-                ","
-                    الوقت بالثواني بين تحديثات القطعة.
-                    <br/>إذا لم يتم تعيينه، يساوي 86400 ثانية (24 ساعة). لتحديث القطعة على الفور، انتقل إلى إدارة ذاكرة التخزين المؤقت ومسح ذاكرة التخزين المؤقت لمخرجات بلوك HTML.
-                    <br/>لن تظهر القطعة المنتجات التي تبدأ في مطابقة الشروط المحددة حتى يتم تحديث ذاكرة التخزين المؤقت.
-                "
