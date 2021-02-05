@@ -1,3 +1,4 @@
+"Can't convert a shipping cost from ""%1-%2"" for FedEx carrier.","Can't convert a shipping cost from ""%1-%2"" for FedEx carrier."
 "Europe First Priority","Euroopan ensin -prioriteetti"
 "1 Day Freight","1 Day Freight"
 "2 Day Freight","2 Day Freight"
@@ -43,6 +44,7 @@
 "status","tila"
 "Empty response","Empty response"
 "None","Ei mikään"
+"Expected Delivery:","Expected Delivery:"
 "Field ","Kenttä "
 " is required."," on pakollinen."
 "FedEx","FedEx"
@@ -77,4 +79,3 @@
 "Debug","Vianselvitys"
 "Show Method if Not Applicable","Show Method if Not Applicable"
 "Sort Order","Lajittelujärjestys"
-"Can't convert a shipping cost from ""%1-%2"" for FedEx carrier.","Can't convert a shipping cost from ""%1-%2"" for FedEx carrier."
