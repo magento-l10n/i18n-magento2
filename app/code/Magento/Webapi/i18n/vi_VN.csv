@@ -1,6 +1,7 @@
-"Consumer is not authorized to access %resources","Người tiêu dùng không có quyền truy nhập % tài nguyên"
+"The consumer isn't authorized to access %resources.","The consumer isn't authorized to access %resources."
 "Operation allowed only in HTTPS","Hoạt động chỉ cho phép HTTPS"
 "Cannot perform GET operation with store code 'all'","Không thể thực hiện được thao tác GET với mã cửa hàng 'all'"
+"Specified request cannot be processed.","Specified request cannot be processed."
 "Request does not match any route.","Yêu cầu không phù hợp với bất kỳ tuyến nào."
 "Not allowed parameters: %1. Please use only %2 and %3.","Tham số không được phép: %1. Vui lòng chỉ sử dụng %2 và %3."
 "Requested service is not available: ""%1""","Yêu cầu dịch vụ không có sẵn: ""%1"""
