@@ -9,6 +9,7 @@
 "Reload captcha","Επαναφόρτωση επιβεβαίωσης captcha"
 "Please type the letters and numbers below","Παρακαλώ πληκτρολογήστε τα γράμματα και τους αριθμούς παρακάτω"
 "Attention: Captcha is case sensitive.","Προσοχή: Η επιβεβαίωση Captcha κάνει διάκριση πεζών-κεφαλαίων."
+"Please provide CAPTCHA code and try again","Please provide CAPTCHA code and try again"
 "CAPTCHA","CAPTCHA"
 "Enable CAPTCHA in Admin","Ενεργοποίηση CAPTCHA στη διαχείριση (Admin)"
 "Font","Γραμματοσειρά"
@@ -24,5 +25,3 @@
 "Case Sensitive","Διάκριση Πεζών-Κεφαλαίων"
 "Enable CAPTCHA on Storefront","Ενεργοποίηση CAPTCHA στο Κατάστημα"
 "CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","Η επιβεβαίωση CAPTCHA για τις φόρμες ""Δημιουργία χρήστη"" και ""Υπενθύμιση κωδικού"" θα είναι πάντα ενεργοποιημένη, αν επιλεχθεί."
-"Please enter the letters from the image","Παρακαλώ εισάγετε τα γράμματα από την εικόνα"
-"Please type the letters below","Παρακαλώ πληκτρολογήστε τα γράμματα παρακάτω"
