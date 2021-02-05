@@ -1,3 +1,4 @@
+"Purchase order number is a required field.","Purchase order number is a required field."
 "Make Check payable to:","Çek Alıcısı:"
 "Send Check to:","Çeki Göndereceğiniz Adres:"
 "Purchase Order Number","Sipariş Numarası"
@@ -11,7 +12,6 @@
 "New Order Status","Yeni sipariş durumu"
 "Sort Order","Sıralama"
 "Title","Başlık"
-"Purchase order number is a required field.","Purchase order number is a required field."
 "Payment from Applicable Countries","Mümkün olan Ülkelerden Tahsilat"
 "Payment from Specific Countries","Sadece Seçilen Ülkelerden Tahsilat"
 "Make Check Payable to","Çek Alıcısı"
@@ -21,4 +21,3 @@
 "Bank Transfer Payment","Banka Havalesi ile Ödeme"
 "Instructions","Kullanım Talimatları"
 "Cash On Delivery Payment","Kapıda Nakit Ödeme"
-"Automatically Invoice All Items","Tüm Ödemeleri Otomatik Faturalandır"
