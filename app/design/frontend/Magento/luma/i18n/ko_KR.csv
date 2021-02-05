@@ -26,8 +26,8 @@
 "Order History","주문 이력"
 "View past orders","주문 내역 확인"
 "Footer","꼬리말"
-"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>우리는...</a>"
-"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>고객 서비스</a>"
+"About Us","쇼핑몰 소개"
+"Customer Service","고객 서비스"
 "<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">
  %store_phone</a>
  "
@@ -65,9 +65,5 @@
 "Your shipping confirmation is below. Thank you again for your business.","배송에 관한 정보는 아래를 참조하십시오. 주문해주셔서 다시 한번 감사드립니다."
 "Your Shipment #%shipment_id for Order #%order_id","주문번호 %order_id의 배송이 시작되었습니다. 배송번호는 %shipment_id 입니다."
 "Update to your %store_name shipment","%store_name 배송정보를 업데이트 하세요"
-"Account Dashboard","계정 대시보드"
 "Address Book","주소록"
 "Account Information","계정 정보"
-"About Us","쇼핑몰 소개"
-"Customer Service","고객 서비스"
-"My Account","내 계정"
