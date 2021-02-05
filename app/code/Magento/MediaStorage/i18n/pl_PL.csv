@@ -23,6 +23,3 @@
 "Select Media Database","Wybierz bazę danych mediów"
 "After selecting a new media storage location, press the Synchronize button to transfer all media to that location. Media will not be available in the new location until the synchronization process is complete.","Po wybraniu nowej lokalizacji przechowywania plików, naciśnij przycisk Synchronizuj w celu przeniesienia wszystkich mediów do tej lokalizacji. Media nie będą dostępne w nowej lokalizacji dopóki nie zakończy się proces ich synchronizacji."
 "Environment Update Time","Czas aktualizacji środowiska"
-"The ""%1"" file doesn't exist. Verify the file and try again.","The ""%1"" file doesn't exist. Verify the file and try again."
-"Cannot resize image ""%1"" - original image not found","Cannot resize image ""%1"" - original image not found"
-"Cannot resize images - product images not found","Cannot resize images - product images not found"
