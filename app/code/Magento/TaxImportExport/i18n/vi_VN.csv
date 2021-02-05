@@ -12,10 +12,11 @@
 "Invalid file upload attempt","Cố gắng tải lên tệp không hợp lệ"
 "Invalid file upload attempt.","Cố gắng tải lên tệp không hợp lệ."
 "Invalid file format.","Định dạng tập tin không hợp lệ."
-"One of the countries has invalid code.","Một trong những nước có mã không hợp lệ."
+"Country code is invalid: %1","Country code is invalid: %1"
 "Import Tax Rates","Nhập thuế suất"
 "Export Tax Rates","Xuất thuế suất"
 "CSV","CSV"
 "Excel XML","Excel XML"
-"Country code is invalid: %1","Country code is invalid: %1"
 "Import/Export Tax Rates","Thuế suất Xuất nhập khẩu"
+"Please select a file to import!","Please select a file to import!"
+
