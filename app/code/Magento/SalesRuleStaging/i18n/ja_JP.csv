@@ -1,3 +1,5 @@
+"sales_rule","sales_rule"
+"Magento\SalesRule\Api\Data\RuleInterface","Magento\SalesRule\Api\Data\RuleInterface"
 "An error occurred during processing; coupon with id %1 expiration date wasn't updated. The error message was: %2","処理中にエラーが発生いたしました。クーポンID: %1 の期限は更新されませんでした。 エラー内容: %2"
 "Future Update in this time range already exists. Select a different range to add a new Future Update.","この時間帯の次回の更新は既に存在します。新しい次回の更新を追加するには、別の範囲を選択してください。"
 "ID","ID"
@@ -43,7 +45,3 @@
 "Start Time","開始時間"
 "End Time","終了時間"
 "Cart Price Rules","クーポン"
-"Remove Cart Price Rule from Campaign","キャンペーンからカート価格ルールを削除する"
-"Move to Another Campaign","別のキャンペーンに移動"
-"Deleting the update will remove the cart price rule from this campaign and all scheduled changes will be lost.","更新プログラムを削除すると、ショッピングカート価格ルールがこのキャンペーンから削除され、すべてのスケジュールされた変更は失われます。"
-"Future Update already exists in this time range. Set a different range and try again.","この時間帯の次回の更新は既に存在します。違う時間帯を設定して再度お試し下さい。"
