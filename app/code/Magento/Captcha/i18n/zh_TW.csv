@@ -9,6 +9,7 @@
 "Reload captcha","重新載入驗證碼"
 "Please type the letters and numbers below","Please type the letters and numbers below"
 "Attention: Captcha is case sensitive.","注意︰ 驗證碼是區分大小寫。"
+"Please provide CAPTCHA code and try again","Please provide CAPTCHA code and try again"
 "CAPTCHA","驗證碼"
 "Enable CAPTCHA in Admin","在管理員啟用驗證碼"
 "Font","字體"
@@ -24,5 +25,3 @@
 "Case Sensitive","區分大小寫"
 "Enable CAPTCHA on Storefront","啟用在店面上的驗證碼"
 "CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","如果選擇了“創建用戶”和“忘記密碼”表單，一律啟用驗證碼。"
-"Please enter the letters from the image","請從圖像，輸入字母"
-"Please type the letters below","請鍵入下面的字母"
