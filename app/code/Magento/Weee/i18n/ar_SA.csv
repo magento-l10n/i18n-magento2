@@ -2,7 +2,7 @@
 "Delete Tax","حذف الضرائب"
 "All Websites","جميع المواقع"
 "FPT","FPT"
-"You must set unique country-state combinations within the same fixed product tax","يجب عليك تعيين تركيبات البلد دولة فريدة من نوعها داخل نفس الضريبة الثابتة المنتج"
+"Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again.","Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again."
 "Including FPT only","بما في ذلك FPT فقط"
 "Including FPT and FPT description","بما في ذلك FPT و FPT الوصف"
 "Excluding FPT. Including FPT description and final price","باستثناء FPT. بما في ذلك وصف FPT والسعر النهائي"
