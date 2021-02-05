@@ -1,5 +1,5 @@
 "Please specify a website.","יש לציין אתר."
-"Please specify an email.","נא לציין דואר אלקטרוני."
+"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."
 "We found an invalid value in a website column.","מצאנו ערך לא חוקי בעמודת האתר."
 "Please enter a valid email.","נא הזן כתובת דואר אלקטרוני חוקית."
 "Please make sure attribute ""%s"" is not empty.","נא ודא כי התכונה ""%s"" אינה ריקה."
