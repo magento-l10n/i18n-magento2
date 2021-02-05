@@ -19,5 +19,3 @@
 "Success History Lifetime","Succesfuld historik tid"
 "Failure History Lifetime","Fejl historik tid"
 "Use Separate Process","Benyt seperat eksekveringsprocess"
-"Cron (Scheduled Tasks) - all the times are in minutes","Cron (Planlagte baggrundsopgaver) - Alle tider er i minutter"
-"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.","For at korrekte Urls kan generere ved udførelsen af cronjobs, venligst sikre at Web > Sikker og Usikker base urls er entydigt sat."
