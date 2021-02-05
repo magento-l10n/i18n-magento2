@@ -7,8 +7,6 @@
 "Invalid cron expression, expecting numeric modulus: %1","Érvénytelen cron kifejezés, numerikus tényező szükséges: %1"
 "Invalid cron expression, expecting 'from-to' structure: %1","Invalid cron expression, expecting 'from-to' structure: %1"
 "Some error","Néhány hiba"
-"Invalid callback: Not_Existed_Class::execute can't be called","Érvénytelen visszahívás: Nem meghívható a Not_Existed_Class::execute"
-"Test exception","Teszt hiba"
 "Cron (Scheduled Tasks)","Cron (ütemezett feladatok)"
 "For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set. All the times are in minutes.","Hogy a cron futtatásakor megfelelő URL-ek generálódjanak győződjön meg arról, hogy a Web > Biztonságos és Nem biztonságos alap URL-címek explicit módon be lettek állítva. Minden időt percben kell érteni."
 "Cron configuration options for group:","Cron configuration options for group:"
