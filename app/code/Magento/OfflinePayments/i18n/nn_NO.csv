@@ -1,3 +1,4 @@
+"Purchase order number is a required field.","Purchase order number is a required field."
 "Make Check payable to:","Gjør sjekk betalbar til:"
 "Send Check to:","Send sjekk til:"
 "Purchase Order Number","Innkjøpsordrenummer"
@@ -11,7 +12,6 @@
 "New Order Status","Ny ordrestatus"
 "Sort Order","Sorteringsrekkefølge"
 "Title","Tittel"
-"Purchase order number is a required field.","Purchase order number is a required field."
 "Payment from Applicable Countries","Betaling fra aktuelle land"
 "Payment from Specific Countries","Betaling fra bestemte land"
 "Make Check Payable to","Gjør sjekk betalbar til"
@@ -21,4 +21,3 @@
 "Bank Transfer Payment","Bank Overføring Betaling"
 "Instructions","Instruksjoner"
 "Cash On Delivery Payment","Kontant Ved Levering Betaling"
-"Automatically Invoice All Items","Automatically Invoice All Items"
