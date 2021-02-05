@@ -13,7 +13,4 @@
 "Delete","Verwijder"
 "PayPal Account","PayPal-account"
 "Cancel","Annuleer"
-"No payment tokens are available for the specified order payment.","Er zijn geen betalingtokens beschikbaar voor de opgegeven betaling van de order."
-"Credit Card was successfully removed","Creditkaart is succesvol verwijderd"
-"My Credit Cards","Mijn creditcards"
-"You have no credit cards.","U heeft geen Creditkaarten."
+"Are you sure you want to delete this card: %1?","Are you sure you want to delete this card: %1?"
