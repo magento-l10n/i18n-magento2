@@ -3,7 +3,7 @@
 "Retry","Réessayer"
 "'Action Details - #' .","'Details de l'action - #'."
 "%1 item(s) have been scheduled for update.""","%1 élément(s) est/sont prêt(s) pour une mise à jour."""
-"Bulk Actions Log","Journal des action par lot"
+"Bulk Actions Log","Journal des actions par lots"
 "Bulk uuid %bulkUuid not exist","Bulk uuid %bulkUuid not exist"
 "Topic %1","Topic %1"
 "Something went wrong while processing the request.","Something went wrong while processing the request."
