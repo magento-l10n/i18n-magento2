@@ -115,7 +115,7 @@
 "This customer is a user of a different company. Enter a different email address to continue.","Ce client est un utilisateur d'une autre entreprise. Entrez une autre adresse email pour continuer."
 "Company with this email address already exists in the system. Enter a different email address to continue.","Une entreprise ayant la même adresse email existe déjà. Entrez une adresse email différente pour continuer."
 "Invalid attribute value. Rejected date&time and Rejected Reason can be changed only when a company status is changed to Rejected.","Valeur d'attribut invalide. La date et heure du rejet et la raison du rejet ne peuvent être changées que si le statut de l'entreprise est changé en rejet."
-"Invalid attribute value. Rejected date&time and Rejected Reason can not be null when a company status is changed to Rejected.","Invalid attribute value. Rejected date&time and Rejected Reason can not be null when a company status is changed to Rejected."
+"Invalid attribute value. Rejected date&time and Rejected Reason can not be null when a company status is changed to Rejected.","Valeur d'attribut non valide. La date et l'heure de rejet et la raison du rejet ne peuvent pas être nulles lorsque le statut d'une entreprise est changé en Rejeté."
 "Could not save company: %1","Impossible de sauvegarder l'entreprise : %1"
 "Cannot delete structure with id %1","Impossible de supprimer la structure ayant l'identifiant %1"
 "Could not create team","Impossible de créer une équipe"

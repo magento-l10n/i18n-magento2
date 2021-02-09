@@ -67,7 +67,7 @@
 "A shared catalog is linked to this customer group. You must delete the shared catalog before you can delete this customer group.","Un catalogue partagé est lié à ce groupe de clients. Vous devez supprimer le catalogue partagé avant de supprimer ce groupe de clients."
 "Requested product doesn't exist: %1.","Le produit demandé n’existe pas : %1."
 "error","erreur"
-"Exception message.","Exception message."
+"Exception message.","Message d'exception."
 "exception message","message d'exception"
 "Some internal exception message.","Un message d'exception interne."
 "test","test"
@@ -79,7 +79,7 @@
 "Set Pricing and Structure","Paramétrer prix et structure"
 "Assign Companies","Assigner sociétés"
 "General Settings","Paramètres généraux"
-"Delete ""%1""","Delete ""%1"""
+"Delete ""%1""","Supprimer ""%1"""
 "Catalog and Tier Price","Catalogue et prix"
 "Group or Catalog","Groupe ou catalogue"
 "You must enable the <a href=""%1"" data-role=""notification-dialog"">shared catalog</a> feature in 
