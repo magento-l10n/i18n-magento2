@@ -14,7 +14,7 @@
 "%s SKU(s) processed successfully","%s Réf(s). traitées avec succès"
 "On Top","En haut"
 "On Bottom","En bas"
-"Rule %1 does not exists","Rule %1 does not exists"
+"Rule %1 does not exists","La règle %1 n'existe pas"
 "Category rules validation failed","Validation de règles de catégorie a échoué"
 "Clone category ID(s)","Cloner le(s) ID(s) de catégorie"
 "Date Created (days ago)","Date de création (nombre de jours)"
