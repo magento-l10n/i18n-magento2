@@ -25,7 +25,7 @@
 "Child with specified sku: ""%1"" already assigned to product: ""%2""","Kindelement mit der angegebenen Artikelnummer ""%1"" wurde bereits Artikel %2 zugewiesen."
 "The bundle product doesn't exist. Review your request and try again.","The bundle product doesn't exist. Review your request and try again."
 "The option that was requested doesn't exist. Verify the entity and try again.","The option that was requested doesn't exist. Verify the entity and try again."
-"The option couldn't be saved.","The option couldn't be saved."
+"The option couldn't be saved.","Die Option konnte nicht gespeichert werden."
 """%fieldName"" is required. Enter and try again.","""%fieldName"" is required. Enter and try again."
 "The option with ""%1"" ID can't be deleted.","The option with ""%1"" ID can't be deleted."
 "Price Range","Preisbereich"
