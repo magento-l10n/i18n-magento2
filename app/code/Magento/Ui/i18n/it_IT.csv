@@ -108,7 +108,7 @@
 "Letters only please","Solo lettere"
 "No white space please","Nessuno spazio bianco"
 "No marginal white space please","No marginal white space please"
-"Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx","Il tuo codice postale deve essere nell'intervallo da 902xx-xxxx a 905-xx-xxxx"
+"Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx","Il tuo CAP deve essere compreso tra 902xx-xxxx e 905-xx-xxxx"
 "A positive or negative non-decimal number please","Inserisci un numero positivo o negativo non decimale"
 "The specified vehicle identification number (VIN) is invalid.","Il numero di identificazione del veicolo (VIN) specificato non è valido."
 "Please enter a correct date","Inserisci una data corretta"
