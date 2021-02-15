@@ -1,9 +1,9 @@
-"All","全て"
+"All","すべて"
 "None","なし"
 "Allowed Scopes","許可されたスコープ"
 "More permissions are needed to delete the ""%1"" item.","More permissions are needed to delete the ""%1"" item."
 "You need more permissions to apply some of the rule updates.","いくつかのルールアップデートを適用するには、さらに多くの権限が必要です。"
-"More permissions are needed to view this item.","More permissions are needed to view this item."
+"More permissions are needed to view this item.","このアイテムを閲覧するための権限が不足してます"
 "This entity needs to be assigned to a store view. Verify the entity assignment and try again.","This entity needs to be assigned to a store view. Verify the entity assignment and try again."
 "This item needs to be assigned to a store view.
                 Please select a website for this product in ""Product in Websites"".","This item needs to be assigned to a store view.
