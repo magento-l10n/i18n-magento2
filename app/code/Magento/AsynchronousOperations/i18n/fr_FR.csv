@@ -18,7 +18,7 @@
 "View Details","Voir les détails"
 "Dismiss","Rejeter"
 "Pending, in queue...","En attente, dans la file d’attente..."
-"%1 items selected for mass update","%1 éléments sélectionnés pour la mise à jour massive"
+"%1 items selected for mass update","%1 éléments sélectionnés pour la mise à jour par lots"
 ", %1 successfully updated",", %1 mis à jour avec succès"
 ", %1 failed to update",", %1 : échec de la mise à jour"
 "System Messages","Messages système"
