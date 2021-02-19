@@ -1,16 +1,16 @@
 "Subscription status","購読状況"
 "Sorry, there has been an error processing your request. Please try again later.","申し訳ありませんが、リクエストの処理中にエラーが発生しました。後で再度お試し下さい。"
-"The time value is using an unsupported format. Enter a supported format and try again.","The time value is using an unsupported format. Enter a supported format and try again."
+"The time value is using an unsupported format. Enter a supported format and try again.","サポートされていない形式の時刻の値です。サポートされている形式でやり直してください。"
 "Cron settings can't be saved","Cron 設定を保存できません。"
 "There was an error save new configuration value.","新しい設定値を保存中にエラーが発生しました。"
 "Please select an industry.","業種を選択してください。"
 "--Please Select--","--選択してください--"
-"Command ""%1"" was not found.","Command ""%1"" was not found."
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","The data is invalid. Enter the data as a string or data that can be converted into a string and try again."
-"The data is invalid. Enter the data as a string and try again.","The data is invalid. Enter the data as a string and try again."
-"The data is invalid. Use a valid cipher method and try again.","The data is invalid. Use a valid cipher method and try again."
-"Enter the encryption key and try again.","Enter the encryption key and try again."
-"The ""%1"" source doesn't exist.","The ""%1"" source doesn't exist."
+"Command ""%1"" was not found.","コマンド""%1""が見つかりませんでした。"
+"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","データが不正です。文字列または文字列に変換可能なデータを指定してやり直してください。"
+"The data is invalid. Enter the data as a string and try again.","データが不正です。文字列を入力し、再度お試し下さい。"
+"The data is invalid. Use a valid cipher method and try again.","データが不正です。有効な暗号方式を使用して、再度お試し下さい。"
+"Enter the encryption key and try again.","暗号化キーを入力して再度お試し下さい。"
+"The ""%1"" source doesn't exist.","""%1"" ソースが存在しません。"
 "These arguments can't be empty ""%1""","これらの引数は空にできません ""%1"""
 "Cannot find predefined integration user!","定義済みの連携ユーザーが見つかりません。"
 "File is not ready yet.","ファイルが読み込めません。"
@@ -32,21 +32,21 @@
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
                 ""Go to Advanced Reporting"" link. </br> For more information, see our <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>.","This service provides a dynamic suite of reports with rich insights about your business.
-                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>."
+                terms and conditions</a>.","このサービスは、ビジネスに関する豊富なインサイトを含む動的なレポートスイートを提供します。
+                レポートには、管理者パネルの外のパーソナライズされたダッシュボードー上で安全にアクセスできます。その場合は、
+                [詳細レポートに移動]リンク。</br>詳細については、 <aターゲット=""_blank "" href=""https://magento.com/legal/terms/cloud-terms"">を参照してください。
+                利用条件</a>"
 "Advanced Reporting Service","詳細なレポートサービス"
 "Time of day to send data","データを送信する時刻"
-"Industry Data","Industry Data"
+"Industry Data","業界データ"
 "Industry","業界"
 "In order to personalize your Advanced Reporting experience, please select your industry.","高度なレポーティングの体験をパーソナライズするには、業界を選択してください。"
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Magento Business Intelligenceからより多くの洞察を得る</strong>"
 "Magento Business Intelligence provides you with a simple and clear path to
                     becoming more data driven.</br> Learn more about <a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence provides you with a simple and clear path to
-                    becoming more data driven.</br> Learn more about <a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers."
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligenceは、より多くのデータ駆動型になるための
+                    シンプルで明確なパスを提供します。</br>詳細については<a target=""_blank""
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BIEssentials と BI Pro</a> tiersをご覧下さい。"
 "Auto Parts","自動パーツ"
 "Baby/Children’s Apparel, Gear and Toys","ベビー・子供服、周辺機器、おもちゃ"
 "Beauty and Cosmetics","美容製品と化粧品"
@@ -65,4 +65,4 @@
 "Pet Goods","ペット用品"
 "Pharma and Medical Devices","製薬と医療用器具"
 "Technology B2B","テクノロジーB2B"
-"Other","Other"
+"Other","その他"

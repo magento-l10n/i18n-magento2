@@ -1,5 +1,5 @@
 "Please specify a website.","ウェブサイトをしてください。"
-"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."
+"An email wasn't specified. Enter the email and try again.","メールが指定されていません。メールを入力して再度お試し下さい。"
 "We found an invalid value in a website column.","ウェブサイトカラム内で不正な値を見つけました。"
 "Please enter a valid email.","正しいメールアドレスを入力してください。"
 "Please make sure attribute ""%s"" is not empty.","属性 ""%s""は空でないことを確認してください"
