@@ -14,7 +14,7 @@
 "%s SKU(s) processed successfully","%s SKUが正常に処理されました"
 "On Top","上に"
 "On Bottom","下に"
-"Rule %1 does not exists","Rule %1 does not exists"
+"Rule %1 does not exists","ルール %1 は存在しません"
 "Category rules validation failed","カテゴリルールの検証に失敗しました"
 "Clone category ID(s)","クローンカテゴリID"
 "Date Created (days ago)","作成日（日前）"
