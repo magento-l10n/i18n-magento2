@@ -195,7 +195,7 @@
 "Invalid login or password.","Ungültiger Benutzername oder Passwort."
 "The ""%1"" section source isn't supported.","The ""%1"" section source isn't supported."
 "%1 doesn't extend \Magento\Customer\CustomerData\SectionSourceInterface","%1 erweitert nicht \Magento\Customer\CustomerData\SectionSourceInterface"
-"Confirmation isn't needed.","Confirmation isn't needed."
+"Confirmation isn't needed.","Bestätigung ist nicht erforderlich."
 "The account is already active.","The account is already active."
 "The confirmation token is invalid. Verify the token and try again.","The confirmation token is invalid. Verify the token and try again."
 "The account is locked.","Dieses Konto ist gesperrt."
