@@ -38,7 +38,7 @@
 "Update to your %store_name invoice","Оновити рахунок-фактуру %store_name"
 "Your %store_name order confirmation","Підтвердження замовлення %store_name"
 "%customer_name,","%customer_name,"
-"Once your package ships we will send you a tracking number.","Ми надішлемо вам номер відстеження як тільки пакунок буде відравлено."
+"Once your package ships we will send you a tracking number.","Ми надішлемо вам номер відстеження як тільки пакунок буде відправлено."
 "Your Order <span class=""no-link"">#%increment_id</span>","Ваше замовлення <span class=""no-link"">#%increment_id</span>"
 "Placed on <span class=""no-link"">%created_at</span>","Придбано <span class=""no-link"">%created_at</span>"
 "Update to your %store_name order","Оновлення вашого %store_name замовлення"
