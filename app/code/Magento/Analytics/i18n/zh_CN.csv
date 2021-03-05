@@ -1,16 +1,16 @@
 "Subscription status","订阅状态"
 "Sorry, there has been an error processing your request. Please try again later.","对不起，已处理您的请求时出错。请稍后再试。"
-"The time value is using an unsupported format. Enter a supported format and try again.","The time value is using an unsupported format. Enter a supported format and try again."
+"The time value is using an unsupported format. Enter a supported format and try again.","时间值使用的格式不受支持。输入支持的格式，然后重试。"
 "Cron settings can't be saved","无法保存 Cron 设置"
 "There was an error save new configuration value.","有保存新的配置值时出错。"
 "Please select an industry.","请选择一个工业。"
 "--Please Select--","-- 请选择 --"
-"Command ""%1"" was not found.","Command ""%1"" was not found."
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","The data is invalid. Enter the data as a string or data that can be converted into a string and try again."
-"The data is invalid. Enter the data as a string and try again.","The data is invalid. Enter the data as a string and try again."
-"The data is invalid. Use a valid cipher method and try again.","The data is invalid. Use a valid cipher method and try again."
-"Enter the encryption key and try again.","Enter the encryption key and try again."
-"The ""%1"" source doesn't exist.","The ""%1"" source doesn't exist."
+"Command ""%1"" was not found.","找不到命令 ""%1""。"
+"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","数据无效。输入字符串数据或可转换为字符串的数据，然后重试。"
+"The data is invalid. Enter the data as a string and try again.","数据无效。输入字符串数据，然后重试。"
+"The data is invalid. Use a valid cipher method and try again.","数据无效。使用有效的密码方法然后重试。"
+"Enter the encryption key and try again.","输入加密密钥，然后重试。"
+"The ""%1"" source doesn't exist.","""%1"" 来源不存在。"
 "These arguments can't be empty ""%1""","这些参数不能为空 ""%1"""
 "Cannot find predefined integration user!","无法找到预定义的集成用户!"
 "File is not ready yet.","文件尚未准备就绪。"
@@ -32,21 +32,21 @@
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
                 ""Go to Advanced Reporting"" link. </br> For more information, see our <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>.","This service provides a dynamic suite of reports with rich insights about your business.
-                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>."
+                terms and conditions</a>.","此服务提供了一套动态报告，其中包含有关您的业务的丰富见解。
+                通过单击
+                “转到高级报告” 链接，可以在管理面板外的个性化控制面板上安全地访问您的报告。 </br> 欲了解更多信息，查看我们的 <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
+                条款和条件</a>。"
 "Advanced Reporting Service","高级报告服务"
 "Time of day to send data","每天发送数据的时间"
-"Industry Data","Industry Data"
+"Industry Data","行业数据"
 "Industry","工业制品"
 "In order to personalize your Advanced Reporting experience, please select your industry.","为了个性化您的高级报告经验, 请先选择您的行业。"
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong> 从 Magento 商业智能中获得更多的洞察力 </strong>"
 "Magento Business Intelligence provides you with a simple and clear path to
                     becoming more data driven.</br> Learn more about <a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence provides you with a simple and clear path to
-                    becoming more data driven.</br> Learn more about <a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers."
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento 商业智能为您提供了一个简单而明确的途径，让您
+                    变得更加数据驱动。</br> 了解更多关于 <a target=""_blank""
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials 和 BI Pro</a> 层的信息。"
 "Auto Parts","汽配"
 "Baby/Children’s Apparel, Gear and Toys","婴儿/儿童服装，用品和玩具"
 "Beauty and Cosmetics","美容化妆"
@@ -65,4 +65,4 @@
 "Pet Goods","宠物用品"
 "Pharma and Medical Devices","药品和医疗器械"
 "Technology B2B","技术 B2B"
-"Other","Other"
+"Other","其他"
