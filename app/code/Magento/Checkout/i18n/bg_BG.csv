@@ -96,7 +96,7 @@
 "Estimate Tax","Изчисли ДДС"
 "Estimate Shipping and Tax","Изчисли доставка и такси"
 "Excl. Tax","Без вкл. ДДС"
-"You added %1 to your <a href=""%2"">shopping cart</a>.","Добавихте %1 във вашата <a href=""%2"">кошница</a>."
+"You added %1 to your <a href=""%2"">shopping cart</a>.","%1 беше добавен в <a href=""%2"">кошницата</a>."
 "Loading...","Зареждане..."
 "Order #","Поръчка #"
 "Proceed to Checkout","Поръчай"
