@@ -442,7 +442,7 @@
 "Add Store Code to Urls","将存储代码添加到 Urls"
 "<strong class=""colorRed"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third-party services (e.g. PayPal etc.).","<strong class=""colorRed"">警告！</strong> 在 URL 中使用存储代码时，在某些情况下，如果在第三方服务（例如 PayPal 等）中指定了没有商店代码的 URL，系统可能无法正常工作。"
 "Auto-redirect to Base URL","自动重定向到基础 URL"
-"I.e. redirect from http://example.com/store/ to http://www.example.com/store/","I.e. redirect from http://example.com/store/ to http://www.example.com/store/"
+"I.e. redirect from http://example.com/store/ to http://www.example.com/store/","I.e. 重新定向于 http://example.com/store/ 至 http://www.example.com/store/"
 "Search Engine Optimization","搜索引擎优化"
 "Use Web Server Rewrites","使用 Web 服务器重写"
 "Base URLs","基础 URL"
