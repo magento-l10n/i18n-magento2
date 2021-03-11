@@ -8,5 +8,5 @@
 "Product URL Suffix","Sufixo URL do produto"
 "Use Categories Path for Product URLs","Usar o Caminho da Categoria para os URLs dos Produtos"
 "Create Permanent Redirect for URLs if URL Key Changed","Criar Redirecionamento Permanente para URLs se a chave de URL for Alterada"
-"Generate ""category/product"" URL Rewrites","Generate ""category/product"" URL Rewrites"
-"<strong class=""colorRed"">Warning!</strong> Turning this option off will result in permanent removal of category/product URL rewrites without an ability to restore them.","<strong class=""colorRed"">Warning!</strong> Turning this option off will result in permanent removal of category/product URL rewrites without an ability to restore them."
+"Generate ""category/product"" URL Rewrites","Gerar reescritas de URL ""categoria/produto"""
+"<strong class=""colorRed"">Warning!</strong> Turning this option off will result in permanent removal of category/product URL rewrites without an ability to restore them.","<strong class=""colorRed"">Aviso!</strong> Desligar esta opção resultará na remoção permanente da URL de categoria/produto reescritas sem a capacidade de restaurá-los."
