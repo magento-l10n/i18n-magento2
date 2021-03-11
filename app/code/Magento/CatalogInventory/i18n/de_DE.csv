@@ -40,7 +40,7 @@
 "Stock Status","Lagerstatus"
 "Quantity","Menge"
 "Advanced Inventory","Erweitertes Inventar"
-"%1 is available to buy in increments of %2","%1 kann in Schritten von %2 gekauft werden"
+"%1 is available to buy in increments of %2","%1 kann in einheiten von %2 gekauft werden"
 "Only %1 left","Nur noch %1 verfügbar"
 "Product availability","Produktverfügbarkeit"
 "Product Name","Artikelname"
