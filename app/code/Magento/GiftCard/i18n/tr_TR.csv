@@ -16,7 +16,7 @@
 "N/A","Mevcut Değil"
 "Gift Card Accounts","Hediye kartı hesapları"
 "Some gift card accounts were not created properly. You can create gift card accounts manually <a href=""%1"">here</a>.","Bazı hediye kartı hesapları doğru oluşturulmadı. Hediye kartı hesaplarını manuel olarak <a href=""%1""> buradan </a> oluşturabilirsiniz."
-"Amount should be specified or Open Amount should be allowed","Amount should be specified or Open Amount should be allowed"
+"Amount should be specified or Open Amount should be allowed","Tutar belirtilmelidir ya da açık tutara izin verilmelidir"
 "Duplicate amount found.","Aynı toplam rakamından bir tane daha bulundu."
 "Something went wrong while preparing the gift card.","Hediye kartı hazırlanırken bir hata oluştu."
 "Please specify a gift card amount.","Lütfen bir hediye kartı tutarı belirtin."
