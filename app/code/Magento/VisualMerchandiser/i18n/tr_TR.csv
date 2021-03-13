@@ -14,7 +14,7 @@
 "%s SKU(s) processed successfully","% SKU (lar) başarıyla işlendi"
 "On Top","Üstte"
 "On Bottom","Altta"
-"Rule %1 does not exists","Rule %1 does not exists"
+"Rule %1 does not exists","%1 kuralı mevcut değil"
 "Category rules validation failed","Kategori kuralları doğrulama başarısız oldu"
 "Clone category ID(s)","Klon kategorisi kimliği"
 "Date Created (days ago)","Oluşturulan tarih (gün önce)"
