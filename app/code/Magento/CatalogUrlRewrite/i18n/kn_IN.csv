@@ -2,7 +2,7 @@
 "Can not change the visibility of the product with SKU equals ""%1"". URL key ""%2"" for specified store already exists.","Can not change the visibility of the product with SKU equals ""%1"". URL key ""%2"" for specified store already exists."
 "Invalid URL key. The ""%1"" URL key can not be used to generate Latin URL key. Please use Latin letters and numbers to avoid generating URL key issues.","Invalid URL key. The ""%1"" URL key can not be used to generate Latin URL key. Please use Latin letters and numbers to avoid generating URL key issues."
 "Invalid URL key. The ""%1"" category name can not be used to generate Latin URL key. Please add URL key or change category name using Latin letters and numbers to avoid generating URL key issues.","Invalid URL key. The ""%1"" category name can not be used to generate Latin URL key. Please add URL key or change category name using Latin letters and numbers to avoid generating URL key issues."
-"Invalid URL key","Invalid URL key"
+"Invalid URL key","ಅಸಿಂಧುವಾದ URL ಕೀ"
 "Category URL Suffix","Category URL Suffix"
 "You need to refresh the cache.","You need to refresh the cache."
 "Product URL Suffix","Product URL Suffix"
