@@ -3,7 +3,7 @@
 "There are no product types available for export.","There are no product types available for export."
 "'Entity type model must be an instance of ' .","'Entity type model must be an instance of ' ."
 "Wrong attribute set code ""%1"", please correct it and try again.","Wrong attribute set code ""%1"", please correct it and try again."
-"Category ""%1"" has not been created.","Category ""%1"" has not been created."
+"Category ""%1"" has not been created.","ವಿಭಾಗ ""%1"" ರಚನೆಯಾಗಿಲ್ಲ."
 "File directory '%1' is not readable.","File directory '%1' is not readable."
 "File directory '%1' is not writable.","File directory '%1' is not writable."
 "Value for 'price' sub attribute in 'store' attribute contains incorrect value","Value for 'price' sub attribute in 'store' attribute contains incorrect value"
