@@ -1,5 +1,5 @@
-"""Entity type should be specified","""Entity type should be specified"
-"""Attribute code should be specified","""Attribute code should be specified"
+"""Entity type should be specified","""Entity type ನಮೂದನ್ನು ಸೂಚಿಸಲೇ ಬೇಕು"
+"""Attribute code should be specified","""Attribute ನಮೂದನ್ನು ಸೂಚಿಸಲೇ ಬೇಕು"
 "Attribute code %1 of entity type %2 not configured to have a type.","Attribute code %1 of entity type %2 not configured to have a type."
 "Invalid entity_type specified: %1","Invalid entity_type specified: %1"
 "Missing %1 for the input %2.","Missing %1 for the input %2."
