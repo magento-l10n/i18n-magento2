@@ -55,7 +55,7 @@
 "We did not send %1 invitation(s) addressed to current customers.","Не изпратихме %1 поканите, адресирани до настоящите клиенти."
 "Send Invitations","Изпрати покани"
 "Max Invitations Allowed to be Sent at One Time","Максимален брой покани, които могат да се изпращат по едно време"
-"Please correct the value for ""%1"" parameter, otherwise we'll use the saved value instead.","Коригирайте стойността за \"%1\" параметър, в противен случай ние ще използваме записана стойност вместо това."
+"Please correct the value for ""%1"" parameter, otherwise we'll use the saved value instead.","Коригирайте стойността за ""%1"" параметър, в противен случай ние ще използваме записана стойност вместо това."
 "Same as Inviter","Същия като подателя на поканата"
 "Default Customer Group from System Configuration","По подразбиране клиентска група от системната конфигурация"
 "By Invitation Only","Само чрез покана"
