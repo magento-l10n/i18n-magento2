@@ -71,7 +71,7 @@
 "Reading import file","Четене на файл за импортиране"
 "We can't read the import file.","Не може да прочете файла за импортиране."
 "Save history file content ""%1""","Запишете файл с история ""%1"""
-"We couldn't write file ""%1"" to ""%2"" with the ""%3"" driver.","Не можем да пишем файл \"%1\" да \"%2\" с \"%3\" драйвер."
+"We couldn't write file ""%1"" to ""%2"" with the ""%3"" driver.","Не може бъде записан файл ""%1"" в ""%2"" с ""%3"" драйвер."
 "Save file content","Запишете съдържанието на сайта"
 "Please correct the server type.","Коригирайте на типа на сървъра."
 "Import path %1 not exists","Импортиран path %1 не съществува"

@@ -93,7 +93,7 @@
 "Your password must include both numeric and alphabetic characters.","Вашата парола трябва да включва цифрови и буквени знаци."
 "Your password confirmation must match your password.","Паролата и потвърждение на паролата трябва да съвпадат."
 "It's time to change your password.","Това е време да промените паролата си."
-"It's time to <a href=""%1"">change your password</a>.","Това е време да <a href=\"%1\"> промените паролата си</a>."
+"It's time to <a href=""%1"">change your password</a>.","Време е да <a href=""%1""> промените паролата си</a>."
 "Your password has expired; please contact your administrator.","Вашата парола е изтекла; Обърнете се към вашия администратор."
 "Password Help","Парола помощ"
 "Enter your email address.  You will receive an email with a link to reset your password.","Въведете вашия имейл адрес.  Вие ще получите имейл с връзка към вашата парола."
