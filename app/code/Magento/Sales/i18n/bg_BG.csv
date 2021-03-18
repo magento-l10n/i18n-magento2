@@ -403,7 +403,7 @@
 "Number","Брой"
 "We found an invalid renderer model.","We found an invalid renderer model."
 "Please define the PDF object before using.","Please define the PDF object before using."
-"We don't recognize the draw line data. Please define the ""lines"" array.","Не признава наравно редове с данни. Дефинирайте \"lines\" масив."
+"We don't recognize the draw line data. Please define the ""lines"" array.","Не признава наравно редове с данни. Дефинирайте ""lines"" масив."
 "Products","Продукти"
 "Total (ex)","Total (ex)"
 "Qty","Кол-во"
