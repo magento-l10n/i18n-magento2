@@ -103,7 +103,7 @@
 "Please enter a valid number.","Моля въведете съществуващ номер."
 "This is required field","Това е задължително поле"
 "Admin is a required field in each row.","Админ е задължително поле във всеки ред."
-"Please enter a quantity greater than 0.","Please enter a quantity greater than 0."
+"Please enter a quantity greater than 0.","Моля, въведете количество по-голямо от 0."
 "The fewest you may purchase is %1.","The fewest you may purchase is %1."
 "The maximum you may purchase is %1.","The maximum you may purchase is %1."
 "You can buy this product only in quantities of %1 at a time.","You can buy this product only in quantities of %1 at a time."
