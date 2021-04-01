@@ -14,7 +14,7 @@
 "Incorrect Security Checker class. It has to implement SecurityCheckerInterface","Неправилна проверка за сигурност клас. Тя трябва да приложи SecurityCheckerInterface"
 """%1"" must be later than the current date.","""%1"" must be later than the current date."
 """%1"" is not a valid date.","""%1"" is not a valid date."
-"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later."
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","Данните за вход са грешни или профилът Ви е временно ограничен. Моля, опитайте по-късно."
 "some error","някаква грешка"
 "This administrator account is open in more than one location. Note that other locations might be different browsers or sessions on the same computer.","Този профил на администратор е отворен на повече от едно място. Имайте предвид, че други места може да бъде различни браузъри или сесии на същия компютър."
 "Concurrent session information:","Паралелни сесия информация:"
