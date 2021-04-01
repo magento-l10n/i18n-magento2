@@ -80,7 +80,7 @@
 "email","имейл"
 "password","парола"
 "username","потребителско име"
-"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later."
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","Данните за вход са грешни или профилът Ви е временно ограничен. Моля, опитайте по-късно."
 "More permissions are needed to access this.","More permissions are needed to access this."
 "The password reset token is incorrect. Verify the token and try again.","The password reset token is incorrect. Verify the token and try again."
 "Your account is temporarily disabled. Please try again later.","Your account is temporarily disabled. Please try again later."

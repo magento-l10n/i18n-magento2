@@ -46,7 +46,7 @@
 "Integration '%1' has been sent for activation.","Интеграция ""%1"" е билa изпратенa за активиране."
 "A consumer with ""%1"" ID doesn't exist. Verify the ID and try again.","A consumer with ""%1"" ID doesn't exist. Verify the ID and try again."
 "title","заглавие"
-"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later."
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","Данните за вход са грешни или профилът Ви е временно ограничен. Моля, опитайте по-късно."
 "The tokens couldn't be revoked.","The tokens couldn't be revoked."
 "An error occurred during the attempt to grant permissions. For details, see the exceptions log.","An error occurred during the attempt to grant permissions. For details, see the exceptions log."
 "Something went wrong while deleting roles and permissions. You can find out more in the exceptions log.","Нещо се обърка при изтриване на роли и разрешения. Можете да намерите повече информация в регистрационния файл на изключения."
