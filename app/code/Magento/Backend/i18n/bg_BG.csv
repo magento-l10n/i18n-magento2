@@ -206,7 +206,7 @@
 "You saved the store.","Вие записахте магазина."
 "Something went wrong while saving. Please review the error log.","Нещо се обърка при записването. Моля прегледайте лога с грешки."
 "Authentication storage is incorrect.","Некоректно хранилище за удостоверяване."
-"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later."
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","Данните за вход са грешни или профилът Ви е временно ограничен. Моля, опитайте по-късно."
 "An authentication error occurred. Verify and try again.","An authentication error occurred. Verify and try again."
 "The Admin session lifetime is invalid. Set the lifetime to 31536000 seconds (one year) or shorter and try again.","The Admin session lifetime is invalid. Set the lifetime to 31536000 seconds (one year) or shorter and try again."
 "The Admin session lifetime is invalid. Set the lifetime to 60 seconds or longer and try again.","The Admin session lifetime is invalid. Set the lifetime to 60 seconds or longer and try again."
