@@ -243,28 +243,28 @@
 "The status of your company <strong>%company_name</strong>
     is now <strong>Active</strong>.
     Once you login, you will be able to place orders on behalf of your company
-    and use other B2B features.","The status of your company <strong>%company_name</strong>
-    is now <strong>Active</strong>.
-    Once you login, you will be able to place orders on behalf of your company
-    and use other B2B features."
-"You’re no longer Company Admin","You’re no longer Company Admin"
-"Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details.","Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details."
-"Assigned to %company_name as Sales Representative","Assigned to %company_name as Sales Representative"
+    and use other B2B features.","Şirketinizin durumu <strong> %company_name </strong>
+     artık <strong> Etkin </strong>.
+     Giriş yaptıktan sonra, şirketiniz adına sipariş verebileceksiniz.
+     ve diğer B2B özelliklerini kullanabileceksiniz."
+"You’re no longer Company Admin","Artık Şirket Yöneticisi değilsiniz"
+"Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details.","Hesap türünüz Şirket Yöneticisi'nden normal bir kullanıcı hesabına değiştirildi. Bunun bir hata olduğunu düşünüyorsanız, ayrıntılar için lütfen yöneticinizle iletişime geçin."
+"Assigned to %company_name as Sales Representative","Satış Temsilcisi olarak %company_name'e atandı"
 "%name,","%isim,"
-"You have been assigned to %company_name as the Sales Representative.","You have been assigned to %company_name as the Sales Representative."
+"You have been assigned to %company_name as the Sales Representative.","Satış Temsilcisi olarak %company_name'e atandı."
 "When you sign in to your account, you will be able to:","Hesabınızda oturum açtığınız zaman, şunları yapabileceksiniz:"
-"* View and manage company quotes in Admin Panel","* View and manage company quotes in Admin Panel"
-"* View and edit company profile in Admin Panel","* View and edit company profile in Admin Panel"
-"Your company account blocked","Your company account blocked"
+"* View and manage company quotes in Admin Panel","* Yönetici Panelinde şirket tekliflerini görüntüleyin ve yönetin"
+"* View and edit company profile in Admin Panel","* Yönetici Panelinde şirket profilini görüntüleyin ve düzenleyin"
+"Your company account blocked","Şirket hesabınız engellendi"
 "Your company account <strong>%company_name</strong> has been blocked.
     Your company members can continue using the website,
-    but they will not be able to place orders.","Your company account <strong>%company_name</strong> has been blocked.
-    Your company members can continue using the website,
-    but they will not be able to place orders."
-"If you have any questions, please contact the seller.","If you have any questions, please contact the seller."
-"Your company account suspended","Your company account suspended"
-"Your company account <strong>%company_name</strong> has been suspended, pending approval from the seller.","Your company account <strong>%company_name</strong> has been suspended, pending approval from the seller."
-"Your company registration request rejected","Your company registration request rejected"
+    but they will not be able to place orders.","Şirket hesabınız <strong>%company_name</strong> engellendi.
+     Şirket üyeleriniz siteyi kullanmaya devam edebilir,
+     ancak sipariş veremeyecekler."
+"If you have any questions, please contact the seller.","Herhangi bir sorunuz varsa, lütfen satıcıyla iletişime geçin."
+"Your company account suspended","Şirket hesabınız askıya alındı"
+"Your company account <strong>%company_name</strong> has been suspended, pending approval from the seller.","Şirket hesabınız <strong>%company_name </strong>, satıcının onayı beklendiği için askıya alındı."
+"Your company registration request rejected","Şirket kayıt talebiniz reddedildi"
 "Your company registration request (for the <strong>%company_name</strong>) has been rejected
     for the following reason:","Your company registration request (for the <strong>%company_name</strong>) has been rejected
     for the following reason:"
