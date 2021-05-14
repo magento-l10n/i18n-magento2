@@ -8,5 +8,5 @@
 "Product URL Suffix","Επίθεμα διεύθυνση URL προϊόντος"
 "Use Categories Path for Product URLs","Χρησιμοποιήστε τη Διαδρομή Κατηγοριών για διευθύνσεις URL προϊόντος"
 "Create Permanent Redirect for URLs if URL Key Changed","Δημιουργήστε Μόνιμη Ανακατεύθυνση για διευθύνσεις URL εάν αλλάξει το κλειδί διεύθυνσης URL"
-"Generate ""category/product"" URL Rewrites","Generate ""category/product"" URL Rewrites"
+"Generate ""category/product"" URL Rewrites","Δημιουργία Επανεγγραφής URL ""category/product"""
 "<strong class=""colorRed"">Warning!</strong> Turning this option off will result in permanent removal of category/product URL rewrites without an ability to restore them.","<strong class=""colorRed"">Warning!</strong> Turning this option off will result in permanent removal of category/product URL rewrites without an ability to restore them."
