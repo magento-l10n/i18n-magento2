@@ -154,7 +154,7 @@
 "We can't change default shipping address right now.","We can't change default shipping address right now."
 "A total of %1 record(s) have been deleted.","A total of %1 record(s) have been deleted."
 "There is no such address entity to delete.","There is no such address entity to delete."
-"We can't mass delete the addresses right now.","We can't mass delete the addresses right now."
+"We can't mass delete the addresses right now.","Δεν μπορούμε να διαγράψουμε μαζικά τις διευθύνσεις αυτή τη στιγμή."
 "Customer address has been updated.","Customer address has been updated."
 "New customer address has been added.","New customer address has been added."
 "There is no customer with such id.","There is no customer with such id."
