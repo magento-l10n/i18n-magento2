@@ -58,7 +58,7 @@
 "Wrong format of the entered option data","Wrong format of the entered option data"
 "Required fields are not present EnteredOption.uid, EnteredOption.value","Required fields are not present EnteredOption.uid, EnteredOption.value"
 "The wishlist item with ID ""%id"" does not belong to the wishlist","""%id"" ID ಯೊಂದಿಗಿನ ಇಚ್ಛಾಪಟ್ಟಿ ವಸ್ತು ಇಚ್ಛಾಪಟ್ಟಿಗೆ ಸೇರಿಲ್ಲ"
-"Could not find a wishlist item with ID ""%id""","Could not find a wishlist item with ID ""%id"""
+"Could not find a wishlist item with ID ""%id""","""%id"" ಐಡಿಯೊಂದಿಗಿನ ಇಚ್ಛಾಪಟ್ಟಿ ವಸ್ತುವನ್ನು ಕಂಡುಹಿಡಿಯಲಾಗಲಿಲ್ಲ"
 "We can't delete the item with ID ""%id"" from the Wish List right now.","ಈ ವಸ್ತುವನ್ನು ನಿಮ್ಮ ಇಚ್ಛಾಪಟ್ಟಿಯಿಂದ ಅಳಿಸಲು ಸಧ್ಯಕ್ಕೆ ನಮಗೆ ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ."
 "Test Phrase","Test Phrase"
 "message","ಸಂದೇಶ"
