@@ -9,7 +9,7 @@
 "%name,","%name,"
 "Welcome to %store_name.","ยินดีต้อนรับสู่ %store_name"
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:"
-"Email:","อีเมล์:"
+"Email:","อีเมล:"
 "Password:","รหัสผ่าน:"
 "Password you set when creating account","Password you set when creating account"
 "Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it."
