@@ -124,7 +124,7 @@
 "Cannot delete team with id %1","Cannot delete team with id %1"
 "You cannot assign a different role to a company admin.","You cannot assign a different role to a company admin."
 "You cannot assign multiple roles to a user.","You cannot assign multiple roles to a user."
-"Invalid login or password.","Invalid login or password."
+"Invalid login or password.","ชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง"
 "This account is locked.","This account is locked."
 "Your account is not yet approved. If you have questions, please contact the seller.","Your account is not yet approved. If you have questions, please contact the seller."
 "Cannot delete the company admin. Delete operation has been stopped. Please repeat the action for the other customers.","Cannot delete the company admin. Delete operation has been stopped. Please repeat the action for the other customers."
