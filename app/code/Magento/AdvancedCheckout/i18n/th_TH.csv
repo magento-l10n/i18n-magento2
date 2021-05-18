@@ -64,7 +64,7 @@
 "This product is assigned to another website.","This product is assigned to another website."
 "You can add only enabled products.","You can add only enabled products."
 "You cannot upload this file.","คุณไม่สามารถ อัพโหลดไฟล์นี้ได้"
-"The file is empty.","The file is empty."
+"The file is empty.","ไฟล์ว่างเปล่า"
 "You have not entered a product SKU. Please <a href=""%1"">click here</a> to add product(s) by SKU.","You have not entered a product SKU. Please <a href=""%1"">click here</a> to add product(s) by SKU."
 "You have not entered a product SKU.","คุณไม่ได้ระบุ รหัสสินค้า"
 "We can't add a product to cart by id ""%1"".","We can't add a product to cart by id ""%1""."
