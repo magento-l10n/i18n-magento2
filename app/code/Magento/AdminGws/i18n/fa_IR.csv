@@ -1,7 +1,7 @@
 "All","همه"
 "None","هیچ یک"
 "Allowed Scopes","محدوده های مجاز"
-"More permissions are needed to delete the ""%1"" item.","More permissions are needed to delete the ""%1"" item."
+"More permissions are needed to delete the ""%1"" item.","برای حذف %1 آیتم، به سطح دسترسی بالاتری نیاز دارید."
 "You need more permissions to apply some of the rule updates.","برای اعمال تغییرات بر روی برخی از قوانین، نیاز به دسترسی بالاتری دارید."
 "More permissions are needed to view this item.","More permissions are needed to view this item."
 "This entity needs to be assigned to a store view. Verify the entity assignment and try again.","This entity needs to be assigned to a store view. Verify the entity assignment and try again."
