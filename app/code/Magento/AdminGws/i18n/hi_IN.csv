@@ -1,13 +1,12 @@
 "All","सभी"
 "None","कोई नहीं"
 "Allowed Scopes","अनुमति प्राप्त क्षेत्र"
-"More permissions are needed to delete the ""%1"" item.","More permissions are needed to delete the ""%1"" item."
+"More permissions are needed to delete the ""%1"" item.","""%1"" वस्तु को हटा ने के लिए अधिक अनुमतियों की आवश्यकता है ।"
 "You need more permissions to apply some of the rule updates.","आप को कुछ अद्यतन नियम लागू करने के लिए अधिक अनुमतियों की आवश्यकता है।"
-"More permissions are needed to view this item.","More permissions are needed to view this item."
-"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","This entity needs to be assigned to a store view. Verify the entity assignment and try again."
+"More permissions are needed to view this item.","इस वस्तु को देखने के लिए अधिक अनुमतियों की आवश्यकता है ।"
+"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","इस इकाई को स्टोर व्यू में नियुक्त करने की आवश्यकता है। इस इकाई की नियुक्ति जांचें और पुन: प्रयास करें।"
 "This item needs to be assigned to a store view.
-                Please select a website for this product in ""Product in Websites"".","This item needs to be assigned to a store view.
-                Please select a website for this product in ""Product in Websites""."
+                Please select a website for this product in ""Product in Websites"".","इस इकाई को स्टोर व्यू में नियुक्त करने की आवश्यकता है। कृपया ""वेबसाइटों में उत्पाद"" में से इस उत्पाद के लिए एक वेबसाइट चुनें।"
 "Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again."
 "This item needs to be assigned to a store view. Assign item and try again.","This item needs to be assigned to a store view. Assign item and try again."
 "More permissions are needed to save this item.","More permissions are needed to save this item."
