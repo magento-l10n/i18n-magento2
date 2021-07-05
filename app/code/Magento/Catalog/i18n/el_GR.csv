@@ -229,7 +229,7 @@
 "You saved the product.","Αποθηκεύσατε το προϊόν."
 "SKU for product %1 has been changed to %2.","SKU για το προϊόν %1 έχει αλλάξει σε %2."
 "The image cannot be removed as it has been assigned to the other image role","Η εικόνα δεν μπορεί να αφαιρεθεί καθώς έχει ανατεθεί σε ένα άλλο ρόλο εικόνας"
-"The value of attribute(s) ""%1"" must be unique","The value of attribute(s) ""%1"" must be unique"
+"The value of attribute(s) ""%1"" must be unique","Η τιμή των ιδιοτήτων ""%1"" πρέπει να είναι μοναδική"
 "New Attribute Set","Νέο Σύνολο Χαρακτηριστικού"
 "The attribute set has been removed.","Έχει αφαιρεθεί το Σύνολο Χαρακτηριστικών."
 "We can't delete this set right now.","Αδύνατη η διαγραφή του συνόλου αυτή τη στιγμή."
