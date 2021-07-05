@@ -52,7 +52,7 @@
 "Make sure that dynamic blocks rotator does not reference the dynamic block itself.","Βεβαιωθείτε ότι το περιστροφέας δυναμικού τμήματος δεν παραπέμπει στο ίδιο το δυναμικό τμήμα."
 "-- None --","--Κανένα--"
 "Error","Σφάλμα"
-"Invalid content","Invalid content"
+"Invalid content","Μη έγκυρο περιεχόμενο"
 "Content Area","Περιοχή Περιεχομένου"
 "Footer","Υποσέλιδο"
 "Header","Κεφαλίδα"
