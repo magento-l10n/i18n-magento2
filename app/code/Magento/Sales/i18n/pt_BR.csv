@@ -200,7 +200,7 @@
 "You have not canceled the item.","Você não cancelou o item."
 "You canceled the order.","Você cancelou o pedido."
 """%1"" coupon code was not applied. Do not apply discount is selected for item(s)","código de cupom ""%1"" não foi aplicado. Não aplicar desconto foi selecionado para o(s) item(ns)"
-"The ""%1"" coupon code isn't valid. Verify the code and try again.","The ""%1"" coupon code isn't valid. Verify the code and try again."
+"The ""%1"" coupon code isn't valid. Verify the code and try again.","O código ""%1"" do cupom não é válido. Verifique o código e tente novamente."
 "The coupon code has been accepted.","O código do cupom foi aceito."
 "The coupon code has been removed.","The coupon code has been removed."
 "The quote item ID needs to be received. Set the ID and try again.","The quote item ID needs to be received. Set the ID and try again."
