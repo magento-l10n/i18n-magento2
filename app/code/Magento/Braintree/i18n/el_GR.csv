@@ -127,7 +127,7 @@
 "Street address is required.","Ταχυδρομική διεύθυνση είναι απαραίτητη."
 "Street address is too long.","Ταχυδρομική διεύθυνση είναι πολύ μεγάλη."
 "Postal code can only contain letters, numbers, spaces, and hyphens.","Ο ταχυδρομικός κωδικός μπορεί να περιέχει μόνο γράμματα, αριθμούς, κενά, και παύλες."
-"US state codes must be two characters to meet PayPal Seller Protection requirements.","US state codes must be two characters to meet PayPal Seller Protection requirements."
+"US state codes must be two characters to meet PayPal Seller Protection requirements.","Οι αμερικανικοί κωδικοί των κρατών πρέπει να είναι δύο χαρακτήρες για να πληρούν τις απαιτήσεις Προστασίας Πωλητή PayPal."
 "Incomplete PayPal account information.","Ελλιπείς πληροφορίες λογαριασμού PayPal."
 "Invalid PayPal account information.","Μη έγκυρες πληροφορίες λογαριασμού PayPal."
 "PayPal Accounts are not accepted by this merchant account.","Οι λογαριασμοί PayPal δεν γίνονται αποδεκτοί από αυτόν τον λογαριασμό εμπόρου."
@@ -244,7 +244,7 @@
 "Braintree Settlement","Διευθέτηση Braintree"
 "If you don't specify the merchant account to use to process a transaction, Braintree will process it using your default merchant account.","Αν δεν καθορίσετε τον εμπορικό λογαριασμό που θα χρησιμοποιηθεί για την επεξεργασία μιας συναλλαγής, η Braintree θα την επεξεργαστεί χρησιμοποιώντας τον προεπιλεγμένο λογαριασμό εμπόρου."
 "Be sure to Enable Advanced Fraud Protection in Your Braintree Account in Settings/Processing Section","Βεβαιωθείτε ότι έχετε ενεργοποιήσει τη Προηγμένη Προστασία Απάτης ο Avs στον λογαριασμό Braintree στο τμήμα Ρυθμίσεις/Επεξεργασία"
-"Used for direct fraud tool integration. Make sure you also contact <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> to setup your Kount account.","Used for direct fraud tool integration. Make sure you also contact <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> to setup your Kount account."
+"Used for direct fraud tool integration. Make sure you also contact <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> to setup your Kount account.","Χρησιμοποιείται για άμεση ενσωμάτωση εργαλείου απάτης. Βεβαιωθείτε ότι μπορείτε επίσης να επικοινωνήσετε με <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> για να ρυθμίσετε τον λογαριασμό Kount σας."
 "Be sure to Enable AVS and/or CVV in Your Braintree Account in Settings/Processing Section.","Βεβαιωθείτε ότι έχετε ενεργοποιήσει το AVS ή/και το CVV στον λογαριασμό Braintree στο τμήμα Ρυθμίσεις/Επεξεργασία."
 "It is recommended to set this value to ""PayPal"" per store views.","Συνιστάται να ρυθμίσετε αυτήν την τιμή ""Paypal"" ανά προβολές καταστήματος."
 "This feature needs be enabled first for the merchant account through PayPal technical support.","Αυτή η δυνατότητα πρέπει να ενεργοποιηθεί πρώτα για τον εμπορικό λογαριασμό μέσω της τεχνικής υποστήριξης του PayPal."
@@ -252,10 +252,10 @@
 "Dynamic descriptors are sent on a per-transaction basis and define what will appear on your customers credit card statements for a specific purchase.
                             The clearer the description of your product, the less likely customers will issue chargebacks due to confusion or non-recognition.
                             Dynamic descriptors are not enabled on all accounts by default. If you receive a validation error of 92203 or if your dynamic descriptors are not displaying as expected,
-                            please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>.","Dynamic descriptors are sent on a per-transaction basis and define what will appear on your customers credit card statements for a specific purchase.
-                            The clearer the description of your product, the less likely customers will issue chargebacks due to confusion or non-recognition.
-                            Dynamic descriptors are not enabled on all accounts by default. If you receive a validation error of 92203 or if your dynamic descriptors are not displaying as expected,
-                            please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>."
+                            please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>.","Οι δυναμικοί περιγραφείς αποστέλλονται ανά βάση συναλλαγής και καθορίζουν τι θα εμφανιστεί στις δηλώσεις πιστωτικής κάρτας των πελατών σας για μια συγκεκριμένη αγορά.
+                             Όσο σαφέστερη είναι η περιγραφή του προϊόντος σας, τόσο λιγότεροι πιθανοί πελάτες θα εκδώσουν επιστροφές φόρου λόγω σύγχυσης ή μη αναγνώρισης.
+                             Οι δυναμικοί περιγραφείς δεν είναι ενεργοποιημένοι σε όλους τους λογαριασμούς από προεπιλογή. Εάν λάβετε ένα σφάλμα επικύρωσης 92203 ή εάν οι δυναμικοί σας περιγραφείς δεν εμφανίζονται όπως αναμένεται,
+                             <a href=""mailto:support@getbraintree.com"">Υποστήριξη Braintree</a>."
 "The value in the business name field of a customer's statement. Company name/DBA section must be either 3, 7 or 12 characters
                                 and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters).","Η τιμή στο πεδίο της εταιρικής επωνυμίας της δήλωσης πελάτη. Το όνομα της εταιρείας/το τμήμα DBA πρέπει να έχει 3, 7 ή 12 χαρακτήρες
                                  και ο περιγραφέας του προϊόντος μπορεί να είναι έως 18, 14 ή 9 χαρακτήρες αντίστοιχα (με ένα * μεταξύ των για ένα συνολικό όνομα περιγραφικού χαρακτήρων 22 χαρακτήρων)."
