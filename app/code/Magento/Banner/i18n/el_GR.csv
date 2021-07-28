@@ -48,7 +48,7 @@
 "We cannot save the dynamic block.","Δεν μπορούμε να σώσουμε το δυναμικό τμήμα."
 "Invalid Request","Άκυρο Αίτημα"
 "Please enter a name.","Παρακαλώ εισάγετε ένα όνομα."
-"Content includes restricted HTML elements. %1","Content includes restricted HTML elements. %1"
+"Content includes restricted HTML elements. %1","Το περιεχόμενο περιλαμβάνει περιορισμένα στοιχεία HTML. %1"
 "Make sure that dynamic blocks rotator does not reference the dynamic block itself.","Βεβαιωθείτε ότι το περιστροφέας δυναμικού τμήματος δεν παραπέμπει στο ίδιο το δυναμικό τμήμα."
 "-- None --","--Κανένα--"
 "Error","Σφάλμα"
