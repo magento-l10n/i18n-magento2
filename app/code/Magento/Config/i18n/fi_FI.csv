@@ -43,7 +43,7 @@
 "The specified image adapter cannot be used because of: %1","The specified image adapter cannot be used because of: %1"
 "Default scope","Default scope"
 "Base currency","Oletusvaluutta"
-"Display default currency","Display default currency"
+"Display default currency","Näytä oletusvaluutta"
 "website(%1) scope","website(%1) scope"
 "store(%1) scope","store(%1) scope"
 "Currency ""%1"" is used as %2 in %3.","Currency ""%1"" is used as %2 in %3."
