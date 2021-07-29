@@ -10,7 +10,7 @@
 "Cookie Lifetime","Evästeen elinikä"
 "Enter the Cookie Lifetime in seconds.","Enter the Cookie Lifetime in seconds."
 "Cookie Path","Evästeen polku"
-"Enter a valid cookie path. e.g. /","Enter a valid cookie path. e.g. /"
+"Enter a valid cookie path. e.g. /","Anna kelvollinen evästeen polku. esim. /"
 "Cookie Domain","Evästeen verkkotunnus"
 "Enter a valid domain name. e.g. ""subdomain.yourdomain.com"", "".yourdomain.com""","Enter a valid domain name. e.g. ""subdomain.yourdomain.com"", "".yourdomain.com"""
 "Use HTTP Only","Käytä vain HTTP:tä"
