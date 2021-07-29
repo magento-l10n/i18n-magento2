@@ -54,7 +54,7 @@
 "Merchant MD5","Kauppias MD5"
 "New Order Status","Uuden tilauksen tila"
 "Test Mode","Testitila"
-"Gateway URL","Gateway URL"
+"Gateway URL","Yhdyskäytävän URL"
 "Transaction Details URL","Maksutapahtuman tiedot URL"
 "Accepted Currency","Hyväksytty valuutta"
 "Debug","Vianselvitys"
