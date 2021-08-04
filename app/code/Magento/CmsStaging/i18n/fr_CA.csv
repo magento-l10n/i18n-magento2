@@ -1,6 +1,6 @@
-"The page doesn't exist. Verify and try again.","The page doesn't exist. Verify and try again."
+"The page doesn't exist. Verify and try again.","La page n'existe pas. Vérifiez et réessayez."
 "This block no longer exists.","Ce bloc n'existe plus."
-"Future Update already exists in this time range. Set a different range and try again.","Future Update already exists in this time range. Set a different range and try again."
+"Future Update already exists in this time range. Set a different range and try again.","La mise à jour future existe déjà dans cette période. Définissez une plage différente et réessayez."
 "Currently Active","Actuellement actif"
 "New Theme","Nouveau thème"
 "-- Please Select --","-- Faites un choix --"
@@ -42,17 +42,17 @@
 "Design","Design"
 "Layout","Agencement"
 "Layout Update XML","XML de mise à jour d'agencement"
-"Custom Layout Update","Custom Layout Update"
+"Custom Layout Update","Mise à jour de la mise en page personnalisée"
 "
                         List of layout files with an update handle ""selectable""
                         matching *PageIdentifier*_*UpdateID*.
                         <br/>
                         See Magento documentation for more information
                     ","
-                        List of layout files with an update handle ""selectable""
-                        matching *PageIdentifier*_*UpdateID*.
+                        Liste des fichiers de mise en page avec un gestionnaire de mise à jour ""sélectionnable""
+                        correspondant à *PageIdentifier*_*UpdateID*.
                         <br/>
-                        See Magento documentation for more information
+                        Voir la documentation Magento pour plus d'informations
                     "
 "The page will be removed from the update and all scheduled changes will be lost.","La page sera retirée de la mise à jour et toutes les modifications planifiées seront perdues."
 "CMS Pages","Gabarit du bloc lien en ligne CMS"
