@@ -1,5 +1,5 @@
-"All","All"
-"None","None"
+"All","Të gjitha"
+"None","Asnjë"
 "Allowed Scopes","Allowed Scopes"
 "More permissions are needed to delete the ""%1"" item.","More permissions are needed to delete the ""%1"" item."
 "You need more permissions to apply some of the rule updates.","You need more permissions to apply some of the rule updates."
@@ -19,4 +19,4 @@
 "The ""%1"" store ID is incorrect. Verify the store ID and try again.","The ""%1"" store ID is incorrect. Verify the store ID and try again."
 "More permissions are needed to save this setting.","More permissions are needed to save this setting."
 "Role Scopes","Role Scopes"
-"Custom","Custom"
+"Custom","E personalizuar"
