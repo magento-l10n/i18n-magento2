@@ -8,7 +8,7 @@
 "We can't retrieve a rate from %1 for %2.","我们不能从%1中检索%2的速率。"
 "No API Key was specified or an invalid API Key was specified.","No API Key was specified or an invalid API Key was specified."
 "Currency rates can't be retrieved.","Currency rates can't be retrieved."
-"The account this API request is coming from is inactive.","The account this API request is coming from is inactive."
+"The account this API request is coming from is inactive.","此 API 请求来自的帐户处于停用状态。"
 "The ""%1"" is not allowed as base currency for your subscription plan.","The ""%1"" is not allowed as base currency for your subscription plan."
 "An invalid base currency has been entered.","An invalid base currency has been entered."
 "FATAL ERROR:","致命错误:"
