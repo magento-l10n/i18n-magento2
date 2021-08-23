@@ -735,7 +735,7 @@
 "Use Aggregated Data","Utiliser des données agrégées"
 "Improves dashboard performance but provides non-realtime data.","Améliore les performances du tableau de bord mais fournit des données non temps réel."
 "Orders Cron Settings","Paramètres Cron des commandes"
-"Pending Payment Order Lifetime (minutes)","Durée de vie de l'ordre de paiement en attente (minutes)"
+"Pending Payment Order Lifetime (minutes)","Durée de vie des commandes en attente de paiement (minutes)"
 "Sales Emails","Mails des ventes"
 "Asynchronous sending","Envoi asynchrone"
 "Limit per cron run","Limite par exécution cron"
