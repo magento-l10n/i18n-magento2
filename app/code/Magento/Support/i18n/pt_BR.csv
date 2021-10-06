@@ -41,7 +41,7 @@
 "An error occurred during mass deletion of system reports. Please review log and try again.","Ocorreu um erro durante a exclusão em massa dos relatórios do sistema. Por favor, revise o log e tente novamente."
 "The ""%1"" utility wasn't found. Verify the utility and try again.","The ""%1"" utility wasn't found. Verify the utility and try again."
 "The ""%1"" utility is unknown. Verify the utility and try again.","The ""%1"" utility is unknown. Verify the utility and try again."
-"File %1 is not found.","File %1 is not found."
+"File %1 is not found.","O arquivo %1 não foi encontrado."
 "The root category can't be set. Verify the category and try again.","The root category can't be set. Verify the category and try again."
 "Support Module doesn't support %s operation system","Módulo de Apoio não suporta o sistema de operação de %s"
 "Unable to create backup due to php exec function is disabled","Não é possível criar backup devido a função php ""exec"" estar desabilitada"
