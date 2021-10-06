@@ -35,7 +35,7 @@
 "Unable to delete the segment.","Não é possível excluir o segmento."
 "Customer Segments","Segmentação de Clientes"
 "Edit Segment","Editar Segmento"
-"Segment Customers matching is added to messages queue.","Segment Customers matching is added to messages queue."
+"Segment Customers matching is added to messages queue.","Clientes de Segmento que correspondem está adicionado à fila de mensagens."
 "Segment Customers matching error.","Segment Customers matching error."
 "You saved the segment. Customers matching is added to the messages queue.","You saved the segment. Customers matching is added to the messages queue."
 "We can't save the segment right now.","Nesse momento, não foi possível salvar o segmento."
