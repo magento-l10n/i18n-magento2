@@ -42,7 +42,7 @@
 "Design","Visual"
 "Layout","Layout"
 "Layout Update XML","Atualização do Layout XML"
-"Custom Layout Update","Custom Layout Update"
+"Custom Layout Update","Atualização de Layout Personalizado"
 "
                         List of layout files with an update handle ""selectable""
                         matching *PageIdentifier*_*UpdateID*.
