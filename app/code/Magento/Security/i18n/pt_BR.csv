@@ -9,7 +9,7 @@
 "By IP","Por IP"
 "By Email","Por E-mail"
 "None","Nenhum"
-"Expiration Date","Expiration Date"
+"Expiration Date","Data de expiração"
 "We received too many requests for password resets. Please wait and try again later or contact %1.","We received too many requests for password resets. Please wait and try again later or contact %1."
 "Incorrect Security Checker class. It has to implement SecurityCheckerInterface","Classe de verificador de segurança incorreto. Deve implementar SecurityCheckerInterface"
 """%1"" must be later than the current date.","""%1"" deve ser posterior à data atual."
