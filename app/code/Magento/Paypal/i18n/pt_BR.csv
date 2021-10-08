@@ -583,7 +583,7 @@
 "The background color for the checkout page around the header and payment form.","The background color for the checkout page around the header and payment form."
 "Customize Smart Buttons","Personalizar botões inteligentes"
 "Checkout Page","Página de Finalizar Compra"
-"Customize Button","Customize Button"
+"Customize Button","Botão personalizado"
 "Label","Título"
 "The installment feature is available only in these locales: en_MX, es_MX, en_BR, pt_BR.","O recurso de parcelamento está disponível apenas nestas localidades: en_MX, es_MX, en_BR, pt_BR."
 "Mexico Installment Period","Período do parcelamento no México"
@@ -595,7 +595,7 @@
 "Cart Page","Página do carrinho"
 "Mini Cart","Mini carrinho"
 "Features","Recursos"
-"Disable Funding Options","Disable Funding Options"
+"Disable Funding Options","Desativar Opções de Financiamento"
 "PayPal will automatically display each enabled funding option to eligible buyers.
                                 For example, PayPal Credit is only shown to buyers in countries where PayPal Credit is
                                 offered and the currency offered by the merchant is USD.","PayPal will automatically display each enabled funding option to eligible buyers.
