@@ -44,7 +44,7 @@
 "Invalid customer id %1","%1 de identificação de cliente inválido"
 "Invalid customer address id %1","Id do endereço inválido %1"
 "Invalid address id %1","Id do endereço inválido %1"
-"The quote can't be created.","The quote can't be created."
+"The quote can't be created.","A cotação não pode ser criada."
 "The customer can't be assigned to the cart. The cart belongs to a different store.","The customer can't be assigned to the cart. The cart belongs to a different store."
 "The customer can't be assigned to the cart because the cart isn't anonymous.","The customer can't be assigned to the cart because the cart isn't anonymous."
 "A server error stopped your order from being placed. Please try to place your order again.","A server error stopped your order from being placed. Please try to place your order again."
