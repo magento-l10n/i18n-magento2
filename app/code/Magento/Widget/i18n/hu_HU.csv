@@ -52,6 +52,7 @@
 "name","név"
 "description","leírás"
 "We cannot create the widget instance because it is missing required information.","We cannot create the widget instance because it is missing required information."
+"Layout update is invalid","Layout update is invalid"
 "None","Egyik sem"
 "Remove Layout Update","Elrendezés frissítés eltávolítása"
 "%1","%1"
