@@ -52,7 +52,7 @@
 "An error occurred during the attempt to grant permissions. For details, see the exceptions log.","An error occurred during the attempt to grant permissions. For details, see the exceptions log."
 "Something went wrong while deleting roles and permissions. You can find out more in the exceptions log.","在删除角色和权限时出现了问题。您可以在异常日志中找到更多。"
 """%fieldName"" is required. Enter and try again.","""%fieldName"" is required. Enter and try again."
-"This customer has no tokens.","该客户有没有标记。"
+"Failed to revoke customer's access tokens","Failed to revoke customer's access tokens"
 "Inactive","未激活"
 "Active","活动"
 "Reset","重置"
