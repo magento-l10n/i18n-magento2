@@ -52,6 +52,7 @@
 "name","isim"
 "description","açıklama"
 "We cannot create the widget instance because it is missing required information.","Gerekli bilgiler eksik olduğu için widget örneği oluşturulamıyor."
+"Layout update is invalid","Layout update is invalid"
 "None","Hiçbiri"
 "Remove Layout Update","Şablon Güncellemesini Sil"
 "%1","%1"
