@@ -50,6 +50,7 @@
 "Error filtering template: %s","错误过滤模板:% s"
 "We're sorry, an error has occurred while generating this content.","很抱歉, 生成此内容时发生错误。"
 "Invalid sender data","无效发件人数据"
+"Unable to send mail. Please try again later.","Unable to send mail. Please try again later."
 "Title","标题"
 "expectedResult","expectedResult"
 "Load Default Template","Load Default Template"
