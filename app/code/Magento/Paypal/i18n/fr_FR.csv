@@ -353,6 +353,21 @@
 "Every 30 days","Tous les 30 jours"
 "Every 40 days","Tous les 40 jours"
 "No Logo","Auncun Logo"
+"White","White"
+"White No Border","White No Border"
+"Gray","Gray"
+"Monochrome","Monochrome"
+"Grayscale","Grayscale"
+"Left","Left"
+"Right","Right"
+"Top","Top"
+"Primary","Primary"
+"Alternative","Alternative"
+"Inline","Inline"
+"None","None"
+"Sidebar","Sidebar"
+"Text","Text"
+"Flex","Flex"
 "Yes (PayPal recommends this option)","Oui (PayPal recommande cette option)"
 "Created billing agreement #%1.","Accord de facturation créé n° %1."
 "We can't create a billing agreement for this order.","Nous ne pouvons pas créer un accord de facturation pour cette commande."
@@ -407,7 +422,6 @@
 "Your billing agreement # is: ","Votre numéro d’accord de facturation est : "
 "Shipping Method","Mode de livraison"
 "Please select a shipping method...","Sélectionnez un mode de livraison..."
-"Update Shipping Method","Changer de mode de livraison"
 "Sorry, no quotes are available for this order right now.","Désolé, aucun mode de livraison n'est disponible pour cette commande pour le moment."
 "Shipping Address","Adresse de livraison"
 "Edit","Éditer"
@@ -463,6 +477,13 @@
 "Accept credit card and PayPal payments securely.","Acceptez les paiements par carte de crédit et PayPal en toute sécurité."
 "Basic Settings - PayPal Website Payments Standard","Paramètres de base - PayPal Website Payments Standard"
 "PayPal Payment Gateways&nbsp;<i>Process payments using your own internet merchant account.</i>","Passerelles de paiement PayPal&nbsp;<i>Traitez les paiements en utilisant votre propre compte marchand Internet.</i>"
+"Display pay later messaging on your site for offers like Pay in 3,
+                                    which lets customers pay with 3 interest- free monthly payments. We’ll show messages
+                                    on your site to promote this feature for you. You may not promote pay later offers
+                                    with any other content, marketing, or materials.","Display pay later messaging on your site for offers like Pay in 3,
+                                    which lets customers pay with 3 interest- free monthly payments. We’ll show messages
+                                    on your site to promote this feature for you. You may not promote pay later offers
+                                    with any other content, marketing, or materials."
 "PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>","Solutions de paiement tout-en-un PayPal&nbsp;&nbsp;<i> Accepter et traiter les cartes de crédit et les paiements PayPal.</i>"
 "Accept payments with a completely customizable checkout page.","Acceptez les paiements avec une page de paiement entièrement personnalisable."
 "Website Payments Standard","PayPal Standard"
@@ -496,6 +517,14 @@
                         Vous êtes payé à l'avance, même si les clients ont plus de temps à payer. Un bouton de paiement pré-intégré permet aux clients de payer rapidement avec PayPal Credit&#174;.
                         <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">En savoir plus</a>"
 "Sort Order PayPal Credit","Ordre de tri PayPal Crédit"
+"Enable PayPal PayLater Experience","Enable PayPal PayLater Experience"
+"Recommended. <strong>Advertise PayPal Credit</strong> is deprecated.
+                    See PayPal PayLater details and list of supported regions
+                    <a href=""https://developer.paypal.com/docs/business/pay-later/us/#eligibility"" target=""_blank"">
+                    here</a>.","Recommended. <strong>Advertise PayPal Credit</strong> is deprecated.
+                    See PayPal PayLater details and list of supported regions
+                    <a href=""https://developer.paypal.com/docs/business/pay-later/us/#eligibility"" target=""_blank"">
+                    here</a>."
 "Advertise PayPal Credit","Promouvoir le crédit PayPal"
 "<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                         <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
@@ -518,6 +547,16 @@
 "Catalog Category Page","Page des catégories du catalogue"
 "Catalog Product Page","Page des produits du catalogue"
 "Checkout Cart Page","Page du paiement du panier"
+"Advertise PayPal PayLater","Advertise PayPal PayLater"
+"Enable PayPal PayLater","Enable PayPal PayLater"
+"Style Layout","Style Layout"
+"Logo Type","Logo Type"
+"Logo Position","Logo Position"
+"Text Color","Text Color"
+"Text Size","Text Size"
+"Ratio","Ratio"
+"Color","Couleur"
+"Checkout Payment Step","Checkout Payment Step"
 "Basic Settings - PayPal Express Checkout","Réglages de base - PayPal Express Checkout"
 "Title","Titre"
 "It is recommended to set this value to ""PayPal"" per store views.","Il est recommandé de fixer cette valeur à ""PayPal"" par vues de magasin."
@@ -590,7 +629,6 @@
 "Brazil Installment Period","Paiement échelonné Brésil"
 "Layout","Agencement"
 "Shape","Forme"
-"Color","Couleur"
 "Product Pages","Pages de produits"
 "Cart Page","Page du panier"
 "Mini Cart","Mini panier"
