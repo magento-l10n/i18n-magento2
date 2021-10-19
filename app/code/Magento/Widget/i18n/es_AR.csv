@@ -52,6 +52,7 @@
 "name","nombre"
 "description","descripción"
 "We cannot create the widget instance because it is missing required information.","Nosotros no podemos crear la instancia del widget porque falta información requerida."
+"Layout update is invalid","Layout update is invalid"
 "None","Ninguno"
 "Remove Layout Update","Eliminar actualización de diseño"
 "%1","%1"
