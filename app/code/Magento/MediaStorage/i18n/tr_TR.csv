@@ -5,7 +5,7 @@
 "The ""%1"" file doesn't exist. Verify the file and try again.","The ""%1"" file doesn't exist. Verify the file and try again."
 "File %1 is not readable","Dosya%1 okunabilir değil"
 "File System","Dosya Sistemi"
-"Database","Veritabanı"
+"Database (Deprecated)","Database (Deprecated)"
 "Sorry, something went wrong during image resize. Please see log for details.","Sorry, something went wrong during image resize. Please see log for details."
 "database ""%1""","Veri tabanı ""%1"""
 "Parent directory does not exist: %1","Ana dizin yok: %1"
