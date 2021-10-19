@@ -5,7 +5,7 @@
 "The ""%1"" file doesn't exist. Verify the file and try again.","""%1"" ಕಡತ ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲ. ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ."
 "File %1 is not readable","%1 ಕಡತವನ್ನು ಓದಲಾಗುವುದಿಲ್ಲ"
 "File System","ಕಡತ ವ್ಯವಸ್ಥೆ"
-"Database","ಡೇಟಾಬೇಸ್"
+"Database (Deprecated)","Database (Deprecated)"
 "Sorry, something went wrong during image resize. Please see log for details.","Sorry, something went wrong during image resize. Please see log for details."
 "database ""%1""","database ""%1"""
 "Parent directory does not exist: %1","Parent directory does not exist: %1"
