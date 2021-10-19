@@ -5,7 +5,7 @@
 "The ""%1"" file doesn't exist. Verify the file and try again.","The ""%1"" file doesn't exist. Verify the file and try again."
 "File %1 is not readable","File %1 tidak dapat dibaca"
 "File System","Berkas sistem"
-"Database","Database"
+"Database (Deprecated)","Database (Deprecated)"
 "Sorry, something went wrong during image resize. Please see log for details.","Sorry, something went wrong during image resize. Please see log for details."
 "database ""%1""","database ""%1"""
 "Parent directory does not exist: %1","Direktori induk tidak ada: %1"
