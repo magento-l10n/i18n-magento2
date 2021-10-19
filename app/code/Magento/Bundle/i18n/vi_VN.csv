@@ -38,6 +38,7 @@
 "Please select all required options.","Vui lòng chọn tất cả các tùy chỉnh được yêu cầu."
 "Option type (%types) should have only one element.","Option type (%types) should have only one element."
 "We can't add this item to your shopping cart right now.","Hiện tại không thể thêm sản phẩm này vào giỏ hàng của bạn."
+"Product relations processor must implement %1.","Product relations processor must implement %1."
 "N/A","Không xác định"
 "Percent","Phần trăm"
 "We can't save custom-defined options for bundles with dynamic pricing.","Chúng tôi không thể lưu tùy chỉnh xác định tùy chọn cho kết hợp với giá động."
