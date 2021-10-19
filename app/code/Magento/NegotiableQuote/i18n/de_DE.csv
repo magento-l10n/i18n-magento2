@@ -333,12 +333,13 @@
 "Your quote ","Ihr Angebot "
 " has been declined by the seller."," wurde vom Verkäufer abgelehnt."
 "Reason: %reason.","Grund: %reason."
+"%customer_name,","%customer_name,"
+"%quote_id","%quote_id"
 " expires on "," gültig bis "
 " after which time you can’t order the items in the quote. After the expiration,
     you’ll have to negotiate the price with the seller again."," Zeit, nach der Sie die Artikel im Angebot nicht mehr bestellen können. Nach dem Ablauf
     müssen Sie den Preis mit dem Händler neu aushandeln."
 "%merchant_name,","%merchant_name,"
-"%quote_id","%quote_id"
 "The quote ","Das Angebot "
 " after which time it will be reset to its default expiration period. To extend the
     lifetime of the quote, update its expiration date."," Zeit, nach der es auf das Standard-Ablaufdatum zurückgesetzt wird. Um die Gültigkeit
@@ -436,6 +437,7 @@
 "Quote Expiration (in 48 hrs)","Angebotsablauf (in 48 Stunden)"
 "Quote Expiration (in 24 hrs)","Angebotsablauf (24 Stunden)"
 "Expiration Date Reset","Ablaufdatum zurücksetzen"
+"Expiration Date Occurred","Expiration Date Occurred"
 "Send Quote Email Copy To","Senden von Angebots-E-Mail-Kopie an"
 "Comma-separated","Durch Kommata getrennt"
 "Send Quote Email Copy Method","Sende Angebots-E-Mail-Kopier-Methode"
