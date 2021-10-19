@@ -34,7 +34,7 @@
 "Email to a Friend","Nosūtīt e-pastā draugam"
 "Email Templates","E-pasta šabloni"
 "Enabled","Ieslēgts"
-"We strongly recommend to enable a <a href=""https://devdocs.magento.com/guides/v2.3/security/google-recaptcha.html"" target=""_blank"">CAPTCHA solution</a> alongside enabling ""Email to a Friend"" to ensure abuse of this feature does not occur.","We strongly recommend to enable a <a href=""https://devdocs.magento.com/guides/v2.3/security/google-recaptcha.html"" target=""_blank"">CAPTCHA solution</a> alongside enabling ""Email to a Friend"" to ensure abuse of this feature does not occur."
+"We strongly recommend to enable a <a href=""https://devdocs.magento.com/guides/v2.4/security/google-recaptcha.html"" target=""_blank"">CAPTCHA solution</a> alongside enabling ""Email to a Friend"" to ensure abuse of this feature does not occur.","We strongly recommend to enable a <a href=""https://devdocs.magento.com/guides/v2.4/security/google-recaptcha.html"" target=""_blank"">CAPTCHA solution</a> alongside enabling ""Email to a Friend"" to ensure abuse of this feature does not occur."
 "Select Email Template","Izvēlēties e-pasta šablonu"
 "Email template chosen based on theme fallback when ""Default"" option is selected.","E-pasta šablons izvēlēts balstoties uz iepriekšējās tēmas, ja ir izvēlēta ""noklusētā"" opcija."
 "Allow for Guests","Atļat viesiem"
