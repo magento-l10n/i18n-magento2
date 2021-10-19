@@ -7,7 +7,6 @@
 "Processing","Επεξεργασία"
 "Never","Ποτέ"
 "has been rebuilt successfully in %time","has been rebuilt successfully in %time"
-"exception: %message","exception: %message"
 "%1 index is locked by another reindex process. Skipping.","%1 δείκτης είναι κλειδωμένος από μια άλλη διαδικασία αναδημιουργίας. Γίνεται παράλειψη."
 "Index Management","Διαχείριση ευρετηρίου"
 "Please select indexers.","Παρακαλώ επιλέξτε Ευρετήρια."
