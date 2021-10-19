@@ -52,6 +52,7 @@
 "name","име"
 "description","описание"
 "We cannot create the widget instance because it is missing required information.","Не можем да създадем джаджата, защото липсва необходимата информация."
+"Layout update is invalid","Layout update is invalid"
 "None","Никакъв"
 "Remove Layout Update","Премахнете актуализацията на оформлението"
 "%1","%1"
