@@ -38,6 +38,7 @@
 "Please select all required options.","Molimo izaberite sve obavezne opcije."
 "Option type (%types) should have only one element.","Option type (%types) should have only one element."
 "We can't add this item to your shopping cart right now.","We can't add this item to your shopping cart right now."
+"Product relations processor must implement %1.","Product relations processor must implement %1."
 "N/A","N/A - nije dostupno"
 "Percent","Procenat"
 "We can't save custom-defined options for bundles with dynamic pricing.","Mi ne možemo da sačuvamo korisnički prilagođene opcije za pakete sa dinamičkim cenama."
