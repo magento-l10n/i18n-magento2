@@ -52,6 +52,7 @@
 "name","название"
 "description","описание"
 "We cannot create the widget instance because it is missing required information.","Нельзя создать экземпляр виджета потому, что отсутствует необходимая информация."
+"Layout update is invalid","Layout update is invalid"
 "None","Нет"
 "Remove Layout Update","Удалить обновление макета"
 "%1","%1"
