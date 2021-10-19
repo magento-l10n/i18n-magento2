@@ -38,6 +38,7 @@
 "Please select all required options.","모든 필수 옵션을 선택 하십시오."
 "Option type (%types) should have only one element.","Option type (%types) should have only one element."
 "We can't add this item to your shopping cart right now.","일시적으로 해당 상품을 장바구니에 추가할 수 없습니다."
+"Product relations processor must implement %1.","Product relations processor must implement %1."
 "N/A","해당없음"
 "Percent","퍼센트"
 "We can't save custom-defined options for bundles with dynamic pricing.","We can't save custom-defined options for bundles with dynamic pricing."
