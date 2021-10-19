@@ -7,7 +7,6 @@
 "Processing","پردازش"
 "Never","هرگز"
 "has been rebuilt successfully in %time","has been rebuilt successfully in %time"
-"exception: %message","exception: %message"
 "%1 index is locked by another reindex process. Skipping.","%1 شاخص توسط یک فرآیند reindex دیگر قفل شده است. رد شو."
 "Index Management","مدیریت فهرست"
 "Please select indexers.","لطفا شاخص ها را انتخاب نمایید."
