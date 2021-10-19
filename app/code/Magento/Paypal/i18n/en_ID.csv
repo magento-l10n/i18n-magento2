@@ -353,6 +353,21 @@
 "Every 30 days","Setiap 30 hari"
 "Every 40 days","Setiap 40 hari"
 "No Logo","Logo tidak"
+"White","White"
+"White No Border","White No Border"
+"Gray","Gray"
+"Monochrome","Monochrome"
+"Grayscale","Grayscale"
+"Left","Left"
+"Right","Right"
+"Top","Top"
+"Primary","Primary"
+"Alternative","Alternative"
+"Inline","Inline"
+"None","None"
+"Sidebar","Sidebar"
+"Text","Text"
+"Flex","Flex"
 "Yes (PayPal recommends this option)","Ya (PayPal merekomendasikan pilihan ini)"
 "Created billing agreement #%1.","Persetujuan penagihan dibuat #%1."
 "We can't create a billing agreement for this order.","We can't create a billing agreement for this order."
@@ -407,7 +422,6 @@
 "Your billing agreement # is: ","Perjanjian penagihan # Anda adalah: "
 "Shipping Method","Metode Pengiriman"
 "Please select a shipping method...","Silahkan pilih metode pengiriman..."
-"Update Shipping Method","Perbarui Metode Pengiriman"
 "Sorry, no quotes are available for this order right now.","Maaf, tanpa tanda kutip tersedia untuk pesanan ini sekarang."
 "Shipping Address","Alamat Pengiriman"
 "Edit","Ubah"
@@ -463,6 +477,13 @@
 "Accept credit card and PayPal payments securely.","Accept credit card and PayPal payments securely."
 "Basic Settings - PayPal Website Payments Standard","Basic Settings - PayPal Website Payments Standard"
 "PayPal Payment Gateways&nbsp;<i>Process payments using your own internet merchant account.</i>","Pembayaran PayPal Gateway&nbsp;<i>Proses pembayaran menggunakan akun merchant internet Anda sendiri.</i>"
+"Display pay later messaging on your site for offers like Pay in 3,
+                                    which lets customers pay with 3 interest- free monthly payments. We’ll show messages
+                                    on your site to promote this feature for you. You may not promote pay later offers
+                                    with any other content, marketing, or materials.","Display pay later messaging on your site for offers like Pay in 3,
+                                    which lets customers pay with 3 interest- free monthly payments. We’ll show messages
+                                    on your site to promote this feature for you. You may not promote pay later offers
+                                    with any other content, marketing, or materials."
 "PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>","Solusi Pembayaran All-in-One PayPal&nbsp;&nbsp;<i>Menerima dan memproses kartu kredit dan pembayaran PayPal.</i>"
 "Accept payments with a completely customizable checkout page.","Menerima pembayaran dengan benar-benar disesuaikan dengan halaman checkout."
 "Website Payments Standard","Website Payments Standard"
@@ -496,6 +517,14 @@
                         You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
                         <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>"
 "Sort Order PayPal Credit","Urutkan Order Kredit PayPal"
+"Enable PayPal PayLater Experience","Enable PayPal PayLater Experience"
+"Recommended. <strong>Advertise PayPal Credit</strong> is deprecated.
+                    See PayPal PayLater details and list of supported regions
+                    <a href=""https://developer.paypal.com/docs/business/pay-later/us/#eligibility"" target=""_blank"">
+                    here</a>.","Recommended. <strong>Advertise PayPal Credit</strong> is deprecated.
+                    See PayPal PayLater details and list of supported regions
+                    <a href=""https://developer.paypal.com/docs/business/pay-later/us/#eligibility"" target=""_blank"">
+                    here</a>."
 "Advertise PayPal Credit","Kredit PayPal Beriklan"
 "<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                         <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
@@ -518,6 +547,16 @@
 "Catalog Category Page","Kategori Katalog Halaman"
 "Catalog Product Page","Katalog Halaman Produk"
 "Checkout Cart Page","Halaman keranjang belanja"
+"Advertise PayPal PayLater","Advertise PayPal PayLater"
+"Enable PayPal PayLater","Enable PayPal PayLater"
+"Style Layout","Style Layout"
+"Logo Type","Logo Type"
+"Logo Position","Logo Position"
+"Text Color","Text Color"
+"Text Size","Text Size"
+"Ratio","Ratio"
+"Color","Color"
+"Checkout Payment Step","Checkout Payment Step"
 "Basic Settings - PayPal Express Checkout","Setelan Dasar - Checkout Ekspres PayPal"
 "Title","Judul"
 "It is recommended to set this value to ""PayPal"" per store views.","Dianjurkan untuk menetapkan nilai ini untuk ""PayPal"" setiap toko dilihat."
@@ -590,7 +629,6 @@
 "Brazil Installment Period","Brazil Installment Period"
 "Layout","Tata letak"
 "Shape","Shape"
-"Color","Color"
 "Product Pages","Product Pages"
 "Cart Page","Cart Page"
 "Mini Cart","Mini Cart"
