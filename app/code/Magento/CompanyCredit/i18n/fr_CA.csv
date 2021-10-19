@@ -47,7 +47,6 @@
                         Customers will not be able to place orders until you update the credit currency.","La devise de crédit sélectionnée n'est pas valide. Les clients ne pourront pas passer de commandes tant que vous ne mettrez pas à jour la devise de crédit."
 "Store Credit","Crédit du magasin"
 "Refund to Company Credit","Remboursement au crédit de la société"
-"An invoice for partial quantities cannot be issued for this order. To continue, change the specified quantity to the full quantity.","Une facture pour des quantités partielles ne peut pas être émise pour cette commande. Pour continuer, remplacez la quantité spécifiée par la quantité totale."
 "We refunded %1 online.","Nous avons remboursé %1 en ligne."
 "We refunded %1 offline.","Nous avons remboursé %1 hors ligne (offline)."
 "We refunded %1 to the company credit.","Nous avons remboursé %1 au crédit de la société."
