@@ -52,6 +52,7 @@
 "Error filtering template: %s","Error filtering template: %s"
 "We're sorry, an error has occurred while generating this content.","이 콘텐츠를 생성 하는 동안 오류가 발생 했습니다."
 "Invalid sender data","Invalid sender data"
+"Unable to send mail. Please try again later.","Unable to send mail. Please try again later."
 "Title","타이틀"
 "expectedResult","expectedResult"
 "Load Default Template","Load Default Template"
