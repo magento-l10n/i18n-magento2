@@ -52,6 +52,7 @@
 "name","nosaukums"
 "description","apraksts"
 "We cannot create the widget instance because it is missing required information.","Nevar izveidot logrīku, jo trūkst visa nepieciešamā informācija."
+"Layout update is invalid","Layout update is invalid"
 "None","Neviens"
 "Remove Layout Update","Noņemt izkārtojuma atjauninājumu"
 "%1","%1"
