@@ -52,6 +52,7 @@
 "name","όνομα"
 "description","περιγραφή"
 "We cannot create the widget instance because it is missing required information.","Δεν μπορούμε να δημιουργήσουμε την παρουσία γραφικού στοιχείου επειδή λείπουν οι απαιτούμενες πληροφορίες."
+"Layout update is invalid","Layout update is invalid"
 "None","Κανένα"
 "Remove Layout Update","Κατάργηση Ενημέρωσης Διάταξης"
 "%1","%1"
