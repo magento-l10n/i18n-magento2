@@ -7,7 +7,6 @@
 "Processing","Przetwarzam"
 "Never","Nigdy"
 "has been rebuilt successfully in %time","has been rebuilt successfully in %time"
-"exception: %message","exception: %message"
 "%1 index is locked by another reindex process. Skipping.","%1 indeks jest zablokowany przez inny proces indeksowania. Pomijam."
 "Index Management","Indeksy"
 "Please select indexers.","Prosimy wybrać indeksy."
