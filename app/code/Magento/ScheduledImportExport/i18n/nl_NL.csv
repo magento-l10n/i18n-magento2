@@ -61,6 +61,7 @@
 "You deleted the scheduled export.","U heeft de geplande export verwijderd."
 "Are you sure you want to delete this scheduled import?","Weet u zeker dat u de geplande import wilt verwijderen?"
 "Are you sure you want to delete this scheduled export?","Weet u zeker datu de geplande export wilt verwijderen?"
+"Please correct the file format.","Please correct the file format."
 "We were unable to save the cron expression.","We kunnen de periodieke expressie niet opslaan."
 "Unable to delete the cron task.","Niet mogelijk om periodieke taak te verwijderen."
 "Please correct the cron job task","Corrigeer de periodieke taak"
