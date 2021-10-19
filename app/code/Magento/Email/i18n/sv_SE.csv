@@ -50,6 +50,7 @@
 "Error filtering template: %s","Fel filtrering på mall: %s"
 "We're sorry, an error has occurred while generating this content.","Vi beklagar, ett fel har uppstått vid generering av detta innehåll."
 "Invalid sender data","Ogiltiga avsändar data"
+"Unable to send mail. Please try again later.","Unable to send mail. Please try again later."
 "Title","Titel"
 "expectedResult","expectedResult"
 "Load Default Template","Load Default Template"
