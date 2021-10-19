@@ -34,7 +34,7 @@
 "Email to a Friend","友達にメールを送る"
 "Email Templates","メールテンプレート"
 "Enabled","有効"
-"We strongly recommend to enable a <a href=""https://devdocs.magento.com/guides/v2.3/security/google-recaptcha.html"" target=""_blank"">CAPTCHA solution</a> alongside enabling ""Email to a Friend"" to ensure abuse of this feature does not occur.","この機能の不正使用を防ぐため、<a href=""https://devdocs.magento.com/guides/v2.3/security/google-recaptcha.html""ターゲット=""_blank "">CAPTCHAソリューション</a>を有効にし、[友だちに電子メール]を有効にすることを強くお勧めします。"
+"We strongly recommend to enable a <a href=""https://devdocs.magento.com/guides/v2.4/security/google-recaptcha.html"" target=""_blank"">CAPTCHA solution</a> alongside enabling ""Email to a Friend"" to ensure abuse of this feature does not occur.","We strongly recommend to enable a <a href=""https://devdocs.magento.com/guides/v2.4/security/google-recaptcha.html"" target=""_blank"">CAPTCHA solution</a> alongside enabling ""Email to a Friend"" to ensure abuse of this feature does not occur."
 "Select Email Template","メールテンプレートを選択"
 "Email template chosen based on theme fallback when ""Default"" option is selected."," ""デフォルト""オプションが選択された時、Eメールのテンプレートはテーマの代替を元に選ばれます。 "
 "Allow for Guests","ゲストに許可する"
