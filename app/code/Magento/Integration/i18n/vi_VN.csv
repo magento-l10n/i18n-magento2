@@ -51,7 +51,7 @@
 "An error occurred during the attempt to grant permissions. For details, see the exceptions log.","An error occurred during the attempt to grant permissions. For details, see the exceptions log."
 "Something went wrong while deleting roles and permissions. You can find out more in the exceptions log.","Một cái gì đó đã đi sai trong khi xoá vai trò và quyền. Bạn có thể tìm hiểu thêm trong Nhật ký ngoại lệ."
 """%fieldName"" is required. Enter and try again.","""%fieldName"" is required. Enter and try again."
-"This customer has no tokens.","Khách hàng này không có thẻ."
+"Failed to revoke customer's access tokens","Failed to revoke customer's access tokens"
 "Inactive","Không hoạt động"
 "Active","Kích hoạt"
 "Reset","Thiết lập lại"
