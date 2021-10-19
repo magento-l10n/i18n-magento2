@@ -62,6 +62,7 @@
 "Entity Id does not exist","Entity Id does not exist"
 "Carts","Winkelwagens"
 "Manage carts","Winkelwagens beheren"
+"Enable Inventory Check On Cart Load","Enable Inventory Check On Cart Load"
 "Some addresses can't be used due to the configurations for specific countries.","Some addresses can't be used due to the configurations for specific countries."
 "Please check the shipping address information.","Please check the shipping address information."
 "The shipping method is missing. Select the shipping method and try again.","The shipping method is missing. Select the shipping method and try again."
