@@ -61,6 +61,7 @@
 "You deleted the scheduled export.","スケジュールされたエクスポートを削除しました。"
 "Are you sure you want to delete this scheduled import?","本当にこの定期インポートを削除しますか？"
 "Are you sure you want to delete this scheduled export?","本当にこの定期エクスポートを削除しますか？"
+"Please correct the file format.","Please correct the file format."
 "We were unable to save the cron expression.","cronを保存することができませんでした。"
 "Unable to delete the cron task.","cronタスクを削除できません。"
 "Please correct the cron job task","cronジョブのタスクを修正してください"
