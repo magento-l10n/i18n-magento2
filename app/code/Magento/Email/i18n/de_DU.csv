@@ -50,6 +50,7 @@
 "Error filtering template: %s","Fehler beim Filtern der Vorlage: %s"
 "We're sorry, an error has occurred while generating this content.","Bei der Erstellung dieses Inhalts ist ein Fehler aufgetreten."
 "Invalid sender data","Ungültige Absenderinformationen"
+"Unable to send mail. Please try again later.","Unable to send mail. Please try again later."
 "Title","Titel"
 "expectedResult","expectedResult"
 "Load Default Template","Load Default Template"
