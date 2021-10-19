@@ -52,6 +52,7 @@
 "name","tên"
 "description","mô tả"
 "We cannot create the widget instance because it is missing required information.","Chúng tôi không thể tạo các phiên bản Widget vì thiếu thông tin bắt buộc."
+"Layout update is invalid","Layout update is invalid"
 "None","Không cái nào"
 "Remove Layout Update","Loại bỏ Cập Nhật giao diện"
 "%1","%1"
