@@ -52,6 +52,7 @@
 "name","naam"
 "description","omschrijving"
 "We cannot create the widget instance because it is missing required information.","We kunnen het widget niet aanmaken omdat het verplichte informatie mist."
+"Layout update is invalid","Layout update is invalid"
 "None","Geen"
 "Remove Layout Update","Verwijder lay-out update"
 "%1","%1"
