@@ -354,6 +354,21 @@
 "Every 30 days","هر 30 روز"
 "Every 40 days","هر 40 روز"
 "No Logo","بدون لوگو"
+"White","White"
+"White No Border","White No Border"
+"Gray","Gray"
+"Monochrome","Monochrome"
+"Grayscale","Grayscale"
+"Left","Left"
+"Right","Right"
+"Top","Top"
+"Primary","Primary"
+"Alternative","Alternative"
+"Inline","Inline"
+"None","None"
+"Sidebar","Sidebar"
+"Text","Text"
+"Flex","Flex"
 "Yes (PayPal recommends this option)","بله (پی پال این گزینه را توصیه می کند)"
 "Created billing agreement #%1.","قرارداد صورتحساب #%1 ایجاد شده است."
 "We can't create a billing agreement for this order.","ما نمی توانیم یک توافقنامه صورتحساب برای این سفارش ایجاد کنیم."
@@ -408,7 +423,6 @@
 "Your billing agreement # is: ","توافقنامه صورتحساب شما: #: "
 "Shipping Method","روش ارسال"
 "Please select a shipping method...","لطفا یک روش ارسال انتخاب نمایید..."
-"Update Shipping Method","به روز رسانی روش حمل و نقل"
 "Sorry, no quotes are available for this order right now.","با عرض پوزش، در حال حاضر هیچ نظری برای این سفارش در دسترس نیست."
 "Shipping Address","آدرس ارسال"
 "Edit","ويرايش"
@@ -464,6 +478,13 @@
 "Accept credit card and PayPal payments securely.","Accept credit card and PayPal payments securely."
 "Basic Settings - PayPal Website Payments Standard","Basic Settings - PayPal Website Payments Standard"
 "PayPal Payment Gateways&nbsp;<i>Process payments using your own internet merchant account.</i>","دروازه های پرداخت پی پال و&nbsp;<i> پردازش پرداخت ها با استفاده از حساب کاربری اینترنت خودتان </i>"
+"Display pay later messaging on your site for offers like Pay in 3,
+                                    which lets customers pay with 3 interest- free monthly payments. We’ll show messages
+                                    on your site to promote this feature for you. You may not promote pay later offers
+                                    with any other content, marketing, or materials.","Display pay later messaging on your site for offers like Pay in 3,
+                                    which lets customers pay with 3 interest- free monthly payments. We’ll show messages
+                                    on your site to promote this feature for you. You may not promote pay later offers
+                                    with any other content, marketing, or materials."
 "PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>","PayPal All-in-One Solutions پرداخت و &nbsp;&nbsp;<i> پذیرش و پردازش کارت های اعتباری و پرداخت PayPal </i>"
 "Accept payments with a completely customizable checkout page.","قبول پرداخت به طور كامل همراه صفحه سفارشي."
 "Website Payments Standard","Website Payments Standard"
@@ -497,6 +518,14 @@
                         You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
                         <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>"
 "Sort Order PayPal Credit","ترتیب پرداخت اعتباری پی پال"
+"Enable PayPal PayLater Experience","Enable PayPal PayLater Experience"
+"Recommended. <strong>Advertise PayPal Credit</strong> is deprecated.
+                    See PayPal PayLater details and list of supported regions
+                    <a href=""https://developer.paypal.com/docs/business/pay-later/us/#eligibility"" target=""_blank"">
+                    here</a>.","Recommended. <strong>Advertise PayPal Credit</strong> is deprecated.
+                    See PayPal PayLater details and list of supported regions
+                    <a href=""https://developer.paypal.com/docs/business/pay-later/us/#eligibility"" target=""_blank"">
+                    here</a>."
 "Advertise PayPal Credit","تبلیغات اعتبار PayPal"
 "<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                         <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
@@ -519,6 +548,16 @@
 "Catalog Category Page","صفحه کاتالوگ دسته بندی"
 "Catalog Product Page","صفحه کاتالوگ محصولات"
 "Checkout Cart Page","صفحه پرداخت کارت"
+"Advertise PayPal PayLater","Advertise PayPal PayLater"
+"Enable PayPal PayLater","Enable PayPal PayLater"
+"Style Layout","Style Layout"
+"Logo Type","Logo Type"
+"Logo Position","Logo Position"
+"Text Color","Text Color"
+"Text Size","Text Size"
+"Ratio","Ratio"
+"Color","Color"
+"Checkout Payment Step","Checkout Payment Step"
 "Basic Settings - PayPal Express Checkout","تنظیمات اولیه - PayPal Express Checkout "
 "Title","عنوان"
 "It is recommended to set this value to ""PayPal"" per store views.","توصیه می‌شود این مقدار را به ""پی پال"" بر نماهای فروشگاه تنظیم کنید."
@@ -591,7 +630,6 @@
 "Brazil Installment Period","Brazil Installment Period"
 "Layout","چیدمان"
 "Shape","Shape"
-"Color","Color"
 "Product Pages","Product Pages"
 "Cart Page","Cart Page"
 "Mini Cart","Mini Cart"
