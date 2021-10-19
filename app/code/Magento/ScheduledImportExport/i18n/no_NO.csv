@@ -61,6 +61,7 @@
 "You deleted the scheduled export.","Du slettet planlagt eksport."
 "Are you sure you want to delete this scheduled import?","Er du sikker på at du vil slette denne planlagte importen?"
 "Are you sure you want to delete this scheduled export?","Er du sikker på at du vil slette denne planlagte eksporten?"
+"Please correct the file format.","Please correct the file format."
 "We were unable to save the cron expression.","Vi kunne ikke lagre cron-uttrykket."
 "Unable to delete the cron task.","Kunne ikke slette cron-oppgaven."
 "Please correct the cron job task","Vennligst rett cron-job-oppgaven"
