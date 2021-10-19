@@ -333,12 +333,13 @@
 "Your quote ","Sua cotação "
 " has been declined by the seller."," foi recusado pelo vendedor."
 "Reason: %reason.","Razão: %reason."
+"%customer_name,","%customer_name,"
+"%quote_id","%quote_id"
 " expires on "," expira em "
 " after which time you can’t order the items in the quote. After the expiration,
     you’ll have to negotiate the price with the seller again."," após o tempo você não pode encomendar os itens na cotação. Após a expiração,
     você terá que negociar o preço com o vendedor novamente."
 "%merchant_name,","%merchant_name,"
-"%quote_id","%quote_id"
 "The quote ","A cotação "
 " after which time it will be reset to its default expiration period. To extend the
     lifetime of the quote, update its expiration date."," após esse período, ela será redefinido para o período de vencimento padrão. Para estender o
@@ -436,6 +437,7 @@
 "Quote Expiration (in 48 hrs)","Expiração da Cotação (em 48 horas)"
 "Quote Expiration (in 24 hrs)","Expiração da Cotação (em 24 horas)"
 "Expiration Date Reset","Resetar Data de expiração"
+"Expiration Date Occurred","Expiration Date Occurred"
 "Send Quote Email Copy To","Enviar cópia da cotação para"
 "Comma-separated","Separado por vírgula"
 "Send Quote Email Copy Method","Método de Envio da Cópia do E-mail de Cotação"
