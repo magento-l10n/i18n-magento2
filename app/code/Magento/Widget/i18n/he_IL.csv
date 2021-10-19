@@ -52,6 +52,7 @@
 "name","שם"
 "description","תיאור"
 "We cannot create the widget instance because it is missing required information.","אין לנו את אפשרות ליצור מופע של רכיב ווידגט מכיוון שחסר המידע הנדרש."
+"Layout update is invalid","Layout update is invalid"
 "None","ללא"
 "Remove Layout Update","הסר עדכוני סידורים"
 "%1","%1"
