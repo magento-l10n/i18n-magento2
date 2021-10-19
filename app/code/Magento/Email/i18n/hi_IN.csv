@@ -50,6 +50,7 @@
 "Error filtering template: %s","टेम्प्लेट फ़िल्टर करने में त्रुटि: %s"
 "We're sorry, an error has occurred while generating this content.","हमें खेद है, इस सामग्री को बनाते समय एक त्रुटि हुई है।"
 "Invalid sender data","अमान्य प्रेषक डेटा"
+"Unable to send mail. Please try again later.","Unable to send mail. Please try again later."
 "Title","शीर्षक"
 "expectedResult","expectedResult"
 "Load Default Template","Load Default Template"
