@@ -333,12 +333,13 @@
 "Your quote ","پیش فاکتور شما "
 " has been declined by the seller."," توسط فروشنده رد شد."
 "Reason: %reason.","علت: %reason."
+"%customer_name,","%customer_name,"
+"%quote_id","%quote_id"
 " expires on "," منقضی می شود در "
 " after which time you can’t order the items in the quote. After the expiration,
     you’ll have to negotiate the price with the seller again."," پس از آن زمان شما نمی توانید محصولات پیش فاکتور را سفارش دهید. پس از انقضاء،
     شما باید قیمت را مجددا با فروشنده به مذاکره بگذارید."
 "%merchant_name,","%merchant_name,"
-"%quote_id","%quote_id"
 "The quote ","پیش فاکتور "
 " after which time it will be reset to its default expiration period. To extend the
     lifetime of the quote, update its expiration date."," پس از آن زمان مجددا به مدت زمان انقضای پیش فرض تنظیم خواهد شد. برای تمدید
@@ -436,6 +437,7 @@
 "Quote Expiration (in 48 hrs)","زمان انقضای پیش فاکتور (در ۴۸ ساعت)"
 "Quote Expiration (in 24 hrs)","زمان انقضای پیش فاکتور (در ۲۴ ساعت)"
 "Expiration Date Reset","تنظیم مجدد تاريخ انقضاء"
+"Expiration Date Occurred","Expiration Date Occurred"
 "Send Quote Email Copy To","ارسال کپی ایمیل پیش فاکتور به"
 "Comma-separated","جدا شده با کاما"
 "Send Quote Email Copy Method","روش ارسال كپی ايميل پیش فاكتور"
