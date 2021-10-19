@@ -52,6 +52,7 @@
 "name","ಹೆಸರು"
 "description","ವಿವರಣೆ"
 "We cannot create the widget instance because it is missing required information.","We cannot create the widget instance because it is missing required information."
+"Layout update is invalid","Layout update is invalid"
 "None","ಯಾವುದೂ ಇಲ್ಲ"
 "Remove Layout Update","ವಿನ್ಯಾಸ ಪರಿಷ್ಕರಣೆಯನ್ನು ತೆಗೆದುಹಾಕಿ"
 "%1","%1"
