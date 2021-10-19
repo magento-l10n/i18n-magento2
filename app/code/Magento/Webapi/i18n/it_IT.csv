@@ -1,6 +1,7 @@
 "The consumer isn't authorized to access %resources.","The consumer isn't authorized to access %resources."
 "Operation allowed only in HTTPS","Operazione consentita solo in HTTPS"
 "Cannot perform GET operation with store code 'all'","Impossibile eseguire l'operazione GET con codice negozio 'tutti'"
+"'The current request does not expect the next parameters: ' .","'The current request does not expect the next parameters: ' ."
 "Specified request cannot be processed.","Specified request cannot be processed."
 "Request does not match any route.","Richiesta non corrispondente a nessuna route."
 "Not allowed parameters: %1. Please use only %2 and %3.","Parametri non consentiti: %1. Utilizzare solo %2 e %3."
