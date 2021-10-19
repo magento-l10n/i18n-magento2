@@ -52,6 +52,7 @@
 "name","meno"
 "description","description"
 "We cannot create the widget instance because it is missing required information.","We cannot create the widget instance because it is missing required information."
+"Layout update is invalid","Layout update is invalid"
 "None","Žiadne"
 "Remove Layout Update","Remove Layout Update"
 "%1","%1"
