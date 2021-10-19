@@ -333,12 +333,13 @@
 "Your quote ","あなたの見積もり "
 " has been declined by the seller."," 販売者に拒否されました。"
 "Reason: %reason.","理由: %reason"
+"%customer_name,","%customer_name,"
+"%quote_id","%quote_id"
 " expires on "," で期限切れ "
 " after which time you can’t order the items in the quote. After the expiration,
     you’ll have to negotiate the price with the seller again."," その後は、見積もりの商品を注文できません。有効期限が切れた後、
     販売者との価格交渉をもう一度行う必要があります。"
 "%merchant_name,","%merchant_name、"
-"%quote_id","%quote_id"
 "The quote ","見積もり "
 " after which time it will be reset to its default expiration period. To extend the
     lifetime of the quote, update its expiration date."," その後、デフォルトの有効期限にリセットされます。 見積もりの有効期間を延長するには、
@@ -436,6 +437,7 @@
 "Quote Expiration (in 48 hrs)","見積もり期限（48時間後）"
 "Quote Expiration (in 24 hrs)","見積もり期限（24時間後）"
 "Expiration Date Reset","有効期限日のリセット"
+"Expiration Date Occurred","Expiration Date Occurred"
 "Send Quote Email Copy To","見積もりメールのコピー送信先"
 "Comma-separated","カンマ区切り"
 "Send Quote Email Copy Method","見積もりコピーメール送信方法"
