@@ -7,7 +7,6 @@
 "Processing","Vykdoma"
 "Never","Never"
 "has been rebuilt successfully in %time","has been rebuilt successfully in %time"
-"exception: %message","exception: %message"
 "%1 index is locked by another reindex process. Skipping.","%1 index is locked by another reindex process. Skipping."
 "Index Management","Index Management"
 "Please select indexers.","Please select indexers."
