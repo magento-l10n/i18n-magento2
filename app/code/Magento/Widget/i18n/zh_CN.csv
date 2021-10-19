@@ -52,6 +52,7 @@
 "name","名称"
 "description","描述"
 "We cannot create the widget instance because it is missing required information.","我们无法创建窗口小部件实例，因为它缺少所需的信息。"
+"Layout update is invalid","Layout update is invalid"
 "None","无"
 "Remove Layout Update","删除布局更新"
 "%1","1%"
