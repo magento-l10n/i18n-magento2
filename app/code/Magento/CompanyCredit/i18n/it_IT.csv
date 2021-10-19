@@ -48,7 +48,6 @@
                         I clienti non saranno in grado di inserire ordini fintanto che non cambierai la valuta del credito."
 "Store Credit","Credito negozio"
 "Refund to Company Credit","Rimborsa al credito aziendale"
-"An invoice for partial quantities cannot be issued for this order. To continue, change the specified quantity to the full quantity.","Una fattura per quantità parziali non può essere emessa in quest'ordine. Per continuare, cambia la quantità inserita con la quantità totale."
 "We refunded %1 online.","Sono stati rimborsati %1 online."
 "We refunded %1 offline.","Sono stati rimborsati %1 offline."
 "We refunded %1 to the company credit.","Sono stati rimborsati %1 a favore del credito aziendale."
