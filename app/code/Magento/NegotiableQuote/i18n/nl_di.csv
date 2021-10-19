@@ -333,11 +333,12 @@
 "Your quote ","Je offerte "
 " has been declined by the seller."," is door de verkoper afgewezen."
 "Reason: %reason.","Reden: %reason."
+"%customer_name,","%customer_name,"
+"%quote_id","%quote_id"
 " expires on "," verloopt op "
 " after which time you can’t order the items in the quote. After the expiration,
     you’ll have to negotiate the price with the seller again.","na die tijd kan je de items in de offerte niet bestellen. Na de vervaldatum moet je opnieuw onderhandelen over de prijs met de verkoper."
 "%merchant_name,","%merchant_name,"
-"%quote_id","%quote_id"
 "The quote ","De offerte "
 " after which time it will be reset to its default expiration period. To extend the
     lifetime of the quote, update its expiration date.","na die tijd wordt het gereset naar de standaard-vervaltijd. Als je de levensduur van de offerte wilt verlengen, moet je de vervaldatum bijwerken."
@@ -433,6 +434,7 @@
 "Quote Expiration (in 48 hrs)","Offerte vervalt (in 48 uur)"
 "Quote Expiration (in 24 hrs)","Offerte vervalt (in 24 uur)"
 "Expiration Date Reset","Vervaldatum terugzetten"
+"Expiration Date Occurred","Expiration Date Occurred"
 "Send Quote Email Copy To","Kopie van offerte mailen aan"
 "Comma-separated","Komma gescheiden"
 "Send Quote Email Copy Method","Kopie van offerte mailen methode"
