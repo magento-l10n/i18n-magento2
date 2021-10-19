@@ -38,6 +38,7 @@
 "Please select all required options.","Izvēlieties visas nepieciešamās opcijas."
 "Option type (%types) should have only one element.","Option type (%types) should have only one element."
 "We can't add this item to your shopping cart right now.","Pašlaik nevar pievienot grozma šo produktu."
+"Product relations processor must implement %1.","Product relations processor must implement %1."
 "N/A","N/A"
 "Percent","Procenti"
 "We can't save custom-defined options for bundles with dynamic pricing.","Nevar ieslēgt speciāli definētas opcijas komplektiem ar dinamisku cenu."
