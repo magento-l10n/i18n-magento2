@@ -38,6 +38,7 @@
 "Please select all required options.","Per favore seleziona tutte le opzioni necessarie."
 "Option type (%types) should have only one element.","Option type (%types) should have only one element."
 "We can't add this item to your shopping cart right now.","Al momento è impossibile aggiungere questo articolo al carrello."
+"Product relations processor must implement %1.","Product relations processor must implement %1."
 "N/A","N/D"
 "Percent","Percentuale"
 "We can't save custom-defined options for bundles with dynamic pricing.","Impossibile salvare opzioni personalizzate per prodotti bundle con prezzo dinamico."
