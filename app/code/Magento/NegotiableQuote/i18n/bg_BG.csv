@@ -333,11 +333,12 @@
 "Your quote ","Вашата квота "
 " has been declined by the seller."," отказано от продавача."
 "Reason: %reason.","Причина: %reason."
+"%customer_name,","%customer_name,"
+"%quote_id","%quote_id"
 " expires on "," изтича на "
 " after which time you can’t order the items in the quote. After the expiration,
     you’ll have to negotiate the price with the seller again."," време, след което няма да може да поръчвате продукти от квотата. След изтичането,    му ще може отново да договаряте нови цени с продавача."
 "%merchant_name,","%merchant_name,"
-"%quote_id","%quote_id"
 "The quote ","Квотата "
 " after which time it will be reset to its default expiration period. To extend the
     lifetime of the quote, update its expiration date."," след което време ще бъде върнато към стандартното време за валидност. За да увеичите     валидноста на квотата, променете датата на валидност."
@@ -433,6 +434,7 @@
 "Quote Expiration (in 48 hrs)","Quote Expiration (in 48 hrs)"
 "Quote Expiration (in 24 hrs)","Quote Expiration (in 24 hrs)"
 "Expiration Date Reset","Expiration Date Reset"
+"Expiration Date Occurred","Expiration Date Occurred"
 "Send Quote Email Copy To","Send Quote Email Copy To"
 "Comma-separated","Разделени със запетая"
 "Send Quote Email Copy Method","Send Quote Email Copy Method"
