@@ -7,7 +7,6 @@
 "Processing","Pengolahan"
 "Never","Tidak pernah"
 "has been rebuilt successfully in %time","has been rebuilt successfully in %time"
-"exception: %message","exception: %message"
 "%1 index is locked by another reindex process. Skipping.","%1 indeks dikunci oleh proses reindex yang lain. Melompati."
 "Index Management","Manajemen Indeks"
 "Please select indexers.","Silahkan pilih pengindeks."
