@@ -5,7 +5,7 @@
 "The ""%1"" file doesn't exist. Verify the file and try again.","The ""%1"" file doesn't exist. Verify the file and try again."
 "File %1 is not readable","Arquivo %1 não é legível"
 "File System","Sistema de arquivos"
-"Database","Banco de dados"
+"Database (Deprecated)","Database (Deprecated)"
 "Sorry, something went wrong during image resize. Please see log for details.","Sorry, something went wrong during image resize. Please see log for details."
 "database ""%1""","banco de dados ""%1"""
 "Parent directory does not exist: %1","Não existe o diretório pai: %1"
