@@ -38,6 +38,7 @@
 "Please select all required options.","ആവശ്യമായ എല്ലാ ഓപ്ഷനുകളും തിരഞ്ഞെടുക്കുക."
 "Option type (%types) should have only one element.","Option type (%types) should have only one element."
 "We can't add this item to your shopping cart right now.","ഞങ്ങൾക്ക് ഇപ്പോൾ നിങ്ങളുടെ ഷോപ്പിംഗ് കാർട്ടിൽ ഈ ഇനം ചേർക്കാൻ കഴിയില്ല."
+"Product relations processor must implement %1.","Product relations processor must implement %1."
 "N/A","ബാധകമല്ല"
 "Percent","ശതമാനം"
 "We can't save custom-defined options for bundles with dynamic pricing.","We can't save custom-defined options for bundles with dynamic pricing."

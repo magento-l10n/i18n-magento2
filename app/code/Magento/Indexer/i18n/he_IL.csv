@@ -7,7 +7,6 @@
 "Processing","מעבד"
 "Never","לעולם לא"
 "has been rebuilt successfully in %time","has been rebuilt successfully in %time"
-"exception: %message","exception: %message"
 "%1 index is locked by another reindex process. Skipping.","%1 אינדקס נעול על-ידי תהליך אחר אשר מאונדקס. מדלג."
 "Index Management","ניהול אינדקס"
 "Please select indexers.","אנא בחר מאנדקסים."

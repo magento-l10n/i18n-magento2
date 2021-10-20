@@ -1,6 +1,7 @@
 "The consumer isn't authorized to access %resources.","The consumer isn't authorized to access %resources."
 "Operation allowed only in HTTPS","Provoz povolen pouze v HTTPS"
 "Cannot perform GET operation with store code 'all'","Nelze provést operaci GET s kódem obchodu 'all'"
+"'The current request does not expect the next parameters: ' .","'The current request does not expect the next parameters: ' ."
 "Specified request cannot be processed.","Specified request cannot be processed."
 "Request does not match any route.","Požadavek neodpovídá žádné cestě."
 "Not allowed parameters: %1. Please use only %2 and %3.","Nepovolené parametry: %1. Použijte pouze %2 a %3  prosím."

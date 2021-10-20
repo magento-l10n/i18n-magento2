@@ -38,6 +38,7 @@
 "Please select all required options.","Kérjük, válassza ki a szükséges lehetőségeket."
 "Option type (%types) should have only one element.","Option type (%types) should have only one element."
 "We can't add this item to your shopping cart right now.","Jelenleg ezt a terméket nem teheti a kosarába."
+"Product relations processor must implement %1.","Product relations processor must implement %1."
 "N/A","N/A"
 "Percent","Százalék"
 "We can't save custom-defined options for bundles with dynamic pricing.","Nem lehet menteni a Vevő által definiált lehetőségeket az összecsomagolt, dinamikus árazású termékek esetén."

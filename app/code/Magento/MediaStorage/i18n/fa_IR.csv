@@ -5,7 +5,7 @@
 "The ""%1"" file doesn't exist. Verify the file and try again.","The ""%1"" file doesn't exist. Verify the file and try again."
 "File %1 is not readable","فایل %1 قابل خواندن نیست"
 "File System","سیستم فایل"
-"Database","پایگاه داده"
+"Database (Deprecated)","Database (Deprecated)"
 "Sorry, something went wrong during image resize. Please see log for details.","Sorry, something went wrong during image resize. Please see log for details."
 "database ""%1""","پایگاه داده ""%1"""
 "Parent directory does not exist: %1","پرونده مادر وجود ندارد:%1"

@@ -50,6 +50,7 @@
 "Error filtering template: %s","Şablon filtreleme hatası: %s"
 "We're sorry, an error has occurred while generating this content.","Üzgünüz, bu içeriği oluştururken bir hata oluştu."
 "Invalid sender data","Geçersiz gönderici verileri"
+"Unable to send mail. Please try again later.","Unable to send mail. Please try again later."
 "Title","Başlık"
 "expectedResult","expectedResult"
 "Load Default Template","Varsayılan Şablonu Yükle"

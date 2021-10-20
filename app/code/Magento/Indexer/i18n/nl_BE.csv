@@ -7,7 +7,6 @@
 "Processing","Bezig met verwerken"
 "Never","Nooit"
 "has been rebuilt successfully in %time","has been rebuilt successfully in %time"
-"exception: %message","exception: %message"
 "%1 index is locked by another reindex process. Skipping.","%1 indexer is vergrendeld door een ander indexeringsproces. Wordt overgeslagen."
 "Index Management","Index Management"
 "Please select indexers.","Selecteer indexeringen."

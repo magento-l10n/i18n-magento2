@@ -51,7 +51,7 @@
 "An error occurred during the attempt to grant permissions. For details, see the exceptions log.","An error occurred during the attempt to grant permissions. For details, see the exceptions log."
 "Something went wrong while deleting roles and permissions. You can find out more in the exceptions log.","Coś poszło źle podczas usuwania ról oraz uprawnień. Możesz dowiedzieć się więcej w Dzienniku logów."
 """%fieldName"" is required. Enter and try again.","""%fieldName"" is required. Enter and try again."
-"This customer has no tokens.","Ten klient ma nie tokenów."
+"Failed to revoke customer's access tokens","Failed to revoke customer's access tokens"
 "Inactive","Nieaktywny"
 "Active","Aktywny"
 "Reset","Resetuj"

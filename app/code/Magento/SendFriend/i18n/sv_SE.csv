@@ -34,7 +34,7 @@
 "Email to a Friend","E-posta till en vän"
 "Email Templates","E-postmallar"
 "Enabled","Aktiverad"
-"We strongly recommend to enable a <a href=""https://devdocs.magento.com/guides/v2.3/security/google-recaptcha.html"" target=""_blank"">CAPTCHA solution</a> alongside enabling ""Email to a Friend"" to ensure abuse of this feature does not occur.","We strongly recommend to enable a <a href=""https://devdocs.magento.com/guides/v2.3/security/google-recaptcha.html"" target=""_blank"">CAPTCHA solution</a> alongside enabling ""Email to a Friend"" to ensure abuse of this feature does not occur."
+"We strongly recommend to enable a <a href=""https://devdocs.magento.com/guides/v2.4/security/google-recaptcha.html"" target=""_blank"">CAPTCHA solution</a> alongside enabling ""Email to a Friend"" to ensure abuse of this feature does not occur.","We strongly recommend to enable a <a href=""https://devdocs.magento.com/guides/v2.4/security/google-recaptcha.html"" target=""_blank"">CAPTCHA solution</a> alongside enabling ""Email to a Friend"" to ensure abuse of this feature does not occur."
 "Select Email Template","Välj E-postmall"
 "Email template chosen based on theme fallback when ""Default"" option is selected.","E-postmallen valt baserat på tema reserv när ""Standard"" alternativet är valt."
 "Allow for Guests","Tillåt för gäster"

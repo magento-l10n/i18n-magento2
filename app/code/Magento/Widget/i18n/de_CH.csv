@@ -52,6 +52,7 @@
 "name","Name der Regel"
 "description","Beschreibung"
 "We cannot create the widget instance because it is missing required information.","Die Widget-Instanz kann nicht erstellt werden, weil benötigte Informationen fehlen."
+"Layout update is invalid","Layout update is invalid"
 "None","Keine"
 "Remove Layout Update","Layout Update entfernen"
 "%1","%1"

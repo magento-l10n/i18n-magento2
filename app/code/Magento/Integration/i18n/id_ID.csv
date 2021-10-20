@@ -51,7 +51,7 @@
 "An error occurred during the attempt to grant permissions. For details, see the exceptions log.","An error occurred during the attempt to grant permissions. For details, see the exceptions log."
 "Something went wrong while deleting roles and permissions. You can find out more in the exceptions log.","Ada yang tidak beres saat menghapus wewenang dan izin. Anda bisa mencari tahu lebih banyak di catatan kesalahan."
 """%fieldName"" is required. Enter and try again.","""%fieldName"" is required. Enter and try again."
-"This customer has no tokens.","Pelanggan ini tidak memiliki bukti."
+"Failed to revoke customer's access tokens","Failed to revoke customer's access tokens"
 "Inactive","Tidak aktif"
 "Active","Aktif"
 "Reset","Set ulang"

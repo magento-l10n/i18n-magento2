@@ -34,7 +34,7 @@
 "Email to a Friend","E-Mail an einen Freund"
 "Email Templates","E-Mail-Vorlagen"
 "Enabled","Aktiviert"
-"We strongly recommend to enable a <a href=""https://devdocs.magento.com/guides/v2.3/security/google-recaptcha.html"" target=""_blank"">CAPTCHA solution</a> alongside enabling ""Email to a Friend"" to ensure abuse of this feature does not occur.","We strongly recommend to enable a <a href=""https://devdocs.magento.com/guides/v2.3/security/google-recaptcha.html"" target=""_blank"">CAPTCHA solution</a> alongside enabling ""Email to a Friend"" to ensure abuse of this feature does not occur."
+"We strongly recommend to enable a <a href=""https://devdocs.magento.com/guides/v2.4/security/google-recaptcha.html"" target=""_blank"">CAPTCHA solution</a> alongside enabling ""Email to a Friend"" to ensure abuse of this feature does not occur.","We strongly recommend to enable a <a href=""https://devdocs.magento.com/guides/v2.4/security/google-recaptcha.html"" target=""_blank"">CAPTCHA solution</a> alongside enabling ""Email to a Friend"" to ensure abuse of this feature does not occur."
 "Select Email Template","E-Mail-Template auswählen"
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Ausgewählte E-Mail-Vorlage basiert auf dem Fallback-Thema, wenn die Option ""Standard"" gewählt ist."
 "Allow for Guests","Für Gäste erlaubt"

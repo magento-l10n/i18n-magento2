@@ -34,7 +34,7 @@
 "Email to a Friend","ایمیل به یک دوست"
 "Email Templates","قالب‌ های ایمیل"
 "Enabled","فعال"
-"We strongly recommend to enable a <a href=""https://devdocs.magento.com/guides/v2.3/security/google-recaptcha.html"" target=""_blank"">CAPTCHA solution</a> alongside enabling ""Email to a Friend"" to ensure abuse of this feature does not occur.","We strongly recommend to enable a <a href=""https://devdocs.magento.com/guides/v2.3/security/google-recaptcha.html"" target=""_blank"">CAPTCHA solution</a> alongside enabling ""Email to a Friend"" to ensure abuse of this feature does not occur."
+"We strongly recommend to enable a <a href=""https://devdocs.magento.com/guides/v2.4/security/google-recaptcha.html"" target=""_blank"">CAPTCHA solution</a> alongside enabling ""Email to a Friend"" to ensure abuse of this feature does not occur.","We strongly recommend to enable a <a href=""https://devdocs.magento.com/guides/v2.4/security/google-recaptcha.html"" target=""_blank"">CAPTCHA solution</a> alongside enabling ""Email to a Friend"" to ensure abuse of this feature does not occur."
 "Select Email Template","انتخاب قالب ایمیل"
 "Email template chosen based on theme fallback when ""Default"" option is selected.","قالب ایمیل انتخاب شده بر اساس پشت زمینه تم هنگامی که گزینه "" پیش فرض"" انتخاب شده است."
 "Allow for Guests","اجازه برای مهمانان"

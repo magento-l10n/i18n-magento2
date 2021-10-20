@@ -7,7 +7,6 @@
 "Processing","ಸಂಸ್ಕರಣೆಗೊಳ್ಳುತ್ತಿದೆ"
 "Never","ಎಂದಿಗೂ ಇಲ್ಲ"
 "has been rebuilt successfully in %time","has been rebuilt successfully in %time"
-"exception: %message","exception: %message"
 "%1 index is locked by another reindex process. Skipping.","%1 index is locked by another reindex process. Skipping."
 "Index Management","ಅನುಬಂಧ ನಿರ್ವಹಣೆ"
 "Please select indexers.","Please select indexers."

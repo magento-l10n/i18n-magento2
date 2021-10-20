@@ -38,6 +38,7 @@
 "Please select all required options.","لطفا تمام گزینه های مورد نیاز را انتخاب کنید."
 "Option type (%types) should have only one element.","Option type (%types) should have only one element."
 "We can't add this item to your shopping cart right now.","ما اکنون نمی توانیم این آیتم را به سبد خرید خود اضافه کنیم."
+"Product relations processor must implement %1.","Product relations processor must implement %1."
 "N/A","هیچ"
 "Percent","درصد"
 "We can't save custom-defined options for bundles with dynamic pricing.","ما نمی توانیم گزینه های تعریف شده سفارشی برای بسته های با قیمت گذاری پویا را ذخیره کنیم."

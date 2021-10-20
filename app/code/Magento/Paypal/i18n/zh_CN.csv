@@ -356,6 +356,21 @@
 "Every 30 days","每隔 30 天"
 "Every 40 days","每隔 40 天"
 "No Logo","无标志"
+"White","White"
+"White No Border","White No Border"
+"Gray","Gray"
+"Monochrome","Monochrome"
+"Grayscale","Grayscale"
+"Left","Left"
+"Right","Right"
+"Top","Top"
+"Primary","Primary"
+"Alternative","Alternative"
+"Inline","Inline"
+"None","None"
+"Sidebar","Sidebar"
+"Text","Text"
+"Flex","Flex"
 "Yes (PayPal recommends this option)","是的 (PayPal 建议此选项)"
 "Created billing agreement #%1.","创建计费协议 #%1。"
 "We can't create a billing agreement for this order.","我们无法创建此订单的账单协议。"
@@ -410,7 +425,6 @@
 "Your billing agreement # is: ","你的账单协议号是: "
 "Shipping Method","运送方式"
 "Please select a shipping method...","请选择送货方式..."
-"Update Shipping Method","更新送货方式"
 "Sorry, no quotes are available for this order right now.","对不起，目前没有报价可用于此订单。"
 "Shipping Address","送货地址"
 "Edit","编辑"
@@ -466,6 +480,13 @@
 "Accept credit card and PayPal payments securely.","Accept credit card and PayPal payments securely."
 "Basic Settings - PayPal Website Payments Standard","Basic Settings - PayPal Website Payments Standard"
 "PayPal Payment Gateways&nbsp;<i>Process payments using your own internet merchant account.</i>","贝宝支付网关 <i>处理付款使用你自己的互联网商人帐户。</i>"
+"Display pay later messaging on your site for offers like Pay in 3,
+                                    which lets customers pay with 3 interest- free monthly payments. We’ll show messages
+                                    on your site to promote this feature for you. You may not promote pay later offers
+                                    with any other content, marketing, or materials.","Display pay later messaging on your site for offers like Pay in 3,
+                                    which lets customers pay with 3 interest- free monthly payments. We’ll show messages
+                                    on your site to promote this feature for you. You may not promote pay later offers
+                                    with any other content, marketing, or materials."
 "PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>","PayPal一体化支付解决方案:<i>接受和处理信用卡和PayPal支付</i>"
 "Accept payments with a completely customizable checkout page.","接受支付完全可定制的结帐页面。"
 "Website Payments Standard","Website Payments Standard"
@@ -501,6 +522,14 @@
 "Sort Order PayPal Credit","
 
 贝宝信用排序 "
+"Enable PayPal PayLater Experience","Enable PayPal PayLater Experience"
+"Recommended. <strong>Advertise PayPal Credit</strong> is deprecated.
+                    See PayPal PayLater details and list of supported regions
+                    <a href=""https://developer.paypal.com/docs/business/pay-later/us/#eligibility"" target=""_blank"">
+                    here</a>.","Recommended. <strong>Advertise PayPal Credit</strong> is deprecated.
+                    See PayPal PayLater details and list of supported regions
+                    <a href=""https://developer.paypal.com/docs/business/pay-later/us/#eligibility"" target=""_blank"">
+                    here</a>."
 "Advertise PayPal Credit","广告贝宝信用"
 "<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                         <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
@@ -523,6 +552,16 @@
 "Catalog Category Page","目录类别页"
 "Catalog Product Page","目录产品页"
 "Checkout Cart Page","签出购物车页面"
+"Advertise PayPal PayLater","Advertise PayPal PayLater"
+"Enable PayPal PayLater","Enable PayPal PayLater"
+"Style Layout","Style Layout"
+"Logo Type","Logo Type"
+"Logo Position","Logo Position"
+"Text Color","Text Color"
+"Text Size","Text Size"
+"Ratio","Ratio"
+"Color","Color"
+"Checkout Payment Step","Checkout Payment Step"
 "Basic Settings - PayPal Express Checkout","基本设置-贝宝快速结帐"
 "Title","标题"
 "It is recommended to set this value to ""PayPal"" per store views.","它建议设置此值与""贝宝""每一个商店界面。"
@@ -595,7 +634,6 @@
 "Brazil Installment Period","Brazil Installment Period"
 "Layout","布局"
 "Shape","Shape"
-"Color","Color"
 "Product Pages","Product Pages"
 "Cart Page","Cart Page"
 "Mini Cart","Mini Cart"

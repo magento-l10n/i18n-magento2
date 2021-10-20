@@ -38,6 +38,7 @@
 "Please select all required options.","Please select all required options."
 "Option type (%types) should have only one element.","Option type (%types) should have only one element."
 "We can't add this item to your shopping cart right now.","Emme voi lisätä tätä tuotetta ostoskoriisi juuri nyt."
+"Product relations processor must implement %1.","Product relations processor must implement %1."
 "N/A","Ei tietoa"
 "Percent","Prosenttia"
 "We can't save custom-defined options for bundles with dynamic pricing.","We can't save custom-defined options for bundles with dynamic pricing."

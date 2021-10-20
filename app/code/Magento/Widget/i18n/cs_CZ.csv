@@ -52,6 +52,7 @@
 "name","název"
 "description","popis"
 "We cannot create the widget instance because it is missing required information.","Widget nelze vytvořit, protože nejsou zadány nezbytné údaje."
+"Layout update is invalid","Layout update is invalid"
 "None","Nic"
 "Remove Layout Update","Odstranit úpravu rozložení"
 "%1","%1"

@@ -38,6 +38,7 @@
 "Please select all required options.","Пожалуйста, выберите все необходимые параметры."
 "Option type (%types) should have only one element.","Option type (%types) should have only one element."
 "We can't add this item to your shopping cart right now.","Мы не может добавить этот элемент в корзину прямо сейчас."
+"Product relations processor must implement %1.","Product relations processor must implement %1."
 "N/A","Н/Д"
 "Percent","Процент"
 "We can't save custom-defined options for bundles with dynamic pricing.","Мы не можем сохранить пользовательские параметры для связки с динамической калькуляцией цены."

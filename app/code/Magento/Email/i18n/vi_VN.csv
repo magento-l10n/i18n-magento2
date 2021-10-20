@@ -50,6 +50,7 @@
 "Error filtering template: %s","Lỗi lọc mẫu: %s"
 "We're sorry, an error has occurred while generating this content.","We're sorry, an error has occurred while generating this content."
 "Invalid sender data","Dữ liệu gửi không hợp lệ"
+"Unable to send mail. Please try again later.","Unable to send mail. Please try again later."
 "Title","Tiêu đề"
 "expectedResult","expectedResult"
 "Load Default Template","Load Default Template"

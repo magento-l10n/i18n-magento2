@@ -7,7 +7,6 @@
 "Processing","处理"
 "Never","永不"
 "has been rebuilt successfully in %time","has been rebuilt successfully in %time"
-"exception: %message","exception: %message"
 "%1 index is locked by another reindex process. Skipping.","%1的索引被另一个重新索引过程锁定。正在跳过。"
 "Index Management","索引管理"
 "Please select indexers.","请选择索引器。"

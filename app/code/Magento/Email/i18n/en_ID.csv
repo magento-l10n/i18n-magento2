@@ -50,6 +50,7 @@
 "Error filtering template: %s","Kesalahan menyaring Template: %s"
 "We're sorry, an error has occurred while generating this content.","Kami minta maaf, telah terjadi kesalahan saat membuat konten ini."
 "Invalid sender data","Pengirim tidak valid data"
+"Unable to send mail. Please try again later.","Unable to send mail. Please try again later."
 "Title","Judul"
 "expectedResult","expectedResult"
 "Load Default Template","Load Default Template"

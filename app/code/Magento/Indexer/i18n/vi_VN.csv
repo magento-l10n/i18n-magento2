@@ -7,7 +7,6 @@
 "Processing","Đang tiến hành"
 "Never","Không bao giờ"
 "has been rebuilt successfully in %time","has been rebuilt successfully in %time"
-"exception: %message","exception: %message"
 "%1 index is locked by another reindex process. Skipping.","%1 chỉ số đã bị khoá bởi một tiến trình khác. Bỏ qua."
 "Index Management","Quản lý chỉ mục"
 "Please select indexers.","Vui lòng chọn chỉ mục."

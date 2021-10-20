@@ -38,6 +38,7 @@
 "Please select all required options.","Lütfen gerekli tüm seçenekleri seçin."
 "Option type (%types) should have only one element.","Seçenek türü (%types) yalnızca bir öğeye sahip olmalıdır."
 "We can't add this item to your shopping cart right now.","Şu anda alışveriş sepetinize bu öğe ekleyemezsiniz."
+"Product relations processor must implement %1.","Product relations processor must implement %1."
 "N/A","Mevcut Değil"
 "Percent","Yüzde"
 "We can't save custom-defined options for bundles with dynamic pricing.","Dinamik fiyatlandırma paketleri için özel tanımlı seçenekleri kaydedemiyoruz."

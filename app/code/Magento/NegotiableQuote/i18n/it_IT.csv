@@ -333,12 +333,13 @@
 "Your quote ","Il tuo preventivo "
 " has been declined by the seller."," è stato rifiutato dal venditore."
 "Reason: %reason.","Motivazione: %reason."
+"%customer_name,","%customer_name,"
+"%quote_id","%quote_id"
 " expires on "," scade il "
 " after which time you can’t order the items in the quote. After the expiration,
     you’ll have to negotiate the price with the seller again."," in seguito non potrai ordinare gli articoli del preventivo. Dopo la scadenza,
     dovrai concordare nuovamente il prezzo con il venditore."
 "%merchant_name,","%merchant_name,"
-"%quote_id","%quote_id"
 "The quote ","Il preventivo "
 " after which time it will be reset to its default expiration period. To extend the
     lifetime of the quote, update its expiration date."," dopo di che verrà reimpostata la sua data di scadenza predefinita. Per estendere la
@@ -436,6 +437,7 @@
 "Quote Expiration (in 48 hrs)","Scadenza Preventivo (in 48 ore)"
 "Quote Expiration (in 24 hrs)","Scadenza Preventivo (in 24 ore)"
 "Expiration Date Reset","Data di Scadenza Reimpostata"
+"Expiration Date Occurred","Expiration Date Occurred"
 "Send Quote Email Copy To","Invia Email Preventivo in Copia A"
 "Comma-separated","Separati da virgola"
 "Send Quote Email Copy Method","Metodo di invio Preventivo in Copia"

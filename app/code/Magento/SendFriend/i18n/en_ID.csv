@@ -34,7 +34,7 @@
 "Email to a Friend","Email ke teman"
 "Email Templates","Template Email"
 "Enabled","Diaktifkan"
-"We strongly recommend to enable a <a href=""https://devdocs.magento.com/guides/v2.3/security/google-recaptcha.html"" target=""_blank"">CAPTCHA solution</a> alongside enabling ""Email to a Friend"" to ensure abuse of this feature does not occur.","We strongly recommend to enable a <a href=""https://devdocs.magento.com/guides/v2.3/security/google-recaptcha.html"" target=""_blank"">CAPTCHA solution</a> alongside enabling ""Email to a Friend"" to ensure abuse of this feature does not occur."
+"We strongly recommend to enable a <a href=""https://devdocs.magento.com/guides/v2.4/security/google-recaptcha.html"" target=""_blank"">CAPTCHA solution</a> alongside enabling ""Email to a Friend"" to ensure abuse of this feature does not occur.","We strongly recommend to enable a <a href=""https://devdocs.magento.com/guides/v2.4/security/google-recaptcha.html"" target=""_blank"">CAPTCHA solution</a> alongside enabling ""Email to a Friend"" to ensure abuse of this feature does not occur."
 "Select Email Template","Pilih template Email"
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Email template yang dipilih berdasarkan tema mundur ketika ""Default"" opsi yang dipilih."
 "Allow for Guests","Izinkan untuk tamu"

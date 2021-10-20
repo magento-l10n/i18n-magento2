@@ -353,6 +353,21 @@
 "Every 30 days","毎30日"
 "Every 40 days","毎40日"
 "No Logo","ロゴなし"
+"White","White"
+"White No Border","White No Border"
+"Gray","Gray"
+"Monochrome","Monochrome"
+"Grayscale","Grayscale"
+"Left","Left"
+"Right","Right"
+"Top","Top"
+"Primary","Primary"
+"Alternative","Alternative"
+"Inline","Inline"
+"None","None"
+"Sidebar","Sidebar"
+"Text","Text"
+"Flex","Flex"
 "Yes (PayPal recommends this option)","はい (PayPalはこのオプションを推奨します)"
 "Created billing agreement #%1.","支払契約を作成 #%1."
 "We can't create a billing agreement for this order.","この注文のための支払契約を作成できません。"
@@ -407,7 +422,6 @@
 "Your billing agreement # is: ","あなたの支払合意番号は: "
 "Shipping Method","お届け方法"
 "Please select a shipping method...","送付方法を選んで下さい..."
-"Update Shipping Method","配送方法をアップデート"
 "Sorry, no quotes are available for this order right now.","申し訳ありません、現在この注文の見積もりはできません。"
 "Shipping Address","お届け先住所"
 "Edit","編集"
@@ -463,6 +477,13 @@
 "Accept credit card and PayPal payments securely.","クレジットカードとPayPalによる支払いを安全に受け入れます。"
 "Basic Settings - PayPal Website Payments Standard","基本設定 - PayPal Website Payments Standard"
 "PayPal Payment Gateways&nbsp;<i>Process payments using your own internet merchant account.</i>","PayPal支払いゲートウェイ&nbsp"
+"Display pay later messaging on your site for offers like Pay in 3,
+                                    which lets customers pay with 3 interest- free monthly payments. We’ll show messages
+                                    on your site to promote this feature for you. You may not promote pay later offers
+                                    with any other content, marketing, or materials.","Display pay later messaging on your site for offers like Pay in 3,
+                                    which lets customers pay with 3 interest- free monthly payments. We’ll show messages
+                                    on your site to promote this feature for you. You may not promote pay later offers
+                                    with any other content, marketing, or materials."
 "PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>","PayPalオールインワン支払いソリューション&nbsp"
 "Accept payments with a completely customizable checkout page.","完全にカスタマイズできるチェックアウトページの支払を受付"
 "Website Payments Standard","Webサイトの支払い基準"
@@ -493,6 +514,14 @@
                         You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
                         <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","PayPal Express Checkoutを使用すると、顧客はPayPalクレジットを介して資金調達にアクセスできます。追加費用なしで。顧客が支払う時間がもっとあるとしても、前払いされます。事前に統合された支払いボタンにより、顧客はPayPalクレジット&#174; ですばやく支払いできます<a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">詳細を見る</a>"
 "Sort Order PayPal Credit","PayPalクレジットをソートする"
+"Enable PayPal PayLater Experience","Enable PayPal PayLater Experience"
+"Recommended. <strong>Advertise PayPal Credit</strong> is deprecated.
+                    See PayPal PayLater details and list of supported regions
+                    <a href=""https://developer.paypal.com/docs/business/pay-later/us/#eligibility"" target=""_blank"">
+                    here</a>.","Recommended. <strong>Advertise PayPal Credit</strong> is deprecated.
+                    See PayPal PayLater details and list of supported regions
+                    <a href=""https://developer.paypal.com/docs/business/pay-later/us/#eligibility"" target=""_blank"">
+                    here</a>."
 "Advertise PayPal Credit","PayPalクレジットを広告化"
 "<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                         <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
@@ -514,6 +543,16 @@ PayPal宣伝プログラムは、消費者の平均購入サイズを15％増加
 "Catalog Category Page","カタログカテゴリページ"
 "Catalog Product Page","カタログプロダクトページ"
 "Checkout Cart Page","チェックアウトカートページ"
+"Advertise PayPal PayLater","Advertise PayPal PayLater"
+"Enable PayPal PayLater","Enable PayPal PayLater"
+"Style Layout","Style Layout"
+"Logo Type","Logo Type"
+"Logo Position","Logo Position"
+"Text Color","Text Color"
+"Text Size","Text Size"
+"Ratio","Ratio"
+"Color","色"
+"Checkout Payment Step","Checkout Payment Step"
 "Basic Settings - PayPal Express Checkout","基本設定 - PayPalエクスプレスチェックアウト"
 "Title","タイトル"
 "It is recommended to set this value to ""PayPal"" per store views.","ストアのビューごとにこの値を ""PayPal"" に設定することをお勧めします。"
@@ -586,7 +625,6 @@ PayPal宣伝プログラムは、消費者の平均購入サイズを15％増加
 "Brazil Installment Period","ブラジル分割払い"
 "Layout","レイアウト"
 "Shape","形"
-"Color","色"
 "Product Pages","商品ページ"
 "Cart Page","カートページ"
 "Mini Cart","ミニカート"

@@ -48,7 +48,6 @@
                          Οι πελάτες δεν θα μπορούν να πραγματοποιούν παραγγελίες μέχρι να ενημερώσετε το νόμισμα πίστωσης."
 "Store Credit","Πίστωση"
 "Refund to Company Credit","Επιστροφή Χρημάτων στο Πιστωτικό Εταιρείας"
-"An invoice for partial quantities cannot be issued for this order. To continue, change the specified quantity to the full quantity.","Δεν μπορεί να εκδοθεί τιμολόγιο για μερικές ποσότητες για αυτήν την παραγγελία. Για να συνεχίσετε, αλλάξτε την καθορισμένη ποσότητα στην πλήρη ποσότητα."
 "We refunded %1 online.","Επιστρέψαμε το %1 σε σύνδεση."
 "We refunded %1 offline.","Επιστρέψαμε το %1 χωρίς σύνδεση."
 "We refunded %1 to the company credit.","Επιστρέψαμε το %1 στο πιστωτικό της εταιρείας."

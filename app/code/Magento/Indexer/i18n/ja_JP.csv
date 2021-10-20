@@ -7,7 +7,6 @@
 "Processing","処理中"
 "Never","まだ"
 "has been rebuilt successfully in %time","は %time に正常に再構築されました。"
-"exception: %message","例外：%message"
 "%1 index is locked by another reindex process. Skipping.","%1インデックスは別の再インデックスプロセスによってロックされています。スキップします。"
 "Index Management","インデックス管理"
 "Please select indexers.","インデックス処理を選択してください"

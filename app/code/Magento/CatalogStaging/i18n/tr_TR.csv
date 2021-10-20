@@ -11,6 +11,7 @@
 "Could not delete Prices","Fiyatlar silinemedi"
 "Update %1 from %2 to %3.","% 1, % 2'den % 3'e güncelleniyor."
 "Problem with creating product update.","Ürün güncellemesi oluştururken sorun var."
+"%1 should implement %2","%1 should implement %2"
 "Design","Tasarım"
 "View/Edit","Gör/Düzenle"
 "Delete","Sil"

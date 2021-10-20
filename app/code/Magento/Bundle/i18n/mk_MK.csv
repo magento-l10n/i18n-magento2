@@ -38,6 +38,7 @@
 "Please select all required options.","Ве молиме изберете ги сите задолжителни опции."
 "Option type (%types) should have only one element.","Option type (%types) should have only one element."
 "We can't add this item to your shopping cart right now.","Во моментот неможеме да го додадеме продуктот во кошничката."
+"Product relations processor must implement %1.","Product relations processor must implement %1."
 "N/A","N/A"
 "Percent","Процент"
 "We can't save custom-defined options for bundles with dynamic pricing.","We can't save custom-defined options for bundles with dynamic pricing."

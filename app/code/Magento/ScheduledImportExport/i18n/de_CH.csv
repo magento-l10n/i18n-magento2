@@ -61,6 +61,7 @@
 "You deleted the scheduled export.","Sie haben den geplanten Export gelöscht."
 "Are you sure you want to delete this scheduled import?","Sind Sie sicher, dass Sie diesen geplanten Import löschen möchten?"
 "Are you sure you want to delete this scheduled export?","Sind Sie sicher, dass Sie diesen geplanten Export löschen möchten?"
+"Please correct the file format.","Please correct the file format."
 "We were unable to save the cron expression.","Der Cron-Ausdruck konnte nicht gespeichert werden."
 "Unable to delete the cron task.","Die Cron-Aufgabe konnte nicht gelöscht werden."
 "Please correct the cron job task","Bitte den Cronjob-Auftrag korrigieren"

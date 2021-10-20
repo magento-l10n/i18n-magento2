@@ -7,7 +7,6 @@
 "Processing","Töötlemises"
 "Never","Mitte kunagi"
 "has been rebuilt successfully in %time","has been rebuilt successfully in %time"
-"exception: %message","exception: %message"
 "%1 index is locked by another reindex process. Skipping.","%1 indeks on lukustatud teise protsessi poolt, jääb vahele."
 "Index Management","Indeksihaldus"
 "Please select indexers.","Valige üksused."

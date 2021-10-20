@@ -61,6 +61,7 @@
 "You deleted the scheduled export.","Bạn đã xoá lịch trình xuất."
 "Are you sure you want to delete this scheduled import?","Bạn có chắc bạn muốn xóa bỏ dự kiến nhập này?"
 "Are you sure you want to delete this scheduled export?","Bạn có chắc bạn muốn xóa bỏ dự kiến xuất này?"
+"Please correct the file format.","Please correct the file format."
 "We were unable to save the cron expression.","Chúng tôi đã không thể lưu các biểu thức định kỳ."
 "Unable to delete the cron task.","Không thể xóa bỏ tác vụ định kỳ."
 "Please correct the cron job task","Xin vui lòng làm chính xác nhiệm vụ công việc định kỳ"

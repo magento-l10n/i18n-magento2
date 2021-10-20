@@ -5,7 +5,7 @@
 "The ""%1"" file doesn't exist. Verify the file and try again.","""%1"" ファイルがありません。ファイルを確認して再度お試し下さい。"
 "File %1 is not readable","ファイル%1は読み込めません"
 "File System","ファイルシステム"
-"Database","データベース"
+"Database (Deprecated)","Database (Deprecated)"
 "Sorry, something went wrong during image resize. Please see log for details.","画像のサイズを変更中に問題が発生しました。詳しくはログを参照してください。"
 "database ""%1""","データベース ""%1"""
 "Parent directory does not exist: %1","親ディレクトリが存在しません: %1"

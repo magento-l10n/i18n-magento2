@@ -333,12 +333,13 @@
 "Your quote ","Your quote "
 " has been declined by the seller."," has been declined by the seller."
 "Reason: %reason.","Reason: %reason."
+"%customer_name,","%customer_name,"
+"%quote_id","%quote_id"
 " expires on "," expires on "
 " after which time you can’t order the items in the quote. After the expiration,
     you’ll have to negotiate the price with the seller again."," after which time you can’t order the items in the quote. After the expiration,
     you’ll have to negotiate the price with the seller again."
 "%merchant_name,","%merchant_name,"
-"%quote_id","%quote_id"
 "The quote ","The quote "
 " after which time it will be reset to its default expiration period. To extend the
     lifetime of the quote, update its expiration date."," after which time it will be reset to its default expiration period. To extend the
@@ -436,6 +437,7 @@
 "Quote Expiration (in 48 hrs)","Quote Expiration (in 48 hrs)"
 "Quote Expiration (in 24 hrs)","Quote Expiration (in 24 hrs)"
 "Expiration Date Reset","Expiration Date Reset"
+"Expiration Date Occurred","Expiration Date Occurred"
 "Send Quote Email Copy To","Send Quote Email Copy To"
 "Comma-separated","Hodnoty oddělené čárkou."
 "Send Quote Email Copy Method","Send Quote Email Copy Method"

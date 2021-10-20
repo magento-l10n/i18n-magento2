@@ -38,6 +38,7 @@
 "Please select all required options.","Silakan pilih semua pilihan yang diperlukan."
 "Option type (%types) should have only one element.","Option type (%types) should have only one element."
 "We can't add this item to your shopping cart right now.","Kami tidak dapat menambahkan item ini ke keranjang belanja anda sekarang."
+"Product relations processor must implement %1.","Product relations processor must implement %1."
 "N/A","N/A"
 "Percent","Persen"
 "We can't save custom-defined options for bundles with dynamic pricing.","Kami tidak dapat menyimpan pilihan kustom yang ditetapkan untuk bundel dengan harga dinamis."

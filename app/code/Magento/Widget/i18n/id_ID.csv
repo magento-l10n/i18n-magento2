@@ -52,6 +52,7 @@
 "name","nama"
 "description","deskripsi"
 "We cannot create the widget instance because it is missing required information.","Kami tidak dapat membuat contoh widget karena kehilangan informasi yang diperlukan."
+"Layout update is invalid","Layout update is invalid"
 "None","Tidak ada"
 "Remove Layout Update","Hapus Pembaruan Tata Letak"
 "%1","% 1"

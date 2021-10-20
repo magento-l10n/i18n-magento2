@@ -50,6 +50,7 @@
 "Error filtering template: %s","Error filtering template: %s"
 "We're sorry, an error has occurred while generating this content.","We're sorry, an error has occurred while generating this content."
 "Invalid sender data","Invalid sender data"
+"Unable to send mail. Please try again later.","Unable to send mail. Please try again later."
 "Title","Pealkiri"
 "expectedResult","expectedResult"
 "Load Default Template","Load Default Template"

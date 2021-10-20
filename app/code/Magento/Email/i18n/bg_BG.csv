@@ -50,6 +50,7 @@
 "Error filtering template: %s","Грешка във филтрирането на шаблон: %s"
 "We're sorry, an error has occurred while generating this content.","Съжаляваме, но възникна грешка при генерирането на това съдържание."
 "Invalid sender data","Невалиден подател на данни"
+"Unable to send mail. Please try again later.","Unable to send mail. Please try again later."
 "Title","Заглавиe"
 "expectedResult","expectedResult"
 "Load Default Template","Load Default Template"

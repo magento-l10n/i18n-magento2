@@ -38,6 +38,7 @@
 "Please select all required options.","请选择所需的所有选项。"
 "Option type (%types) should have only one element.","选项类型 (%types) 应该只有一个元素。"
 "We can't add this item to your shopping cart right now.","我们这个项目不能添加到您的购物车现在。"
+"Product relations processor must implement %1.","Product relations processor must implement %1."
 "N/A","N/A"
 "Percent","%"
 "We can't save custom-defined options for bundles with dynamic pricing.","我们无法将定制定义的选项保存在动态定价的捆绑包中。"

@@ -50,6 +50,7 @@
 "Error filtering template: %s","Hibaszűrési sablon: %s"
 "We're sorry, an error has occurred while generating this content.","Sajnáljuk, hiba történt a tartalom generálása során."
 "Invalid sender data","Érvénytelen feladóadatok"
+"Unable to send mail. Please try again later.","Unable to send mail. Please try again later."
 "Title","Cím"
 "expectedResult","expectedResult"
 "Load Default Template","Load Default Template"

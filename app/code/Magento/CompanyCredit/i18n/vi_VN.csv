@@ -48,7 +48,6 @@
                         Customers will not be able to place orders until you update the credit currency."
 "Store Credit","Tiền trong store"
 "Refund to Company Credit","Refund to Company Credit"
-"An invoice for partial quantities cannot be issued for this order. To continue, change the specified quantity to the full quantity.","An invoice for partial quantities cannot be issued for this order. To continue, change the specified quantity to the full quantity."
 "We refunded %1 online.","Chúng tôi hoàn lại %1 trực tuyến."
 "We refunded %1 offline.","Chúng tôi hoàn lại %1 ngoại tuyến."
 "We refunded %1 to the company credit.","We refunded %1 to the company credit."

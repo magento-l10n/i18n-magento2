@@ -52,6 +52,7 @@
 "name","نام"
 "description","توضیحات"
 "We cannot create the widget instance because it is missing required information.","ما نمی توانیم عنصر ابزارک را ایجاد کنیم زیرا اطلاعات مورد نیاز را از دست داده."
+"Layout update is invalid","Layout update is invalid"
 "None","هیچ یک"
 "Remove Layout Update","برداشتن به روز رسانی آرایش"
 "%1","%1"

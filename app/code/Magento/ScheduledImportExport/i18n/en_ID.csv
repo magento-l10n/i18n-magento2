@@ -61,6 +61,7 @@
 "You deleted the scheduled export.","Anda menghapus ekspor terjadwal."
 "Are you sure you want to delete this scheduled import?","Apakah anda yakin ingin menghapus impor terjadwal ini?"
 "Are you sure you want to delete this scheduled export?","Apakah anda yakin ingin menghapus ekspor terjadwal?"
+"Please correct the file format.","Please correct the file format."
 "We were unable to save the cron expression.","We were unable to save the cron expression."
 "Unable to delete the cron task.","Unable to delete the cron task."
 "Please correct the cron job task","Please correct the cron job task"

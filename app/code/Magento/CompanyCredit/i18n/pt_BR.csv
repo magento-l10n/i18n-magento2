@@ -48,7 +48,6 @@
                         Os clientes não poderão fazer pedidos até você atualizar a moeda de crédito."
 "Store Credit","Crédito na loja"
 "Refund to Company Credit","Restituição de crédito da empresa"
-"An invoice for partial quantities cannot be issued for this order. To continue, change the specified quantity to the full quantity.","Uma fatura para quantidades parciais não pode ser emitida para este pedido. Para continuar, altere a quantidade especificada para a quantidade total."
 "We refunded %1 online.","Nós reembolsamos %1 online."
 "We refunded %1 offline.","Nós reembolsamos %1 offline."
 "We refunded %1 to the company credit.","Reembolsamos %1 ao crédito da empresa."

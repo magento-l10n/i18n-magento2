@@ -7,7 +7,6 @@
 "Processing","Обработва се"
 "Never","Никога"
 "has been rebuilt successfully in %time","has been rebuilt successfully in %time"
-"exception: %message","exception: %message"
 "%1 index is locked by another reindex process. Skipping.","%1 индекс е заключен от друг Преиндексиране процес. Пропускане."
 "Index Management","Управление на индексирането"
 "Please select indexers.","Моля изберете индексиране."

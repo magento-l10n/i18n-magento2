@@ -52,6 +52,7 @@
 "name","이름"
 "description","description"
 "We cannot create the widget instance because it is missing required information.","필수 정보가 없어 위젯 인스턴스를 생성할 수 없습니다."
+"Layout update is invalid","Layout update is invalid"
 "None","없음"
 "Remove Layout Update","레이아웃 업데이트 삭제"
 "%1","%1"

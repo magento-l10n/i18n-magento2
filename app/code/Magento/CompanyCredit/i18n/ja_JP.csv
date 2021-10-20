@@ -48,7 +48,6 @@
                         顧客は、信用通貨を更新するまで注文を行うことができません。"
 "Store Credit","ストアクレジット"
 "Refund to Company Credit","会社クレジットに返金する"
-"An invoice for partial quantities cannot be issued for this order. To continue, change the specified quantity to the full quantity.","この注文に対しては、部分的な量の請求書を発行することはできません。 続行するには、指定した数量を全量に変更して下さい。"
 "We refunded %1 online.","%1 をオンラインで返金しました。"
 "We refunded %1 offline.","%1をオフラインで返金しました。"
 "We refunded %1 to the company credit.","%1 を会社のクレジットに返金しました。"

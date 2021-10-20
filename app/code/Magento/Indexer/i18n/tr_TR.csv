@@ -7,7 +7,6 @@
 "Processing","İşleniyor"
 "Never","Asla"
 "has been rebuilt successfully in %time","has been rebuilt successfully in %time"
-"exception: %message","exception: %message"
 "%1 index is locked by another reindex process. Skipping.","%1 dizini başka bir yeniden dizinleme işlemi tarafından kilitlendi. Atlama."
 "Index Management","İndeks Yönetimi"
 "Please select indexers.","Lütfen dizin oluşturucuları seçin."

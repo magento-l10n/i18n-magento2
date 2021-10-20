@@ -353,6 +353,21 @@
 "Every 30 days","Mỗi 30 ngày"
 "Every 40 days","Mỗi 40 ngày"
 "No Logo","Không có biểu tượng"
+"White","White"
+"White No Border","White No Border"
+"Gray","Gray"
+"Monochrome","Monochrome"
+"Grayscale","Grayscale"
+"Left","Left"
+"Right","Right"
+"Top","Top"
+"Primary","Primary"
+"Alternative","Alternative"
+"Inline","Inline"
+"None","None"
+"Sidebar","Sidebar"
+"Text","Text"
+"Flex","Flex"
 "Yes (PayPal recommends this option)","Có (PayPal khuyến cáo tùy chọn này)"
 "Created billing agreement #%1.","Tạo thanh toán hợp đồng #%1."
 "We can't create a billing agreement for this order.","Không thể tạo ra một thỏa thuận thanh toán cho các đơn đặt hàng này."
@@ -407,7 +422,6 @@
 "Your billing agreement # is: ","Thỏa thuận thanh toán của bạn # là: "
 "Shipping Method","Phương thức vận chuyển"
 "Please select a shipping method...","Hãy lựa chọn một phương pháp vận chuyển..."
-"Update Shipping Method","Cập Nhật phương pháp vận chuyển"
 "Sorry, no quotes are available for this order right now.","Xin lỗi, không có trích dẫn có sẵn cho các đơn đặt hàng này ngay bây giờ."
 "Shipping Address","Địa chỉ giao hàng"
 "Edit","Chỉnh sửa"
@@ -463,6 +477,13 @@
 "Accept credit card and PayPal payments securely.","Accept credit card and PayPal payments securely."
 "Basic Settings - PayPal Website Payments Standard","Basic Settings - PayPal Website Payments Standard"
 "PayPal Payment Gateways&nbsp;<i>Process payments using your own internet merchant account.</i>","PayPal Payment Gateways&nbsp;<i>Process payments using your own internet merchant account.</i>"
+"Display pay later messaging on your site for offers like Pay in 3,
+                                    which lets customers pay with 3 interest- free monthly payments. We’ll show messages
+                                    on your site to promote this feature for you. You may not promote pay later offers
+                                    with any other content, marketing, or materials.","Display pay later messaging on your site for offers like Pay in 3,
+                                    which lets customers pay with 3 interest- free monthly payments. We’ll show messages
+                                    on your site to promote this feature for you. You may not promote pay later offers
+                                    with any other content, marketing, or materials."
 "PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>","PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>"
 "Accept payments with a completely customizable checkout page.","Chấp nhận thanh toán với một thanh toán có thể tùy chỉnh hoàn toàn."
 "Website Payments Standard","Website Payments Standard"
@@ -496,6 +517,14 @@
                         You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
                         <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>"
 "Sort Order PayPal Credit","Sắp xếp thứ tự tín dụng PayPal"
+"Enable PayPal PayLater Experience","Enable PayPal PayLater Experience"
+"Recommended. <strong>Advertise PayPal Credit</strong> is deprecated.
+                    See PayPal PayLater details and list of supported regions
+                    <a href=""https://developer.paypal.com/docs/business/pay-later/us/#eligibility"" target=""_blank"">
+                    here</a>.","Recommended. <strong>Advertise PayPal Credit</strong> is deprecated.
+                    See PayPal PayLater details and list of supported regions
+                    <a href=""https://developer.paypal.com/docs/business/pay-later/us/#eligibility"" target=""_blank"">
+                    here</a>."
 "Advertise PayPal Credit","Quảng cáo tín dụng PayPal"
 "<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                         <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
@@ -518,6 +547,16 @@
 "Catalog Category Page","Trang Danh mục nhóm"
 "Catalog Product Page","Trang Danh mục sản phẩm"
 "Checkout Cart Page","Trang thanh toán giỏ hàng"
+"Advertise PayPal PayLater","Advertise PayPal PayLater"
+"Enable PayPal PayLater","Enable PayPal PayLater"
+"Style Layout","Style Layout"
+"Logo Type","Logo Type"
+"Logo Position","Logo Position"
+"Text Color","Text Color"
+"Text Size","Text Size"
+"Ratio","Ratio"
+"Color","Color"
+"Checkout Payment Step","Checkout Payment Step"
 "Basic Settings - PayPal Express Checkout","Cài đặt cơ bản - PayPal nhận thanh toán"
 "Title","Tiêu đề"
 "It is recommended to set this value to ""PayPal"" per store views.","Giá trị này được khuyến khích để đặt vào ""PayPal"" để xem một cửa hàng."
@@ -590,7 +629,6 @@
 "Brazil Installment Period","Brazil Installment Period"
 "Layout","Giao diện"
 "Shape","Shape"
-"Color","Color"
 "Product Pages","Product Pages"
 "Cart Page","Cart Page"
 "Mini Cart","Mini Cart"

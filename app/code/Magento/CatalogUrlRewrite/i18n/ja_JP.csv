@@ -1,4 +1,5 @@
 "Create Permanent Redirect for old URL","古いURLに対する恒久的なリダイレクトを作成する"
+"URL key for specified store already exists.","URL key for specified store already exists."
 "Can not change the visibility of the product with SKU equals ""%1"". URL key ""%2"" for specified store already exists.","SKUが""%1""の製品の表示状態を変更できません。指定されたストアのURLキー""%2""は既に存在します。"
 "Invalid URL key. The ""%1"" URL key can not be used to generate Latin URL key. Please use Latin letters and numbers to avoid generating URL key issues.","URLキーが無効です。""%1"" URLキーを使用してラテンURLキーを生成することはできません。URLキーの問題が発生しないように、ラテン文字と数字を使用してください。"
 "Invalid URL key. The ""%1"" category name can not be used to generate Latin URL key. Please add URL key or change category name using Latin letters and numbers to avoid generating URL key issues.","URLキーが無効です。""%1""カテゴリ名は、ラテンURLキーの生成に使用できません。URLキーの問題が発生しないように、URLキーを追加するか、ラテン文字と数字を使用してカテゴリ名を変更してください。"

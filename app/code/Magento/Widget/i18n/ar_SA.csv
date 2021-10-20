@@ -52,6 +52,7 @@
 "name","اسم"
 "description","المواصفات"
 "We cannot create the widget instance because it is missing required information.","لا يمكن إنشاء نموذج المربع الجانبي لأنه يفتقد المعلومات المطلوبة."
+"Layout update is invalid","Layout update is invalid"
 "None","لا شئ"
 "Remove Layout Update","إزالة تحديث الشكل"
 "%1","%1"
