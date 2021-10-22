@@ -40,7 +40,7 @@
 """%fieldName"" is required. Enter and try again.","""%fieldName"" is required. Enter and try again."
 "The item couldn't be removed from the quote.","The item couldn't be removed from the quote."
 "The qty value is required to update quote item.","The qty value is required to update quote item."
-"Minimum order amount is %1","Minimum order amount is %1"
+"Minimum order amount is %1","Мінімальна сума замовлення становить %1"
 "Invalid customer id %1","Invalid customer id %1"
 "Invalid customer address id %1","Invalid customer address id %1"
 "Invalid address id %1","Invalid address id %1"
