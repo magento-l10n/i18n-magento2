@@ -317,7 +317,7 @@
 "%name,","%name,"
 "Your return request has been updated. Please see below.","Your return request has been updated. Please see below."
 "You can check the status of your return by <a href=""%account_url"">logging into your account</a> or <a href=""%form_url"">using your order number</a>.","You can check the status of your return by <a href=""%account_url"">logging into your account</a> or <a href=""%form_url"">using your order number</a>."
-"If you have any questions, please feel free to contact us at <a href=""mailto:%support_email"">%support_email</a> or by phone at <a href=""tel:%store_phone"">%store_phone</a>","If you have any questions, please feel free to contact us at <a href=""mailto:%support_email"">%support_email</a> or by phone at <a href=""tel:%store_phone"">%store_phone</a>"
+"If you have any questions, please feel free to contact us at <a href=""mailto:%support_email"">%support_email</a> or by phone at <a href=""tel:%store_phone"">%store_phone</a>","Hvis du har spørgsmål, er du velkommen til at kontakte os på <a href=""mailto:%support_email"">%support_email</a> eller på telefon <a href=""tel:%store_phone"">%store_phone</a>"
 "Your Return #%increment_id - %status_label","Your Return #%increment_id - %status_label"
 "%store_name: New Return #%increment_id","%store_name: New Return #%increment_id"
 "You can check the status of your return <a href=""%form_url"">using your order number</a>.","You can check the status of your return <a href=""%form_url"">using your order number</a>."
