@@ -28,7 +28,7 @@
 "The Product with the ""%1"" SKU doesn't exist.","The Product with the ""%1"" SKU doesn't exist."
 "Please correct the quantity for some products.","Ret venligst antallet for nogle produkter."
 "The fewest you may purchase is %1.","Du skal minimum købe %1."
-"The requested qty exceeds the maximum qty allowed in shopping cart","The requested qty exceeds the maximum qty allowed in shopping cart"
+"The requested qty exceeds the maximum qty allowed in shopping cart","Det ønskede antal overstiger det maksimalt tilladte antal i indkøbskurven"
 "You cannot use decimal quantity for this product.","You cannot use decimal quantity for this product."
 "The requested qty is not available","Den forespurgte mængde er ikke tilgængelig"
 "We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","Vi har ikke så mange ""%1"" som du anmodede om, men vi vil bestille de resterende %2."
