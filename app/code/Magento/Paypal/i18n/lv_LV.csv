@@ -562,7 +562,7 @@
 "It is recommended to set this value to ""PayPal"" per store views.","It is recommended to set this value to ""PayPal"" per store views."
 "Sort Order","Kārtošanas secība"
 "Payment Action","Maksājuma darbība"
-"Display on Product Details Page","Display on Product Details Page"
+"Display on Product Details Page","Produkta informācija"
 "Authorization Honor Period (days)","Authorization Honor Period (days)"
 "Specifies what the Authorization Honor Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.","Specifies what the Authorization Honor Period is on the merchant’s PayPal account. It must mirror the setting in PayPal."
 "Order Valid Period (days)","Order Valid Period (days)"
