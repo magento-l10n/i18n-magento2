@@ -1,6 +1,6 @@
 "The address failed to save. Verify the address and try again.","The address failed to save. Verify the address and try again."
 "The product quantity should be greater than 0","The product quantity should be greater than 0"
-"Could not find a product with SKU ""%sku""","Could not find a product with SKU ""%sku"""
+"Could not find a product with SKU ""%sku""","Kan geen product vinden met SKU ""%sku"""
 "Wrong format of the entered option data","Wrong format of the entered option data"
 "Required fields are not present: sku, quantity","Required fields are not present: sku, quantity"
 "Required fields are not present EnteredOption.uid, EnteredOption.value","Required fields are not present EnteredOption.uid, EnteredOption.value"
