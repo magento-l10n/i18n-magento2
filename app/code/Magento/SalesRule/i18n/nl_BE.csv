@@ -70,7 +70,7 @@
 "Specified rule does not allow auto generated coupons","Opgegeven regel staat geen auto gegenereerde coupons toe"
 "Error occurred when saving coupon: %1","Er is een fout opgetreden bij het opslaan van de coupon: %1"
 "Sorry, something went wrong during rule usage update. Please see log for details.","Sorry, something went wrong during rule usage update. Please see log for details."
-"Discount (%1)","Korting (%s)"
+"Discount (%1)","Korting (%1)"
 "Discount","Korting"
 "Coupon with the same code","Coupons met de zelfde code"
 "No Coupon","Geen kortingscode"
