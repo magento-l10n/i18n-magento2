@@ -29,7 +29,7 @@
 "Add Products to Order","将产品添加到订单"
 "<span><span id=""sku-attention-num"">%1</span> product(s) require attention.</span>","<span><span id=""sku-attention-num"">%1</span> 产品需要注意。</span>"
 "Remove All","删除所有"
-"Only %1%2%3 left in stock","仓库中只余有 %1%2%3"
+"Only %1%2%3 left in stock","库存中只剩 %1%2%3件"
 "You can buy up to %1 of these per purchase.","每次购买，您最多可以购买 %1。"
 "You must buy at least %1 of these per purchase.","每次购买，您必须购买至少%1。"
 "Specify the product's options.","指定的产品选项。"
