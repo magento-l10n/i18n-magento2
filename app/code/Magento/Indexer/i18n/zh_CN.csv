@@ -4,7 +4,7 @@
 "Update on Save","更新保存"
 "Reindex required","重新建立索引需要"
 "Ready","准备好了"
-"Processing","处理"
+"Processing","处理中"
 "Never","永不"
 "has been rebuilt successfully in %time","has been rebuilt successfully in %time"
 "%1 index is locked by another reindex process. Skipping.","%1的索引被另一个重新索引过程锁定。正在跳过。"
