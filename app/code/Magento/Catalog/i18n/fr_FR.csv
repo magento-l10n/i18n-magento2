@@ -604,7 +604,7 @@
 "Buy %1 for: ","Achetez-en %1 pour : "
 "Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","Achetez-en %1 pour %2 l'unité et <strong class=""benefit"">économisez<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>"
 "Buy %1 for %2 each","Achetez-en %1 pour %2 l'unité"
-"You added product %1 to the <a href=""%2"">comparison list</a>.","Vous avez ajouté le produit %1 à la liste de comparaison <a href=""%2""></a>."
+"You added product %1 to the <a href=""%2"">comparison list</a>.","Vous avez ajouté le produit %1 à la <a href=""%2"">liste de comparaison</a>."
 "Shop By","Filtrer par"
 "Shopping Options","Affiner la recherche"
 "Compare Products","Comparer des produits"
