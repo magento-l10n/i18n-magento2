@@ -4,7 +4,7 @@
 "The store that was requested wasn't found. Verify the store and try again.","The store that was requested wasn't found. Verify the store and try again."
 "The requested customer does not exist.","The requested customer does not exist."
 "There was an error retrieving the customer record.","There was an error retrieving the customer record."
-"The requested store cannot be found. Please check the request and try again.","The requested store cannot be found. Please check the request and try again."
+"The requested store cannot be found. Please check the request and try again.","Der angeforderte Shop kann nicht gefunden werden. Bitte überprüfen Sie die Anfrage und versuchen Sie es erneut."
 "Environment emulation nesting is not allowed.","Environment Emulation Nesting ist nicht erlaubt."
 "%1","%1"
 "The website wasn't found. Verify the website and try again.","The website wasn't found. Verify the website and try again."
