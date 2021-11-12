@@ -29,7 +29,7 @@
 "We found an invalid item option format.","We found an invalid item option format."
 "An item option with code %1 already exists.","En vare mulighed med kode %1 allerede findes."
 "Item qty declaration error","Item qty declaration error"
-"Some of the products below do not have all the required options.","Some of the products below do not have all the required options."
+"Some of the products below do not have all the required options.","Nogle af nedenstående produkter har ikke valgt de nødvendige tilpasningsmuligheder."
 "Something went wrong during the item options declaration.","Something went wrong during the item options declaration."
 "We found an item options declaration error.","We found an item options declaration error."
 "Some of the selected options are not currently available.","Some of the selected options are not currently available."
