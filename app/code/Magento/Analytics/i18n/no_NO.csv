@@ -1,16 +1,16 @@
 "Subscription status","Påmeldingsstatus"
 "Sorry, there has been an error processing your request. Please try again later.","Beklager, det oppstod en feil under behandling av forespørselen. Prøv igjen senere."
-"The time value is using an unsupported format. Enter a supported format and try again.","The time value is using an unsupported format. Enter a supported format and try again."
+"The time value is using an unsupported format. Enter a supported format and try again.","Tidsverdien bruker et format som ikke støttes. Angi et format som støttes, og prøv på nytt."
 "Cron settings can't be saved","Cron alternativer kan ikke lagres"
 "There was an error save new configuration value.","Det oppstod en feil under lagringen av ny konfigurasjonsverdi."
 "Please select an industry.","Vennligst velg en bransje."
 "--Please Select--","-Vennligst velg--"
-"Command ""%1"" was not found.","Command ""%1"" was not found."
+"Command ""%1"" was not found.","Handlingen ""%1"" ble ikke funnet."
 "The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","The data is invalid. Enter the data as a string or data that can be converted into a string and try again."
 "The data is invalid. Enter the data as a string and try again.","The data is invalid. Enter the data as a string and try again."
-"The data is invalid. Use a valid cipher method and try again.","The data is invalid. Use a valid cipher method and try again."
+"The data is invalid. Use a valid cipher method and try again.","Informasjonen er ugyldig. Vennligst bruk en gyldig krypteringsmetode og forsøk igjen."
 "Enter the encryption key and try again.","Enter the encryption key and try again."
-"The ""%1"" source doesn't exist.","The ""%1"" source doesn't exist."
+"The ""%1"" source doesn't exist.","""%1"" eksisterer ikke."
 "These arguments can't be empty ""%1""","Disse argumentene kan ikke være tom ""%1"""
 "Cannot find predefined integration user!","Finner ikke den forhåndsdefinerte integreringsbrukeren!"
 "File is not ready yet.","Filen er ikke klar ennå."
@@ -32,21 +32,16 @@
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
                 ""Go to Advanced Reporting"" link. </br> For more information, see our <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>.","This service provides a dynamic suite of reports with rich insights about your business.
-                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>."
+                terms and conditions</a>.","Denne tilbyderen leverer en dynamsik rapportpakke som gir deg et rikt innsyn om din bedrift. Du kan få tilgang til dine rapporter sikkert via et personlig kontrollpanel utenfor din nettbutikk ved å følge denne linken.  ""Vis avanserte rapporter"" </br> For mer informasjon se <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">                 for betingelser og vilkår</a>."
 "Advanced Reporting Service","Avansert rapporteringstjeneste"
 "Time of day to send data","Tiden på dagen for å sende data"
-"Industry Data","Industry Data"
+"Industry Data","Industri Data"
 "Industry","Industri"
 "In order to personalize your Advanced Reporting experience, please select your industry.","For å tilpasse opplevelsen avansert rapportering, velg din bransje."
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Få mer innsikt fra Magento bedriftsinformasjon</strong>"
 "Magento Business Intelligence provides you with a simple and clear path to
                     becoming more data driven.</br> Learn more about <a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence provides you with a simple and clear path to
-                    becoming more data driven.</br> Learn more about <a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers."
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Foretaksanalyse tilbyder gir deg en enkel og god oversikt hvordan bli flinkere i forhold til dataflyt</br>Les mer om dette her <a target=""_blank""      href=""https://dashboard.rjmetrics.com/v2/magento/signup/""> Magento BI Enkel og BI Pro</a>."
 "Auto Parts","Automatiske deler"
 "Baby/Children’s Apparel, Gear and Toys","Baby/barn klær, utstyr og leker"
 "Beauty and Cosmetics","Skjønnhet og velvære"
@@ -65,4 +60,4 @@
 "Pet Goods","Kjæledyr utstyr"
 "Pharma and Medical Devices","Farmasøytisk og medisinsk utstyr"
 "Technology B2B","Teknologi B2B"
-"Other","Other"
+"Other","Annet"
