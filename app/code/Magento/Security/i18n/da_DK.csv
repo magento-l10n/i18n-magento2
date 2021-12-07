@@ -11,7 +11,7 @@
 "By Email","Via E-mail"
 "None","Ingen"
 "Expiration Date","Expiration Date"
-"We received too many requests for password resets. Please wait and try again later or contact %1.","We received too many requests for password resets. Please wait and try again later or contact %1."
+"We received too many requests for password resets. Please wait and try again later or contact %1.","Vi har modtaget for mange anmodninger om nulstilling af adgangskoder. Vent venligst og prøv igen senere eller kontakt %1."
 "Incorrect Security Checker class. It has to implement SecurityCheckerInterface","Incorrect Security Checker class. It has to implement SecurityCheckerInterface"
 """%1"" must be later than the current date.","""%1"" must be later than the current date."
 "The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later."
