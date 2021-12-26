@@ -22,7 +22,7 @@
 "Invalid amount for refund.","Ugyldig beløp for tilbakebetaling."
 "Payment refunding error.","Tilbakebetaling feilet."
 "The transaction was declined because the response hash validation failed.","Transaksjonen ble nektet, siden validering feilet."
-"This payment didn't work out because we can't find this order.","This payment didn't work out because we can't find this order."
+"This payment didn't work out because we can't find this order.","Denne betalingen ble ikke utført fordi vi ikke kunne finne denne bestillingen."
 "There was a payment authorization error.","Det oppstod en feil ved betaling, grunnet valideringsfeil."
 "Please enter a transaction ID to authorize this payment.","Vennligst fyll inn transaksjonsnummer for å autorisere denne betalingen."
 "Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.","Noe gikk galt: det betalte beløpet samsvarer ikke med bestillingsbeløpet. Korriger dette, og prøv på nytt."
