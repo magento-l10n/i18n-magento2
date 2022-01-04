@@ -29,7 +29,7 @@
 "Please correct the quantity for some products.","Ret venligst antallet for nogle produkter."
 "The fewest you may purchase is %1.","Du skal minimum købe %1."
 "The requested qty exceeds the maximum qty allowed in shopping cart","Det ønskede antal overstiger det maksimalt tilladte antal i indkøbskurven"
-"You cannot use decimal quantity for this product.","You cannot use decimal quantity for this product."
+"You cannot use decimal quantity for this product.","Du kan ikke bruge decimaler i antal på dette produkt."
 "The requested qty is not available","Den forespurgte mængde er ikke tilgængelig"
 "We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","Vi har ikke så mange ""%1"" som du anmodede om, men vi vil bestille de resterende %2."
 "We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","Vi har ikke så mange ""%1"" som du anmodede om, men vi vil bestille de resterende %2."
