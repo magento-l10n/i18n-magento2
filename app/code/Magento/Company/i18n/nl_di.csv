@@ -269,9 +269,9 @@
 "Your company registration request (for the <strong>%company_name</strong>) has been rejected
     for the following reason:","Je bedrijfsregistratie aanvraag (voor <strong>%company_name</strong>) is afgewezen
      om de volgende reden:"
-"Show Active Users","Show Active Users"
-"Show Inactive Users","Show Inactive Users"
-"Show All Users","Show All Users"
+"Show Active Users","Toon actieve gebruikers"
+"Show Inactive Users","Toon inactieve gebruikers"
+"Show All Users","Toon alle gebruikers"
 "This action cannot be undone. Are you sure you want to delete this company? After the company is deleted, all the company members will be set to Inactive.","Deze actie kan niet ongedaan gemaakt worden. Weet je zeker dat je dit bedrijf wilt verwijderen? Nadat het bedrijf is verwijderd worden alle bedrijfsleden ingesteld op Inactief."
 "Delete a Company?","Bedrijf verwijderen?"
 "Cancel","Annuleer"
@@ -347,7 +347,7 @@
 "View users and teams","Bekijk gebruikers en teams"
 "Manage users and teams","Beheer gebruikers en teams"
 "Sales","Verkopen"
-"Allow Checkout","Allow Checkout"
+"Allow Checkout","Afrekenen toestaan"
 "Use Pay On Account method","Gebruik de methode Pay On Account"
 "View orders","Bestellingen bekijken"
 "View orders of subordinate users","Bekijk orders van ondergeschikte gebruikers"
