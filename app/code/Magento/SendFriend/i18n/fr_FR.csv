@@ -34,7 +34,7 @@
 "Email to a Friend","Envoyer à un ami"
 "Email Templates","Gabarits d'email"
 "Enabled","Activé"
-"We strongly recommend to enable a <a href=""https://devdocs.magento.com/guides/v2.4/security/google-recaptcha.html"" target=""_blank"">CAPTCHA solution</a> alongside enabling ""Email to a Friend"" to ensure abuse of this feature does not occur.","We strongly recommend to enable a <a href=""https://devdocs.magento.com/guides/v2.4/security/google-recaptcha.html"" target=""_blank"">CAPTCHA solution</a> alongside enabling ""Email to a Friend"" to ensure abuse of this feature does not occur."
+"We strongly recommend to enable a <a href=""https://devdocs.magento.com/guides/v2.4/security/google-recaptcha.html"" target=""_blank"">CAPTCHA solution</a> alongside enabling ""Email to a Friend"" to ensure abuse of this feature does not occur.","Nous recommandons fortement d'activer une solution <a href=""https://devdocs.magento.com/guides/v2.4/security/google-recaptcha.html"" target=""_blank"">CAPTCHA</a> en plus d'activer ""Envoyer un e-mail à un ami"" pour s'assurer que l'utilisation de cette fonctionnalité ne se produit pas."
 "Select Email Template","Sélectionner le gabarit d'email"
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Le gabarit d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée."
 "Allow for Guests","Autoriser pour les invités"
