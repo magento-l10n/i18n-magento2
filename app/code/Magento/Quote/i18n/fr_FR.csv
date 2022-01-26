@@ -63,7 +63,7 @@
 "Entity Id does not exist","L'identifiant de l'entité n'existe pas"
 "Carts","Paniers"
 "Manage carts","Gérer les paniers"
-"Enable Inventory Check On Cart Load","Enable Inventory Check On Cart Load"
+"Enable Inventory Check On Cart Load","Activer la vérification d'inventaire lors du chargement du panier"
 "Some addresses can't be used due to the configurations for specific countries.","Certaines adresses ne peuvent pas être utilisées en raison des configurations pour certains pays."
 "Please check the shipping address information.","Veuillez vérifier les informations de l'adresse de livraison."
 "The shipping method is missing. Select the shipping method and try again.","Le mode de livraison est manquant. Sélectionnez le mode de livraison et réessayez."
