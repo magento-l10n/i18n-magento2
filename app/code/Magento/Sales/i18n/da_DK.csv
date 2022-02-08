@@ -200,7 +200,7 @@
 "You have not canceled the item.","Du kan ikke annullere varen."
 "You canceled the order.","Du annullerede ordren."
 """%1"" coupon code was not applied. Do not apply discount is selected for item(s)","""%1"" rabatkode blev ikke anvendt. Tildel ikke rabat for valgte vare(r)"
-"The ""%1"" coupon code isn't valid. Verify the code and try again.","The ""%1"" coupon code isn't valid. Verify the code and try again."
+"The ""%1"" coupon code isn't valid. Verify the code and try again.","""%1"" rabatkoden er ikke gyldig. Kontroller koden og prøv igen."
 "The coupon code has been accepted.","Rabatkode er godkendt."
 "The coupon code has been removed.","The coupon code has been removed."
 "The quote item ID needs to be received. Set the ID and try again.","The quote item ID needs to be received. Set the ID and try again."
