@@ -210,7 +210,7 @@
 "An authentication error occurred. Verify and try again.","認証エラーが起きました。やり直してください。"
 "The Admin session lifetime is invalid. Set the lifetime to 31536000 seconds (one year) or shorter and try again.","管理者のセッション有効期限が不正です。有効期限は31536000秒(1年)またはそれ以下で設定してください。"
 "The Admin session lifetime is invalid. Set the lifetime to 60 seconds or longer and try again.","管理者セッション有効期限が不正です。60秒以上の期限を設定してください。"
-"Today","Today"
+"Today","今日"
 "Last 24 Hours","直近24時間"
 "Last 7 Days","直近7日"
 "Current Month","現在の月"
