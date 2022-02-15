@@ -12,7 +12,7 @@
 "Please specify the order ID to be removed from archive.","Please specify the order ID to be removed from archive."
 "Shipments","Shipments"
 "There are %1 orders in this archive. All of them will be moved to the regular table after the archive is disabled.","There are %1 orders in this archive. All of them will be moved to the regular table after the archive is disabled."
-"Archive","Archive"
+"Archive","Arhīvs"
 "Restore from Archive","Restore from Archive"
 "Orders, Invoices, Shipments, Credit Memos Archiving","Orders, Invoices, Shipments, Credit Memos Archiving"
 "Enable Archiving","Enable Archiving"
