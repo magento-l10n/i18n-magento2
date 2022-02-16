@@ -18,7 +18,7 @@
 "<a href=""%1"" onclick=""this.target='blank'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>","<a href=""%1"" onclick=""this.target='blank'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>"
 "Administrator","Administrators"
 "Guest","Viesis"
-"Author","Author"
+"Author","Autors"
 "Summary Rating","Vērtējuma kopsavilkums"
 "Detailed Rating","Detalizēts vērtējums"
 "ID","ID"
