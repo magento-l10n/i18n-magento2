@@ -22,8 +22,8 @@
                     \Magento\Quote\Model\Quote\Address\Total\AbstractTotal.","The address total model should be extended from
                     \Magento\Quote\Model\Quote\Address\Total\AbstractTotal."
 "Grand Total","Grand Total"
-"Shipping & Handling (%1)","Shipping & Handling (%1)"
-"Shipping & Handling","Shipping & Handling"
+"Shipping & Handling (%1)","Enviament i manipulació (%1)"
+"Shipping & Handling","Enviament i manipulació"
 "Shipping","Enviament"
 "Subtotal","Subtotal"
 "We found an invalid item option format.","We found an invalid item option format."
