@@ -670,7 +670,7 @@
 "Credit memo for your %store_name order","Creditfactuur voor uw %store_name bestelling"
 "%name,","%name,"
 "Thank you for your order from %store_name.","Bedankt voor uw bestelling bij %store_name."
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","U kunt de status van uw bestelling controleren door in te <a href=""%account_url"">loggen op uw account</a>."
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","U kunt <a href=""%account_url"">inloggen op uw account</a> om de status van uw bestelling te controleren."
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Indien u vragen heeft over uw bestelling kunt u ons e-mailen op <a href=""mailto:%store_email"">%store_email</a>"
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Uw creditfactuur #%creditmemo_id voor bestelling #%order_id"
 "Billing Info","Factuuradres"
