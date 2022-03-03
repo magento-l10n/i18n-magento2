@@ -17,7 +17,7 @@
 "Custom options have different types.","カスタムオプションには異なるタイプがあります。"
 "Every option entity must have a parent product entity.","全てのオプションエンティティは親製品エンティティを持っていなければなりません。"
 "Please correct the parameters.","パラメーターを修正してください。"
-"Filename is too long; must be %1 characters or less","Filename is too long; must be %1 characters or less"
+"Filename is too long; must be %1 characters or less","ファイル名が長すぎます。 %1 文字以下でなければなりません"
 "Could not parse resource url.","リソースのURLを解析できませんでした。"
 "Disallowed file type.","許可しないファイルタイプ"
 "Import images directory must be writable in order to process remote images.","リモート画像を処理するには、画像の読み込みディレクトリを書き込み可能にする必要があります。"

@@ -28,8 +28,8 @@
 "The Product with the ""%1"" SKU doesn't exist.","SKU ""%1"" の商品は存在しません。"
 "Please correct the quantity for some products.","特定商品の数量を修正してください。"
 "The fewest you may purchase is %1.","購入の最低限数量は%1です。"
-"The requested qty exceeds the maximum qty allowed in shopping cart","The requested qty exceeds the maximum qty allowed in shopping cart"
-"You cannot use decimal quantity for this product.","You cannot use decimal quantity for this product."
+"The requested qty exceeds the maximum qty allowed in shopping cart","要求された数量がショッピングカートで許可される最大数を超えています"
+"You cannot use decimal quantity for this product.","この商品の数量は小数点を使用できません。"
 "The requested qty is not available","要求された個数は利用できません"
 "We don't have as many ""%1"" as you requested, but we'll back order the remaining %2."," 要求された""%1""数在庫がありませんでした, ですが残りの%2は取り寄せをおこないます。"
 "We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","要求された""%1""数在庫がありませんでした, ですが残>
