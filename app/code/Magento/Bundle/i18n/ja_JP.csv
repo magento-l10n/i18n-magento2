@@ -38,7 +38,7 @@
 "Please select all required options.","必須オプションをすべて選択してください。"
 "Option type (%types) should have only one element.","オプションタイプ (%types) には要素を1つだけ含める必要があります。"
 "We can't add this item to your shopping cart right now.","このアイテムを現在ショッピングカートに追加できません。"
-"Product relations processor must implement %1.","Product relations processor must implement %1."
+"Product relations processor must implement %1.","製品の関係プロセッサは %1 をインプリメントする必要があります。"
 "N/A","該当無し"
 "Percent","パーセント"
 "We can't save custom-defined options for bundles with dynamic pricing.","変動価格のバンドルのためのカスタム定義オプションは保存できません。"
