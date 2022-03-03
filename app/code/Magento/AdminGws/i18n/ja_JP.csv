@@ -12,7 +12,7 @@
 "This item needs to be assigned to a store view. Assign item and try again.","このアイテムはストアビューに割り当てる必要があります。アイテムを割り当てて再度お試し下さい。"
 "More permissions are needed to save this item.","このアイテムを保存するための権限が不足しています。"
 "More permissions are needed to delete this item.","このアイテムを削除するための権限が不足しています。"
-"Not allowed to edit the category's design attributes","Not allowed to edit the category's design attributes"
+"Not allowed to edit the category's design attributes","カテゴリのデザイン属性の編集は許可されていません"
 "At least one website or store group needs to be selected. Select and try again.","最低でも1つのウェブサイトかストアグループが選択されていなければなりません。選択した上でやり直してください。"
 "More permissions are needed to set All Scopes to a Role.","すべてのスコープに権限を付与するための権限が不足しています。"
 "The ""%1"" website ID is incorrect. Verify the website ID and try again.","ウェブサイト ""%1"" のIDが不正です。ウェブサイトIDを確認してやり直してください。"
