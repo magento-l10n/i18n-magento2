@@ -50,7 +50,7 @@
 "Error filtering template: %s","テンプレ−トのフィルタリングエラー: %s"
 "We're sorry, an error has occurred while generating this content.","申し訳ありません、このコンテンツを生成中に問題が発生しました。"
 "Invalid sender data","不正な送信者データ"
-"Unable to send mail. Please try again later.","Unable to send mail. Please try again later."
+"Unable to send mail. Please try again later.","メールを送信できません。しばらくしてからもう一度お試しください。"
 "Title","タイトル"
 "expectedResult","expectedResult"
 "Load Default Template","デフォルトテンプレートを読み込み"
