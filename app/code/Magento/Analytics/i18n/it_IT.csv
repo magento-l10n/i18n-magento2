@@ -1,16 +1,16 @@
 "Subscription status","Stato dell'abbonamento"
 "Sorry, there has been an error processing your request. Please try again later.","Siamo spiacenti, si è verificato un errore durante l'elaborazione della tua richiesta. Per favore riprova più tardi."
-"The time value is using an unsupported format. Enter a supported format and try again.","The time value is using an unsupported format. Enter a supported format and try again."
+"The time value is using an unsupported format. Enter a supported format and try again.","Il valore dell'ora è in un formato non supportato. Immettere un formato supportato e riprovare."
 "Cron settings can't be saved","Le impostazioni di Cron non possono essere salvate"
 "There was an error save new configuration value.","Si è verificato un errore durante il salvataggio del nuovo valore di configurazione."
 "Please select an industry.","Si prega di selezionare un settore."
 "--Please Select--","--Seleziona--"
-"Command ""%1"" was not found.","Command ""%1"" was not found."
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","The data is invalid. Enter the data as a string or data that can be converted into a string and try again."
-"The data is invalid. Enter the data as a string and try again.","The data is invalid. Enter the data as a string and try again."
-"The data is invalid. Use a valid cipher method and try again.","The data is invalid. Use a valid cipher method and try again."
-"Enter the encryption key and try again.","Enter the encryption key and try again."
-"The ""%1"" source doesn't exist.","The ""%1"" source doesn't exist."
+"Command ""%1"" was not found.","Il comando ""%1"" non è stato trovato."
+"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","I dati non sono validi. Immettere i dati come una stringa o dati che possono essere convertiti in una stringa e riprovare."
+"The data is invalid. Enter the data as a string and try again.","I dati non sono validi. Immettere i dati come una stringa e riprovare."
+"The data is invalid. Use a valid cipher method and try again.","I dati non sono validi. Utilizzare un metodo di crittografia valido e riprovare."
+"Enter the encryption key and try again.","Immettere la chiave di crittografia e riprovare."
+"The ""%1"" source doesn't exist.","La sorgente ""%1"" non esiste."
 "These arguments can't be empty ""%1""","Questi argomenti non possono essere uguali a ""% 1"""
 "Cannot find predefined integration user!","Impossibile trovare integrazione predefinite utente!"
 "File is not ready yet.","Il file non è ancora pronto."
@@ -32,21 +32,16 @@
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
                 ""Go to Advanced Reporting"" link. </br> For more information, see our <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>.","This service provides a dynamic suite of reports with rich insights about your business.
-                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>."
+                terms and conditions</a>.","Questo servizio fornisce una suite dinamica di rapporti con ricchi approfondimenti sulla tua attività commerciale. I rapporti sono accessibili in modo sicuro su un dashboard personalizzabile al di fuori del pannello di amministrazione cliccando sul link ""Vai ai Rapporti Avanzati"".<br/>Per ulteriori informazioni, vedi i nostri <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">termini e condizioni</a>."
 "Advanced Reporting Service","Servizio Rapporti Avanzati"
 "Time of day to send data","Ora del giorno per inviare i dati"
-"Industry Data","Industry Data"
+"Industry Data","Dati di Settore"
 "Industry","Settore"
 "In order to personalize your Advanced Reporting experience, please select your industry.","Al fine di personalizzare la tua esperienza Advanced Reporting, si prega di selezionare il tuo settore."
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Ottieni ulteriori informazioni da Magento Business Intelligence</strong>"
 "Magento Business Intelligence provides you with a simple and clear path to
                     becoming more data driven.</br> Learn more about <a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence provides you with a simple and clear path to
-                    becoming more data driven.</br> Learn more about <a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers."
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence fornisce un percorso semplice e chiaro per prendere decisioni guidati dai dati.<br/>Per maggiori informazioni livelli <a target=""_blank"" href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials e BI Pro</a>."
 "Auto Parts","Ricambi auto"
 "Baby/Children’s Apparel, Gear and Toys","Bambino/Bambini abbigliamento, Attrezzi e Giocattoli"
 "Beauty and Cosmetics","Bellezza e Cosmetici"
@@ -65,4 +60,4 @@
 "Pet Goods","Prodotti per animali domestici"
 "Pharma and Medical Devices","Farmaci e dispositivi medici"
 "Technology B2B","Tecnologia B2B"
-"Other","Other"
+"Other","Altro"
