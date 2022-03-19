@@ -203,7 +203,7 @@
 "Change","Verander"
 "This action will replace your Company Admin.","Deze actie vervangt je bedrijfsbeheerder."
 "* Your latest changes on the company profile have not been saved yet.","* Je laatste wijzigingen in het bedrijfsprofiel zijn nog niet opgeslagen."
-"Assigned to %company_name as Company Admin","Toegewezen aan %company_name als Bedrijfsbeheerder"
+"Assigned to %company_name as Company Admin","Toegewezen aan %company_name als bedrijfsbeheerder"
 "Dear %name,","Beste %name,"
 "You have been assigned to <a href=""%customer_url"">%company_name</a> as the Company Admin.","Je bent toegewezen aan <a href=""%customer_url"">%company_name</a> als bedrijfsbeheerder."
 "When you sign in to your account, you can:","Wanneer je inlogt op je account kan je de volgende zaken:"
@@ -249,7 +249,7 @@
      Zodra je bent ingelogd kan je bestellingen plaatsen namens je bedrijf
      en gebruik maken van andere B2B-functies."
 "You’re no longer Company Admin","U bent niet langer bedrijfsbeheerder"
-"Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details.","Je accounttype is gewijzigd van Bedrijfsbeheerder naar een gewoon gebruikersaccount. Neem voor meer informatie contact op met je manager als je denkt dat dit een fout is."
+"Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details.","Je accounttype is gewijzigd van bedrijfsbeheerder naar een gewoon gebruikersaccount. Neem voor meer informatie contact op met je manager als je denkt dat dit een fout is."
 "Assigned to %company_name as Sales Representative","Je bent toegewezen aan %company_name als de verkoopvertegenwoordiger"
 "%name,","%name,"
 "You have been assigned to %company_name as the Sales Representative.","Je bent toegewezen aan %company_name als de verkoopvertegenwoordiger."
