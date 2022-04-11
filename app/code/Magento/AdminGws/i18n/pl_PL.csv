@@ -12,7 +12,7 @@
 "This item needs to be assigned to a store view. Assign item and try again.","Ten element musi być przypisany do widoku sklepu. Przypisz element i spróbuj ponownie."
 "More permissions are needed to save this item.","Więcej uprawnień jest potrzebnych do zapisania tego elementu."
 "More permissions are needed to delete this item.","Dodatkowe uprawnienia są potrzebne do usunięcia tego elementu."
-"Not allowed to edit the category's design attributes","Not allowed to edit the category's design attributes"
+"Not allowed to edit the category's design attributes","Brak uprawnień do edycji atrybutów wyglądu kategorii"
 "At least one website or store group needs to be selected. Select and try again.","Co najmniej jedna witryna lub grupa sklepów musi być zaznaczona. Wybierz i spróbuj ponownie."
 "More permissions are needed to set All Scopes to a Role.","Więcej uprawnień jest potrzebnych, aby ustawić wszystkie zakresy na rolę."
 "The ""%1"" website ID is incorrect. Verify the website ID and try again.","Identyfikator witryny %1"" jest błędny. Zweryfikuj identyfikator witryny i spróbuj ponownie."
