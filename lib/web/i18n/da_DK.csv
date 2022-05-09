@@ -102,7 +102,7 @@
 "Admin is a required field in each row.","Admin er et obligatorisk felt i hver række."
 "Please enter a quantity greater than 0.","Angiv venligst en mængde større end 0."
 "The fewest you may purchase is %1.","The fewest you may purchase is %1."
-"The maximum you may purchase is %1.","The maximum you may purchase is %1."
+"The maximum you may purchase is %1.","Det maksimale du må købe er %1."
 "You can buy this product only in quantities of %1 at a time.","You can buy this product only in quantities of %1 at a time."
 "The password can't be the same as the email address. Create a new password and try again.","The password can't be the same as the email address. Create a new password and try again."
 "Please fix this field.","Ret venligst dette felt."
