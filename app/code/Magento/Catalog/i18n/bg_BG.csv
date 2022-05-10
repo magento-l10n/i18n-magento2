@@ -256,7 +256,7 @@
 "Selected layout update is not available","Избраната актуализация на оформлението не е налична"
 "Sorry, something went wrong during product attributes update. Please see log for details.","За съжаление нещо се обърка по време на актуализация на цени на продукти. Моля, вижте лог файла за подробности."
 "Custom layout update text cannot be changed, only removed","Текстът за актуализиране на персонализираното оформление не може да бъде променен, а само премахнат"
-"Using restricted HTML elements for ""%1"". %2","Using restricted HTML elements for ""%1"". %2"
+"Using restricted HTML elements for ""%1"". %2","Използвате забранени HTML елементи за ""%1"". %2"
 "Make sure the To Date is later than or the same as the From Date.","Убедете се, че крайната дата не е по-ранна от началната."
 "Sorry, but we can't find the new parent category you selected.","Съжалявам, но не можем да намерим новата основна категория, която сте избрали."
 "Sorry, but we can't find the new category you selected.","Съжаляваме, но не можем да намерим новата категория, която сте избрали."
