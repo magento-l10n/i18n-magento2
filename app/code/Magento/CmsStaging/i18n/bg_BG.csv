@@ -1,6 +1,6 @@
-"The page doesn't exist. Verify and try again.","The page doesn't exist. Verify and try again."
+"The page doesn't exist. Verify and try again.","Снимката не съществува. Проверете и опитайте пак."
 "This block no longer exists.","Този блок вече не съществува."
-"Future Update already exists in this time range. Set a different range and try again.","Future Update already exists in this time range. Set a different range and try again."
+"Future Update already exists in this time range. Set a different range and try again.","В този период от време вече съществува Бъдеща актуализация. Посочете различен период и опитайте отново."
 "Currently Active","Активни в момента"
 "New Theme","Нова тема"
 "-- Please Select --","-- Моля изберете --"
@@ -42,7 +42,7 @@
 "Design","Дизайн"
 "Layout","Оформление"
 "Layout Update XML","Актуализацията на оформлението на XML"
-"Custom Layout Update","Custom Layout Update"
+"Custom Layout Update","Актуализация на персонализирано оформление"
 "
                         List of layout files with an update handle ""selectable""
                         matching *PageIdentifier*_*UpdateID*.
