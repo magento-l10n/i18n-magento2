@@ -1,2 +1,2 @@
-"""url"" argument should be specified and not empty","""url"" argument should be specified and not empty"
-"""model"" value should be specified","""model"" value should be specified"
+"""url"" argument should be specified and not empty","Аргументът ""url"" трябва да бъде посочен, а не празен"
+"""model"" value should be specified","трябва да се посочи стойност за ""model"""
