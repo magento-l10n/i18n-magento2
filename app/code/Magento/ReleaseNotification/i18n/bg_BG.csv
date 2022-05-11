@@ -1,8 +1,8 @@
-"It is impossible to log user action","It is impossible to log user action"
-"Error message","Error message"
-"An error occurred while logging process.","An error occurred while logging process."
+"It is impossible to log user action","Невъзможно е да се регистрират действията на потребителя"
+"Error message","Съобщение за грешка"
+"An error occurred while logging process.","Възникна грешка при процеса на зареждане."
 "Release Notification","Release Notification"
-"Sorry, we had a problem loading our “What’s new” content.","Sorry, we had a problem loading our “What’s new” content."
+"Sorry, we had a problem loading our “What’s new” content.","За съжаление имахме проблем при зареждането на нашето съдържание “What’s new”."
 "
                         <p>We’ll try to show it again the next time you sign in to Magento Admin.</p>
                         <p>To learn more about new features, see our latest Release Notes in
