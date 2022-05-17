@@ -9,7 +9,7 @@
 "The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","Les données sont invalides. Entrez les données en tant que chaîne ou données qui peuvent être converties en chaîne de caractères et réessayez."
 "The data is invalid. Enter the data as a string and try again.","Les données sont invalides. Entrez les données en tant que chaîne et réessayez."
 "The data is invalid. Use a valid cipher method and try again.","Les données sont invalides. Utilisez une méthode de chiffrement valide et réessayez."
-"Enter the encryption key and try again.","Entrez la clé de chiffrement et réessayez."
+"Enter the encryption key and try again.","Entrez la clé de cryptage et réessayez."
 "The ""%1"" source doesn't exist.","La source ""%1"" n'existe pas."
 "These arguments can't be empty ""%1""","Ces arguments ne peuvent pas être vides « %1 »"
 "Cannot find predefined integration user!","Impossible de trouver l'intégration prédéfinie par l'utilisateur !"
@@ -17,7 +17,7 @@
 "Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Votre URL de Base a été modifiée et que vos rapports sont en cours de mise à jour. Rapports avancés seront disponibles une fois que ce changement a été traitée. S'il vous plaît essayer à nouveau plus tard."
 "Failed to synchronize data to the Magento Business Intelligence service. ","Impossible de synchroniser les données vers le service d’Intelligence d’affaires de Magento. "
 "Retry Synchronization","Réessayer la synchronisation"
-"TestMessage","TestMessage"
+"TestMessage","Message d'essai"
 "Apps and Games","Applications et jeux"
 "Athletic/Sporting Goods","Articles d'Athlétisme / de Sport"
 "Art and Design","Art et Design"
@@ -27,7 +27,7 @@
 "Analytics","Analyses"
 "API","API"
 "Configuration","Configuration"
-"Business Intelligence","Business Intelligence"
+"Business Intelligence","Intelligence d'entreprise"
 "BI Essentials","Essentiels BI"
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
@@ -42,8 +42,7 @@
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>obtenez plus d’idées de Business Intelligence de Magento</strong>"
 "Magento Business Intelligence provides you with a simple and clear path to
                     becoming more data driven.</br> Learn more about <a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence vous propose une façon de lire vos données                    en un coup d'oeil.</br>En savoir plus sur<a target=""_blank""
-                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials et BI Pro</a>tiers."
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence vous donne une voie simple et claire pour devenir plus axée sur les données.</br> En savoir plus sur les niveaux de <a target=""_blank"" href=""https://dashboard.rjmetrics.com/v2/magento/signup/""> Magento BI Essentials et BI Pro</a>."
 "Auto Parts","Pièces d’automobile"
 "Baby/Children’s Apparel, Gear and Toys","Vêtements pour bébés/enfants, et jouets"
 "Beauty and Cosmetics","Beauté et cosmétiques"
