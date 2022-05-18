@@ -409,7 +409,7 @@
 "Host","Serveur"
 "For Windows server only.","Pour le serveur Windows seulement."
 "Port (25)","Port (25)"
-"Please enter at least 0 and at most 65535 (For Windows server only).","Veuillez entrer au moins 0 et au plus 65535 (pour le serveur Windows uniquement)."
+"Please enter at least 0 and at most 65535 (For Windows server only).","Veuillez entrer au moins 0 et au maximum 65535 (pour le serveur Windows uniquement)."
 "Set Return-Path","Renseigner le chemin de retour"
 "Return-Path Email","Adresse email de réponse"
 "Images Upload Configuration","Configuration du chargement des images"
