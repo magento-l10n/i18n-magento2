@@ -57,7 +57,7 @@
 "Could not add the product with SKU ""%sku"" to the wishlist:: %message","SKU 「%sku 」を持つ製品をウィッシュリストに追加できませんでした：%message"
 "Wrong format of the entered option data","入力したオプションデータの形式が正しくありません"
 "Required fields are not present EnteredOption.uid, EnteredOption.value","必須フィールドがEnteredOption.uid、EnteredOption.valueではありません"
-"The wishlist item with ID ""%id"" does not belong to the wishlist","The wishlist item with ID ""%id"" does not belong to the wishlist"
+"The wishlist item with ID ""%id"" does not belong to the wishlist","ID ""%id""の欲しい物アイテムは欲しい物リストに属していません"
 "Could not find a wishlist item with ID ""%id""","IDが「%id 」のウィッシュリスト項目が見つかりませんでした"
 "We can't delete the item with ID ""%id"" from the Wish List right now.","現在、ウィッシュリストからIDが「%id 」の項目を削除できません。"
 "Test Phrase","テストフェーズ"
