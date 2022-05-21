@@ -63,7 +63,7 @@
 "Entity Id does not exist","エンティティIDが存在しません"
 "Carts","カート"
 "Manage carts","カートを管理する"
-"Enable Inventory Check On Cart Load","Enable Inventory Check On Cart Load"
+"Enable Inventory Check On Cart Load","カート読み込みのとき在庫チェックを有効にする"
 "Some addresses can't be used due to the configurations for specific countries.","特定の国の設定によっては一部のアドレスを使用できません。"
 "Please check the shipping address information.","発送住所情報を確認してください。"
 "The shipping method is missing. Select the shipping method and try again.","配送方法がありません。配送方法を選択して再度お試し下さい。"
