@@ -52,7 +52,7 @@
 "name","名前"
 "description","概要"
 "We cannot create the widget instance because it is missing required information.","必須情報がないため、ウィジェットのインスタンスを作成することができません。"
-"Layout update is invalid","Layout update is invalid"
+"Layout update is invalid","レイアウトの更新が無効です"
 "None","なし"
 "Remove Layout Update","レイアウト更新削除"
 "%1","%1"
