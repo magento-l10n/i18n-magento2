@@ -51,7 +51,7 @@
 "An error occurred during the attempt to grant permissions. For details, see the exceptions log.","許可を受諾中にエラーが発生しました。詳細については、例外ログを参照して下さい。"
 "Something went wrong while deleting roles and permissions. You can find out more in the exceptions log.","ロールと権限を削除中に問題が発生しました。例外ログにて詳細が確認できます。"
 """%fieldName"" is required. Enter and try again.","""%fieldName"" は必須です。入力して再度お試し下さい。"
-"Failed to revoke customer's access tokens","Failed to revoke customer's access tokens"
+"Failed to revoke customer's access tokens","顧客のアクセストークンの取り消しに失敗しました"
 "Inactive","未アクティブ"
 "Active","アクティブ"
 "Reset","リセット"
