@@ -384,7 +384,7 @@
 "The file '%1' is invalid. Please choose another one","Le fichier '%1' n’est pas valide. Veuillez en choisir un autre"
 "File '%1' is not an image.","Le fichier '%1' n’est pas une image."
 "The validation failed. Make sure the required options are entered and the file is uploaded, then try again.","La validation a échoué. Assurez-vous que les options requises sont entrées et que le fichier est téléchargé, puis réessayez."
-"The file was too big and couldn't be uploaded. Use a file smaller than %1 MBs and try to upload again.","Le fichier était trop volumineux et n'a pas pu être téléchargé. Utilisez un fichier inférieur à %1 Mo et essayez de télécharger à nouveau."
+"The file was too big and couldn't be uploaded. Use a file smaller than %1 MBs and try to upload again.","Le fichier était trop large et n'a pas pu être téléchargé. Prenez un fichier dont la taille est inférieure à %1 MO et renouvelez l'opération."
 "The required option wasn't entered. Enter the option and try again.","L'option requise n'a pas été saisie. Entrez l'option et réessayez."
 "The file is empty. Select another file and try again.","Le fichier est vide. Sélectionnez un autre fichier et réessayez."
 "Some of the selected item options are not currently available.","Certaines options choisies ne sont pas disponibles pour le moment."
@@ -406,11 +406,11 @@
 "No such entity with Customer Group = %customerGroup. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Aucune entité ne porte le groupe client = %customerGroup. Identifiant de la ligne : REF = %SKU, Identifiant du site : %websiteId, Groupe client : %customerGroup, Quantité : %qty."
 "Tier price is unavailable for this product.","Les prix par paliers n'est pas disponible pour ce produit."
 "Product hasn't group price with such data: customerGroupId = '%1', website = %2, qty = %3","Le prix du produit n'a pas été calculé avec ces données : customerGroupId = '%1', site web = %2, qty = %3"
-"The tier_price data is invalid. Verify the data and try again.","Les données de tier_price (prix par paliers) sont non valides. Vérifiez les données et réessayez."
-"The group price couldn't be saved.","Le prix par groupe n'a pas pu être enregistré."
+"The tier_price data is invalid. Verify the data and try again.","Les données tier_price sont invalides. Vérifiez les données et réessayez."
+"The group price couldn't be saved.","Le prix du groupe n'a pas pu être enregistré."
 "The data was invalid. Verify the data and try again.","Les données n'étaient pas valides. Vérifiez les données et réessayez."
-"Values in the %1 attributes are invalid. Verify the values and try again.","Les valeurs des attributs %1 ne sont pas valides. Vérifiez les valeurs et réessayez."
-"The file upload failed. Try to upload again.","Le téléchargement du fichier a échoué. Essayez de télécharger à nouveau."
+"Values in the %1 attributes are invalid. Verify the values and try again.","Les valeurs dans les attributs %1 sont invalides. Vérifiez les valeurs et réessayez."
+"The file upload failed. Try to upload again.","Le téléchargement de votre fichier a échoué. Essayez de télécharger à nouveau."
 "The product has required options. Enter the options and try again.","Le produit a des options requises. Entrez les options et réessayez."
 "%1 doesn't extends \Magento\Catalog\Model\Product\Type\AbstractType","%1 n’étend pas \Magento\Catalog\Model\Product\Type\AbstractType"
 "%1 doesn't extends \Magento\Catalog\Model\Product\Type\Price","%1 n’étend pas \Magento\Catalog\Model\Product\Type\Price"
@@ -419,12 +419,12 @@
 "Catalog, Search","Catalogue, Recherche"
 "Something went wrong while removing products from the websites.","Une erreur est survenue lors de la suppression des produits des sites web."
 "Something went wrong while adding products to websites.","Une erreur s'est produite lors de l'ajout des produits aux sites web."
-"The group with the ""%1"" ID doesn't exist. Verify the ID and try again.","Le groupe avec l'ID ""%1"" n'existe pas. Vérifiez l'ID et réessayez."
-"The attribute group can't be deleted because it contains system attributes.","Le groupe d'attributs ne peut pas être supprimé car il contient des attributs système."
+"The group with the ""%1"" ID doesn't exist. Verify the ID and try again.","Le groupe avec l'identifiant ""%1"" n'existe pas. Vérifiez l'identifiant et essayez à nouveau."
+"The attribute group can't be deleted because it contains system attributes.","Le groupe d'attributs ne peut pas être supprimé car il contient des attributs du système."
 "The collection provider isn't registered.","Le fournisseur de collection n'est pas enregistré."
-"The ""%1"" link type is unknown. Verify the type and try again.","Le type de lien ""%1"" est inconnu. Vérifiez le type et réessayez."
-"The ""%1"" link type wasn't found. Verify the type and try again.","Le type de lien ""%1"" n'a pas été trouvé. Vérifiez le type et réessayez."
-"The linked products data is invalid. Verify the data and try again.","Les données de produits liés sont non valides. Vérifiez les données et réessayez."
+"The ""%1"" link type is unknown. Verify the type and try again.","Le type de lien ""%1"" est inconnu. Vérifiez le et essayez à nouveau."
+"The ""%1"" link type wasn't found. Verify the type and try again.","Le type de lien ""%1"" n'a pas été trouvé. Vérifiez-le et essayez à nouveau."
+"The linked products data is invalid. Verify the data and try again.","Les données des produits liés ne sont pas valides. Veuillez vérifier les données et réessayer."
 "Product with SKU '%1' is not linked to product with SKU '%2'","Le produit portant la REF '%1' n'est pas lié au produit produit la REF '%2'"
 "Product %1 doesn't have linked %2 as %3","Le produit %1 n'a pas lié %2 comme %3"
 "The product that was requested doesn't exist. Verify the product and try again.","Le produit qui a été demandé n'existe pas. Vérifiez le produit et réessayez."
@@ -719,9 +719,9 @@
 "Catalog media URL format","Format de l'URL du catalogue multimédia"
 "Images should be optimized based on query parameters by your CDN or web server. Use the legacy mode for backward compatibility. <a href=""https://docs.magento.com/user-guide/configuration/general/web.html#url-options"">Learn more</a> about catalog URL formats.<br/><br/><strong style=""color:red"">Warning!</strong> If you switch back to legacy mode, you must <a href=""https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-images.html#resize-catalog-images"">use the CLI to regenerate images</a>.","Les images doivent être optimisées en fonction des paramètres de requête de votre CDN ou de votre serveur web. Utilisez le mode hérité pour la compatibilité ascendante. <a href=""https://docs.magento.com/user-guide/configuration/general/web.html#url-options"">En savoir plus</a> sur les formats d'URL du catalogue.<br/><br/><strong style=""color:red"">Attention !</strong> Si vous retournez en mode ancien, vous devez <a href=""https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-images.html#resize-catalog-images"">utiliser le CLI pour régénérer les images</a>."
 "System","Système"
-"Images Upload Configuration","Configuration du chargement des images"
+"Images Upload Configuration","Configuration des téléchargements d'images"
 "Quality","Qualité"
-"Jpeg quality for resized images 1-100%.","Qualité Jpeg pour les images redimensionnées 1-100%."
+"Jpeg quality for resized images 1-100%.","Qualité Jpeg pour les images redimensionnées de 1 à 100%."
 "Product Info Column","Colonne d'information de produit"
 "Block after Info Column","Bloc après la colonne d'information"
 "Product Flat Data","Données fixes de produit"
@@ -757,9 +757,9 @@
                     <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
                     <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.
                 ","
-                    Temps en secondes entre les mises à jour du widget.
-                    <br/>Si non défini, équivaut à 86400 secondes (24 heures). Pour mettre à jour le widget instantanément, allez dans la gestion du cache et effacez le cache HTML des blocs.
-                    <br/>Le Widget n'affichera pas les produits qui commencent à correspondre aux conditions spécifiées jusqu'à ce que le cache soit actualisé.
+                    Temps entre les mises à jour du widget.
+                    <br/>Si non défini, égal à 86400 secondes (24 heures). Pour mettre à jour instantanément le widget, allez dans la gestion du cache et videz le cache des blocs HTML.
+                    <br/>Le widget ne montrera pas les produits qui commencent à correspondre aux conditions spécifiées jusqu'à ce que le cache soit actualisé.
                 "
 "Catalog Product Link","Lien produit catalogue"
 "Link to a Specified Product","Lien vers un produit spécifique"
