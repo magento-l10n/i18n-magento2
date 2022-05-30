@@ -263,7 +263,7 @@
 "The value in the URL/web address field of a customer's statement. The URL must be 13 characters or shorter.","La valeur dans le champ URL/adresse web de la requête du client. L'URL doit être de 13 caractères ou moins."
 "The Payment Token is not available to perform the request.","Le jeton de paiement n'est pas disponible pour effectuer la demande."
 "Checkout failed to initialize. Verify and try again.","Initialisation de la commande échouée. Vérifiez et réessayez."
-"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","La commande n'a pas été passée. Veuillez d'abord accepter les conditions générales puis réessayez de passer votre commande."
+"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","La commande n'a pas pu être passée. Veuillez d'abord accepter les conditions générales, puis réessayez de passer votre commande."
 "Paypal account","Compte Paypal"
 "Coinbase account","Compte Coinbase"
 "Europe bank account","Compte bancaire Europe"
