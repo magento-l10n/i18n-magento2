@@ -110,7 +110,7 @@
 "Reward Points Balance Updated at %store_name","Belohnungspunkt-Guthaben aktualisiert bei %store_name"
 "%name,","%name,"
 "You have %points_balance points that may be used in our store:","Sie haben %points_balance Punkte die Sie in unserem Shop benutzen können."
-"<a href=""%unsubscription_url"">Unsubscribe</a> from these notifications.","Diese Benachrichtigungen <a href=""%unsubscription_url"">abbestellen</a>"
+"<a href=""%unsubscription_url"">Unsubscribe</a> from these notifications.","Diese Benachrichtigungen <a href=""%unsubscription_url"">abbestellen</a>."
 "Reward Points Expiry Warning at %store_name","Belohnungspunkte sind abgelaufen Warnung bei %store_name"
 "There are %remaining_days day(s) remaining to use %points_expiring of your reward points.","Es verbleiben noch %remaining_days Tag(e) um %points_expiring Ihrer Belohnungspunkte zu nutzen."
 "After %remaining_days day(s) these points will expire.","Diese Punkte laufen nach %remaining_days Tag(en) ab."
