@@ -17,7 +17,7 @@
 "Custom options have different types.","Options personnalisées ont différents types."
 "Every option entity must have a parent product entity.","Chaque entité de l’option doit avoir une entité de produit parent."
 "Please correct the parameters.","S’il vous plaît corriger les paramètres."
-"Filename is too long; must be %1 characters or less","Le nom du fichier est trop long ; doit contenir au plus %1 caractères"
+"Filename is too long; must be %1 characters or less","Le nom du fichier est trop long ; doit contenir au moins %1 caractères"
 "Could not parse resource url.","Impossible d'analyser l'url de la ressource."
 "Disallowed file type.","Type de fichier interdit."
 "Import images directory must be writable in order to process remote images.","Le répertoire des images importées doit être accessible en écriture pour traiter les images distantes."
