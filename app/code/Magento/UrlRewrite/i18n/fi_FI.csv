@@ -65,7 +65,7 @@
 "message","viesti"
 "Custom storage message","Custom storage message"
 "Edit","Muokkaa"
-"Delete record #%1","Delete record #%1"
+"Delete record #%1","Poista tietue #%1"
 "Are you sure you want to delete a record #%1?","Are you sure you want to delete a record #%1?"
 "Select Category","Valitse kategoria"
 "The value specified in the URL Key field would generate a URL that already exists.","The value specified in the URL Key field would generate a URL that already exists."
