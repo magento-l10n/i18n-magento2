@@ -32,7 +32,7 @@
 "Can not be rescheduled","Ei voida ajoittaa uudelleen"
 "Action class needs to implement ActionDataProviderInterface. Verify action class and try again.","Action class needs to implement ActionDataProviderInterface. Verify action class and try again."
 "entity_type","entity_type"
-"Delete Update","Delete Update"
+"Delete Update","Poista päivitys"
 "View/Edit","Näytä/Muokkaa"
 "Active","Aktiivinen"
 "Upcoming","Tuleva(t)"
