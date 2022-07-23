@@ -92,7 +92,7 @@
 "Your password must be at least %1 characters.","Salasanassa pitää olla vähintään %1 merkkiä."
 "Your password must include both numeric and alphabetic characters.","Salasanan tulee sisältää sekä numeroja, että kirjaimia."
 "Your password confirmation must match your password.","Salasanan vahvistuksen on oltava sama kuin salasana."
-"It's time to change your password.","It's time to change your password."
+"It's time to change your password.","On aika vaihtaa salasana."
 "It's time to <a href=""%1"">change your password</a>.","On aika vaihtaa <a href=""%1"">salasana</a>."
 "Your password has expired; please contact your administrator.","Salasanasi on vanhentunut; ole hyvä ja ota yhteyttä ylläpitäjään."
 "Password Help","Salasanaohje"

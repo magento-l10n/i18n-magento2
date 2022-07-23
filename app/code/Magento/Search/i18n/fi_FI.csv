@@ -55,7 +55,7 @@
 "Something went wrong while saving the search query.","Hakukyselyn tallentaminen ei onnistunut."
 "You already have an identical search term query.","Identtinen hakukysely on jo olemassa."
 "Your search query can't be longer than %1, so we shortened your query.","Your search query can't be longer than %1, so we shortened your query."
-"--Please Select--","--Please Select--"
+"--Please Select--","---Valitse---"
 "The synonym group with the ""%1"" ID can't be deleted. %2","The synonym group with the ""%1"" ID can't be deleted. %2"
 "Merge conflict with existing synonym group(s): %1","Olemassaolevien synonyymiryhmien yhdistämisessä tapahtui virhe %1"
 "Delete","Poista"
