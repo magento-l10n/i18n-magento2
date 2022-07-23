@@ -115,7 +115,7 @@
 "Max Emails Allowed to be Sent","Sähköpostien lähettämisen sallittu enimmäismäärä"
 "10 by default. Max - 10000","Oletus 10. Max - 10000"
 "Email Text Length Limit","Sähköpostin tekstin enimmäispituus"
-"255 by default. Max - 10000","255 by default. Max - 10000"
+"255 by default. Max - 10000","Oletus 255. Max - 10000"
 "General Options","Yleiset asetukset"
 "Enabled","Käytössä"
 "Show in Sidebar","Näytä sivupalkissa"
