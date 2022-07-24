@@ -1,5 +1,5 @@
 "Create Permanent Redirect for old URL","Criar redirecionamento permanente para a URL antiga"
-"URL key for specified store already exists.","URL key for specified store already exists."
+"URL key for specified store already exists.","A chave de URL para loja especificada já existe."
 "Can not change the visibility of the product with SKU equals ""%1"". URL key ""%2"" for specified store already exists.","Não pode mudar a visibilidade do produto com SKU igual a ""%1"" "". Chave de URL ""%2"" para loja especificada já existe."
 "Invalid URL key. The ""%1"" URL key can not be used to generate Latin URL key. Please use Latin letters and numbers to avoid generating URL key issues.","Chave URL inválida. A chave URL de%1"" não pode ser usada para gerar a chave latina URL. Por favor, use letras e números latinos para evitar gerar questões de chave de URL."
 "Invalid URL key. The ""%1"" category name can not be used to generate Latin URL key. Please add URL key or change category name using Latin letters and numbers to avoid generating URL key issues.","Chave URL inválida. A chave URL de%1"" não pode ser usada para gerar a chave latina URL. Por favor, use letras e números latinos para evitar gerar questões de chave de URL."
