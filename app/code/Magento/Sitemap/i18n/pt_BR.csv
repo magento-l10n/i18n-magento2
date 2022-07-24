@@ -6,7 +6,7 @@
 "Filename","Nome do arquivo"
 "example: sitemap.xml","exemplo: sitemap. xml"
 "Path","Caminho"
-"example: ""/media/sitemap/"" for base path (path must be writeable)","example: ""/media/sitemap/"" for base path (path must be writeable)"
+"example: ""/media/sitemap/"" for base path (path must be writeable)","exemplo: ""/sitemap/"" ou ""/"" para o caminho de base (o caminho deve ser gravável)"
 "Store View","Visão de Loja"
 "Generate","Gerar"
 "XML Sitemap","Mapa do Site XML"
