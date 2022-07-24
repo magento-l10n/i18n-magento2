@@ -1,7 +1,6 @@
 "No New Relic Application ID configured, cannot continue with Cron Event reporting","Não está configurado nenhuma ID de Aplicação New Relic, não é possível continuar com o relatório através de eventos Cron"
 "The New Relic integration requires the newrelic-php5 agent, which is not installed. More
-                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","The New Relic integration requires the newrelic-php5 agent, which is not installed. More
-                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>."
+                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","A integração New Relic exige o agente newrelic-php5, que não está instalado. Mais informação sobre como instalar o agente está disponível <a target=""_blank"" href=""%1"">aqui</a>."
 "New Relic Reporting Section","Secção de Relatórios New Relic"
 "New Relic Reporting","Relatórios New Relic"
 "General","Geral"

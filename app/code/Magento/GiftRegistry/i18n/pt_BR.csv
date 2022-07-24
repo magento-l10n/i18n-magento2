@@ -266,7 +266,7 @@
 "You can view and purchase items from this gift registry at <a href='%account_url'>%store_name</a>.","Você pode ver e comprar itens deste registro de gift em <a href=""%account_url"">%store_name</a>."
 "Gift Registry:","Lista de presente:"
 "Created For:","Criado por:"
-"<strong>Registry Location:</strong> <a href='%registry_url'>%registry_url</a>","<strong>Registry Location:</strong> <a href='%registry_url'>%registry_url</a>"
+"<strong>Registry Location:</strong> <a href='%registry_url'>%registry_url</a>","<strong>Localização do Registro:</strong> <a href='%registry_url'>%registry_url</a>"
 "You can create your own gift registry on <a href='%account_url'>%store_name</a> and share it with friends and family.","Você pode criar a sua própria lista de presentes em <a href=""%account_url"">%store_name</a> e compartilhar com amigos e família."
 "Gift Registry updated at %store_name","Lista de ofertas atualizada na %store_name"
 "The following items have been purchased from your gift registry ""%registry_name"":","Os seguintes itens foram comprados a partir do seu registro de gift ""%registry_name"":"
