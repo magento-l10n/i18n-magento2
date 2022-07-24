@@ -78,7 +78,7 @@
 "You are not allowed to change CMS pages design settings","Você não tem permissão para alterar as configurações de design de páginas CMS"
 "Invalid Custom Layout Update selected","Atualização de Layout Personalizado Inválida selecionada"
 "Page ""%id"" doesn't have custom layout assigned","Página ""%id"" não tem layout personalizado atribuído"
-"Custom layout update text cannot be changed, only removed","Custom layout update text cannot be changed, only removed"
+"Custom layout update text cannot be changed, only removed","Texto de atualização de layout personalizado não pode ser alterado, somente removido"
 "Could not save the page: %1","Não foi possível gravar a página: %1"
 "Could not delete the page: %1","Não foi possível eliminar a página: %1"
 "The value specified in the URL Key field would generate a URL that already exists.","O valor especificado no campo Chave de URL geraria uma URL que já existe."
@@ -89,13 +89,13 @@
 "The page URL key can't use capital letters or disallowed symbols. Remove the letters and symbols and try again.","A chave URL da página não pode usar letras maiúsculas ou caracteres não permitidos. Remova as letras e caracteres e tente novamente."
 "The page URL key can't use only numbers. Add letters or words and try again.","A chave URL da página não pode usar apenas números. Adicione as letras ou palavras e tente novamente."
 "Please rename the folder using only Latin letters, numbers, underscores and dashes.","Por favor, renomeie a pasta usando apenas letras latinas, números, sublinhados e traços."
-"We cannot create the folder under the selected directory.","We cannot create the folder under the selected directory."
+"We cannot create the folder under the selected directory.","Não foi possível criar a pasta dentro do diretório selecionado."
 "We found a directory with the same name. Please try another folder name.","Um diretório com o mesmo nome já existe. Por favor, tente outro nome de diretório."
 "We cannot create a new directory.","Não foi possível criar um novo diretório."
-"We cannot delete the selected directory.","We cannot delete the selected directory."
+"We cannot delete the selected directory.","Não é possível excluir o diretório raiz."
 "We cannot delete directory %1.","Não é possível excluir o diretório %1."
-"We can't delete the file right now.","We can't delete the file right now."
-"We can't upload the file to the current folder right now. Please try another folder.","We can't upload the file to the current folder right now. Please try another folder."
+"We can't delete the file right now.","Não podemos excluir a etiqueta no momento."
+"We can't upload the file to the current folder right now. Please try another folder.","Nós não podemos enviar o arquivo para a pasta atual agora. Por favor, tente outra pasta."
 "File validation failed.","Validação do arquivo falhou."
 "We can't upload the file right now.","Não é possível enviar o arquivo neste momento."
 "We can't delete root directory %1 right now.","Não é possível excluir o diretório raiz %1 neste momento."
@@ -105,7 +105,7 @@
 "NoSuchEntityException","NoSuchEntityException"
 "Error message","Mensagem de erro"
 "LocalizedException","ExceçãoLocalizada"
-"Error","Error"
+"Error","Erro"
 "Could not create a directory.","Não foi possível criar o diretório."
 "Oh no. That isn't right.","Ah não. Isso não está certo."
 "Invalid format","Formato inválido"
@@ -176,10 +176,10 @@
                         <br/>
                         See Magento documentation for more information
                     ","
-                        List of layout files with an update handle ""selectable""
-                        matching *PageIdentifier*_*UpdateID*.
+                        Lista de arquivos de layout com um identificador de atualização ""selectable""
+                        correspondente a *PageIdentifier*_*Atualização*.
                         <br/>
-                        See Magento documentation for more information
+                        Consulte a documentação do Magento para obter mais informações
                     "
 "Custom Design Update","Atualização de Design personalizado"
 "From","De"
