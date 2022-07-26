@@ -132,7 +132,7 @@
 "Minute","Minuutti"
 "The store will not work correctly in the case when cookies are disabled.","The store will not work correctly in the case when cookies are disabled."
 "%name,","%name,"
-"Welcome to %store_name.","Tervetuloa %store_name -kauppaan."
+"Welcome to %store_name.","Tervetuloa %store_name -kauppaan!"
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Kirjautuaksesi sivustollemme, käytä näitä tunnistetietoja kassalla tai <a href=""%customer_url"">Oma tili</a> -sivulla:"
 "Email:","Sähköposti:"
 "Password:","Salasana:"
