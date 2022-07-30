@@ -50,7 +50,7 @@
 "Error filtering template: %s","Σφάλμα φιλτραρίσματος προτύπου: %s"
 "We're sorry, an error has occurred while generating this content.","Λυπούμαστε, Παρουσιάστηκε ένα σφάλμα κατά τη δημιουργία αυτού του περιεχομένου."
 "Invalid sender data","Μη έγκυρα δεδομένα αποστολέα"
-"Unable to send mail. Please try again later.","Unable to send mail. Please try again later."
+"Unable to send mail. Please try again later.","Δεν είναι δυνατή η αποστολή email. Παρακαλώ προσπαθήστε ξανά αργότερα."
 "Title","Τίτλος"
 "expectedResult","expectedResult"
 "Load Default Template","Φόρτωση Προεπιλεγμένου Προτύπου"
