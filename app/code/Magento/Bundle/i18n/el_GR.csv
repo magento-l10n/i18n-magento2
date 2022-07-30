@@ -38,7 +38,7 @@
 "Please select all required options.","Παρακαλώ επιλέξτε όλες τις απαιτούμενες επιλογές."
 "Option type (%types) should have only one element.","Ο τύπος επιλογής (%types) πρέπει να έχει μόνο ένα στοιχείο."
 "We can't add this item to your shopping cart right now.","Δεν μπορούμε να προσθέσουμε αυτό το προϊόν στο καλάθι των αγορών σας αυτή τη στιγμή."
-"Product relations processor must implement %1.","Product relations processor must implement %1."
+"Product relations processor must implement %1.","Ο επεξεργαστής σχέσεων προϊόντος πρέπει να υλοποιήσει το %1."
 "N/A","Μ/Δ Μή Διαθέσιμο"
 "Percent","Ποσοστό"
 "We can't save custom-defined options for bundles with dynamic pricing.","Δεν είναι δυνατή η αποθήκευση προσαρμοσμένων-ορισμών επιλογών για δέσμες με δυναμική τιμολόγηση."
