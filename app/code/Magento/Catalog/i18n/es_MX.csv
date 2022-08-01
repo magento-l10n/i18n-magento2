@@ -366,7 +366,7 @@
 "The custom option couldn't be removed.","The custom option couldn't be removed."
 "Please specify date required option(s).","Por favor, especifique las opciones obligatorias de la fecha."
 "Please specify time required option(s).","Por favor, especifique las opciones obligatorias de la hora."
-"The product's required option(s) weren't entered. Make sure the options are entered and try again.","The product's required option(s) weren't entered. Make sure the options are entered and try again."
+"The product's required option(s) weren't entered. Make sure the options are entered and try again.","No se han introducido las opciones requeridas del producto. Asegúrese de que las opciones han sido introducidas e inténtalo de nuevo."
 "The option instance type in options group is incorrect.","El tipo de instancia de opción en el grupo de opciones es incorrecta."
 "The product instance type in options group is incorrect.","El tipo de instancia de artículo en el grupo de opciones es incorrecto."
 "The configuration item option instance in options group is incorrect.","La instancia de opción del elemento de configuración en el grupo de opciones es incorrecta."

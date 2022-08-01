@@ -5,7 +5,7 @@
 "The ""%1"" file doesn't exist. Verify the file and try again.","Le fichier ""%1"" n’existe pas. Vérifiez le fichier et réessayez."
 "File %1 is not readable","Le fichier %1 n’est pas lisible"
 "File System","Système de fichiers"
-"Database (Deprecated)","Database (Deprecated)"
+"Database (Deprecated)","Base de données (obsolète)"
 "Sorry, something went wrong during image resize. Please see log for details.","Désolé, une erreur s'est produite lors du redimensionnement de l'image. Veuillez consulter le journal pour plus de détails."
 "database ""%1""","base de données ""%1"""
 "Parent directory does not exist: %1","Le répertoire parent n’existe pas: %1"
