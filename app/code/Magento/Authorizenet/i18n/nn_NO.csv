@@ -72,5 +72,5 @@
 "Unable to place order. Please try again later.","Kan ikke ta imot bestilling. Prøv igjen senere."
 "A server error stopped your order from being placed. Please try to place your order again.","En serverfeil stoppet bestillingen fra blir gjennomført. Prøv å bestille igjen."
 "The transaction details are unavailable. Please try again later.","Transaksjonsdetaljer er ikke tilgjengelige. Prøv igjen senere."
-"Authorize.Net Direct Post (Deprecated)","Authorize.Net Direct Post (Deprecated)"
+"Authorize.Net Direct Post (Deprecated)","Authorize.net direkte post (utfaset)"
 "Signature Key","Signatur nøkkel"
