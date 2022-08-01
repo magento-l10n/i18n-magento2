@@ -23,7 +23,7 @@
 "Are you sure that you want to log out all other sessions?","Tem a certeza que deseja sair de todas as outras sessões?"
 "Log out all other sessions","Finalizem todas as outras sessões"
 "This computer is using IP address %1.","Este computador está usando o IP endereço %1."
-"Warning","Warning"
+"Warning","Atenção"
 ": You are about to set max session size in admin to be lower than recommended default session size. Low max session size in admin could break admin functionalities such as admin panel login. Are you sure you want to make this change?",": You are about to set max session size in admin to be lower than recommended default session size. Low max session size in admin could break admin functionalities such as admin panel login. Are you sure you want to make this change?"
 ": You are about to set max session size in storefront to be lower than  recommended default session size. Low max session size in storefront could break storefront functionalities such as customer login. Are you sure you want to make this change?",": Você está prestes a definir o tamanho máximo de sessão na frente da loja para ser inferior ao tamanho de sessão padrão recomendado. O tamanho mínimo da sessão na vitrine pode quebrar as funcionalidades de vitrine como acesso ao cliente. Tem certeza que deseja fazer essa alteração?"
 "No","Não"
