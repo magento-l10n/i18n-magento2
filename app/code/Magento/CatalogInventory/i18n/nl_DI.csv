@@ -28,7 +28,7 @@
 "The Product with the ""%1"" SKU doesn't exist.","The Product with the ""%1"" SKU doesn't exist."
 "Please correct the quantity for some products.","Corrigeer het aantal voor sommige producten."
 "The fewest you may purchase is %1.","Het minimale dat Je kunt bestellen is %1."
-"The requested qty exceeds the maximum qty allowed in shopping cart","The requested qty exceeds the maximum qty allowed in shopping cart"
+"The requested qty exceeds the maximum qty allowed in shopping cart","De gevraagde hoeveelheid is hoger dan het maximaal toegestane aantal in winkelwagen"
 "You cannot use decimal quantity for this product.","You cannot use decimal quantity for this product."
 "The requested qty is not available","The requested qty is not available"
 "We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","We hebben niet zo veel van ""%1"" zoals je gevraagd hebt, maar we zullen de resterende %2 naleveren."

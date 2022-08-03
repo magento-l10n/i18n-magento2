@@ -36,7 +36,7 @@
 "Could not save history","Kon geschiedenis niet opslaan"
 "Cannot delete history with id %1","Kon geschiedenis-item met ID %1 niet verwijderen"
 "Missing parameters to complete action request","Ontbrekende parameters om het verzoek te voltooien"
-"Company id: %1 (%2)","Bedrijf id: %1 (%2)"
+"Company id: %1 (%2)","Bedrijfs id: %1 (%2)"
 "Error during reimburse: %1","Fout tijdens terugbetaling: %1"
 "No such entity with %fieldName = %fieldValue","Geen dergelijke entiteit met %fieldName = %fieldValue"
 "Could not save company credit limit","Kon de limiet voor bedrijfskrediet niet opslaan"
