@@ -356,7 +356,7 @@
 "No image with the provided ID was found. Verify the ID and try again.","No image with the provided ID was found. Verify the ID and try again."
 "The product doesn't exist. Verify and try again.","The product doesn't exist. Verify and try again."
 "The image doesn't exist. Verify and try again.","The image doesn't exist. Verify and try again."
-"The image doesn't exist.","The image doesn't exist."
+"The image doesn't exist.","La imagen no existe."
 "The image type for the file is invalid. Enter the correct image type and try again.","The image type for the file is invalid. Enter the correct image type and try again."
 "The ""%1"" file couldn't be moved.","The ""%1"" file couldn't be moved."
 "Can't get information about the picture: %1","Can't get information about the picture: %1"
