@@ -1,6 +1,6 @@
-"It is impossible to log user action","It is impossible to log user action"
+"It is impossible to log user action","É impossível registrar a ação do usuário"
 "Error message","Mensagem de erro"
-"An error occurred while logging process.","An error occurred while logging process."
+"An error occurred while logging process.","Ocorreu um erro ao registrar o processo."
 "Release Notification","Última Notificação"
 "Sorry, we had a problem loading our “What’s new” content.","Desculpe, tivemos um problema ao carregar o conteúdo ""O que há de novo""."
 "
@@ -9,8 +9,8 @@
                         <a href=""https://devdocs.magento.com/magento-release-information.html""
                         target=""_blank"">DevDocs' Release Information</a>.
                         </p>","
-                        <p>We’ll try to show it again the next time you sign in to Magento Admin.</p>
-                        <p>To learn more about new features, see our latest Release Notes in
+                        <p>Tentaremos mostrar isto novamente da próxima vez que você entrar no Magento Admin.</p>
+                        <p>Para aprender mais sobre novos recursos, veja nossas últimas notas de lançamento em
                         <a href=""https://devdocs.magento.com/magento-release-information.html""
-                        target=""_blank"">DevDocs' Release Information</a>.
+                        target=""_blank"">Informações de lançamento do DevDocs</a>.
                         </p>"
