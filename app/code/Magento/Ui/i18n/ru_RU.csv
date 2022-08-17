@@ -93,7 +93,7 @@
 "Deselect All on This Page","Deselect All on This Page"
 "On","On"
 "Off","Off"
-"Go to Details Page","Go to Details Page"
+"Go to Details Page","Перейти на страницу редактирования"
 "New View","New View"
 "Default View","Default View"
 "${ $.visible } out of ${ $.total } visible","${ $.visible } out of ${ $.total } visible"
