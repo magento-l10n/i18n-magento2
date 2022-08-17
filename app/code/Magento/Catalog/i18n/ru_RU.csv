@@ -351,7 +351,7 @@
 "Not allowed to edit the product's design attributes","Not allowed to edit the product's design attributes"
 "We couldn't copy file %1. Please delete media with non-existing images and try again.","Не удалось скопировать файл %1. Удалите медиафайлы с несуществующими изображениями и повторите попытку."
 "The image content is invalid. Verify the content and try again.","The image content is invalid. Verify the content and try again."
-"The product can't be saved.","The product can't be saved."
+"The product can't be saved.","Товар не может быть сохранён."
 "The new media gallery entry failed to save.","The new media gallery entry failed to save."
 "No image with the provided ID was found. Verify the ID and try again.","No image with the provided ID was found. Verify the ID and try again."
 "The product doesn't exist. Verify and try again.","The product doesn't exist. Verify and try again."
