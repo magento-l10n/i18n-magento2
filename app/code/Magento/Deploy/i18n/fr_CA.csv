@@ -5,7 +5,7 @@
 "There are no sensitive configurations to fill","Il n'y a aucune configuration sensible à remplir"
 "The value can't be empty. Enter the value and try again.","La valeur ne peut pas être vide. Entrez la valeur et réessayez."
 "A configuration with this path does not exist or is not sensitive","Une configuration ayant ce chemin n'existe pas ou n'est pas sensible"
-"The mode can't be switched to ""%1"".","Le mode ne peut pas être changé en ""%1""."
+"The mode can't be switched to ""%1"".","Le mode ne peut pas être changé à ""%1""."
 "Wrong logger interface specified.","L'interface 'logger' spécifiée est incorrecte."
 "The hash isn't saved.","Le hachage n'est pas enregistré."
 "The parameter ""importer_class"" is missing. Set the ""importer_class"" and try again.","Le paramètre ""importer_class"" est manquant. Définissez ""importer_class"" et réessayez."
