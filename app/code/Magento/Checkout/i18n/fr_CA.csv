@@ -180,7 +180,7 @@
 "Select a new payment method","Sélectionner un nouveau mode de paiement"
 "Shipping","Livraison"
 "Save Address","Sauvegarder l'adresse"
-"Please specify a regionId in shipping address.","Veuillez spécifier un regionId dans l'adresse de livraison."
+"Please specify a regionId in shipping address.","Veuillez spécifier la valeur de l'identifiant de région dans l'adresse de livraison."
 "Checkout Options","Options de règlement"
 "Enable Onepage Checkout","Activer le passage de commande en une seule page"
 "Allow Guest Checkout","Autoriser le passage de commande en tant qu'invité"
