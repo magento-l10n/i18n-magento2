@@ -19,6 +19,6 @@
 "Specify grace period in seconds for config file generation. If field is empty default value 300 will be saved. This grace period will be used to serve cached content when the server is healthy. If the server is not healthy, cached content will be served for 3 days before failing.","Spécifiez la période de grâce en secondes pour la génération de fichier de configuration. Si le champ est vide par défaut 300 sera sauvegardé. Cette période de grâce sera utilisée pour servir le contenu en cache lorsque le serveur est sain. Si le serveur n'est pas en bonne santé, le contenu en cache sera servi pendant 3 jours avant d'échouer."
 "Export Configuration","Configuration d'exportation"
 "TTL for public content","TTL pour le contenu publique"
-"Public content cache lifetime in seconds. If field is empty default value 86400 will be saved.","Durée de vie du cache du contenu public en secondes. Si le champ est vide par défaut, 86400 sera sauvegardé."
+"Public content cache lifetime in seconds. If field is empty default value 86400 will be saved.","Durée de vie en cache de contenu public en secondes. Si le champ est vide par défaut 86400 est enregistrée."
 "Page Cache","Cache de page"
 "Full page caching","Cache de Full page"

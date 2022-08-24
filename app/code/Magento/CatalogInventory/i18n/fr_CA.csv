@@ -25,7 +25,7 @@
 "The ""%1"" value is invalid for stock ID. Enter stock with a default value of %2 to try again.","La valeur ""%1"" n'est pas valide pour l'identifiant du stock. Entrez le stock avec une valeur par défaut de %2 pour réessayer."
 "The ""%1"" value is invalid for stock item ID. Enter either zero or a number than zero to try again.","La valeur ""%1"" n'est pas valide pour l'identifiant de l'article en stock. Entrez soit un zéro ou un nombre supérieur à zéro pour réessayer."
 "The ""%1"" value is invalid for stock item ID. Use the stock item ID's assigned ""%2"" value and try again.","La valeur ""%1"" n'est pas valide pour l'identifiant du stock de l'article. Utilisez la valeur assignée à l'article en stock ""%2"" et réessayez."
-"The Product with the ""%1"" SKU doesn't exist.","Le produit avec la REF ""%1"" n'existe pas."
+"The Product with the ""%1"" SKU doesn't exist.","Le produit avec le SKU ""%1"" n'existe pas."
 "Please correct the quantity for some products.","Merci de corriger la quantité de certains produits."
 "The fewest you may purchase is %1.","Le moins que vous puissiez acheter est %1."
 "The requested qty exceeds the maximum qty allowed in shopping cart","La quantité demandée dépasse la quantité maximale autorisée dans le panier"
