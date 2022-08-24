@@ -3,7 +3,7 @@
 "There is no items to delete","Il n'y a aucun élément à supprimer"
 "Cannot update item list.","Impossible de mettre à jour la liste des éléments."
 "Entered list is empty.","La liste saisie est vide."
-"You entered item(s) with an empty SKU.","Vous avez entré un ou ddes articles avec une REF vide."
+"You entered item(s) with an empty SKU.","Vous avez entré un ou des articles avec un SKU vide."
 "The uploaded CSV file does not contain a column labelled SKU. Make sure the first column is labelled SKU and that each line in the file contains a SKU value. Then upload the file again.","Le fichier CSV téléversé ne contient pas de colonne nommée REF. Veuillez vous assurer que la première colonne est libellée REF et que chaque ligne du fichier contient une valeur REF. Puis téléverser de nouveau le fichier."
 "An error occurred. For details, see the error log.","Une erreur est survenue. Pour plus de détails, consultez le journal des erreurs."
 "You should correct the quantity for the product.","Vous devriez corriger la quantité pour le produit."
