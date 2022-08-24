@@ -2,7 +2,7 @@
 "Filterable (with results)","Filtrable (avec résultats)"
 "Filterable (no results)","Filtrable (pas de résultats)"
 "Use in Layered Navigation","Utiliser dans la navigation par filtres"
-"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price","Ne peut être utilisé qu'avec un type de saisie ""Oui/Non"", ""liste déroulante"", ""choix multiple"" ou ""prix"""
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price","Peut être utilisé uniquement avec le type d'entrée du catalogue Oui/Non, Dropdown, choix multiple et prix"
 "Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
                     <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
                      it will make no affect on Price filter.","Ne peut être utilisé qu'avec le type de saisie Oui/Non, Liste déroulante, Sélection multiple et Prix.
