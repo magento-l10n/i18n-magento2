@@ -1,6 +1,6 @@
 "Current customer does not have access to the resource ""%1""","Le client actuel n'a pas accès à la ressource ""%1 """
 "Customer id %1 does not exist.","L'identifiant du client %1 n'existe pas."
-"Required parameters are missing: %1","Les paramètres requis sont manquants : %1"
+"Required parameters are missing: %1","Les paramètres requis sont manquants: %1"
 "Customer Address %1 is set as default billing address and can not be deleted","L'adresse client %1 est définie comme adresse de facturation par défaut et ne peut pas être supprimée"
 "Customer Address %1 is set as default shipping address and can not be deleted","L'adresse client %1 est définie comme adresse de livraison par défaut et ne peut pas être supprimée"
 "Could not find a address with ID ""%address_id""","Impossible de trouver une adresse avec ID ""%address_id"""
@@ -18,4 +18,4 @@
 "Address ""id"" value should be specified","La valeur ""id"" de l'adresse doit être spécifiée"
 "Specify the ""email"" value.","Spécifiez la valeur de l'""e-mail""."
 "Specify the ""password"" value.","Spécifiez la valeur du ""password""."
-"""Email should be specified","""Email doit être spécifié"
+"""Email should be specified","""Courriel doit être spécifié"
