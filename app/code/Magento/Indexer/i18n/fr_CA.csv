@@ -16,7 +16,7 @@
 "We couldn't invalidate indexer(s) because of an error.","Nous n'avons pas pu invalider le(s) indexeur(s) à cause d'une erreur."
 "%1 indexer(s) are in ""Update on Save"" mode.","%1 indexe(s) sont sur le mode ""Mise à jour à la sauvegarde""."
 "One or more <a href=""%1"">indexers are invalid</a>. Make sure your <a href=""%2"" target=""_blank"">Magento cron job</a> is running.","Un ou plusieurs <a href=""%1"">indexes sont invalides</a>. Assurez-vous que <a href=""%2"" target=""_blank"">le cron de Magento</a> tourne bien."
-"Child process failed with message: %1","Le processus enfant a échoué avec le message : %1"
+"Child process failed with message: %1","Le processus enfant a échoué avec le message: %1"
 "State for the same indexer","État pour le même index"
 "State for the same view","État pour la même vue"
 "Field '%1' not found","Champ '%1' non trouvé"
