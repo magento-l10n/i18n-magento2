@@ -45,7 +45,7 @@
 "New Widget","Nouveau widget"
 "Widgets","Widgets"
 "No widget instance IDs were provided to be deleted.","Aucune ID d'instance de widget n'a été fournie pour être supprimé."
-"A total of %1 record(s) have been deleted.","Un total de %1 enregistrement(s) ont été supprimés."
+"A total of %1 record(s) have been deleted.","%1 enregistrement(s) a (ont) été effacé(s)."
 "Widget(s) with ID(s) %1 were not found","Widget(s) avec ID(s) %1 n'ont pas été trouvés"
 "The widget instance has been saved.","L'instance de widget a bien été sauvegardée."
 "No such entity with instance_id = %instance_id","Aucune entité avec instance_id = %instance_id"

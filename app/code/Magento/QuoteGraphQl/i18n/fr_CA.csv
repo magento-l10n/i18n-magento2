@@ -1,6 +1,6 @@
 "Shopping cart error: %message","Erreur dans le panier : %message"
 "Could not find a product with SKU ""%sku""","Impossible de trouver un produit portant la REF ""%sku"""
-"Could not add the product with SKU %sku to the shopping cart: %message","Impossible d'ajouter le produit avec SKU %sku au panier: %message"
+"Could not add the product with SKU %sku to the shopping cart: %message","Impossible d'ajouter le produit avec le SKU %sku au panier: %message"
 "Missing key ""sku"" in cart item data","Clé REF manquante dans les données article du panier"
 "Missing key ""qty"" in cart item data","Clé manquante ""Qté"" dans les données articles du panier"
 "Could not find a cart with ID ""%masked_cart_id""","Impossible de trouver un panier avec l'ID ""%masked_cart_id"""

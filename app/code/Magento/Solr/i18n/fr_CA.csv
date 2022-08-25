@@ -8,7 +8,7 @@
 "Solr Server Port","Port du serveur Solr"
 "Solr Server Username","Nom d'utilisateur du serveur Solr"
 "Solr Server Password","Mot de passe du serveur Solr"
-"Solr Server Timeout","Délai maxi (timeout) du serveur Solr"
+"Solr Server Timeout","Délai maximum (timeout) du serveur Solr"
 "Solr Server Path","Chemin du serveur Solr"
 "Without starting and trailing slashes.","Sans slashs."
 "Indexation Mode","Mode d'indexation"
