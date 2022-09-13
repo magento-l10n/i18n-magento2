@@ -1,4 +1,4 @@
-"Please correct the data sent.","Please correct the data sent."
-"Entity type model '%1' is not found","Entity type model '%1' is not found"
-"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType"
-"There are no product types available for export","There are no product types available for export"
+"Please correct the data sent.","Vă rugăm să corectați datele trimise."
+"Entity type model '%1' is not found","Modelul entitatatii '%1' nu a fost găsit"
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Modelul entitatatii trebuie să fie o instanță de \Magento\CatalogImportImport\Model\Export\Product\Type\AbstractType"
+"There are no product types available for export","Nu există tipuri de produse disponibile pentru export"
