@@ -39,7 +39,7 @@
 "Catalog Section","Catalog Section"
 "Catalog Search","Поиск по каталогу"
 "Popular Search Terms","Популярные поисковые запросы"
-"Minimal Query Length","Минимальная длин запроса"
+"Minimal Query Length","Минимальная длина запроса"
 "This value must be compatible with the corresponding setting in the configured search engine. Be aware: a low query length limit may cause the performance impact.","This value must be compatible with the corresponding setting in the configured search engine. Be aware: a low query length limit may cause the performance impact."
 "Maximum Query Length","Максимальная длина запроса"
 "This value must be compatible with the corresponding setting in the configured search engine.","This value must be compatible with the corresponding setting in the configured search engine."
