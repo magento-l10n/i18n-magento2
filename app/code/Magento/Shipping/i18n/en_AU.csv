@@ -51,7 +51,7 @@
 "Tracking Information","Tracking Information"
 "Sorry, but we can't deliver to the destination country with this shipping module.","Sorry, but we can't deliver to the destination country with this shipping module."
 "The shipping module is not available.","The shipping module is not available."
-"This shipping method is not available. Please specify the zip code.","This shipping method is not available. Please specify the zip code."
+"This shipping method is not available. Please specify the zip code.","This shipping method is not available. Please specify the post code."
 "No packages for request","No packages for request"
 "The security validation of the XML document has failed.","The security validation of the XML document has failed."
 "All Allowed Countries","All Allowed Countries"
