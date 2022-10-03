@@ -23,7 +23,7 @@
 "Are you sure that you want to log out all other sessions?","他のすべてのセッションをログアウトしてもよろしいですか？"
 "Log out all other sessions","他のすべてのセッションをログアウトする"
 "This computer is using IP address %1.","このコンピュータはIPアドレス %1 を使用しています。"
-"Warning","Warning"
+"Warning","警告"
 ": You are about to set max session size in admin to be lower than recommended default session size. Low max session size in admin could break admin functionalities such as admin panel login. Are you sure you want to make this change?",": You are about to set max session size in admin to be lower than recommended default session size. Low max session size in admin could break admin functionalities such as admin panel login. Are you sure you want to make this change?"
 ": You are about to set max session size in storefront to be lower than  recommended default session size. Low max session size in storefront could break storefront functionalities such as customer login. Are you sure you want to make this change?",": You are about to set max session size in storefront to be lower than  recommended default session size. Low max session size in storefront could break storefront functionalities such as customer login. Are you sure you want to make this change?"
 "No","No"
