@@ -104,7 +104,7 @@
 "Excluding Tax","Ilman veroja"
 "Including Tax","Verollinen"
 "None","Ei mikään"
-"Including and Excluding Tax","Including and Excluding Tax"
+"Including and Excluding Tax","Verollinen sekä veroton"
 "To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”. ","To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”. "
 "Store(s) affected: ","Store(s) affected: "
 "Click on the link to <a href=""%1"">ignore this notification</a>","Click on the link to <a href=""%1"">ignore this notification</a>"
