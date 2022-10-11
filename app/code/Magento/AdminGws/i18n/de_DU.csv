@@ -1,13 +1,13 @@
 "All","Alle"
 "None","Keine"
 "Allowed Scopes","Zulässige Bereiche"
-"More permissions are needed to delete the ""%1"" item.","Sie haben keine ausreichenden Berechtigungen, um das Element ""%1"" zu löschen."
+"More permissions are needed to delete the ""%1"" item.","Weitere Berechtigungen sind erforderlich, um das Element ""%1"" zu löschen."
 "You need more permissions to apply some of the rule updates.","Sie benötigen weitere Berechtigungen, um diese Regel-Änderungen anzuwenden."
 "More permissions are needed to view this item.","Weitere Berechtigungen sind erforderlich, um dieses Element anzuzeigen."
-"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","Die Entität muss einer Store View zugeordnet werden. Überprüfen Sie die Zuordnung und versuchen Sie es erneut."
+"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","Die Entität muss einer Store View zugeordnet werden. Überprüft die Zuordnung und versucht es erneut."
 "This item needs to be assigned to a store view.
                 Please select a website for this product in ""Product in Websites"".","Dieser Artikel muss einer Shopansicht zugewiesen werden.
-                Bitte wählen Sie eine Website für dieses Produkt unter ""Produkt in Websites"" aus."
+                Bitte wählt eine Website für dieses Produkt unter ""Produkt in Websites"" aus."
 "Orders can only be completed in an active store. Verify the store and try again.","Bestellungen können nur in einer aktiven Shop-Ansicht abgeschlossen werden. Überprüfen Sie die Shop-Ansicht und versuchen Sie es erneut."
 "This item needs to be assigned to a store view. Assign item and try again.","Dieses Element muss ein Shop-Ansicht zugeordnet werden. Weisen Sie den Artikel zu und versuchen Sie es erneut."
 "More permissions are needed to save this item.","Weitere Berechtigungen sind erforderlich, um dieses Element zu speichern."
