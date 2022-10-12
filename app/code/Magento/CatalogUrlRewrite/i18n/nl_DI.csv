@@ -5,7 +5,7 @@
 "Invalid URL key. The ""%1"" category name can not be used to generate Latin URL key. Please add URL key or change category name using Latin letters and numbers to avoid generating URL key issues.","Invalid URL key. The ""%1"" category name can not be used to generate Latin URL key. Please add URL key or change category name using Latin letters and numbers to avoid generating URL key issues."
 "Invalid URL key","Ongeldige URL"
 "Category URL Suffix","Categorie URL achtervoegsel"
-"You need to refresh the cache.","Jemoet de cache vernieuwen."
+"You need to refresh the cache.","Je moet de cache vernieuwen."
 "Product URL Suffix","Product URL achtervoegsel"
 "Use Categories Path for Product URLs","Categorieënpad voor product-URL’s gebruiken"
 "Create Permanent Redirect for URLs if URL Key Changed","Maak een permanente URL-verwijzing aan voor URLs als de URL-key veranderd"

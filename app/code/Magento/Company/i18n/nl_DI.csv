@@ -190,7 +190,7 @@
 "Account Information","Account Gegevens"
 "VAT/TAX ID: ","BTW-nummer: "
 "Re-seller ID: ","Verkoper ID: "
-"You have no other address entries in your address book.","Je hebt geen andere adressen ingevoerd in jeadresboek."
+"You have no other address entries in your address book.","Je hebt geen andere adressen ingevoerd in je adresboek."
 "T: %1","T: %1"
 "Contacts","Contacten"
 "Sales Representative","Vertegenwoordiger"
@@ -214,7 +214,7 @@
 "You've been added to the <a href=%customer_url>%company_name</a> as the company member.
     Once you enter your account,
     the company's shared resources will be available for you.","Je bent als bedrijfslid toegevoegd aan <a href=%customer_url>%company_name </a>.
-     Zodra jeinlogt in jeaccount worden de gedeelde bronnen van het bedrijf beschikbaar voor u."
+     Zodra je inlogt in je account worden de gedeelde bronnen van het bedrijf beschikbaar voor u."
 "If this is a mistake,
     please contact the company Admin at %company_admin_email.","Als dit is een vergissing,
     neem contact op met het bedrijf Admin op %company_admin_email."
