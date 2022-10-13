@@ -52,7 +52,7 @@
 "Invalid sender data","Dados do remetente inválido"
 "Unable to send mail. Please try again later.","Não foi possível enviar o e-mail. Por favor, tente novamente mais tarde."
 "Title","Título"
-"expectedResult","expectedResult"
+"expectedResult","resultadoEsperado"
 "Load Default Template","Carregar Template Padrão"
 "Template","Tema"
 "Are you sure you want to strip tags?","Tem certeza que deseja remover etiquetas?"
