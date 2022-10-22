@@ -23,7 +23,7 @@
 "Could not save child: ""%1""","Nem lehet menteni a gyermeket: ""%1"""
 "Product with specified sku: ""%1"" does not contain option: ""%2""","A megadott ""%1"" cikkszámú termék nem nem tartalmazza a ""%2"" lehetőséget"
 "Child with specified sku: ""%1"" already assigned to product: ""%2""","A ""%1"" cikkszámú gyermek már hozzá van rendelve a ""%2"" termékhez"
-"The bundle product doesn't exist. Review your request and try again.","The bundle product doesn't exist. Review your request and try again."
+"The bundle product doesn't exist. Review your request and try again.","A kötegelt termék nem létezik. Ellenőrizze a kérést, és próbálja újra."
 "The option that was requested doesn't exist. Verify the entity and try again.","The option that was requested doesn't exist. Verify the entity and try again."
 "The option couldn't be saved.","Az opció nem menthető el."
 """%fieldName"" is required. Enter and try again.","""%fieldName"" megadása kötelező."
