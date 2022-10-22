@@ -11,7 +11,7 @@
 "By Email","Per E-Mail"
 "None","Keine"
 "Expiration Date","Expiration Date"
-"We received too many requests for password resets. Please wait and try again later or contact %1.","We received too many requests for password resets. Please wait and try again later or contact %1."
+"We received too many requests for password resets. Please wait and try again later or contact %1.","Wir haben zu viele Anfragen für das Zurücksetzen Ihres Passworts erhalten. Bitte warten Sie und versuchen Sie es später erneut oder kontaktieren Sie %1."
 "Incorrect Security Checker class. It has to implement SecurityCheckerInterface","Falsche Security Checker Klasse. Sie muss SecurityCheckerInterface implementieren"
 """%1"" must be later than the current date.","""%1"" must be later than the current date."
 "The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later."
