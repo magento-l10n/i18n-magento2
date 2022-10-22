@@ -366,7 +366,7 @@
 "The custom option couldn't be removed.","The custom option couldn't be removed."
 "Please specify date required option(s).","Bitte geben Sie die Datums Option(en) ein."
 "Please specify time required option(s).","Bitte geben Sie die Zeit Option(en) ein."
-"The product's required option(s) weren't entered. Make sure the options are entered and try again.","The product's required option(s) weren't entered. Make sure the options are entered and try again."
+"The product's required option(s) weren't entered. Make sure the options are entered and try again.","Bitte tragen Sie die fehlenden Daten für das Produkt ein und versuchen es erneut."
 "The option instance type in options group is incorrect.","Der Optionsinstanztyp in der Optionengruppe ist inkorrekt."
 "The product instance type in options group is incorrect.","Der Produktinstanztyp in der Optionengruppe ist inkorrekt."
 "The configuration item option instance in options group is incorrect.","Die Konfigurationsartikel-Optionsinstanz in der Optionengruppe ist inkorrekt."
