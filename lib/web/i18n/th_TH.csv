@@ -66,7 +66,7 @@
 "Please enter a number 0 or greater in this field.","โปรดป้อนตัวเลขที่มากกว่า 0 ในฟิลด์นี้"
 "Please enter a number greater than 0 in this field.","โปรดป้อนตัวเลขที่มากกว่า 0 ในฟิลด์นี้"
 "Please input a valid CSS-length (Ex: 100px, 77pt, 20em, .5ex or 50%).","โปรดป้อนความยาว CSS ที่ถูกต้อง (เช่น 100px, 77pt, 20em, .5ex หรือ 50%)"
-"Please enter a valid number in this field.","โปรดระบุตัวเลขในช่อง ""จำนวน"""
+"Please enter a valid number in this field.","โปรดป้อนตัวเลขที่ถูกต้องในฟิลด์นี้"
 "The value is not within the specified range.","ค่าไม่อยู่ในช่วงที่ระบุ"
 "Forbidden extensions has been used. Avoid usage of ","มีการใช้ส่วนขยายต้องห้าม หลีกเลี่ยงการใช้ "
 "Please use letters only (a-z or A-Z) in this field.","โปรดใช้ตัวอักษรเท่านั้น (a-z หรือ A-Z) ในช่องนี้"
