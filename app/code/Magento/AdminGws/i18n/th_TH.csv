@@ -1,9 +1,9 @@
 "All","ทั้งหมด"
 "None","ไม่มี"
 "Allowed Scopes","Allowed Scopes"
-"More permissions are needed to delete the ""%1"" item.","More permissions are needed to delete the ""%1"" item."
+"More permissions are needed to delete the ""%1"" item.","ต้องมีสิทธิ์เพิ่มขึ้นในการลบรายการ ""%1"""
 "You need more permissions to apply some of the rule updates.","คุณต้องการสิทธิ์เพิ่มเติมในการอัพเดท"
-"More permissions are needed to view this item.","More permissions are needed to view this item."
+"More permissions are needed to view this item.","ต้องมีสิทธิ์เพิ่มขึ้นในการที่จะเปิดดูรายการนี้"
 "This entity needs to be assigned to a store view. Verify the entity assignment and try again.","This entity needs to be assigned to a store view. Verify the entity assignment and try again."
 "This item needs to be assigned to a store view.
                 Please select a website for this product in ""Product in Websites"".","This item needs to be assigned to a store view.
