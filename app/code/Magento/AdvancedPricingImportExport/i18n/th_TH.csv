@@ -1,4 +1,4 @@
-"Please correct the data sent.","Please correct the data sent."
-"Entity type model '%1' is not found","Entity type model '%1' is not found"
-"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType"
-"There are no product types available for export","There are no product types available for export"
+"Please correct the data sent.","โปรดแก้ไขข้อมูลที่ส่ง"
+"Entity type model '%1' is not found","ไม่พบโมเดลประเภทเอนทิตี '%1'"
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","โมเดลประเภทเอนทิตีต้องเป็นอินสแตนซ์ของ \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType"
+"There are no product types available for export","ไม่มีประเภทสินค้าที่สามารถส่งออกได้"
