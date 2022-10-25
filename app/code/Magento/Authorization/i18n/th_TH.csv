@@ -1,2 +1,2 @@
-"The role wasn't found for the user. Verify the role and try again.","The role wasn't found for the user. Verify the role and try again."
-"Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log."
+"The role wasn't found for the user. Verify the role and try again.","ไม่พบบทบาทสำหรับผู้ใช้ ยืนยันบทบาทแล้วลองอีกครั้ง"
+"Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","เกิดข้อผิดพลาดขณะรวบรวมรายการทรัพยากรที่อนุญาต คุณสามารถหาข้อมูลเพิ่มเติมได้ใน exceptions log."
