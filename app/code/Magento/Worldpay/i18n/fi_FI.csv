@@ -54,6 +54,6 @@
 "Payment was canceled","Maksu peruutettiin"
 "Please ","Ole hyvä "
 "continue shopping","jatka ostoksia"
-"Transaction has been canceled","Transaction has been canceled"
-"Transaction has been declined","Transaction has been declined"
+"Transaction has been canceled","Tapahtuma on peruutettu"
+"Transaction has been declined","Tapahtuma on hylätty"
 "The response type is incorrect. Verify the type and try again.","The response type is incorrect. Verify the type and try again."
