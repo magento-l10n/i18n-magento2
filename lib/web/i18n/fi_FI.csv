@@ -68,7 +68,7 @@
 "Please input a valid CSS-length (Ex: 100px, 77pt, 20em, .5ex or 50%).","Anna kelvollinen CSS pituus (Ex: 100px, 77pt, 20em, .5ex tai 50 %)."
 "Please enter a valid number in this field.","Kirjoita kelvollinen numero tähän kenttään."
 "The value is not within the specified range.","Arvo ei ole määritetyissä rajoissa."
-"Forbidden extensions has been used. Avoid usage of ","Forbidden extensions has been used. Avoid usage of "
+"Forbidden extensions has been used. Avoid usage of ","Kiellettyjä laajennuksia on käytetty. Vältä käyttämästä "
 "Please use letters only (a-z or A-Z) in this field.","Käytä vain kirjaimia (a-z tai A-Z) tässä kentässä."
 "Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.","Käytä ainoastaan kirjaimia (a–ö tai A-Ö) tai numeroita (0-9) tässä kentässä. Välilyöntejä tai muita merkkejä ei sallita."
 "First character must be letter.","Ensimmäisen merkin on oltava kirjain."
