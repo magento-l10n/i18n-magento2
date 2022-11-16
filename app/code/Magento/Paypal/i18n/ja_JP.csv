@@ -88,7 +88,7 @@
 "The PayPal gateway rejected the request. %1","PayPalゲートウェイが要求を拒否しました。 %1"
 "I'm sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you.","申し訳ありませんが、お支払いを処理できませんでした。別の支払い方法を試すか、お問い合わせください。"
 "I'm sorry - but we are not able to complete your transaction. Please contact us so we can assist you.","申し訳ありませんが、トランザクションを完了できません。お問い合わせください。"
-"A successful payment transaction has already been completed. Please, check if the order has been placed.","A successful payment transaction has already been completed. Please, check if the order has been placed."
+"A successful payment transaction has already been completed. Please, check if the order has been placed.","成功支払トランザクションが完了されました。注文が確定しましたかご確認ください。"
 "A match of the Shipping Address City, State, and Postal Code failed.","配送先住所の市、県、郵便番号が一致しませんでした。"
 "We can't place the order.","注文を行えません。"
 "The payment method code is not set.","支払方法コードが設定されていません。"

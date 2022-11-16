@@ -1,7 +1,6 @@
 "No New Relic Application ID configured, cannot continue with Cron Event reporting","RelicアプリケーションIDが設定されていないため, Cronイベントレポートを続けれません"
 "The New Relic integration requires the newrelic-php5 agent, which is not installed. More
-                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","The New Relic integration requires the newrelic-php5 agent, which is not installed. More
-                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>."
+                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","New Relicを利用するため「newrelic-php5」 エージェントが必要です。エージェントをインストール詳細情報が <a target=""_blank"" href=""%1"">こちら</a>で参考できます。"
 "New Relic Reporting Section","新しいRelic報告セクション"
 "New Relic Reporting","New Relicレポート"
 "General","全般"
