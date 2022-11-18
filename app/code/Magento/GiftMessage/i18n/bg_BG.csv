@@ -3,7 +3,7 @@
 "The gift message isn't available.","Подаръчното съобщение не е налично."
 "The gift message couldn't be added to Cart.","Подаръчнто съобщение не може да се добави в кошницата."
 "No item with the provided ID was found in the Cart. Verify the ID and try again.","Няма продукт с посочения ID в кошницата. Проверете ID и опитайте пак."
-"No product with the ""%1"" itemId exists in the Cart. Verify your information and try again.","Няма продукт с код ""%1"" в кошницата. Проверете вашата информация и опитайте пак."
+"No product with the ""%1"" itemId exists in the Cart. Verify your information and try again.","В количката няма продукт с каталожен номер ""%1"". Проверете и опитайте пак."
 "No item with the provided ID was found in the Order. Verify the ID and try again.","Няма продукт с посочения ID във фактурата. Проверете ID и опитайте пак."
 "No item with the provided ID was found in the Order, or a gift message isn't allowed. Verify and try again.","Няма стока с посочения ID във фактурата, или Подаръчно съобщение не е разреено. Проверете и опитайте пак."
 "The gift message couldn't be added to the ""%1"" order.","Подаръчнто съобщение не може да се добави в поръчка ""%1""."
