@@ -366,7 +366,7 @@
 "The custom option couldn't be removed.","The custom option couldn't be removed."
 "Please specify date required option(s).","Angiv venligst dato krævede indstillinger."
 "Please specify time required option(s).","Angiv venligst dato krævede indstillinger."
-"The product's required option(s) weren't entered. Make sure the options are entered and try again.","Produktets påkrævede valgmulighed(er) blev ikke indtastet. Indtast valgmulighed(en/erne) og prøv igen. "
+"The product's required option(s) weren't entered. Make sure the options are entered and try again.","Produktets påkrævede valgmulighed(er) blev ikke indtastet. Indtast valgmulighederne og prøv igen."
 "The option instance type in options group is incorrect.","Den valgte valgmulighed i valgmuligheder er forkert."
 "The product instance type in options group is incorrect.","Det valgte produkt type i valgmuligheder er forkert."
 "The configuration item option instance in options group is incorrect.","Det valgte konfigurations element i valgmuligheder er forkert."
