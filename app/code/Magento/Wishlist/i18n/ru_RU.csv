@@ -13,7 +13,7 @@
 "The cart item doesn't exist.","The cart item doesn't exist."
 "%1 has been moved to your wish list.","%1 была перемещена в свой список пожеланий."
 "We can't move the item to the wish list.","We can't move the item to the wish list."
-"You must login or register to add items to your wishlist.","Вы должны войти или Зарегистрироваться, чтобы добавить элементы в свой список пожеланий."
+"You must login or register to add items to your wishlist.","Вы должны войти или зарегистрироваться, чтобы добавить товары в избранное."
 "We can't delete the item from Wish List right now because of an error: %1.","We can't delete the item from Wish List right now because of an error: %1."
 "We can't delete the item from the Wish List right now.","We can't delete the item from the Wish List right now."
 "Incorrect CAPTCHA","Incorrect CAPTCHA"
