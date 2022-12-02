@@ -211,7 +211,7 @@
 "This customer already exists in this store.","Deze klant bestaat al in deze winkel."
 "A customer with the same email address already exists in an associated website.","Een klant met hetzelfde e-mailadres bestaat al in een verwante website."
 "The store view is not in the associated website.","De winkelaanzicht is niet in de bijbehorende website."
-"Invalid value of ""%value"" provided for the %fieldName field.","Ongeldige waarde voor ""% value"" opgegeven voor het %fieldName veld."
+"Invalid value of ""%value"" provided for the %fieldName field.","Ongeldige waarde voor ""%value"" opgegeven voor het %fieldName veld."
 """%fieldName"" is required. Enter and try again.","""%fieldName"" is verplicht. Voer in en probeer het nogmaals."
 "The password token is mismatched. Reset and try again.","Het wachtwoord token komt niet overeen. Reset en probeer opnieuw."
 "The password token is expired. Reset and try again.","Het wachtwoord token is verlopen. Reset en probeer opnieuw."
