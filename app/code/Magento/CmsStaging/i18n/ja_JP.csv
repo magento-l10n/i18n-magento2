@@ -1,6 +1,6 @@
-"The page doesn't exist. Verify and try again.","ページが存在しません。確認して、もう一度やり直してください。"
 "This block no longer exists.","このブロックは存在していません。"
-"Future Update already exists in this time range. Set a different range and try again.","この時間帯の次回の更新は既に存在します。違う時間帯を設定して再度お試し下さい。"
+"Future Update in this time range already exists. Select a different range to add a new Future Update.","Future Update in this time range already exists. Select a different range to add a new Future Update."
+"Error","Error"
 "Currently Active","現在有効"
 "New Theme","新しいテーマ"
 "-- Please Select --","-- 選択してください --"
@@ -42,21 +42,17 @@
 "Design","デザイン"
 "Layout","レイアウト"
 "Layout Update XML","レイアウトXMLを更新する"
-"Custom Layout Update","カスタムレイアウトの更新"
-"
-                        List of layout files with an update handle ""selectable""
-                        matching *PageIdentifier*_*UpdateID*.
-                        <br/>
-                        See Magento documentation for more information
-                    ","
-                        更新ハンドルが「選択可能」なレイアウトファイルのリスト
-                        *PageIdentifier*_*UpdateID* に一致します。
-                        <br/>
-                        詳しくは、Magentoのドキュメントを参照してください
-                    "
 "The page will be removed from the update and all scheduled changes will be lost.","アップデートからページが削除され、すべてのスケジュール更新は失われます。"
 "CMS Pages","CMSページ"
 "CMS Blocks","静的ブロック"
 "ID","ID"
 "Title","タイトル"
 "Status","ステータス"
+"Remove CMS block from Campaign","Remove CMS block from Campaign"
+"Move to Another Campaign","Move to Another Campaign"
+"Deleting the update will remove the block from this campaign and all scheduled changes will be lost.","Deleting the update will remove the block from this campaign and all scheduled changes will be lost."
+"Remove CMS page from Campaign","Remove CMS page from Campaign"
+"Deleting the update will remove the page from this campaign and all scheduled changes will be lost.","Deleting the update will remove the page from this campaign and all scheduled changes will be lost."
+"Remove CMS Page from Campaign","Remove CMS Page from Campaign"
+"Remove CMS Block from Campaign","Remove CMS Block from Campaign"
+"Future Update already exists in this time range. Set a different range and try again.","この時間帯の次回の更新は既に存在します。違う時間帯を設定して再度お試し下さい。"
