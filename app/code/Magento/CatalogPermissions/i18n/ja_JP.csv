@@ -26,7 +26,7 @@
 "Use parent","親を使用する"
 "Category Permissions Section","カテゴリ権限セクション"
 "Enable","有効"
-"<strong class=""warning-enable-permissions"">Warning!</strong> By default this feature restricts all categories.","<strong class=""warning-enable-permissions"">警告！</strong>デフォルトで、この機能はすべてのカテゴリを制限します。"
+"<strong style=""color:red"">Warning!</strong> By default this feature restricts all categories.","<strong style=""color:red"">Warning!</strong> By default this feature restricts all categories."
 "Allow Browsing Category","カテゴリの閲覧を許可"
 "Customer Groups","顧客グループ"
 "Landing Page","ランディングページ"
