@@ -1,5 +1,5 @@
 "Please specify a website.","Por favor especifique un sitio Web."
-"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."
+"Please specify an email.","Please specify an email."
 "We found an invalid value in a website column.","Encontramos un valor inválido en una columna de sitio Web."
 "Please enter a valid email.","Por favor ingrese un email válido."
 "Please make sure attribute ""%s"" is not empty.","Por favor, asegúrese de que el atributo ""%s"" no está vacío."
@@ -15,3 +15,4 @@
 "Please enter a password with a valid length.","Por favor, introduzca una contraseña con una longitud válida."
 "CSV","CSV"
 "Excel XML","Excel XML"
+"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."
