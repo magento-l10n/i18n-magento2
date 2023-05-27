@@ -1,5 +1,5 @@
 "Please specify a website.","Lūdzu, norādiet tīmekļa vietni."
-"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."
+"Please specify an email.","Please specify an email."
 "We found an invalid value in a website column.","We found an invalid value in a website column."
 "Please enter a valid email.","Lūdzu, ievadiet derīgu e-pastu."
 "Please make sure attribute ""%s"" is not empty.","Please make sure attribute ""%s"" is not empty."
@@ -15,3 +15,4 @@
 "Please enter a password with a valid length.","Please enter a password with a valid length."
 "CSV","CSV"
 "Excel XML","Excel XML"
+"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."
