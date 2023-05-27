@@ -5,3 +5,4 @@
 "Successful Messages Lifetime","Успешни Lifetime  съобщения"
 "Failed Messages Lifetime","Провалени Lifetime съобщения"
 "New Messages Lifetime","Нови Lifetime съобщения"
+"MySQL Message Queue Cleanup - all the times are in minutes. Use ""0"" if you want to skip automatic clearance","MySQL Message Queue Cleanup - all the times are in minutes. Use ""0"" if you want to skip automatic clearance"
