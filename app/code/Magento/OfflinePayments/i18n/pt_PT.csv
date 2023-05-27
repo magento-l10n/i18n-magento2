@@ -1,4 +1,3 @@
-"Purchase order number is a required field.","Purchase order number is a required field."
 "Make Check payable to:","Passe o cheque à ordem de:"
 "Send Check to:","Enviar cheque para:"
 "Purchase Order Number","Nº de Aquisição"
@@ -21,3 +20,6 @@
 "Bank Transfer Payment","Pagamento por Transferência Bancária"
 "Instructions","Instruções"
 "Cash On Delivery Payment","Pagamento Contra Entrega"
+"Zero Subtotal Checkout","Zero Subtotal Checkout"
+"Automatically Invoice All Items","Automatically Invoice All Items"
+"Purchase order number is a required field.","Purchase order number is a required field."
