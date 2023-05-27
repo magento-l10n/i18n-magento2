@@ -1,22 +1,22 @@
 "Subscription status","Pierakstīšanās statuss"
 "Sorry, there has been an error processing your request. Please try again later.","Atvainojiet, radās kļūda, apstrādājot jūsu pieprasījumu. Lūdzu, vēlāk mēģiniet vēlreiz."
-"The time value is using an unsupported format. Enter a supported format and try again.","Laika vērtības formāts nav atbalstīts. Ievadiet formātu kurš tiek atbalstīts un mēģiniet vēlreiz."
+"Time value has an unsupported format","Time value has an unsupported format"
 "Cron settings can't be saved","Cron iestatījumus nevar saglabāt"
 "There was an error save new configuration value.","Radās kļūda, saglabāt jaunu konfigurācijas vērtību."
-"Please select an industry.","Izvēlieties industriju."
+"Please select a vertical.","Please select a vertical."
 "--Please Select--","--Lūdzu izvēlieties--"
-"Command ""%1"" was not found.","Komanda ""%1"" nav atrasta."
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","Dati ir nederīgi. Ievadiet datus kā saiti vai datus kurus var pārvērst par saikni un mēģiniet vēlreiz."
-"The data is invalid. Enter the data as a string and try again.","Dati ir nederīgi. Ievadiet datus kā saiti un mēģiniet vēlreiz."
-"The data is invalid. Use a valid cipher method and try again.","Dati ir nederīgi. Izmantojiet derīgu šifrēšanas metodi un mēģiniet vēlreiz."
-"Enter the encryption key and try again.","Ievadiet šifrēšanas atslēgu un mēģiniet vēlreiz."
-"The ""%1"" source doesn't exist.","Avots ""%1"" neeksistē."
+"Command was not found.","Command was not found."
+"Input data must be string or convertible into string.","Input data must be string or convertible into string."
+"Input data must be non-empty string.","Input data must be non-empty string."
+"Not valid cipher method.","Not valid cipher method."
+"Encryption key can't be empty.","Encryption key can't be empty."
+"Source ""%1"" is not exist","Source ""%1"" is not exist"
 "These arguments can't be empty ""%1""","Šie argumenti nevar būt tukši ""%1"""
 "Cannot find predefined integration user!","Nevar atrast definētu integrācijas lietotāju!"
 "File is not ready yet.","Fails vēl nav gatavs."
 "Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Pamata URL ir mainīta, un atskaites tiek atjauninātas. Papildu Atskaites būs pieejamas tiklīdz šī izmaiņas būs apstrādātas. Lūdzu, vēlāk mēģiniet vēlreiz."
 "Failed to synchronize data to the Magento Business Intelligence service. ","Neizdevās sinhronizēt datus ar Magento Business Intelligence pakalpojumu. "
-"Retry Synchronization","Vēlreiz mēģināt sinhronizēšanu"
+"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Retry Synchronization</a>"
 "TestMessage","TestMessage"
 "Apps and Games","Aplikācijas un spēles"
 "Athletic/Sporting Goods","Sporta preces"
@@ -31,14 +31,13 @@
 "BI Essentials","BI Essentials"
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>.","Serviss piedāvā dinamisku atskaišu pārvaldību par Jūsu biznesu.
-                Atskaites ir pieejamas drošā, personalizētā panelī ārpus administrācijas paneļa nospiežot
-                ""Iet uz Paplašinātajām Atskaitēm"" saiti. </br> Papildus informācijai, skatiet mūsu <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
-                noteikumus un nosacījumus</a>."
+                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
+                terms and conditions</a>.","This service provides a dynamic suite of reports with rich insights about your business.
+                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
+                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
+                terms and conditions</a>."
 "Advanced Reporting Service","Paplašinātu Atskaišu serviss"
 "Time of day to send data","Laiks kurā sūtīt datus"
-"Industry Data","Nozares Dati"
 "Industry","Industrija"
 "In order to personalize your Advanced Reporting experience, please select your industry.","Lai personalizētu Paplašinātās atskaites, izvēlaties atbilstošu industriju."
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Vairāk informācijas no Magento Business Intelligence</strong>"
@@ -66,3 +65,11 @@
 "Pharma and Medical Devices","Medicīnas preces"
 "Technology B2B","Tehnoloģijas B2B"
 "Other","Cits"
+"The time value is using an unsupported format. Enter a supported format and try again.","Laika vērtības formāts nav atbalstīts. Ievadiet formātu kurš tiek atbalstīts un mēģiniet vēlreiz."
+"Please select an industry.","Izvēlieties industriju."
+"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","Dati ir nederīgi. Ievadiet datus kā saiti vai datus kurus var pārvērst par saikni un mēģiniet vēlreiz."
+"The data is invalid. Enter the data as a string and try again.","Dati ir nederīgi. Ievadiet datus kā saiti un mēģiniet vēlreiz."
+"The data is invalid. Use a valid cipher method and try again.","Dati ir nederīgi. Izmantojiet derīgu šifrēšanas metodi un mēģiniet vēlreiz."
+"Enter the encryption key and try again.","Ievadiet šifrēšanas atslēgu un mēģiniet vēlreiz."
+"The ""%1"" source doesn't exist.","Avots ""%1"" neeksistē."
+"Retry Synchronization","Vēlreiz mēģināt sinhronizēšanu"
