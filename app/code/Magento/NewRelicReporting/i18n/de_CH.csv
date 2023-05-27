@@ -1,6 +1,6 @@
 "No New Relic Application ID configured, cannot continue with Cron Event reporting","Keine ""New Relic"" Application ID konfiguriert, kann nicht mit dem Cron Event Reporting fortfahren"
-"The New Relic integration requires the newrelic-php5 agent, which is not installed. More
-                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","The New Relic integration requires the newrelic-php5 agent, which is not installed. More
+"The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
+                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
                         information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>."
 "New Relic Reporting Section","""New Relic"" Reporting Bereich"
 "New Relic Reporting","""New Relic"" Reporting"
@@ -19,7 +19,7 @@
 "Generated under Insights in Manage data -> API Keys -> Insert Keys","Generiert unter Insights in Datenverwaltung -> API Schlüssel -> Schlüssel eingeben"
 "New Relic Application Name","""New Relic"" Application Name"
 "This is located by navigating to Settings from the New Relic APM website","Dies ist bei den Einstellungen der New Relic APM Website zu finden."
-"Send Adminhtml and Frontend as Separate Apps","Adminhtml und Frontend als separate Anwendung senden"
-"In addition to the main app (which includes all PHP execution), separate apps for adminhtml and frontend will be created. Requires New Relic Application Name to be set.","Zusätzlich zur Haupt-Applikation (die alle PHP-Ausführung beinhaltet) werden separate Applikationen für das Adminhtml und das Frontend erstellt. Benötigt einen gesetzen New Relic Applications Namen."
 "Cron","Cron"
 "Enable Cron","Cron aktivieren"
+"Send Adminhtml and Frontend as Separate Apps","Adminhtml und Frontend als separate Anwendung senden"
+"In addition to the main app (which includes all PHP execution), separate apps for adminhtml and frontend will be created. Requires New Relic Application Name to be set.","Zusätzlich zur Haupt-Applikation (die alle PHP-Ausführung beinhaltet) werden separate Applikationen für das Adminhtml und das Frontend erstellt. Benötigt einen gesetzen New Relic Applications Namen."
