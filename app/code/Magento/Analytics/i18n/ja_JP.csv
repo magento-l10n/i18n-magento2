@@ -1,22 +1,22 @@
 "Subscription status","購読状況"
 "Sorry, there has been an error processing your request. Please try again later.","申し訳ありませんが、リクエストの処理中にエラーが発生しました。後で再度お試し下さい。"
-"The time value is using an unsupported format. Enter a supported format and try again.","サポートされていない形式の時刻の値です。サポートされている形式でやり直してください。"
+"Time value has an unsupported format","Time value has an unsupported format"
 "Cron settings can't be saved","Cron 設定を保存できません。"
 "There was an error save new configuration value.","新しい設定値を保存中にエラーが発生しました。"
-"Please select an industry.","業種を選択してください。"
+"Please select a vertical.","Please select a vertical."
 "--Please Select--","--選択してください--"
-"Command ""%1"" was not found.","コマンド""%1""が見つかりませんでした。"
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","データが不正です。文字列または文字列に変換可能なデータを指定してやり直してください。"
-"The data is invalid. Enter the data as a string and try again.","データが不正です。文字列を入力し、再度お試し下さい。"
-"The data is invalid. Use a valid cipher method and try again.","データが不正です。有効な暗号方式を使用して、再度お試し下さい。"
-"Enter the encryption key and try again.","暗号化キーを入力して再度お試し下さい。"
-"The ""%1"" source doesn't exist.","""%1"" ソースが存在しません。"
+"Command was not found.","Command was not found."
+"Input data must be string or convertible into string.","Input data must be string or convertible into string."
+"Input data must be non-empty string.","Input data must be non-empty string."
+"Not valid cipher method.","Not valid cipher method."
+"Encryption key can't be empty.","Encryption key can't be empty."
+"Source ""%1"" is not exist","Source ""%1"" is not exist"
 "These arguments can't be empty ""%1""","これらの引数は空にできません ""%1"""
 "Cannot find predefined integration user!","定義済みの連携ユーザーが見つかりません。"
 "File is not ready yet.","ファイルが読み込めません。"
 "Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","ベースURLが変更され、レポートが更新されています。 この変更が処理されると、詳細なレポートが利用可能になります。 後で再度お試し下さい。"
 "Failed to synchronize data to the Magento Business Intelligence service. ","データをMagento Business Intelligence サービスと同期できませんでした。 "
-"Retry Synchronization","同期の再試行"
+"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Retry Synchronization</a>"
 "TestMessage","テストメッセージ"
 "Apps and Games","アプリとゲーム"
 "Athletic/Sporting Goods","運動/スポーツ用品"
@@ -31,14 +31,13 @@
 "BI Essentials","BI エッセンシャル"
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>.","このサービスは、ビジネスに関する豊富なインサイトを含む動的なレポートスイートを提供します。
-                レポートには、管理者パネルの外のパーソナライズされたダッシュボードー上で安全にアクセスできます。その場合は、
-                [詳細レポートに移動]リンク。</br>詳細については、 <aターゲット=""_blank "" href=""https://magento.com/legal/terms/cloud-terms"">を参照してください。
-                利用条件</a>"
+                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
+                terms and conditions</a>.","This service provides a dynamic suite of reports with rich insights about your business.
+                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
+                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
+                terms and conditions</a>."
 "Advanced Reporting Service","詳細なレポートサービス"
 "Time of day to send data","データを送信する時刻"
-"Industry Data","業界データ"
 "Industry","業界"
 "In order to personalize your Advanced Reporting experience, please select your industry.","高度なレポーティングの体験をパーソナライズするには、業界を選択してください。"
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Magento Business Intelligenceからより多くの洞察を得る</strong>"
@@ -66,3 +65,11 @@
 "Pharma and Medical Devices","製薬と医療用器具"
 "Technology B2B","テクノロジーB2B"
 "Other","その他"
+"The time value is using an unsupported format. Enter a supported format and try again.","サポートされていない形式の時刻の値です。サポートされている形式でやり直してください。"
+"Please select an industry.","業種を選択してください。"
+"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","データが不正です。文字列または文字列に変換可能なデータを指定してやり直してください。"
+"The data is invalid. Enter the data as a string and try again.","データが不正です。文字列を入力し、再度お試し下さい。"
+"The data is invalid. Use a valid cipher method and try again.","データが不正です。有効な暗号方式を使用して、再度お試し下さい。"
+"Enter the encryption key and try again.","暗号化キーを入力して再度お試し下さい。"
+"The ""%1"" source doesn't exist.","""%1"" ソースが存在しません。"
+"Retry Synchronization","同期の再試行"
