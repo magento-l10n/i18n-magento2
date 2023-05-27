@@ -24,3 +24,5 @@
 "Case Sensitive","大文字小文字を区別する"
 "Enable CAPTCHA on Storefront","ストアフロントでCAPTCHAを有効にする"
 "CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","""ユーザー作成"" と ""パスワードを忘れた"" のCAPCHAのフォームは選ばれれば常に有効にできます。"
+"Please enter the letters from the image","Please enter the letters from the image"
+"Please type the letters below","Please type the letters below"
