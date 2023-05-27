@@ -1,23 +1,23 @@
 "Subscription status","סטטוס מינוי"
 "Sorry, there has been an error processing your request. Please try again later.","מצטערים, אירעה שגיאה בעת עיבוד בקשתך.
 נא לנסות שנית."
-"The time value is using an unsupported format. Enter a supported format and try again.","The time value is using an unsupported format. Enter a supported format and try again."
+"Time value has an unsupported format","Time value has an unsupported format"
 "Cron settings can't be saved","לא ניתן לשמור את הגדרות ה-cron"
 "There was an error save new configuration value.","אירעה שגיאה בעת שמירת ערך תצורה חדשה."
-"Please select an industry.","Please select an industry."
+"Please select a vertical.","Please select a vertical."
 "--Please Select--","-- נא לבחור --"
-"Command ""%1"" was not found.","Command ""%1"" was not found."
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","The data is invalid. Enter the data as a string or data that can be converted into a string and try again."
-"The data is invalid. Enter the data as a string and try again.","The data is invalid. Enter the data as a string and try again."
-"The data is invalid. Use a valid cipher method and try again.","The data is invalid. Use a valid cipher method and try again."
-"Enter the encryption key and try again.","Enter the encryption key and try again."
-"The ""%1"" source doesn't exist.","The ""%1"" source doesn't exist."
+"Command was not found.","Command was not found."
+"Input data must be string or convertible into string.","Input data must be string or convertible into string."
+"Input data must be non-empty string.","Input data must be non-empty string."
+"Not valid cipher method.","Not valid cipher method."
+"Encryption key can't be empty.","Encryption key can't be empty."
+"Source ""%1"" is not exist","Source ""%1"" is not exist"
 "These arguments can't be empty ""%1""","הארגומנטים האלה לא יכולים להיות ריקים ""%1"""
 "Cannot find predefined integration user!","לא ניתן למצוא משתמש אינטגרציה מוגדר מראש!"
 "File is not ready yet.","הקובץ עדיין לא מוכן."
 "Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","כתובת האתר הבסיסית שלך השתנתה והדו""חות שלך מתעדכנים ברגע זה. הדו""חות המתקדמים יהיו זמינים ברגע ששינוי זה יסתיים. אנא נסה שוב בעוד מספר רגעים."
 "Failed to synchronize data to the Magento Business Intelligence service. ","סינכרון המידע לשירות Magento Business Intelligence נכשל. "
-"Retry Synchronization","Retry Synchronization"
+"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Retry Synchronization</a>"
 "TestMessage","הודעת בדיקה"
 "Apps and Games","אפליקציות ומשחקים"
 "Athletic/Sporting Goods","מוצרי אתלטיקה\ספורט"
@@ -32,14 +32,13 @@
 "BI Essentials","יסודות BI"
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
+                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
                 terms and conditions</a>.","This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
+                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
                 terms and conditions</a>."
 "Advanced Reporting Service","שירות הדו""חות המתקדמים"
 "Time of day to send data","זמן ביום לשליחת הנתונים"
-"Industry Data","Industry Data"
 "Industry","תעשייה"
 "In order to personalize your Advanced Reporting experience, please select your industry.","In order to personalize your Advanced Reporting experience, please select your industry."
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Get more insights from Magento Business Intelligence</strong>"
@@ -67,3 +66,11 @@
 "Pharma and Medical Devices","מרקחת וציוד רפואי"
 "Technology B2B","טכנולוגיית B2B"
 "Other","Other"
+"The time value is using an unsupported format. Enter a supported format and try again.","The time value is using an unsupported format. Enter a supported format and try again."
+"Please select an industry.","Please select an industry."
+"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","The data is invalid. Enter the data as a string or data that can be converted into a string and try again."
+"The data is invalid. Enter the data as a string and try again.","The data is invalid. Enter the data as a string and try again."
+"The data is invalid. Use a valid cipher method and try again.","The data is invalid. Use a valid cipher method and try again."
+"Enter the encryption key and try again.","Enter the encryption key and try again."
+"The ""%1"" source doesn't exist.","The ""%1"" source doesn't exist."
+"Retry Synchronization","Retry Synchronization"
