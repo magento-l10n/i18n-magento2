@@ -1,4 +1,3 @@
-"Can't convert a shipping cost from ""%1-%2"" for FedEx carrier.","Can't convert a shipping cost from ""%1-%2"" for FedEx carrier."
 "Europe First Priority","Prioritas Pertama Eropa"
 "1 Day Freight","1 Hari Pengiriman"
 "2 Day Freight","2 Hari Pengiriman"
@@ -44,7 +43,6 @@
 "status","status"
 "Empty response","Respon kosong"
 "None","Kosong"
-"Expected Delivery:","Expected Delivery:"
 "Field ","Bidang "
 " is required."," di perlukan."
 "FedEx","FedEx"
@@ -79,3 +77,4 @@
 "Debug","Menulusuri"
 "Show Method if Not Applicable","Tampilkan metode jika tidak diberlakukan"
 "Sort Order","Urutan"
+"Expected Delivery:","Expected Delivery:"
