@@ -1,2 +1,3 @@
-"The role wasn't found for the user. Verify the role and try again.","A szerepkör nincs beállítva a felhasználóhoz. Ellenőrizze a szerepeket, és próbálkozzon újra."
+"We can't find the role for the user you wanted.","We can't find the role for the user you wanted."
 "Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Hiba történt az engedélyezett erőforrások listájának összeállítása közben. Részletek a kivételek naplójában."
+"The role wasn't found for the user. Verify the role and try again.","A szerepkör nincs beállítva a felhasználóhoz. Ellenőrizze a szerepeket, és próbálkozzon újra."
