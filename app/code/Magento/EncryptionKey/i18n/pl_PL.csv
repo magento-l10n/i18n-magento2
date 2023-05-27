@@ -12,3 +12,4 @@
 "The encryption key has been changed.","Klucz szyfrowania został zmieniony."
 "This is your new encryption key: %1. Be sure to write it down and take good care of it!","To jest Twój nowy klucz szyfrowy: %1. Pamiętaj by go zapisać i na niego uważać!"
 "Manage Encryption Key","Klucz szyfrowania"
+"This is your new encryption key: <span style=""font-family:monospace;"">%1</span>. Be sure to write it down and take good care of it!","This is your new encryption key: <span style=""font-family:monospace;"">%1</span>. Be sure to write it down and take good care of it!"
