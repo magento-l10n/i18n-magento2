@@ -63,13 +63,12 @@
 "We can't start the billing agreement wizard.","අපට බිල්පත් ගිවිසුම විශාරද ආරම්භ කළ නොහැක."
 "Billing Agreement # %1","බිල්පත් ගිවිසුම # %1"
 "We can't initialize Express Checkout.","අපට Express Checkout ආරම්භ කළ නොහැක."
-"PayPal can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.","PayPal හට ගෙවිය යුතු ශුන්‍ය ශේෂයක් සමඟ ඇණවුම් සැකසීමට නොහැක. ඔබේ මිලදී ගැනීම අවසන් කිරීමට, කරුණාකර සම්මත පිටවීමේ ක්‍රියාවලිය හරහා යන්න."
 "PayPal Express Checkout Token does not exist.","PayPal Express Checkout ටෝකනය නොපවතී."
 "A wrong PayPal Express Checkout Token is specified.","වැරදි PayPal Express Checkout ටෝකනයක් නියම කර ඇත."
 "Express Checkout and Order have been canceled.","Express Checkout සහ Order අවලංගු කර ඇත."
 "Express Checkout has been canceled.","අධිවේගී පිටවීම අවලංගු කර ඇත."
 "Unable to cancel Express Checkout","Express Checkout අවලංගු කිරීමට නොහැක"
-"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","ඇණවුම ලබා දී නැත. පළමුව, නියමයන් සහ කොන්දේසි වලට එකඟ වන්න, ඉන්පසු ඔබේ ඇණවුම නැවත කිරීමට උත්සාහ කරන්න."
+"Please agree to all the terms and conditions before placing the order.","Please agree to all the terms and conditions before placing the order."
 "We can't process Express Checkout approval.","අපට Express Checkout අනුමැතිය සැකසීමට නොහැක."
 "We can't initialize Express Checkout review.","අපට Express Checkout සමාලෝචනය ආරම්භ කළ නොහැක."
 "We can't update shipping method.","අපට නැව්ගත කිරීමේ ක්‍රමය යාවත්කාලීන කළ නොහැක."
@@ -79,7 +78,7 @@
 "Your payment has been declined. Please try again.","ඔබේ ගෙවීම ප්‍රතික්ෂේප කර ඇත. කරුණාකර නැවත උත්සාහ කරන්න."
 "Requested payment method does not match with order.","ඉල්ලූ ගෙවීම් ක්‍රමය ඇණවුම සමඟ නොගැලපේ."
 "Would you like to sign a billing agreement to streamline further purchases with PayPal?","PayPal සමඟින් තවදුරටත් මිලදී ගැනීම් විධිමත් කිරීමට බිල්පත් ගිවිසුමක් අත්සන් කිරීමට ඔබ කැමතිද?"
-"The payment couldn't be processed at this time. Please try again later.","මෙම අවස්ථාවේදී ගෙවීම සැකසීමට නොහැකි විය. කරුණාකර පසුව නැවත උත්සාහ කරන්න."
+"Error processing payment, please try again later.","Error processing payment, please try again later."
 "Authorization is not allowed.","අවසරය අවසර නැත."
 "Payment Gateway is unreachable at the moment. Please use another payment option.","ගෙවීම් දොරටුව මේ මොහොතේ ළඟා විය නොහැක. කරුණාකර වෙනත් ගෙවීම් විකල්පයක් භාවිතා කරන්න."
 "PayPal response hasn't required fields.","PayPal ප්‍රතිචාරයට ක්ෂේත්‍ර අවශ්‍ය නොවේ."
@@ -88,7 +87,6 @@
 "The PayPal gateway rejected the request. %1","PayPal ද්වාරය ඉල්ලීම ප්‍රතික්ෂේප කළේය. %1"
 "I'm sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you.","මට කණගාටුයි - නමුත් අපට ඔබගේ ගෙවීම සැකසීමට නොහැකි විය. කරුණාකර වෙනත් ගෙවීමේ ක්‍රමයක් උත්සාහ කරන්න හෝ අප හා සම්බන්ධ වන්න එවිට අපට ඔබට සහාය විය හැක."
 "I'm sorry - but we are not able to complete your transaction. Please contact us so we can assist you.","මට කණගාටුයි - නමුත් අපට ඔබගේ ගනුදෙනුව සම්පූර්ණ කිරීමට නොහැකි විය. කරුණාකර අප හා සම්බන්ධ වන්න එවිට අපට ඔබට සහාය විය හැක."
-"A successful payment transaction has already been completed. Please, check if the order has been placed.","සාර්ථක ගෙවීම් ගනුදෙනුවක් දැනටමත් සම්පූර්ණ කර ඇත. කරුණාකර ඇණවුම ලබා දී ඇත්දැයි පරීක්ෂා කරන්න."
 "A match of the Shipping Address City, State, and Postal Code failed.","නැව්ගත කිරීමේ ලිපිනය නගරය, ප්‍රාන්තය සහ තැපැල් කේතයෙහි ගැළපීමක් අසාර්ථක විය."
 "We can't place the order.","අපට ඇණවුම ලබා දිය නොහැක."
 "The payment method code is not set.","ගෙවීම් ක්‍රම කේතය සකසා නැත."
@@ -125,6 +123,7 @@
 "The maximum number of child authorizations is reached.","උපරිම ළමා අවසර ගණන ළඟා වී ඇත."
 "We'll authorize the amount of %1 as soon as the payment gateway approves it.","ගෙවීම් ද්වාරය එය අනුමත කළ වහාම අපි %1 මුදල අනුමත කරන්නෙමු."
 "The authorized amount is %1.","අවසර ලත් මුදල %1වේ."
+"PayPal can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.","PayPal හට ගෙවිය යුතු ශුන්‍ය ශේෂයක් සමඟ ඇණවුම් සැකසීමට නොහැක. ඔබේ මිලදී ගැනීම අවසන් කිරීමට, කරුණාකර සම්මත පිටවීමේ ක්‍රියාවලිය හරහා යන්න."
 "A payer is not identified.","ගෙවන්නෙකු හඳුනාගෙන නොමැත."
 "Cannot get secure form URL from PayPal","PayPal වෙතින් ආරක්ෂිත පෝරමය URL ලබා ගත නොහැක"
 "Last Transaction ID","අවසාන ගනුදෙනු හැඳුනුම්පත"
@@ -221,10 +220,10 @@
 "Unable to fetch transaction details.","ගනුදෙනු විස්තර ලබා ගැනීමට නොහැකි විය."
 "Invalid method %1::%2","වලංගු නොවන ක්‍රමය %1::%2"
 "Transaction has been declined","ගනුදෙනුව ප්‍රතික්ෂේප කර ඇත"
-"Payment can't be accepted since transaction was rejected by merchant.","ගනුදෙනුව වෙළෙන්දා විසින් ප්‍රතික්ෂේප කර ඇති බැවින් ගෙවීම පිළිගත නොහැක."
+"Error processing payment. Please try again later.","Error processing payment. Please try again later."
 "We cannot send the new order email.","අපට නව ඇණවුම් විද්‍යුත් තැපෑල යැවිය නොහැක."
 "Payment error. %value was not found.","ගෙවීමේ දෝෂයකි. %අගය සොයා ගත නොහැකි විය."
-"The verification transaction can't be voided. ","සත්‍යාපන ගනුදෙනුව අවලංගු කළ නොහැක. "
+"You cannot void a verification transaction.","You cannot void a verification transaction."
 "You need an authorization transaction to void.","අවලංගු කිරීමට ඔබට අවසර ගනුදෙනුවක් අවශ්‍ය වේ."
 "We can't issue a refund transaction because there is no capture transaction.","අල්ලා ගැනීමේ ගනුදෙනුවක් නොමැති නිසා අපට මුදල් ආපසු ගෙවීමේ ගනුදෙනුවක් නිකුත් කළ නොහැක."
 "We cannot create a target file for reading reports.","වාර්තා කියවීම සඳහා අපට ඉලක්ක ගොනුවක් සෑදිය නොහැක."
@@ -331,19 +330,6 @@
 "Header (center)","ශීර්ෂකය (මැද)"
 "Sidebar (right)","පැති තීරුව (දකුණ)"
 "Near PayPal Credit checkout button","PayPal ණය පිටවීමේ බොත්තම අසල"
-"Gold","රන්"
-"Blue","නිල්"
-"Silver","රිදී"
-"Black","කලු"
-"Vertical","සිරස්"
-"Horizontal","තිරස්"
-"Pill","පෙති"
-"Rectangle","සෘජුකෝණාස්රය"
-"Checkout","පරීක්ෂාකාරී වන්න"
-"Pay","ගෙවන්න"
-"Buy Now","දැන් මිලදී ගන්න"
-"PayPal","PayPal"
-"Installment","වාරිකය"
 "--Please Select--","--කරුණාකර තෝරන්න--"
 "Daily","දිනපතා"
 "Every 3 days","සෑම දින 3 කට වරක්"
@@ -353,21 +339,6 @@
 "Every 30 days","සෑම දින 30 කට වරක්"
 "Every 40 days","සෑම දින 40 කට වරක්"
 "No Logo","ලාංඡනය නැත"
-"White","සුදු"
-"White No Border","සුදු නෝ බෝඩර්"
-"Gray","අළු"
-"Monochrome","ඒකවර්ණ"
-"Grayscale","අළු පරිමාණ"
-"Left","වම"
-"Right","හරි"
-"Top","ඉහළට"
-"Primary","ප්රාථමික"
-"Alternative","විකල්ප"
-"Inline","පෙළට"
-"None","කිසිවක් නැත"
-"Sidebar","පැති තීරුව"
-"Text","පෙළ"
-"Flex","Flex"
 "Yes (PayPal recommends this option)","ඔව් (PayPal මෙම විකල්පය නිර්දේශ කරයි)"
 "Created billing agreement #%1.","බිල්පත් ගිවිසුම #%1සාදන ලදී."
 "We can't create a billing agreement for this order.","අපට මෙම ඇණවුම සඳහා බිල්පත් ගිවිසුමක් සෑදිය නොහැක."
@@ -375,11 +346,7 @@
 "Pending PayPal","පොරොත්තු PayPal"
 "PayPal Reversed","PayPal ආපසු හැරවිය"
 "PayPal Canceled Reversal","PayPal අවලංගු කරන ලද ආපසු හැරවීම"
-"PayPal Credit","PayPal ණය"
-"PayPal Guest Checkout Credit Card Icons","PayPal Guest Checkout Credit Card Icons"
-"Elektronisches Lastschriftverfahren - German ELV","Elektronisches Lastschriftverfahren - ජර්මානු ELV"
 "Error","දෝෂයකි"
-"PayPal gateway has rejected request.","PayPal ද්වාරය ඉල්ලීම ප්‍රතික්ෂේප කර ඇත."
 "Billing Agreement","බිල්පත් ගිවිසුම"
 "Please Select","කරුණාකර තෝරන්න"
 "Customer","පාරිභෝගික"
@@ -397,7 +364,6 @@
 "Credit Card Number","ණය පත් අංකය"
 "Expiration Date","කල්පිරෙන දිනය"
 "Card Verification Number","කාඩ් සත්යාපනය අංකය"
-"Save for later use.","පසුකාලීන භාවිතය සඳහා සුරකින්න."
 "Billing Agreement # ","බිල්පත් ගිවිසුම # "
 "Agreement Information","ගිවිසුම් තොරතුරු"
 "Reference ID:","යොමු ID:"
@@ -422,6 +388,7 @@
 "Your billing agreement # is: ","ඔබේ බිල්පත් ගිවිසුම # වන්නේ: "
 "Shipping Method","නැව්ගත කිරීමේ ක්රමය"
 "Please select a shipping method...","කරුණාකර නැව්ගත කිරීමේ ක්‍රමයක් තෝරන්න..."
+"Update Shipping Method","Update Shipping Method"
 "Sorry, no quotes are available for this order right now.","සමාවන්න, දැන් මෙම ඇණවුම සඳහා උපුටා දැක්වීම් නොමැත."
 "Shipping Address","බෙදාහැරීමේ ලිපිනය"
 "Edit","සංස්කරණය කරන්න"
@@ -449,7 +416,6 @@
 "Sign a billing agreement to streamline further purchases with PayPal.","PayPal සමඟ තවදුරටත් මිලදී ගැනීම් විධිමත් කිරීමට බිල්පත් ගිවිසුමක් අත්සන් කරන්න."
 "Continue to PayPal","PayPal වෙත ඉදිරියට යන්න"
 "Save credit card information for future use.","අනාගත භාවිතය සඳහා ක්‍රෙඩිට් කාඩ් තොරතුරු සුරකින්න."
-"Something went wrong with your request. Please try again later.","ඔබගේ ඉල්ලීමෙහි යම් දෙයක් වැරදී ඇත. කරුණාකර පසුව නැවත උත්සාහ කරන්න."
 "Sorry, something went wrong.","සමාවෙන්න, කිසියම් වරදක් සිදු වී ඇත."
 "Sorry, something went wrong. Please try again later.","සමාවෙන්න, කිසියම් වරදක් සිදු වී ඇත. කරුණාකර පසුව නැවත උත්සාහ කරන්න."
 "PayPal Section","PayPal අංශය"
@@ -462,7 +428,7 @@
 "Payment Amount Authorization","ගෙවීමේ මුදල අවසරය"
 "Merchant Location","වෙළඳ ස්ථානය"
 "Merchant Country","වෙළඳ රට"
-"If not specified, Default Country from General Config will be used.","නිශ්චිතව දක්වා නොමැති නම්, සාමාන්‍ය වින්‍යාසයෙන් පෙරනිමි රට භාවිතා කරනු ඇත."
+"If not specified, Default Country from General Config will be used","If not specified, Default Country from General Config will be used"
 "Recommended Solutions:","නිර්දේශිත විසඳුම්:"
 "Other PayPal Payment Solutions:","වෙනත් PayPal ගෙවීම් විසඳුම්:"
 "Other Payment Methods:","වෙනත් ගෙවීම් ක්‍රම:"
@@ -473,20 +439,9 @@
 "Payments Pro","ගෙවීම් Pro"
 "Payments Pro and Express Checkout","ගෙවීම් Pro සහ Express Checkout"
 "Basic Settings - PayPal Payments Pro","මූලික සැකසුම් - PayPal ගෙවීම් Pro"
-"Payments Standard","ගෙවීම් සම්මතය"
-"Accept credit card and PayPal payments securely.","ක්‍රෙඩිට් කාඩ් සහ පේපෑල් ගෙවීම් ආරක්ෂිතව පිළිගන්න."
-"Basic Settings - PayPal Website Payments Standard","මූලික සැකසුම් - PayPal වෙබ් අඩවි ගෙවීම් සම්මතය"
 "PayPal Payment Gateways&nbsp;<i>Process payments using your own internet merchant account.</i>","PayPal Payment Gateways&nbsp;<i>ඔබේම අන්තර්ජාල වෙළඳ ගිණුම භාවිතයෙන් ගෙවීම් ක්‍රියාවට නංවන්න.</i>"
-"Display pay later messaging on your site for offers like Pay in 3,
-                                    which lets customers pay with 3 interest- free monthly payments. We’ll show messages
-                                    on your site to promote this feature for you. You may not promote pay later offers
-                                    with any other content, marketing, or materials.","පාරිභෝගිකයින්ට පොලී රහිත මාසික ගෙවීම් 3ක් සමඟ ගෙවීමට ඉඩ සලසන 3,
-                                    වැනි දීමනා සඳහා ඔබේ වෙබ් අඩවියේ ගෙවීම් පසුව පණිවිඩ යැවීම පෙන්වන්න. ඔබ සඳහා මෙම විශේෂාංගය ප්‍රවර්ධනය කිරීමට අපි ඔබේ අඩවියේ පණිවිඩ
-                                    පෙන්වන්නෙමු. ඔබට වෙනත් ඕනෑම අන්තර්ගතයක්, අලෙවිකරණයක් හෝ ද්‍රව්‍ය සමඟ ගෙවීම් පසුව දීමනා
-                                    ප්‍රවර්ධනය නොකළ හැකිය."
 "PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>","PayPal All-in-One ගෙවීම් විසඳුම්&nbsp;&nbsp;<i>ක්‍රෙඩිට් කාඩ්පත් සහ PayPal ගෙවීම් පිළිගෙන සැකසීම.</i>"
 "Accept payments with a completely customizable checkout page.","සම්පූර්ණයෙන්ම අභිරුචිකරණය කළ හැකි පිටවීමේ පිටුවක් සමඟ ගෙවීම් පිළිගන්න."
-"Website Payments Standard","වෙබ් අඩවි ගෙවීම් සම්මතය"
 "Process payments using your own internet merchant account.","ඔබගේම අන්තර්ජාල වෙළඳ ගිණුම භාවිතයෙන් ගෙවීම් ක්‍රියාවට නංවන්න."
 "Website Payments Pro","වෙබ් අඩවි ගෙවීම් Pro"
 "Express Checkout","Express Checkout"
@@ -503,7 +458,6 @@
 "API Uses Proxy","API ප්‍රොක්සි භාවිතා කරයි"
 "Proxy Host","ප්‍රොක්සි සත්කාරක"
 "Proxy Port","ප්‍රොක්සි වරාය"
-"Please enter at least 0 and at most 65535","කරුණාකර අවම වශයෙන් 0 සහ උපරිම 65535 ඇතුළු කරන්න"
 "Enable this Solution","මෙම විසඳුම සක්රිය කරන්න"
 "Enable In-Context Checkout Experience","සන්දර්භය තුළ පිරික්සුම් අත්දැකීම සබල කරන්න"
 "See PayPal Feature Support details and list of supported regions
@@ -513,30 +467,22 @@
 "Enable PayPal Credit","PayPal ණය සක්රිය කරන්න"
 "PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
                         You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
-                        <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","PayPal Express Checkout ඔබට PayPal Credit&#174; හරහා මූල්‍යකරණයට ප්‍රවේශය ලබා දීමට ඔබට ඉඩ සලසයි - ඔබට අමතර වියදමකින් තොරව.
-                        ගනුදෙනුකරුවන්ට ගෙවීමට වැඩි කාලයක් තිබියදීත්, ඔබට කලින් ගෙවනු ලැබේ. පෙර ඒකාබද්ධ ගෙවීම් බොත්තමක් පාරිභෝගිකයින්ට PayPal Credit&#174;සමඟ ඉක්මනින් ගෙවීමට ඉඩ දෙයි.
-                        <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">තව දැනගන්න</a>"
+                        <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
+                        You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
+                        <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>"
 "Sort Order PayPal Credit","පේපෑල් ක්‍රෙඩිට් ඇණවුම් කරන්න"
-"Enable PayPal PayLater Experience","PayPal PayLater අත්දැකීම සබල කරන්න"
-"Recommended. <strong>Advertise PayPal Credit</strong> is deprecated.
-                    See PayPal PayLater details and list of supported regions
-                    <a href=""https://developer.paypal.com/docs/business/pay-later/us/#eligibility"" target=""_blank"">
-                    here</a>.","නිර්දේශ කර ඇත. <strong>ප්‍රචාරණය PayPal ණය</strong> අත්හරින ලදී.
-                    PayPal PayLater විස්තර සහ සහය දක්වන කලාප ලැයිස්තුව බලන්න
-                    <a href=""https://developer.paypal.com/docs/business/pay-later/us/#eligibility"" target=""_blank"">
-                    මෙතන</a>."
 "Advertise PayPal Credit","PayPal ණය ප්‍රචාරණය කරන්න"
-"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+"<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                         <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
                         from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
                         Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                         The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                        or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">මුල්‍යකරණය ප්‍රචාරණය කරන්නේ ඇයි?</a><br/>
-                        <strong>ඔබ මූල්‍යකරණය ප්‍රචාරණය කරන විට ඔබේ විකුණුම් වැඩි දියුණු කරන්න.</strong><br/>පේපෑල් ක්‍රෙඩිට්&#174;වෙතින් මූල්‍යකරණය
-                        සමඟ බ්‍රව්සර් ගැනුම්කරුවන් බවට පත් කිරීමට PayPal උදවු කරයි. ඔබේ ගනුදෙනුකරුවන්ට ගෙවීමට වැඩි කාලයක් ඇත, ඔබ ඉදිරියෙන් ගෙවනු ලබන අතර - ඔබට අමතර වියදමකින් තොරව.
-                        ඔබේ ගනුදෙනුකරුවන් PayPal සමඟ පරීක්ෂා කරන විට ගෙවීම් විකල්පයක් ලෙස PayPal Credit&#174; මූල්‍යකරණය ප්‍රචාරණය කිරීමට ඉඩ සලසන PayPal හි නොමිලේ බැනර් දැන්වීම් භාවිතා කරන්න.
-                        PayPal වෙළඳ ප්‍රචාරණ වැඩසටහන අමතර මිලදී ගැනීම් උත්පාදනය කිරීම මෙන්ම පාරිභෝගිකයාගේ සාමාන්‍ය මිලදී ගැනීමේ ප්‍රමාණය 15%
-                        හෝ ඊට වැඩි ප්‍රමාණයකින් වැඩි කරන බව පෙන්වා දී ඇත. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">විස්තර</a>බලන්න."
+                        or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                        <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                        from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                        Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                        The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                        or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>."
 "Publisher ID","ප්‍රකාශක හැඳුනුම්පත"
 "Required to display a banner","බැනරයක් පෙන්වීමට අවශ්‍යයි"
 "Get Publisher ID from PayPal","PayPal වෙතින් Publisher ID ලබා ගන්න"
@@ -547,16 +493,6 @@
 "Catalog Category Page","නාමාවලි කාණ්ඩය පිටුව"
 "Catalog Product Page","නාමාවලි නිෂ්පාදන පිටුව"
 "Checkout Cart Page","කරත්ත පිටුව පිරික්සන්න"
-"Advertise PayPal PayLater","PayPal PayLater ප්‍රචාරණය කරන්න"
-"Enable PayPal PayLater","PayPal PayLater සබල කරන්න"
-"Style Layout","මෝස්තර පිරිසැලසුම"
-"Logo Type","ලාංඡන වර්ගය"
-"Logo Position","ලාංඡන ස්ථානය"
-"Text Color","පෙළ වර්ණය"
-"Text Size","පෙළ ප්රමාණය"
-"Ratio","අනුපාතය"
-"Color","වර්ණ"
-"Checkout Payment Step","ගෙවා පිටවීමේ පියවර"
 "Basic Settings - PayPal Express Checkout","මූලික සැකසුම් - PayPal Express Checkout"
 "Title","ශීර්ෂය"
 "It is recommended to set this value to ""PayPal"" per store views.","මෙම අගය එක් ගබඩා බැලීම් සඳහා ""PayPal"" ලෙස සැකසීමට නිර්දේශ කෙරේ."
@@ -613,32 +549,13 @@
 "Page Style","පිටු විලාසය"
 "Allowable values: ""paypal"", ""primary"" (default), your_custom_value (a custom payment page style from your merchant account profile).","අවසර ලත් අගයන්: ""paypal"", ""primary"" (default), your_custom_value (ඔබේ වෙළඳ ගිණුම් පැතිකඩෙන් අභිරුචි ගෙවීම් පිටු විලාසයක්)."
 "Header Image URL","ශීර්ෂ රූප URL"
-"The image at the top left of the checkout page. Max size is 750x90-pixel. <strong class=""colorRed"">https</strong> is highly encouraged.","පිටවීමේ පිටුවේ ඉහළ වම්පස ඇති රූපය. උපරිම ප්‍රමාණය 750x90-පික්සල වේ. <strong class=""colorRed"">https</strong> බෙහෙවින් දිරිමත් වේ."
+"The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged.","The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged."
 "Header Background Color","ශීර්ෂයේ පසුබිම් වර්ණය"
 "The background color for the header of the checkout page. Case-insensitive six-character HTML hexadecimal color code in ASCII.","පිටවීමේ පිටුවේ ශීර්ෂය සඳහා පසුබිම් වර්ණය. ASCII හි කේස් සංවේදී නොවන අකුරු හයක HTML ෂඩ් දශම වර්ණ කේතය."
 "Header Border Color","ශීර්ෂයේ මායිම් වර්ණය"
 "2-pixel perimeter around the header space.","ශීර්ෂ අවකාශය වටා පික්සල් 2 පරිමිතිය."
 "Page Background Color","පිටු පසුබිම් වර්ණය"
 "The background color for the checkout page around the header and payment form.","ශීර්ෂකය සහ ගෙවීම් පෝරමය වටා පිටවීමේ පිටුව සඳහා පසුබිම් වර්ණය."
-"Customize Smart Buttons","ස්මාර්ට් බොත්තම් අභිරුචිකරණය කරන්න"
-"Checkout Page","පිටවීමේ පිටුව"
-"Customize Button","අභිරුචිකරණ බොත්තම"
-"Label","ලේබලය"
-"The installment feature is available only in these locales: en_MX, es_MX, en_BR, pt_BR.","වාරික විශේෂාංගය ලබා ගත හැක්කේ මෙම ස්ථාන වල පමණි: en_MX, es_MX, en_BR, pt_BR."
-"Mexico Installment Period","මෙක්සිකෝ වාරික කාලය"
-"Brazil Installment Period","බ්රසීල වාරික කාලය"
-"Layout","පිරිසැලසුම"
-"Shape","හැඩය"
-"Product Pages","නිෂ්පාදන පිටු"
-"Cart Page","කරත්ත පිටුව"
-"Mini Cart","කුඩා කරත්තය"
-"Features","විශේෂාංග"
-"Disable Funding Options","අරමුදල් විකල්ප අබල කරන්න"
-"PayPal will automatically display each enabled funding option to eligible buyers.
-                                For example, PayPal Credit is only shown to buyers in countries where PayPal Credit is
-                                offered and the currency offered by the merchant is USD.","PayPal එක් එක් සක්‍රීය අරමුදල් විකල්පය සුදුසුකම් ලත් ගැනුම්කරුවන්ට ස්වයංක්‍රීයව සංදර්ශන කරයි.
-                                උදාහරණයක් ලෙස, PayPal Credit පෙන්වන්නේ PayPal Credit
-                                ක් පිරිනැමෙන සහ වෙළෙන්දා විසින් පිරිනමනු ලබන මුදල් ඇ.ඩො."
 "Payments Advanced","ගෙවීම් උසස්"
 "Accept payments with a PCI-compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>)","ඔබේ වෙබ් අඩවියේ පාරිභෝගිකයන් තබා ගන්නා PCI-අනුකූල පිරික්සුමකින් ගෙවීම් පිළිගන්න. (<u>Express Checkout</u>ඇතුළත් වේ)"
 "Payments Advanced and Express Checkout","ගෙවීම් උසස් සහ සීඝ්‍ර පිටවීම"
@@ -676,17 +593,17 @@
 "Website Payments Pro Hosted Solution","වෙබ් අඩවි ගෙවීම් Pro Hosted විසඳුම"
 "Accept payments with a PCI compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>)","ඔබේ වෙබ් අඩවියේ පාරිභෝගිකයන් තබා ගන්නා PCI අනුකූල පිරික්සුමකින් ගෙවීම් පිළිගන්න. (<u>Express Checkout</u>ඇතුළත් වේ)"
 "Payments Pro Hosted Solution","Payments Pro Hosted විසඳුම"
-"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+"<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                             <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
                             from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
                             Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                             The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">මුල්‍යකරණය ප්‍රචාරණය කරන්නේ ඇයි?</a><br/>
-                            <strong>ඔබ මූල්‍යකරණය ප්‍රචාරණය කරන විට ඔබේ විකුණුම් වැඩි දියුණු කරන්න.</strong><br/>පේපෑල් ක්‍රෙඩිට්&#174;වෙතින් මූල්‍යකරණය
-                            සමඟ බ්‍රව්සර් ගැනුම්කරුවන් බවට පත් කිරීමට PayPal උදවු කරයි. ඔබේ ගනුදෙනුකරුවන්ට ගෙවීමට වැඩි කාලයක් ඇත, ඔබ ඉදිරියෙන් ගෙවනු ලබන අතර - ඔබට අමතර වියදමකින් තොරව.
-                            ඔබේ ගනුදෙනුකරුවන් PayPal සමඟ පරීක්ෂා කරන විට ගෙවීම් විකල්පයක් ලෙස PayPal Credit&#174; මූල්‍යකරණය ප්‍රචාරණය කිරීමට ඉඩ සලසන PayPal හි නොමිලේ බැනර් දැන්වීම් භාවිතා කරන්න.
-                            PayPal වෙළඳ ප්‍රචාරණ වැඩසටහන අමතර මිලදී ගැනීම් උත්පාදනය කිරීම මෙන්ම පාරිභෝගිකයාගේ සාමාන්‍ය මිලදී ගැනීමේ ප්‍රමාණය 15%
-                            හෝ ඊට වැඩි ප්‍රමාණයකින් වැඩි කරන බව පෙන්වා දී ඇත. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">විස්තර</a>බලන්න."
+                            or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                            or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>."
 "Basic Settings - PayPal Payments Pro Hosted Solution","මූලික සැකසුම් - PayPal Payments Pro Hosted Solution"
 "Display Express Checkout in the Payment Information step","ගෙවීම් තොරතුරු පියවරේදී Express Checkout සංදර්ශන කරන්න"
 "Website Payments Pro Hosted Solution and Express Checkout","Website Payments Pro Hosted Solution සහ Express Checkout"
@@ -699,8 +616,6 @@
 "Credit Card Settings","ක්රෙඩිට් කාඩ් සැකසීම්"
 "Allowed Credit Card Types","අවසර ලත් ක්‍රෙඩිට් කාඩ් වර්ග"
 "Supporting of American Express cards require additional agreement. Learn more at <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.","ඇමරිකන් එක්ස්ප්‍රස් කාඩ්පත් සඳහා සහාය වීම සඳහා අමතර ගිවිසුමක් අවශ්‍ය වේ. <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>තව දැනගන්න."
-"Fraud Management Filters","වංචා කළමනාකරණ පෙරහන්"
-"Be sure to configure Fraud Management Filters in your PayPal account in ""Service Settings/Fraud Protection"" section. Attention! Please don't use Total Purchase Price Ceiling/Floor Filters. Current integration doesn't support them.","""සේවා සැකසීම්/වංචා ආරක්ෂණ"" කොටසේ ඔබගේ PayPal ගිණුමේ වංචා කළමනාකරණ පෙරහන් වින්‍යාස කිරීමට වග බලා ගන්න. අවධානය! කරුණාකර සම්පූර්ණ මිලදී ගැනීමේ මිල සිවිලිම/බිම පෙරහන් භාවිතා නොකරන්න. වත්මන් ඒකාබද්ධතාවය ඔවුන්ට සහාය නොදක්වයි."
 "CVV and AVS Settings","CVV සහ AVS සැකසුම්"
 "Reject Transaction if:","ගනුදෙනුව ප්‍රතික්ෂේප කරන්නේ නම්:"
 "AVS Street Does Not Match","AVS වීදිය නොගැලපේ"
@@ -708,11 +623,73 @@
 "Card Issuer Is Outside The United States","කාඩ්පත් නිකුත් කරන්නා එක්සත් ජනපදයෙන් පිටත සිටී"
 "Card Security Code Does Not Match","කාඩ්පත් ආරක්ෂණ කේතය නොගැලපේ"
 "Payflow Pro and Express Checkout","Payflow Pro සහ Express Checkout"
-"PayPal Express Checkout Payflow Edition lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
-                            You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
-                            <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","PayPal Express Checkout Payflow සංස්කරණය ඔබට PayPal Credit&#174; හරහා මූල්‍යකරණයට ප්‍රවේශය ලබා දීමට ඔබට ඉඩ සලසයි - ඔබට අමතර වියදමකින් තොරව.
-                            ගනුදෙනුකරුවන්ට ගෙවීමට වැඩි කාලයක් තිබියදීත්, ඔබට කලින් ගෙවනු ලැබේ. පෙර ඒකාබද්ධ ගෙවීම් බොත්තමක් පාරිභෝගිකයින්ට PayPal Credit&#174;සමඟ ඉක්මනින් ගෙවීමට ඉඩ දෙයි.
-                            <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">තව දැනගන්න</a>"
+"<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                                from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                                or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                                from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                                or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>."
+"We can't contact the PayPal gateway.","We can't contact the PayPal gateway."
+"The ordering amount of %1 is pending approval on the payment gateway.","The ordering amount of %1 is pending approval on the payment gateway."
+"Ordered amount of %1","Ordered amount of %1"
+"Matched whole nine-didgit ZIP (no Address)","Matched whole nine-didgit ZIP (no Address)"
+"Yes. Matched Address and five-didgit ZIP","Yes. Matched Address and five-didgit ZIP"
+"Invalid method %1::%2(%3)","Invalid method %1::%2(%3)"
+"To use PayPal Payments Advanced, you must configure  your PayPal Payments Advanced account on the PayPal website.","To use PayPal Payments Advanced, you must configure  your PayPal Payments Advanced account on the PayPal website."
+"PayPal Payment Gateways","PayPal Payment Gateways"
+"1","1"
+"PayPal Payment Solutions","PayPal Payment Solutions"
+"Email Associated with PayPal Merchant Account","Email Associated with PayPal Merchant Account"
+"Sandbox Credentials","Sandbox Credentials"
+"It is recommended to set this value to ""Magento_Paypal"" per store views.","It is recommended to set this value to ""Magento_Paypal"" per store views."
+"Payments Advanced (Includes Express Checkout)","Payments Advanced (Includes Express Checkout)"
+"Accept payments with a PCI-compliant checkout that keeps customers on your site.","Accept payments with a PCI-compliant checkout that keeps customers on your site."
+"Payflow Link (Includes Express Checkout)","Payflow Link (Includes Express Checkout)"
+"Connect your merchant account with a PCI-compliant gateway that lets customers pay without leaving your site.","Connect your merchant account with a PCI-compliant gateway that lets customers pay without leaving your site."
+"Accept payments with a PCI compliant checkout that keeps customers on your site.","Accept payments with a PCI compliant checkout that keeps customers on your site."
+"Connect your merchant account with a fully customizable gateway that lets customers pay without leaving your site.","Connect your merchant account with a fully customizable gateway that lets customers pay without leaving your site."
+"International AVS Indicator Does Not Match","International AVS Indicator Does Not Match"
+"Payflow Pro (Includes Express Checkout)","Payflow Pro (Includes Express Checkout)"
+"Save for later use.","පසුකාලීන භාවිතය සඳහා සුරකින්න."
+"Payments Standard","ගෙවීම් සම්මතය"
+"Accept credit card and PayPal payments securely.","ක්‍රෙඩිට් කාඩ් සහ පේපෑල් ගෙවීම් ආරක්ෂිතව පිළිගන්න."
+"Basic Settings - PayPal Website Payments Standard","මූලික සැකසුම් - PayPal වෙබ් අඩවි ගෙවීම් සම්මතය"
+"Website Payments Standard","වෙබ් අඩවි ගෙවීම් සම්මතය"
+"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","ඇණවුම ලබා දී නැත. පළමුව, නියමයන් සහ කොන්දේසි වලට එකඟ වන්න, ඉන්පසු ඔබේ ඇණවුම නැවත කිරීමට උත්සාහ කරන්න."
+"The payment couldn't be processed at this time. Please try again later.","මෙම අවස්ථාවේදී ගෙවීම සැකසීමට නොහැකි විය. කරුණාකර පසුව නැවත උත්සාහ කරන්න."
+"The verification transaction can't be voided. ","සත්‍යාපන ගනුදෙනුව අවලංගු කළ නොහැක. "
+"PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
+                        You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
+                        <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","PayPal Express Checkout ඔබට PayPal Credit&#174; හරහා මූල්‍යකරණයට ප්‍රවේශය ලබා දීමට ඔබට ඉඩ සලසයි - ඔබට අමතර වියදමකින් තොරව.
+                        ගනුදෙනුකරුවන්ට ගෙවීමට වැඩි කාලයක් තිබියදීත්, ඔබට කලින් ගෙවනු ලැබේ. පෙර ඒකාබද්ධ ගෙවීම් බොත්තමක් පාරිභෝගිකයින්ට PayPal Credit&#174;සමඟ ඉක්මනින් ගෙවීමට ඉඩ දෙයි.
+                        <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">තව දැනගන්න</a>"
+"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                        <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                        from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                        Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                        The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                        or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">මුල්‍යකරණය ප්‍රචාරණය කරන්නේ ඇයි?</a><br/>
+                        <strong>ඔබ මූල්‍යකරණය ප්‍රචාරණය කරන විට ඔබේ විකුණුම් වැඩි දියුණු කරන්න.</strong><br/>පේපෑල් ක්‍රෙඩිට්&#174;වෙතින් මූල්‍යකරණය
+                        සමඟ බ්‍රව්සර් ගැනුම්කරුවන් බවට පත් කිරීමට PayPal උදවු කරයි. ඔබේ ගනුදෙනුකරුවන්ට ගෙවීමට වැඩි කාලයක් ඇත, ඔබ ඉදිරියෙන් ගෙවනු ලබන අතර - ඔබට අමතර වියදමකින් තොරව.
+                        ඔබේ ගනුදෙනුකරුවන් PayPal සමඟ පරීක්ෂා කරන විට ගෙවීම් විකල්පයක් ලෙස PayPal Credit&#174; මූල්‍යකරණය ප්‍රචාරණය කිරීමට ඉඩ සලසන PayPal හි නොමිලේ බැනර් දැන්වීම් භාවිතා කරන්න.
+                        PayPal වෙළඳ ප්‍රචාරණ වැඩසටහන අමතර මිලදී ගැනීම් උත්පාදනය කිරීම මෙන්ම පාරිභෝගිකයාගේ සාමාන්‍ය මිලදී ගැනීමේ ප්‍රමාණය 15%
+                        හෝ ඊට වැඩි ප්‍රමාණයකින් වැඩි කරන බව පෙන්වා දී ඇත. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">විස්තර</a>බලන්න."
+"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">මුල්‍යකරණය ප්‍රචාරණය කරන්නේ ඇයි?</a><br/>
+                            <strong>ඔබ මූල්‍යකරණය ප්‍රචාරණය කරන විට ඔබේ විකුණුම් වැඩි දියුණු කරන්න.</strong><br/>පේපෑල් ක්‍රෙඩිට්&#174;වෙතින් මූල්‍යකරණය
+                            සමඟ බ්‍රව්සර් ගැනුම්කරුවන් බවට පත් කිරීමට PayPal උදවු කරයි. ඔබේ ගනුදෙනුකරුවන්ට ගෙවීමට වැඩි කාලයක් ඇත, ඔබ ඉදිරියෙන් ගෙවනු ලබන අතර - ඔබට අමතර වියදමකින් තොරව.
+                            ඔබේ ගනුදෙනුකරුවන් PayPal සමඟ පරීක්ෂා කරන විට ගෙවීම් විකල්පයක් ලෙස PayPal Credit&#174; මූල්‍යකරණය ප්‍රචාරණය කිරීමට ඉඩ සලසන PayPal හි නොමිලේ බැනර් දැන්වීම් භාවිතා කරන්න.
+                            PayPal වෙළඳ ප්‍රචාරණ වැඩසටහන අමතර මිලදී ගැනීම් උත්පාදනය කිරීම මෙන්ම පාරිභෝගිකයාගේ සාමාන්‍ය මිලදී ගැනීමේ ප්‍රමාණය 15%
+                            හෝ ඊට වැඩි ප්‍රමාණයකින් වැඩි කරන බව පෙන්වා දී ඇත. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">විස්තර</a>බලන්න."
 "<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                                 <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
                                 from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
@@ -724,3 +701,45 @@
                                 ඔබේ ගනුදෙනුකරුවන් PayPal සමඟ පරීක්ෂා කරන විට ගෙවීම් විකල්පයක් ලෙස PayPal Credit&#174; මූල්‍යකරණය ප්‍රචාරණය කිරීමට ඉඩ සලසන PayPal හි නොමිලේ බැනර් දැන්වීම් භාවිතා කරන්න.
                                 PayPal වෙළඳ ප්‍රචාරණ වැඩසටහන අමතර මිලදී ගැනීම් උත්පාදනය කිරීම මෙන්ම පාරිභෝගිකයාගේ සාමාන්‍ය මිලදී ගැනීමේ ප්‍රමාණය 15%
                                 හෝ ඊට වැඩි ප්‍රමාණයකින් වැඩි කරන බව පෙන්වා දී ඇත. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">විස්තර</a>බලන්න."
+"Vault enabled","Vault enabled"
+"Gold","රන්"
+"Blue","නිල්"
+"Silver","රිදී"
+"Black","කලු"
+"Vertical","සිරස්"
+"Horizontal","තිරස්"
+"Pill","පෙති"
+"Rectangle","සෘජුකෝණාස්රය"
+"Medium","Medium"
+"Large","Large"
+"Responsive","Responsive"
+"Checkout","පරීක්ෂාකාරී වන්න"
+"Pay","ගෙවන්න"
+"Buy Now","දැන් මිලදී ගන්න"
+"PayPal","PayPal"
+"Installment","වාරිකය"
+"PayPal Credit","PayPal ණය"
+"PayPal Guest Checkout Credit Card Icons","PayPal Guest Checkout Credit Card Icons"
+"Elektronisches Lastschriftverfahren - German ELV","Elektronisches Lastschriftverfahren - ජර්මානු ELV"
+"Something went wrong with your request. Please try again later.","ඔබගේ ඉල්ලීමෙහි යම් දෙයක් වැරදී ඇත. කරුණාකර පසුව නැවත උත්සාහ කරන්න."
+"Customize Smart Buttons","ස්මාර්ට් බොත්තම් අභිරුචිකරණය කරන්න"
+"Checkout Page","පිටවීමේ පිටුව"
+"Customize Button","අභිරුචිකරණ බොත්තම"
+"Label","ලේබලය"
+"The installment feature is available only in these locales: en_MX, es_MX, en_BR, pt_BR.","වාරික විශේෂාංගය ලබා ගත හැක්කේ මෙම ස්ථාන වල පමණි: en_MX, es_MX, en_BR, pt_BR."
+"Mexico Installment Period","මෙක්සිකෝ වාරික කාලය"
+"Brazil Installment Period","බ්රසීල වාරික කාලය"
+"Layout","පිරිසැලසුම"
+"Select Responsive to ensure the PayPal button renders correctly on mobile devices.","Select Responsive to ensure the PayPal button renders correctly on mobile devices."
+"Shape","හැඩය"
+"Color","වර්ණ"
+"Product Pages","නිෂ්පාදන පිටු"
+"Cart Page","කරත්ත පිටුව"
+"Mini Cart","කුඩා කරත්තය"
+"Features","විශේෂාංග"
+"Disable Funding Options","අරමුදල් විකල්ප අබල කරන්න"
+"PayPal will automatically display each enabled funding option to eligible buyers.
+                                For example, PayPal Credit is only shown to buyers in countries where PayPal Credit is
+                                offered and the currency offered by the merchant is USD.","PayPal එක් එක් සක්‍රීය අරමුදල් විකල්පය සුදුසුකම් ලත් ගැනුම්කරුවන්ට ස්වයංක්‍රීයව සංදර්ශන කරයි.
+                                උදාහරණයක් ලෙස, PayPal Credit පෙන්වන්නේ PayPal Credit
+                                ක් පිරිනැමෙන සහ වෙළෙන්දා විසින් පිරිනමනු ලබන මුදල් ඇ.ඩො."
