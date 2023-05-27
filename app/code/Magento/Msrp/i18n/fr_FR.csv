@@ -13,7 +13,7 @@
 "Add to Cart","Ajouter au panier"
 "Minimum Advertised Price","Prix ​​minimum affiché"
 "Enable MAP","Activer le prix minimum affiché"
-"<strong class=""colorRed"">Warning!</strong> Enabling MAP by default will hide all product prices on Storefront.","<strong class=""colorRed"">Attention !</strong> Activer MAP par défaut masquera tous les prix des produits sur la vitrine."
 "Display Actual Price","Afficher les vrais prix"
 "Default Popup Text Message","Texte du message de popup par défaut"
 "Default ""What's This"" Text Message","Texte par défaut du message ""Qu’est-ce que c'est"""
+"<strong style=""color:red"">Warning!</strong> Enabling MAP by default will hide all product prices on Storefront.","<strong style=""color:red"">Warning!</strong> Enabling MAP by default will hide all product prices on Storefront."
