@@ -1,6 +1,6 @@
-"The page doesn't exist. Verify and try again.","පිටුව නොපවතී. තහවුරු කර නැවත උත්සාහ කරන්න."
 "This block no longer exists.","මෙම අවහිරය තවදුරටත් නොපවතී."
-"Future Update already exists in this time range. Set a different range and try again.","අනාගත යාවත්කාලීනය දැනටමත් මෙම කාල පරාසය තුළ පවතී. වෙනස් පරාසයක් සකසා නැවත උත්සාහ කරන්න."
+"Future Update in this time range already exists. Select a different range to add a new Future Update.","Future Update in this time range already exists. Select a different range to add a new Future Update."
+"Error","Error"
 "Currently Active","දැනට ක්‍රියාත්මකයි"
 "New Theme","නව තේමාව"
 "-- Please Select --","-- කරුණාකර තෝරන්න --"
@@ -42,21 +42,17 @@
 "Design","නිර්මාණ"
 "Layout","පිරිසැලසුම"
 "Layout Update XML","පිරිසැලසුම යාවත්කාලීන XML"
-"Custom Layout Update","අභිරුචි පිරිසැලසුම් යාවත්කාලීන කිරීම"
-"
-                        List of layout files with an update handle ""selectable""
-                        matching *PageIdentifier*_*UpdateID*.
-                        <br/>
-                        See Magento documentation for more information
-                    ","
-                        යාවත්කාලීන හසුරුවකින් යුත් පිරිසැලසුම් ගොනු ලැයිස්තුවක් ""තෝරාගත හැකි""
-                        ගැලපෙන *PageIdentifier*_*UpdateID*.
-                        <br/>
-                        වැඩි විස්තර සඳහා Magento ලේඛන බලන්න
-                    "
 "The page will be removed from the update and all scheduled changes will be lost.","යාවත්කාලීනයෙන් පිටුව ඉවත් කරනු ලබන අතර නියමිත වෙනස්කම් සියල්ල අහිමි වනු ඇත."
 "CMS Pages","CMS පිටු"
 "CMS Blocks","CMS බ්ලොක්"
 "ID","හැඳුනුම්පත"
 "Title","ශීර්ෂය"
 "Status","තත්ත්වය"
+"Remove CMS block from Campaign","Remove CMS block from Campaign"
+"Move to Another Campaign","Move to Another Campaign"
+"Deleting the update will remove the block from this campaign and all scheduled changes will be lost.","Deleting the update will remove the block from this campaign and all scheduled changes will be lost."
+"Remove CMS page from Campaign","Remove CMS page from Campaign"
+"Deleting the update will remove the page from this campaign and all scheduled changes will be lost.","Deleting the update will remove the page from this campaign and all scheduled changes will be lost."
+"Remove CMS Page from Campaign","Remove CMS Page from Campaign"
+"Remove CMS Block from Campaign","Remove CMS Block from Campaign"
+"Future Update already exists in this time range. Set a different range and try again.","අනාගත යාවත්කාලීනය දැනටමත් මෙම කාල පරාසය තුළ පවතී. වෙනස් පරාසයක් සකසා නැවත උත්සාහ කරන්න."
