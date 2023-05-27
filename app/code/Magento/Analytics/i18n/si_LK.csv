@@ -1,22 +1,22 @@
 "Subscription status","දායකත්ව තත්ත්වය"
 "Sorry, there has been an error processing your request. Please try again later.","සමාවන්න, ඔබගේ ඉල්ලීම සැකසීමේදී දෝෂයක් සිදුවී ඇත. කරුණාකර පසුව නැවත උත්සාහ කරන්න."
-"The time value is using an unsupported format. Enter a supported format and try again.","කාල අගය සහාය නොදක්වන ආකෘතියක් භාවිතා කරයි. සහාය දක්වන ආකෘතියක් ඇතුළු කර නැවත උත්සාහ කරන්න."
+"Time value has an unsupported format","Time value has an unsupported format"
 "Cron settings can't be saved","Cron සැකසුම් සුරැකිය නොහැක"
 "There was an error save new configuration value.","නව වින්‍යාස අගය සුරැකීමේ දෝෂයක් ඇති විය."
-"Please select an industry.","කරුණාකර කර්මාන්තයක් තෝරන්න."
+"Please select a vertical.","Please select a vertical."
 "--Please Select--","--කරුණාකර තෝරන්න--"
-"Command ""%1"" was not found.","""%1"" විධානය හමු නොවීය."
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","දත්ත වලංගු නැත. දත්ත තන්තුවක් ලෙස හෝ තන්තුවක් බවට පරිවර්තනය කළ හැකි දත්ත ඇතුළත් කර නැවත උත්සාහ කරන්න."
-"The data is invalid. Enter the data as a string and try again.","දත්ත වලංගු නැත. තන්තුවක් ලෙස දත්ත ඇතුලත් කර නැවත උත්සාහ කරන්න."
-"The data is invalid. Use a valid cipher method and try again.","දත්ත වලංගු නැත. වලංගු කේතාංක ක්‍රමයක් භාවිතා කර නැවත උත්සාහ කරන්න."
-"Enter the encryption key and try again.","සංකේතාංකන යතුර ඇතුළත් කර නැවත උත්සාහ කරන්න."
-"The ""%1"" source doesn't exist.","""%1"" මූලාශ්‍රය නොපවතී."
+"Command was not found.","Command was not found."
+"Input data must be string or convertible into string.","Input data must be string or convertible into string."
+"Input data must be non-empty string.","Input data must be non-empty string."
+"Not valid cipher method.","Not valid cipher method."
+"Encryption key can't be empty.","Encryption key can't be empty."
+"Source ""%1"" is not exist","Source ""%1"" is not exist"
 "These arguments can't be empty ""%1""","මෙම තර්ක හිස් විය නොහැක ""%1"""
 "Cannot find predefined integration user!","පූර්ව නිශ්චිත ඒකාබද්ධ පරිශීලක සොයා ගත නොහැක!"
 "File is not ready yet.","ගොනුව තවමත් සූදානම් නැත."
 "Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","ඔබගේ මූලික URL වෙනස් කර ඇති අතර ඔබගේ වාර්තා යාවත්කාලීන වෙමින් පවතී. මෙම වෙනස සැකසූ පසු උසස් වාර්තාකරණය ලබා ගත හැකි වනු ඇත. කරුණාකර පසුව නැවත උත්සාහ කරන්න."
 "Failed to synchronize data to the Magento Business Intelligence service. ","Magento Business Intelligence සේවාව වෙත දත්ත සමමුහුර්ත කිරීමට අසමත් විය. "
-"Retry Synchronization","සමමුහුර්තකරණය නැවත උත්සාහ කරන්න"
+"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Retry Synchronization</a>"
 "TestMessage","පරීක්ෂණ පණිවිඩය"
 "Apps and Games","යෙදුම් සහ ක්‍රීඩා"
 "Athletic/Sporting Goods","මලල ක්‍රීඩා/ක්‍රීඩා භාණ්ඩ"
@@ -31,14 +31,13 @@
 "BI Essentials","BI Essentials"
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>.","මෙම සේවාව ඔබේ ව්‍යාපාරය පිළිබඳ පොහොසත් අවබෝධයක් සහිත ගතික වාර්තා කට්ටලයක් සපයයි.
-
-                ""උසස් වාර්තාකරණය වෙත යන්න"" සබැඳිය ක්ලික් කිරීමෙන් පරිපාලක පැනලයෙන් පිටත පුද්ගලාරෝපිත උපකරණ පුවරුවකට ඔබගේ වාර්තා ආරක්ෂිතව ප්‍රවේශ විය හැක. </br> වැඩි විස්තර සඳහා, අපගේ <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
-                නියමයන් සහ කොන්දේසි</a>බලන්න."
+                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
+                terms and conditions</a>.","This service provides a dynamic suite of reports with rich insights about your business.
+                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
+                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
+                terms and conditions</a>."
 "Advanced Reporting Service","උසස් වාර්තාකරණ සේවාව"
 "Time of day to send data","දත්ත යැවීමට දවසේ වේලාව"
-"Industry Data","කර්මාන්ත දත්ත"
 "Industry","කර්මාන්ත"
 "In order to personalize your Advanced Reporting experience, please select your industry.","ඔබේ උසස් වාර්තාකරණ අත්දැකීම පුද්ගලීකරණය කිරීම සඳහා, කරුණාකර ඔබේ කර්මාන්තය තෝරන්න."
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Magento Business Intelligence</strong>වෙතින් තවත් අවබෝධයක් ලබා ගන්න"
@@ -66,3 +65,11 @@
 "Pharma and Medical Devices","ඖෂධ සහ වෛද්ය උපකරණ"
 "Technology B2B","තාක්ෂණය B2B"
 "Other","වෙනත්"
+"The time value is using an unsupported format. Enter a supported format and try again.","කාල අගය සහාය නොදක්වන ආකෘතියක් භාවිතා කරයි. සහාය දක්වන ආකෘතියක් ඇතුළු කර නැවත උත්සාහ කරන්න."
+"Please select an industry.","කරුණාකර කර්මාන්තයක් තෝරන්න."
+"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","දත්ත වලංගු නැත. දත්ත තන්තුවක් ලෙස හෝ තන්තුවක් බවට පරිවර්තනය කළ හැකි දත්ත ඇතුළත් කර නැවත උත්සාහ කරන්න."
+"The data is invalid. Enter the data as a string and try again.","දත්ත වලංගු නැත. තන්තුවක් ලෙස දත්ත ඇතුලත් කර නැවත උත්සාහ කරන්න."
+"The data is invalid. Use a valid cipher method and try again.","දත්ත වලංගු නැත. වලංගු කේතාංක ක්‍රමයක් භාවිතා කර නැවත උත්සාහ කරන්න."
+"Enter the encryption key and try again.","සංකේතාංකන යතුර ඇතුළත් කර නැවත උත්සාහ කරන්න."
+"The ""%1"" source doesn't exist.","""%1"" මූලාශ්‍රය නොපවතී."
+"Retry Synchronization","සමමුහුර්තකරණය නැවත උත්සාහ කරන්න"
