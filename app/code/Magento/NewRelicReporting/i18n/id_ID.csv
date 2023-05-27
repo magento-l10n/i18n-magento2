@@ -1,6 +1,6 @@
 "No New Relic Application ID configured, cannot continue with Cron Event reporting","Tidak ada ID Aplikasi New Relic yang dikonfigurasi, tidak dapat melanjutkan pelaporan Cron Event"
-"The New Relic integration requires the newrelic-php5 agent, which is not installed. More
-                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","The New Relic integration requires the newrelic-php5 agent, which is not installed. More
+"The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
+                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
                         information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>."
 "New Relic Reporting Section","Bagian Pelaporan New Relic"
 "New Relic Reporting","Pelaporan New Relic"
@@ -19,7 +19,7 @@
 "Generated under Insights in Manage data -> API Keys -> Insert Keys","Dihasilkan di bawah Wawasan dalam Mengelola data -> Tombol API -> Sisipkan Tombol"
 "New Relic Application Name","Nama Aplikasi New Relic"
 "This is located by navigating to Settings from the New Relic APM website","Ini terletak dengan menavigasi ke Settings dari situs APM New Relic"
-"Send Adminhtml and Frontend as Separate Apps","Kirim Adminhtml dan Frontend sebagai Aplikasi Terpisah"
-"In addition to the main app (which includes all PHP execution), separate apps for adminhtml and frontend will be created. Requires New Relic Application Name to be set.","Selain untuk aplikasi utama (yang mencakup semua eksekusi PHP), aplikasi terpisah untuk adminhtml dan frontend akan dibuat. Nama aplikasi baru harus ditetapkan."
 "Cron","Cron"
 "Enable Cron","Aktifkan Cron"
+"Send Adminhtml and Frontend as Separate Apps","Kirim Adminhtml dan Frontend sebagai Aplikasi Terpisah"
+"In addition to the main app (which includes all PHP execution), separate apps for adminhtml and frontend will be created. Requires New Relic Application Name to be set.","Selain untuk aplikasi utama (yang mencakup semua eksekusi PHP), aplikasi terpisah untuk adminhtml dan frontend akan dibuat. Nama aplikasi baru harus ditetapkan."
