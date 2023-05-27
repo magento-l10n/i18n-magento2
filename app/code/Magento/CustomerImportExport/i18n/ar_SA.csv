@@ -1,5 +1,5 @@
 "Please specify a website.","الرجاء تحديد الموقع على شبكة الإنترنت."
-"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."
+"Please specify an email.","Please specify an email."
 "We found an invalid value in a website column.","نحن العثور على قيمة غير صحيحة في عمود موقع."
 "Please enter a valid email.","الرجاء إدخال عنوان بريد الكتروني صحيح."
 "Please make sure attribute ""%s"" is not empty.","الرجاء التأكد من السمة ""%s"" ليس فارغاً."
@@ -15,3 +15,4 @@
 "Please enter a password with a valid length.","الرجاء إدخال كلمة مرور بطول صحيح."
 "CSV","CSV ملف"
 "Excel XML","Excel XML"
+"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."
