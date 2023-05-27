@@ -1,2 +1,3 @@
-"The role wasn't found for the user. Verify the role and try again.","Rollen hittades inte för användaren. Verifiera rollen och försök igen."
+"We can't find the role for the user you wanted.","We can't find the role for the user you wanted."
 "Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Något gick fel vid sammanställa en lista över tillåtna resurser. Du kan läsa mer i loggen undantag."
+"The role wasn't found for the user. Verify the role and try again.","Rollen hittades inte för användaren. Verifiera rollen och försök igen."
