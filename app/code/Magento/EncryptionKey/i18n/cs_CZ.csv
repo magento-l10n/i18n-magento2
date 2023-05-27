@@ -12,3 +12,4 @@
 "The encryption key has been changed.","Šifrovací klíč byl změněn."
 "This is your new encryption key: %1. Be sure to write it down and take good care of it!","Váš nový šifrovací klíč: %1. Nezapomeňte si jej napsat a uložit na bezpečné místo!"
 "Manage Encryption Key","Správa šifrovacího klíče"
+"This is your new encryption key: <span style=""font-family:monospace;"">%1</span>. Be sure to write it down and take good care of it!","This is your new encryption key: <span style=""font-family:monospace;"">%1</span>. Be sure to write it down and take good care of it!"
