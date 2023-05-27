@@ -15,8 +15,6 @@
 "Total of %1 record(s) have been removed.","Insgesamt wurden %1 Einträge entfernt."
 "We couldn't remove the messages because of an error.","Wir konnten die Nachrichten aufgrund eines Fehlers nicht entfernen."
 "The message has been removed.","Die Nachricht wurde entfernt."
-"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","Sie haben alle kürzlichen Systemmitteilungen gesehen und gelöst.
-Bitte aktualisieren Sie die Web-Seite um die Mitteilungs-Benachrichtigung zurück zu setzen."
 "1 Hour","1 Stunde"
 "2 Hours","2 Stunden"
 "6 Hours","6 Stunden"
@@ -41,7 +39,6 @@ Bitte aktualisieren Sie die Web-Seite um die Mitteilungs-Benachrichtigung zurüc
 "Close","Schließen"
 "See All (","Alle anzeigen ("
 " unread)"," ungelesen)"
-"System Messages","Systemmeldungen"
 "Show Toolbar","Symbolleiste anzeigen"
 "Show List","Liste anzeigen"
 "Use HTTPS to Get Feed","Bitte verwende HTTPS und den Feed anzuzeigen"
@@ -51,3 +48,6 @@ Bitte aktualisieren Sie die Web-Seite um die Mitteilungs-Benachrichtigung zurüc
 "Date Added","Hinzugefügt am"
 "Message","Nachricht"
 "Actions","Aktionen"
+"Close popup","Close popup"
+"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","Sie haben alle kürzlichen Systemmitteilungen gesehen und gelöst.
+Bitte aktualisieren Sie die Web-Seite um die Mitteilungs-Benachrichtigung zurück zu setzen."
