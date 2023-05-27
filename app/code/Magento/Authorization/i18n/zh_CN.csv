@@ -1,2 +1,3 @@
-"The role wasn't found for the user. Verify the role and try again.","找不到该用户的角色。验证角色然后重试。"
+"We can't find the role for the user you wanted.","We can't find the role for the user you wanted."
 "Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","编译允许资源列表时出错。您可以从异常日志查找更多可用信息。"
+"The role wasn't found for the user. Verify the role and try again.","找不到该用户的角色。验证角色然后重试。"
