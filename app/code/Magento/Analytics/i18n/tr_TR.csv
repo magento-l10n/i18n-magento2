@@ -1,22 +1,22 @@
 "Subscription status","Abonelik durumu"
 "Sorry, there has been an error processing your request. Please try again later.","Üzgünüm, İsteğiniz işlenirken bir hata oluştu. Lütfen daha sonra yeniden deneyin."
-"The time value is using an unsupported format. Enter a supported format and try again.","Zaman değeri, desteklenmeyen bir biçim kullanıyor. Desteklenen bir format girin ve tekrar deneyin."
+"Time value has an unsupported format","Time value has an unsupported format"
 "Cron settings can't be saved","Cron ayarları kaydedilemiyor"
 "There was an error save new configuration value.","Yeni ayarları kaydederken hata oluştu."
-"Please select an industry.","Lütfen bir endüstri seçin."
+"Please select a vertical.","Please select a vertical."
 "--Please Select--","--Lütfen Seçiniz--"
-"Command ""%1"" was not found.","""%1"" komutu bulunamadı."
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","Veri geçersiz. Verileri bir dizge olarak veya dizgeye dönüştürülebilen veriler olarak girin ve tekrar deneyin."
-"The data is invalid. Enter the data as a string and try again.","Veriler geçersiz. Verileri bir dizi olarak girin ve tekrar deneyin."
-"The data is invalid. Use a valid cipher method and try again.","Veriler geçersiz. Geçerli bir şifre yöntemi kullanın ve tekrar deneyin."
-"Enter the encryption key and try again.","Şifreleme anahtarını girin ve tekrar deneyin."
-"The ""%1"" source doesn't exist.","""%1"" kaynağı mevcut değil."
+"Command was not found.","Command was not found."
+"Input data must be string or convertible into string.","Input data must be string or convertible into string."
+"Input data must be non-empty string.","Input data must be non-empty string."
+"Not valid cipher method.","Not valid cipher method."
+"Encryption key can't be empty.","Encryption key can't be empty."
+"Source ""%1"" is not exist","Source ""%1"" is not exist"
 "These arguments can't be empty ""%1""","Bu parametreler boş olamaz ''%1''"
 "Cannot find predefined integration user!","Önceden tanımlanmış Tümleştirme kullanıcısı bulamıyorum!"
 "File is not ready yet.","Dosya henüz hazır değil."
 "Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Temel URL'niz değiştirildi ve raporlarınız güncelleniyor. Bu değişiklik işleme konulduktan sonra Gelişmiş Raporlama kullanılabilir olacaktır. Lütfen daha sonra tekrar deneyiniz."
 "Failed to synchronize data to the Magento Business Intelligence service. ","Magento Business Intelligence servisine veri senkronizasyonu başarısız oldu. "
-"Retry Synchronization","Senkronizasyon Tekrar Denemesi"
+"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Retry Synchronization</a>"
 "TestMessage","Deneme Mesajı"
 "Apps and Games","Uygulamalar ve Oyunlar"
 "Athletic/Sporting Goods","Spor/spor malzemeleri"
@@ -31,13 +31,13 @@
 "BI Essentials","BI Ana Hatları"
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>.","Bu hizmet işletmenizle ilgili verimli bilgiler içeren dinamik bir rapor seti sunar.                 Raporlarınıza, yönetici panosunun dışında kişiselleştirilmiş bir gösterge panelinden 
-                 ""Gelişmiş Raporlamaya Git"" bağlantısına tıklayarak güvenli bir şekilde erişebilirsiniz..</br>Daha fazla bilgi için, bakınız
-                 <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">şartlar ve koşullar</a>."
+                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
+                terms and conditions</a>.","This service provides a dynamic suite of reports with rich insights about your business.
+                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
+                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
+                terms and conditions</a>."
 "Advanced Reporting Service","Gelişmiş Raporlama Hizmeti"
 "Time of day to send data","Veri göndermek için günün saati"
-"Industry Data","Sektör Verileri"
 "Industry","Endüstri"
 "In order to personalize your Advanced Reporting experience, please select your industry.","Gelişmiş Raporlama deneyiminizi kişiselleştirmek için lütfen sektörünüzü seçin."
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Magento İş Zekası'ndan daha fazla bilgi edinin </strong>"
@@ -65,3 +65,11 @@
 "Pharma and Medical Devices","İlaç ve Tıbbi Cihazlar"
 "Technology B2B","Teknoloji B2B"
 "Other","Diğer"
+"The time value is using an unsupported format. Enter a supported format and try again.","Zaman değeri, desteklenmeyen bir biçim kullanıyor. Desteklenen bir format girin ve tekrar deneyin."
+"Please select an industry.","Lütfen bir endüstri seçin."
+"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","Veri geçersiz. Verileri bir dizge olarak veya dizgeye dönüştürülebilen veriler olarak girin ve tekrar deneyin."
+"The data is invalid. Enter the data as a string and try again.","Veriler geçersiz. Verileri bir dizi olarak girin ve tekrar deneyin."
+"The data is invalid. Use a valid cipher method and try again.","Veriler geçersiz. Geçerli bir şifre yöntemi kullanın ve tekrar deneyin."
+"Enter the encryption key and try again.","Şifreleme anahtarını girin ve tekrar deneyin."
+"The ""%1"" source doesn't exist.","""%1"" kaynağı mevcut değil."
+"Retry Synchronization","Senkronizasyon Tekrar Denemesi"
