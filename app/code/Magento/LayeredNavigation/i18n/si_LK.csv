@@ -2,14 +2,9 @@
 "Filterable (with results)","පෙරිය හැකි (ප්‍රතිඵල සහිත)"
 "Filterable (no results)","පෙරිය හැකි (ප්‍රතිඵල නැත)"
 "Use in Layered Navigation","Layered Navigation හි භාවිතා කරන්න"
-"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price","නාමාවලි ආදාන වර්ගය ඔව්/නැත, පතන, බහු තේරීම සහ මිල සමඟ පමණක් භාවිතා කළ හැක"
-"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
-                    <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
-                     it will make no affect on Price filter.","නාමාවලි ආදාන වර්ගය ඔව්/නැත, පතන, බහු තේරීම සහ මිල සමඟ පමණක් භාවිතා කළ හැක.
-                    <br>මිල <b>'පෙරහන (ප්‍රතිඵල නැත)'</b> විකල්පය සමඟ නොගැළපේ - 
-                     එය මිල පෙරහනට කිසිදු බලපෑමක් නොකරනු ඇත."
+"Can be used only with catalog input type Dropdown, Multiple Select and Price","Can be used only with catalog input type Dropdown, Multiple Select and Price"
+"Can be used only with catalog input type Dropdown, Multiple Select and Price.","Can be used only with catalog input type Dropdown, Multiple Select and Price."
 "Use in Search Results Layered Navigation","සෙවුම් ප්‍රතිඵල ස්ථර සංචාලනය තුළ භාවිත කරන්න"
-"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.","නාමාවලි ආදාන වර්ගය ඔව්/නැත, පතන, බහු තේරීම සහ මිල සමඟ පමණක් භාවිතා කළ හැක."
 "Position","තනතුර"
 "Position in Layered Navigation","Layered Navigation හි පිහිටීම"
 "Position of attribute in layered navigation block.","ස්ථර සංචාලන කොටසෙහි ගුණාංගයේ පිහිටීම."
@@ -32,4 +27,12 @@
 "This setting will be applied when all prices in the specific price interval are equal.","නිශ්චිත මිල පරතරයේ සියලුම මිල සමාන වන විට මෙම සැකසුම යෙදේ."
 "Interval Division Limit","අන්තරාල අංශ සීමාව"
 "Please specify the number of products, that will not be divided into subintervals.","කරුණාකර නිෂ්පාදන සංඛ්‍යාව සඳහන් කරන්න, ඒවා අතුරු කාලවලට බෙදෙන්නේ නැත."
+"Position of attribute in layered navigation block","Position of attribute in layered navigation block"
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price","නාමාවලි ආදාන වර්ගය ඔව්/නැත, පතන, බහු තේරීම සහ මිල සමඟ පමණක් භාවිතා කළ හැක"
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
+                    <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
+                     it will make no affect on Price filter.","නාමාවලි ආදාන වර්ගය ඔව්/නැත, පතන, බහු තේරීම සහ මිල සමඟ පමණක් භාවිතා කළ හැක.
+                    <br>මිල <b>'පෙරහන (ප්‍රතිඵල නැත)'</b> විකල්පය සමඟ නොගැළපේ - 
+                     එය මිල පෙරහනට කිසිදු බලපෑමක් නොකරනු ඇත."
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.","නාමාවලි ආදාන වර්ගය ඔව්/නැත, පතන, බහු තේරීම සහ මිල සමඟ පමණක් භාවිතා කළ හැක."
 "Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price.","නාමාවලි ආදාන වර්ගය Yes/No (Boolean), Dropdown, Multiple Select සහ Price සමඟ පමණක් භාවිතා කළ හැක."
