@@ -1,22 +1,22 @@
 "Subscription status","Előfizetés állapota"
 "Sorry, there has been an error processing your request. Please try again later.","Sajnáljuk, de hiba történt a kérés feldolgozása során! Kérjük, próbálja meg később újra!"
-"The time value is using an unsupported format. Enter a supported format and try again.","Az idő nem támogatott formátumban lett megadva. Kérem adja meg támogatott formátumban, és próbálkozzon újra."
+"Time value has an unsupported format","Time value has an unsupported format"
 "Cron settings can't be saved","Nem lehet menteni a cron beállításokat"
 "There was an error save new configuration value.","Hiba történt az új konfigurációs érték mentése során!"
-"Please select an industry.","Válassza ki az iparágat."
+"Please select a vertical.","Please select a vertical."
 "--Please Select--","--Kérem, válasszon--"
-"Command ""%1"" was not found.","A(z) ""%1"" parancs nem található."
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","Az adat érvénytelen. Adja meg az adatokat karakterláncként vagy úgy hogy karakterlánccá lehessen alakítani, majd próbálkozzon újra."
-"The data is invalid. Enter the data as a string and try again.","Az adat érvénytelen. Adja meg az értéket karakterláncként, és próbálkozzon újra."
-"The data is invalid. Use a valid cipher method and try again.","Az adat érvénytelen. Használjon érvényes titkosító eljárást és próbálja újra."
-"Enter the encryption key and try again.","Adja meg a titkosítási kulcsot, és próbálkozzon újra."
-"The ""%1"" source doesn't exist.","A ""%1"" forrás nem létezik."
+"Command was not found.","Command was not found."
+"Input data must be string or convertible into string.","Input data must be string or convertible into string."
+"Input data must be non-empty string.","Input data must be non-empty string."
+"Not valid cipher method.","Not valid cipher method."
+"Encryption key can't be empty.","Encryption key can't be empty."
+"Source ""%1"" is not exist","Source ""%1"" is not exist"
 "These arguments can't be empty ""%1""","Ezek az értékek nem lehetnek üresek ""%1"""
 "Cannot find predefined integration user!","Nem található az előre definiált felhasználóintegráció!"
 "File is not ready yet.","A fájl még nincs kész."
 "Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Megváltozott az alapértelmezett URL, és a jelentései aktualizálásra kerülnek. A Fejlett jelentéskészítés akkor lesz újra elérhető, ha ez a változás feldolgozásra kerül. Kérjük próbálkozzon újra később."
 "Failed to synchronize data to the Magento Business Intelligence service. ","Az adatszinkronizálás sikertelen a Magento Üzleti Intelligencia szolgáltatás irányába. "
-"Retry Synchronization","Újraszinkronizálás"
+"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Retry Synchronization</a>"
 "TestMessage","Tesztüzenet"
 "Apps and Games","Alkalmazások és játékok"
 "Athletic/Sporting Goods","Sportszerek"
@@ -31,13 +31,13 @@
 "BI Essentials","BI Essentials"
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>.","Ez a szolgáltatás a jelentések dinamikus készletét biztosítja, részletes betekintéssel az Ön cégéről. 
-                A jelentéseit biztonságosan elérheti egy személyre szabott vezérlőpanelen, ami nem része az admin panelnek, ha rákattint a
-                ""Ugrás a fejlett jelentéskészítésre"" link-re. </br> Bővebb információért tekintse meg <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">feltételeinket</a>."
+                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
+                terms and conditions</a>.","This service provides a dynamic suite of reports with rich insights about your business.
+                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
+                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
+                terms and conditions</a>."
 "Advanced Reporting Service","Fejlett jelentéskészítés szolgáltatás"
 "Time of day to send data","Napon belüli időpont az adatok küldésére"
-"Industry Data","Iparági adatok"
 "Industry","Ipar"
 "In order to personalize your Advanced Reporting experience, please select your industry.","Válassza ki az iparágat a fejlett jelentéskészítő testreszabásához."
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>További részletek a Magento Üzleti intelligenciáról</strong>"
@@ -65,3 +65,11 @@
 "Pharma and Medical Devices","Gyógyszeripari és orvostechnikai eszközök"
 "Technology B2B","Technológia B2B"
 "Other","Egyéb"
+"The time value is using an unsupported format. Enter a supported format and try again.","Az idő nem támogatott formátumban lett megadva. Kérem adja meg támogatott formátumban, és próbálkozzon újra."
+"Please select an industry.","Válassza ki az iparágat."
+"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","Az adat érvénytelen. Adja meg az adatokat karakterláncként vagy úgy hogy karakterlánccá lehessen alakítani, majd próbálkozzon újra."
+"The data is invalid. Enter the data as a string and try again.","Az adat érvénytelen. Adja meg az értéket karakterláncként, és próbálkozzon újra."
+"The data is invalid. Use a valid cipher method and try again.","Az adat érvénytelen. Használjon érvényes titkosító eljárást és próbálja újra."
+"Enter the encryption key and try again.","Adja meg a titkosítási kulcsot, és próbálkozzon újra."
+"The ""%1"" source doesn't exist.","A ""%1"" forrás nem létezik."
+"Retry Synchronization","Újraszinkronizálás"
