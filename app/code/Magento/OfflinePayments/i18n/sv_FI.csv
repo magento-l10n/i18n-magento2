@@ -1,4 +1,3 @@
-"Purchase order number is a required field.","Inköpsordernummer är ett obligatoriskt fält."
 "Make Check payable to:","Checkbetalning till:"
 "Send Check to:","Skicka check till:"
 "Purchase Order Number","Inköpsordernummer"
@@ -21,3 +20,6 @@
 "Bank Transfer Payment","Betalning via bankgiro"
 "Instructions","Instruktioner"
 "Cash On Delivery Payment","Kontant betalning vid leverans"
+"Zero Subtotal Checkout","Zero Subtotal Checkout"
+"Automatically Invoice All Items","Automatically Invoice All Items"
+"Purchase order number is a required field.","Inköpsordernummer är ett obligatoriskt fält."
