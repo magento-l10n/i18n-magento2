@@ -12,3 +12,4 @@
 "The encryption key has been changed.","Το κλειδί κρυπτογράφησης έχει αλλάξει."
 "This is your new encryption key: %1. Be sure to write it down and take good care of it!","Αυτό είναι το νέο κλειδί κρυπτογράφησης: %1. Να είστε βέβαιος ότι το καταγράψατε και να το προσέχετε καλά!"
 "Manage Encryption Key","Διαχειριστείτε το κλειδί κρυπτογράφησης"
+"This is your new encryption key: <span style=""font-family:monospace;"">%1</span>. Be sure to write it down and take good care of it!","This is your new encryption key: <span style=""font-family:monospace;"">%1</span>. Be sure to write it down and take good care of it!"
