@@ -1,4 +1,3 @@
-"Can't convert a shipping cost from ""%1-%2"" for FedEx carrier.","Can't convert a shipping cost from ""%1-%2"" for FedEx carrier."
 "Europe First Priority","若选择职能递送方法，该字段适用"
 "1 Day Freight","1 天货运"
 "2 Day Freight","2 天货运"
@@ -44,7 +43,6 @@
 "status","状态"
 "Empty response","空响应"
 "None","无"
-"Expected Delivery:","Expected Delivery:"
 "Field ","字段"
 " is required.","是必需的。"
 "FedEx","联邦快递"
@@ -79,3 +77,4 @@
 "Debug","调试"
 "Show Method if Not Applicable","Show 方法不适用"
 "Sort Order","排序"
+"Expected Delivery:","Expected Delivery:"
