@@ -54,6 +54,7 @@
 "Print Credit Memos","クレジットメモ印刷"
 "Print All","すべて印刷"
 "Print Shipping Labels","配送ラベルを印刷"
+"Remove to Archive","Remove to Archive"
 "ID","ID"
 "Purchase Date","購入日"
 "Ship-to Name","送り先名"
@@ -72,3 +73,4 @@
 "Ship Date","発送日"
 "Total Quantity","総数量"
 "Go to Archive","アーカイブに移動"
+"Page not found.","Page not found."
