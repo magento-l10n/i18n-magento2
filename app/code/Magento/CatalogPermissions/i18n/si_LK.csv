@@ -26,7 +26,7 @@
 "Use parent","දෙමාපිය භාවිතා කරන්න"
 "Category Permissions Section","කාණ්ඩ අවසර අංශය"
 "Enable","සබල කරන්න"
-"<strong class=""warning-enable-permissions"">Warning!</strong> By default this feature restricts all categories.","<strong class=""warning-enable-permissions"">අවවාදයයි!</strong> පෙරනිමියෙන් මෙම විශේෂාංගය සියලුම කාණ්ඩ සීමා කරයි."
+"<strong style=""color:red"">Warning!</strong> By default this feature restricts all categories.","<strong style=""color:red"">Warning!</strong> By default this feature restricts all categories."
 "Allow Browsing Category","Browsing Category ඉඩ දෙන්න"
 "Customer Groups","පාරිභෝගික කණ්ඩායම්"
 "Landing Page","ගොඩබෑමේ පිටුව"
