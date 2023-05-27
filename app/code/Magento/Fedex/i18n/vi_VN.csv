@@ -1,4 +1,3 @@
-"Can't convert a shipping cost from ""%1-%2"" for FedEx carrier.","Can't convert a shipping cost from ""%1-%2"" for FedEx carrier."
 "Europe First Priority","Europe ưu tiên hàng đầu"
 "1 Day Freight","1 ngày vận chuyển hàng hóa"
 "2 Day Freight","2 ngày vận chuyển hàng hóa"
@@ -44,7 +43,6 @@
 "status","trạng thái"
 "Empty response","Không có hồi đáp"
 "None","Không cái nào"
-"Expected Delivery:","Expected Delivery:"
 "Field ","Trường "
 " is required."," là bắt buộc."
 "FedEx","FedEx"
@@ -79,3 +77,4 @@
 "Debug","Sửa Lỗi"
 "Show Method if Not Applicable","Hiển thị Phương pháp nếu không áp dụng được"
 "Sort Order","Thứ tự sắp xếp"
+"Expected Delivery:","Expected Delivery:"
