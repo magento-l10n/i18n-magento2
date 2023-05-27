@@ -12,3 +12,4 @@
 "The encryption key has been changed.","Şifreleme anahtarı değiştirildi."
 "This is your new encryption key: %1. Be sure to write it down and take good care of it!","Bu yeni şifreleme anahtarınız:% 1. Yazdığınızdan emin olun ve ona iyi bakın!"
 "Manage Encryption Key","Şifreleme Anahtarını Yönet"
+"This is your new encryption key: <span style=""font-family:monospace;"">%1</span>. Be sure to write it down and take good care of it!","This is your new encryption key: <span style=""font-family:monospace;"">%1</span>. Be sure to write it down and take good care of it!"
