@@ -2,14 +2,9 @@
 "Filterable (with results)","Filtrável (com resultados)"
 "Filterable (no results)","Filtrável (nenhum resultado)"
 "Use in Layered Navigation","Utilizar em Navegação por Camadas"
-"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price"
-"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
-                    <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
-                     it will make no affect on Price filter.","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
-                    <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
-                     it will make no affect on Price filter."
+"Can be used only with catalog input type Dropdown, Multiple Select and Price","Can be used only with catalog input type Dropdown, Multiple Select and Price"
+"Can be used only with catalog input type Dropdown, Multiple Select and Price.","Can be used only with catalog input type Dropdown, Multiple Select and Price."
 "Use in Search Results Layered Navigation","Usar nos Resultados de Pesquisa na Navegação por Camadas"
-"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price."
 "Position","Posição"
 "Position in Layered Navigation","Posição na Navegação em Camadas"
 "Position of attribute in layered navigation block.","Posição de atributo no bloco de navegação em camadas."
@@ -32,4 +27,12 @@
 "This setting will be applied when all prices in the specific price interval are equal.","Esta configuração será aplicada quando todos os preços no intervalo de preço específico forem iguais."
 "Interval Division Limit","Limite de Divisão de Interalo"
 "Please specify the number of products, that will not be divided into subintervals.","Por favor, especifique a quantidade de produtos que não serão divididos em sub-intervalos."
+"Position of attribute in layered navigation block","Position of attribute in layered navigation block"
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price"
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
+                    <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
+                     it will make no affect on Price filter.","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
+                    <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
+                     it will make no affect on Price filter."
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price."
 "Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price.","Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price."
