@@ -1,4 +1,3 @@
-"Purchase order number is a required field.","Aankoop bestelnummer is een verplicht veld."
 "Make Check payable to:","Maak overboeking naar:"
 "Send Check to:","Maak overboeking naar:"
 "Purchase Order Number","Inkoopordernummer"
@@ -21,3 +20,6 @@
 "Bank Transfer Payment","Bankoverschrijving"
 "Instructions","Instructies"
 "Cash On Delivery Payment","Betalen bij levering"
+"Zero Subtotal Checkout","Zero Subtotal Checkout"
+"Automatically Invoice All Items","Automatically Invoice All Items"
+"Purchase order number is a required field.","Aankoop bestelnummer is een verplicht veld."
