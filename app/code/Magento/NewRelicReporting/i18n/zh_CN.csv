@@ -1,6 +1,6 @@
 "No New Relic Application ID configured, cannot continue with Cron Event reporting","没有新的遗留应用程序 ID 配置，无法继续通过计划事件报告"
-"The New Relic integration requires the newrelic-php5 agent, which is not installed. More
-                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","The New Relic integration requires the newrelic-php5 agent, which is not installed. More
+"The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
+                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
                         information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>."
 "New Relic Reporting Section","New Relic报告"
 "New Relic Reporting","新文物报告"
@@ -19,7 +19,7 @@
 "Generated under Insights in Manage data -> API Keys -> Insert Keys","在管理数据-API 密钥-插入键 > 下见解产生"
 "New Relic Application Name","新的遗留应用程序名称"
 "This is located by navigating to Settings from the New Relic APM website","这位于通过导航到设置从新文物 APM 网站"
-"Send Adminhtml and Frontend as Separate Apps","Send Adminhtml and Frontend as Separate Apps"
-"In addition to the main app (which includes all PHP execution), separate apps for adminhtml and frontend will be created. Requires New Relic Application Name to be set.","In addition to the main app (which includes all PHP execution), separate apps for adminhtml and frontend will be created. Requires New Relic Application Name to be set."
 "Cron","Cron"
 "Enable Cron","启用 Cron"
+"Send Adminhtml and Frontend as Separate Apps","Send Adminhtml and Frontend as Separate Apps"
+"In addition to the main app (which includes all PHP execution), separate apps for adminhtml and frontend will be created. Requires New Relic Application Name to be set.","In addition to the main app (which includes all PHP execution), separate apps for adminhtml and frontend will be created. Requires New Relic Application Name to be set."
