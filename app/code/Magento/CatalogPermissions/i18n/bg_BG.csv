@@ -26,7 +26,7 @@
 "Use parent","Използвай основен"
 "Category Permissions Section","Раздел права за категория"
 "Enable","Разреши"
-"<strong class=""warning-enable-permissions"">Warning!</strong> By default this feature restricts all categories.","<strong class=""warning-enable-permissions"">Предупреждение!</strong> По подразбиране тази функция ограничава всички категории."
+"<strong style=""color:red"">Warning!</strong> By default this feature restricts all categories.","<strong style=""color:red"">Warning!</strong> By default this feature restricts all categories."
 "Allow Browsing Category","Позволи разглеждане по категория"
 "Customer Groups","Клиентски групи"
 "Landing Page","Целева страница"
