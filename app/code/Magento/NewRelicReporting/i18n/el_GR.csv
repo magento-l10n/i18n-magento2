@@ -1,6 +1,6 @@
 "No New Relic Application ID configured, cannot continue with Cron Event reporting","Κανένα νέο ID Εφαρμογής Relic έχει ρυθμιστεί, δεν μπορούμε να συνεχίσουμε με Γεγονός αναφοράς Cron"
-"The New Relic integration requires the newrelic-php5 agent, which is not installed. More
-                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","The New Relic integration requires the newrelic-php5 agent, which is not installed. More
+"The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
+                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
                         information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>."
 "New Relic Reporting Section","Νέα ενότητα αναφοράς Relic"
 "New Relic Reporting","Νέα αναφορά Relic"
@@ -19,7 +19,7 @@
 "Generated under Insights in Manage data -> API Keys -> Insert Keys","Δημιουργήθηκε στο πλαίσιο Στατιστικά Στοιχεία στη Διαχείριση Δεδομένων-> API κλειδιά-> Εισάγετε κλειδιά"
 "New Relic Application Name","Νέο όνομα εφαρμογής Relic"
 "This is located by navigating to Settings from the New Relic APM website","Αυτό βρίσκεται με την πλοήγηση σε Ρυθμίσεις από την Νέα ιστοσελίδα APM Relic"
-"Send Adminhtml and Frontend as Separate Apps","Στείλτε το Adminhtml και το Frontend ως ξεχωριστές εφαρμογές"
-"In addition to the main app (which includes all PHP execution), separate apps for adminhtml and frontend will be created. Requires New Relic Application Name to be set.","Εκτός από την κύρια εφαρμογή (η οποία περιλαμβάνει όλη την εκτέλεση PHP), θα δημιουργηθούν ξεχωριστές εφαρμογές για adminhtml και frontend. Απαιτεί να οριστεί νέο όνομα εφαρμογών Relic."
 "Cron","Cron"
 "Enable Cron","Ενεργοποίηση Cron"
+"Send Adminhtml and Frontend as Separate Apps","Στείλτε το Adminhtml και το Frontend ως ξεχωριστές εφαρμογές"
+"In addition to the main app (which includes all PHP execution), separate apps for adminhtml and frontend will be created. Requires New Relic Application Name to be set.","Εκτός από την κύρια εφαρμογή (η οποία περιλαμβάνει όλη την εκτέλεση PHP), θα δημιουργηθούν ξεχωριστές εφαρμογές για adminhtml και frontend. Απαιτεί να οριστεί νέο όνομα εφαρμογών Relic."
