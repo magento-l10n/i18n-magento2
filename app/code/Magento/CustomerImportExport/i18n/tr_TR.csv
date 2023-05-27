@@ -1,5 +1,5 @@
 "Please specify a website.","Lütfen bir web sitesi belirtin."
-"An email wasn't specified. Enter the email and try again.","Bir e-mail belirtilmedi. E-mail adresi girip tekrar deneyiniz."
+"Please specify an email.","Please specify an email."
 "We found an invalid value in a website column.","Bir web sitesi sütununda geçersiz bir değer bulduk."
 "Please enter a valid email.","Lütfen geçerli bir e-posta adresi girin."
 "Please make sure attribute ""%s"" is not empty.","Lütfen ""%s"" özelliğinin boş olmadığından emin olun."
@@ -15,3 +15,4 @@
 "Please enter a password with a valid length.","Lütfen geçerli bir uzunlukta bir parola girin."
 "CSV","Csv"
 "Excel XML","Excel XML"
+"An email wasn't specified. Enter the email and try again.","Bir e-mail belirtilmedi. E-mail adresi girip tekrar deneyiniz."
