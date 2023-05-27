@@ -13,7 +13,7 @@
 "Add to Cart","カートに入れる"
 "Minimum Advertised Price","希望小売価格"
 "Enable MAP","MAPを有効にする"
-"<strong class=""colorRed"">Warning!</strong> Enabling MAP by default will hide all product prices on Storefront.","<strong class=""colorRed"">警告！</strong> MAPをデフォルトで有効にすると、Storefrontのすべての製品価格が非表示になります。"
 "Display Actual Price","実際の価格を表示"
 "Default Popup Text Message","標準のポップアップメッセージ"
 "Default ""What's This"" Text Message","標準の ""これは何ですか"" メッセージ"
+"<strong style=""color:red"">Warning!</strong> Enabling MAP by default will hide all product prices on Storefront.","<strong style=""color:red"">Warning!</strong> Enabling MAP by default will hide all product prices on Storefront."
