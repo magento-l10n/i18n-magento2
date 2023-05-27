@@ -1,22 +1,22 @@
 "Subscription status","Abonnementsstatus"
 "Sorry, there has been an error processing your request. Please try again later.","Sorry, er is een fout opgetreden bij het verwerken van uw aanvraag. Probeer het later nog eens."
-"The time value is using an unsupported format. Enter a supported format and try again.","De waarde voor de tijd gebruikt een ongeldig format. Gebruik een geldig format en probeer het nog eens."
+"Time value has an unsupported format","Time value has an unsupported format"
 "Cron settings can't be saved","Cron instellingen konden niet worden opgeslagen"
 "There was an error save new configuration value.","Er was een fout bij het opslaan van de nieuwe configuratiewaarde."
-"Please select an industry.","Selecteer een branch."
+"Please select a vertical.","Please select a vertical."
 "--Please Select--","--Maak een keuze--"
-"Command ""%1"" was not found.","Opdracht ""%1"" werd niet gevonden."
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","De gegevens zijn ongeldig. Voer de gegevens als een tekenreeks of als gegevens die kunnen worden omgezet in een tekenreeks en probeer het opnieuw."
-"The data is invalid. Enter the data as a string and try again.","De gegevens zijn ongeldig. Voer de gegevens in als een tekenreeks en probeer het opnieuw."
-"The data is invalid. Use a valid cipher method and try again.","De gegevens zijn ongeldig. Gebruik een geldige cipher methode en probeer het opnieuw."
-"Enter the encryption key and try again.","Voer de encryptiesleutel in en probeer het opnieuw."
-"The ""%1"" source doesn't exist.","De bron ""%1"" bestaat niet."
+"Command was not found.","Command was not found."
+"Input data must be string or convertible into string.","Input data must be string or convertible into string."
+"Input data must be non-empty string.","Input data must be non-empty string."
+"Not valid cipher method.","Not valid cipher method."
+"Encryption key can't be empty.","Encryption key can't be empty."
+"Source ""%1"" is not exist","Source ""%1"" is not exist"
 "These arguments can't be empty ""%1""","Deze argumenten mogen niet leeg zijn ""%1"""
 "Cannot find predefined integration user!","Kan de vooraf gedefinieerde integratiegebruiker niet vinden!"
 "File is not ready yet.","Bestand is nog niet klaar."
 "Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Uw basis-URL is veranderd en uw rapporten worden bijgewerkt. Geavanceerde rapportage zal beschikbaar zijn zodra deze wijziging is verwerkt. Probeer het later nog eens."
 "Failed to synchronize data to the Magento Business Intelligence service. ","Het synchroniseren van de data naar de Magento Bedrijfsintelligentie-service is mislukt. "
-"Retry Synchronization","Opnieuw synchroniseren"
+"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Retry Synchronization</a>"
 "TestMessage","Testbericht"
 "Apps and Games","Apps en Games"
 "Athletic/Sporting Goods","Atletiek/Sportartikelen"
@@ -31,14 +31,13 @@
 "BI Essentials","BI vereisten"
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>.","Deze service biedt een dynamisch pakket rapporten met rijke inzichten over uw bedrijf.
-                Uw rapporten kunnen veilig worden geopend op een gepersonaliseerd dashboard buiten het beheerderspaneel door te klikken op de link
-                ""Ga naar geavanceerde meldingen"" </br> Voor meer informatie zie onze <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
-                algemene voorwaarden</a>."
+                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
+                terms and conditions</a>.","This service provides a dynamic suite of reports with rich insights about your business.
+                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
+                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
+                terms and conditions</a>."
 "Advanced Reporting Service","Geavanceerde Rapportage"
 "Time of day to send data","Moment van de dag om gegevens te verzenden"
-"Industry Data","Bedrijfstak gegevens"
 "Industry","Industrie"
 "In order to personalize your Advanced Reporting experience, please select your industry.","Selecteer uw branche om uw ervaring met geavanceerde rapportage aan te passen."
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Krijg meer inzichten van de Magento Bedrijfsintelligentie</strong>"
@@ -66,3 +65,11 @@
 "Pharma and Medical Devices","Farma en medische hulpmiddelen"
 "Technology B2B","Technologie B2B"
 "Other","Andere"
+"The time value is using an unsupported format. Enter a supported format and try again.","De waarde voor de tijd gebruikt een ongeldig format. Gebruik een geldig format en probeer het nog eens."
+"Please select an industry.","Selecteer een branch."
+"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","De gegevens zijn ongeldig. Voer de gegevens als een tekenreeks of als gegevens die kunnen worden omgezet in een tekenreeks en probeer het opnieuw."
+"The data is invalid. Enter the data as a string and try again.","De gegevens zijn ongeldig. Voer de gegevens in als een tekenreeks en probeer het opnieuw."
+"The data is invalid. Use a valid cipher method and try again.","De gegevens zijn ongeldig. Gebruik een geldige cipher methode en probeer het opnieuw."
+"Enter the encryption key and try again.","Voer de encryptiesleutel in en probeer het opnieuw."
+"The ""%1"" source doesn't exist.","De bron ""%1"" bestaat niet."
+"Retry Synchronization","Opnieuw synchroniseren"
