@@ -12,3 +12,4 @@
 "The encryption key has been changed.","暗号化キーが変更されています。"
 "This is your new encryption key: %1. Be sure to write it down and take good care of it!","これが新しい暗号化キーです： %1。 書き留めて、取り扱いに十分に配慮してください！"
 "Manage Encryption Key","暗号化キー管理"
+"This is your new encryption key: <span style=""font-family:monospace;"">%1</span>. Be sure to write it down and take good care of it!","This is your new encryption key: <span style=""font-family:monospace;"">%1</span>. Be sure to write it down and take good care of it!"
