@@ -54,6 +54,7 @@
 "Print Credit Memos","Imprimir facturas rectificadas"
 "Print All","Imprimir todo"
 "Print Shipping Labels","Imprimir etiquetas de envío"
+"Remove to Archive","Remove to Archive"
 "ID","Número de Identificación (ID)"
 "Purchase Date","Fecha de compra"
 "Ship-to Name","Nombre de envío"
@@ -72,3 +73,4 @@
 "Ship Date","Fecha de envío"
 "Total Quantity","Cantidad Total"
 "Go to Archive","Ir a archivo"
+"Page not found.","Page not found."
