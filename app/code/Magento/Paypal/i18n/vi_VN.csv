@@ -63,13 +63,12 @@
 "We can't start the billing agreement wizard.","Chúng tôi không thể chạy trình thực hiện thỏa thuận thanh toán."
 "Billing Agreement # %1","Thỏa thuận Thanh toán #%1"
 "We can't initialize Express Checkout.","Chúng tôi không thể khởi tạo nhận thanh toán."
-"PayPal can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.","PayPal không thể xử lý đơn đặt hàng nếu không cân bằng. Để hoàn tất mua hàng của bạn, xin vui lòng đi qua quy trình tiêu chuẩn kiểm tra."
 "PayPal Express Checkout Token does not exist.","PayPal nhận thẻ thanh toán không tồn tại."
 "A wrong PayPal Express Checkout Token is specified.","Một thẻ thanh toán vận chuyển PayPal sai được chỉ định."
 "Express Checkout and Order have been canceled.","Vận chuyển thanh toán và đơn đặt hàng đã bị hủy bỏ."
 "Express Checkout has been canceled.","Chuyển thanh toán đã bị hủy bỏ."
 "Unable to cancel Express Checkout","Không thể hủy bỏ chuyển thanh toán"
-"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","The order wasn't placed. First, agree to the terms and conditions, then try placing your order again."
+"Please agree to all the terms and conditions before placing the order.","Please agree to all the terms and conditions before placing the order."
 "We can't process Express Checkout approval.","Chúng tôi không thể xử lý chấp nhận thanh toán."
 "We can't initialize Express Checkout review.","Chúng tôi không thể khởi tạo xem trước phần nhận thanh toán."
 "We can't update shipping method.","Chúng tôi không thể cập nhật các phương pháp vận chuyển."
@@ -79,7 +78,7 @@
 "Your payment has been declined. Please try again.","Thanh toán của bạn đã bị từ chối. Xin vui lòng thử lại."
 "Requested payment method does not match with order.","Thanh toán Được yêu cầu không phù hợp với các đơn đặt hàng."
 "Would you like to sign a billing agreement to streamline further purchases with PayPal?","Bạn có muốn ký một thỏa thuận thanh toán để tiếp tục mua hàng với PayPal?"
-"The payment couldn't be processed at this time. Please try again later.","The payment couldn't be processed at this time. Please try again later."
+"Error processing payment, please try again later.","Error processing payment, please try again later."
 "Authorization is not allowed.","Authorization is not allowed."
 "Payment Gateway is unreachable at the moment. Please use another payment option.","Cổng thanh toán không thể kết nối lúc này. Hãy sử dụng tuỳ chọn thanh toán khác."
 "PayPal response hasn't required fields.","Trả lời của PayPal không có các mục yêu cầu."
@@ -88,7 +87,6 @@
 "The PayPal gateway rejected the request. %1","Cổng vào PayPal từ chối yêu cầu. %1"
 "I'm sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you.","Rất tiếc - nhưng chúng tôi đã không thể xử lý thanh toán của bạn. Xin vui lòng thử phương thức thanh toán khác hoặc liên hệ với chúng tôi để chúng tôi có thể hỗ trợ bạn."
 "I'm sorry - but we are not able to complete your transaction. Please contact us so we can assist you.","Rất tiếc - nhưng chúng tôi không thể hoàn thành giao dịch của bạn. Hãy liên hệ với chúng tôi để chúng tôi có thể hỗ trợ bạn."
-"A successful payment transaction has already been completed. Please, check if the order has been placed.","A successful payment transaction has already been completed. Please, check if the order has been placed."
 "A match of the Shipping Address City, State, and Postal Code failed.","Áp dụng địa chỉ thành phố, tiểu bang và mã bưu chính vận chuyển thất bại."
 "We can't place the order.","Chúng tôi không thể đặt thứ tự."
 "The payment method code is not set.","Mã phương pháp thanh toán không được thiết lập."
@@ -125,6 +123,7 @@
 "The maximum number of child authorizations is reached.","Số lượng ủy quyền tối đa là đạt."
 "We'll authorize the amount of %1 as soon as the payment gateway approves it.","Chúng tôi sẽ cho phép số lượng %1 ngay sau khi cổng thanh toán chấp thuận nó."
 "The authorized amount is %1.","Số tiền được ủy quyền là %1."
+"PayPal can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.","PayPal không thể xử lý đơn đặt hàng nếu không cân bằng. Để hoàn tất mua hàng của bạn, xin vui lòng đi qua quy trình tiêu chuẩn kiểm tra."
 "A payer is not identified.","Một người nộp tiền không được xác định."
 "Cannot get secure form URL from PayPal","Không thể có được hình thức an toàn URL từ PayPal"
 "Last Transaction ID","ID giao dịch cuối cùng"
@@ -221,10 +220,10 @@
 "Unable to fetch transaction details.","Không thể lấy thông tin chi tiết giao dịch."
 "Invalid method %1::%2","Phương pháp không hợp lệ %1::%2"
 "Transaction has been declined","Giao dịch đã bị từ chối"
-"Payment can't be accepted since transaction was rejected by merchant.","Payment can't be accepted since transaction was rejected by merchant."
+"Error processing payment. Please try again later.","Error processing payment. Please try again later."
 "We cannot send the new order email.","Chúng tôi không thể gửi email đặt hàng mới."
 "Payment error. %value was not found.","Lỗi thanh toán. không tìm thấy giá trị %."
-"The verification transaction can't be voided. ","The verification transaction can't be voided. "
+"You cannot void a verification transaction.","You cannot void a verification transaction."
 "You need an authorization transaction to void.","Bạn cần một giao dịch ủy quyền để để trống."
 "We can't issue a refund transaction because there is no capture transaction.","Chúng tôi không thể thực hiện một giao dịch hoàn lại tiền vì không có giao dịch được ghi lại."
 "We cannot create a target file for reading reports.","Chúng tôi không thể tạo một tập tin mục tiêu cho việc đọc báo cáo."
@@ -331,19 +330,6 @@
 "Header (center)","Tiêu đề (Trung tâm)"
 "Sidebar (right)","Thanh trượt (bên phải)"
 "Near PayPal Credit checkout button","Nút Gần thanh toán tín dụng PayPal"
-"Gold","Gold"
-"Blue","Blue"
-"Silver","Silver"
-"Black","Black"
-"Vertical","Vertical"
-"Horizontal","Horizontal"
-"Pill","Pill"
-"Rectangle","Rectangle"
-"Checkout","Thanh toán"
-"Pay","Pay"
-"Buy Now","Buy Now"
-"PayPal","PayPal"
-"Installment","Installment"
 "--Please Select--","--Vui lòng chọn--"
 "Daily","Hàng ngày"
 "Every 3 days","Mỗi 3 ngày"
@@ -353,21 +339,6 @@
 "Every 30 days","Mỗi 30 ngày"
 "Every 40 days","Mỗi 40 ngày"
 "No Logo","Không có biểu tượng"
-"White","White"
-"White No Border","White No Border"
-"Gray","Gray"
-"Monochrome","Monochrome"
-"Grayscale","Grayscale"
-"Left","Left"
-"Right","Right"
-"Top","Top"
-"Primary","Primary"
-"Alternative","Alternative"
-"Inline","Inline"
-"None","None"
-"Sidebar","Sidebar"
-"Text","Text"
-"Flex","Flex"
 "Yes (PayPal recommends this option)","Có (PayPal khuyến cáo tùy chọn này)"
 "Created billing agreement #%1.","Tạo thanh toán hợp đồng #%1."
 "We can't create a billing agreement for this order.","Không thể tạo ra một thỏa thuận thanh toán cho các đơn đặt hàng này."
@@ -375,11 +346,7 @@
 "Pending PayPal","Đang chờ giải quyết PayPal"
 "PayPal Reversed","PayPal đảo ngược"
 "PayPal Canceled Reversal","PayPal hủy đảo ngược"
-"PayPal Credit","PayPal Credit"
-"PayPal Guest Checkout Credit Card Icons","PayPal Guest Checkout Credit Card Icons"
-"Elektronisches Lastschriftverfahren - German ELV","Elektronisches Lastschriftverfahren - German ELV"
 "Error","Lỗi"
-"PayPal gateway has rejected request.","PayPal gateway has rejected request."
 "Billing Agreement","Thỏa thuận thanh toán"
 "Please Select","Vui lòng chọn"
 "Customer","Khách hàng"
@@ -397,7 +364,6 @@
 "Credit Card Number","Số thẻ tín dụng"
 "Expiration Date","Ngày hết hạn"
 "Card Verification Number","Số xác minh thẻ"
-"Save for later use.","Save for later use."
 "Billing Agreement # ","Thỏa thuận Thanh toán # "
 "Agreement Information","Thông tin hợp đồng"
 "Reference ID:","ID tham khảo:"
@@ -422,6 +388,7 @@
 "Your billing agreement # is: ","Thỏa thuận thanh toán của bạn # là: "
 "Shipping Method","Phương thức vận chuyển"
 "Please select a shipping method...","Hãy lựa chọn một phương pháp vận chuyển..."
+"Update Shipping Method","Update Shipping Method"
 "Sorry, no quotes are available for this order right now.","Xin lỗi, không có trích dẫn có sẵn cho các đơn đặt hàng này ngay bây giờ."
 "Shipping Address","Địa chỉ giao hàng"
 "Edit","Chỉnh sửa"
@@ -449,7 +416,6 @@
 "Sign a billing agreement to streamline further purchases with PayPal.","Đăng ký một thỏa thuận thanh toán để hợp lí hóa những thanh toán về sau với PayPal."
 "Continue to PayPal","Tiếp tục đến PayPal"
 "Save credit card information for future use.","Lưu thông tin thẻ tín dụng để sử dụng trong tương lai."
-"Something went wrong with your request. Please try again later.","Something went wrong with your request. Please try again later."
 "Sorry, something went wrong.","Xin lỗi, có gì đó đã đi sai."
 "Sorry, something went wrong. Please try again later.","Xin lỗi, có gì đó đã đi sai. Xin vui lòng thử lại sau."
 "PayPal Section","Phần PayPal"
@@ -462,7 +428,7 @@
 "Payment Amount Authorization","Payment Amount Authorization"
 "Merchant Location","Vị trí Thương gia"
 "Merchant Country","Thương mại quốc gia"
-"If not specified, Default Country from General Config will be used.","If not specified, Default Country from General Config will be used."
+"If not specified, Default Country from General Config will be used","If not specified, Default Country from General Config will be used"
 "Recommended Solutions:","Recommended Solutions:"
 "Other PayPal Payment Solutions:","Other PayPal Payment Solutions:"
 "Other Payment Methods:","Other Payment Methods:"
@@ -473,20 +439,9 @@
 "Payments Pro","Payments Pro"
 "Payments Pro and Express Checkout","Thanh toán Pro và thanh toán Express"
 "Basic Settings - PayPal Payments Pro","Cài đặt cơ bản - thanh toán PayPal Pro"
-"Payments Standard","Payments Standard"
-"Accept credit card and PayPal payments securely.","Accept credit card and PayPal payments securely."
-"Basic Settings - PayPal Website Payments Standard","Basic Settings - PayPal Website Payments Standard"
 "PayPal Payment Gateways&nbsp;<i>Process payments using your own internet merchant account.</i>","PayPal Payment Gateways&nbsp;<i>Process payments using your own internet merchant account.</i>"
-"Display pay later messaging on your site for offers like Pay in 3,
-                                    which lets customers pay with 3 interest- free monthly payments. We’ll show messages
-                                    on your site to promote this feature for you. You may not promote pay later offers
-                                    with any other content, marketing, or materials.","Display pay later messaging on your site for offers like Pay in 3,
-                                    which lets customers pay with 3 interest- free monthly payments. We’ll show messages
-                                    on your site to promote this feature for you. You may not promote pay later offers
-                                    with any other content, marketing, or materials."
 "PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>","PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>"
 "Accept payments with a completely customizable checkout page.","Chấp nhận thanh toán với một thanh toán có thể tùy chỉnh hoàn toàn."
-"Website Payments Standard","Website Payments Standard"
 "Process payments using your own internet merchant account.","Quy trình thanh toán bằng cách sử dụng tài khoản thương gia trên mạng của riêng bạn."
 "Website Payments Pro","Website Payments Pro"
 "Express Checkout","Express Checkout"
@@ -503,7 +458,6 @@
 "API Uses Proxy","API sử dụng Proxy"
 "Proxy Host","Máy chủ proxy"
 "Proxy Port","Cổng proxy"
-"Please enter at least 0 and at most 65535","Please enter at least 0 and at most 65535"
 "Enable this Solution","Kích hoạt giải pháp này"
 "Enable In-Context Checkout Experience","Cho phép thanh toán trong bối cảnh kiểm nghiệm"
 "See PayPal Feature Support details and list of supported regions
@@ -513,30 +467,22 @@
 "Enable PayPal Credit","Cho phép tín dụng PayPal"
 "PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
                         You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
-                        <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
+                        <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
                         You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
-                        <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>"
+                        <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>"
 "Sort Order PayPal Credit","Sắp xếp thứ tự tín dụng PayPal"
-"Enable PayPal PayLater Experience","Enable PayPal PayLater Experience"
-"Recommended. <strong>Advertise PayPal Credit</strong> is deprecated.
-                    See PayPal PayLater details and list of supported regions
-                    <a href=""https://developer.paypal.com/docs/business/pay-later/us/#eligibility"" target=""_blank"">
-                    here</a>.","Recommended. <strong>Advertise PayPal Credit</strong> is deprecated.
-                    See PayPal PayLater details and list of supported regions
-                    <a href=""https://developer.paypal.com/docs/business/pay-later/us/#eligibility"" target=""_blank"">
-                    here</a>."
 "Advertise PayPal Credit","Quảng cáo tín dụng PayPal"
-"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+"<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                         <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
                         from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
                         Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                         The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                        or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                        or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                         <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
                         from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
                         Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                         The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                        or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>."
+                        or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>."
 "Publisher ID","Nhà xuất bản ID"
 "Required to display a banner","Yêu cầu để hiển thị một biểu ngữ"
 "Get Publisher ID from PayPal","Có được nhà xuất bản ID từ PayPal"
@@ -547,16 +493,6 @@
 "Catalog Category Page","Trang Danh mục nhóm"
 "Catalog Product Page","Trang Danh mục sản phẩm"
 "Checkout Cart Page","Trang thanh toán giỏ hàng"
-"Advertise PayPal PayLater","Advertise PayPal PayLater"
-"Enable PayPal PayLater","Enable PayPal PayLater"
-"Style Layout","Style Layout"
-"Logo Type","Logo Type"
-"Logo Position","Logo Position"
-"Text Color","Text Color"
-"Text Size","Text Size"
-"Ratio","Ratio"
-"Color","Color"
-"Checkout Payment Step","Checkout Payment Step"
 "Basic Settings - PayPal Express Checkout","Cài đặt cơ bản - PayPal nhận thanh toán"
 "Title","Tiêu đề"
 "It is recommended to set this value to ""PayPal"" per store views.","Giá trị này được khuyến khích để đặt vào ""PayPal"" để xem một cửa hàng."
@@ -613,32 +549,13 @@
 "Page Style","Trang loại"
 "Allowable values: ""paypal"", ""primary"" (default), your_custom_value (a custom payment page style from your merchant account profile).","Allowable values: ""paypal"", ""primary"" (default), your_custom_value (a custom payment page style from your merchant account profile)."
 "Header Image URL","URL hình ảnh tiêu đề"
-"The image at the top left of the checkout page. Max size is 750x90-pixel. <strong class=""colorRed"">https</strong> is highly encouraged.","The image at the top left of the checkout page. Max size is 750x90-pixel. <strong class=""colorRed"">https</strong> is highly encouraged."
+"The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged.","The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged."
 "Header Background Color","Màu nền Tiêu đề"
 "The background color for the header of the checkout page. Case-insensitive six-character HTML hexadecimal color code in ASCII.","The background color for the header of the checkout page. Case-insensitive six-character HTML hexadecimal color code in ASCII."
 "Header Border Color","Màu sắc biên giới Tiêu đề"
 "2-pixel perimeter around the header space.","2-pixel các vành đai xung quanh khoảng trống tiêu đề."
 "Page Background Color","Màu nền Trang"
 "The background color for the checkout page around the header and payment form.","The background color for the checkout page around the header and payment form."
-"Customize Smart Buttons","Customize Smart Buttons"
-"Checkout Page","Checkout Page"
-"Customize Button","Customize Button"
-"Label","Nhãn"
-"The installment feature is available only in these locales: en_MX, es_MX, en_BR, pt_BR.","The installment feature is available only in these locales: en_MX, es_MX, en_BR, pt_BR."
-"Mexico Installment Period","Mexico Installment Period"
-"Brazil Installment Period","Brazil Installment Period"
-"Layout","Giao diện"
-"Shape","Shape"
-"Product Pages","Product Pages"
-"Cart Page","Cart Page"
-"Mini Cart","Mini Cart"
-"Features","Features"
-"Disable Funding Options","Disable Funding Options"
-"PayPal will automatically display each enabled funding option to eligible buyers.
-                                For example, PayPal Credit is only shown to buyers in countries where PayPal Credit is
-                                offered and the currency offered by the merchant is USD.","PayPal will automatically display each enabled funding option to eligible buyers.
-                                For example, PayPal Credit is only shown to buyers in countries where PayPal Credit is
-                                offered and the currency offered by the merchant is USD."
 "Payments Advanced","Payments Advanced"
 "Accept payments with a PCI-compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>)","Accept payments with a PCI-compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>)"
 "Payments Advanced and Express Checkout","Thanh toán nâng cao và thanh toán Express"
@@ -676,17 +593,17 @@
 "Website Payments Pro Hosted Solution","Trang web thanh toán giải pháp lưu trữ chuyên nghiệp"
 "Accept payments with a PCI compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>)","Accept payments with a PCI compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>)"
 "Payments Pro Hosted Solution","Giải pháp máy chủ Thanh toán chuyên nghiệp"
-"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+"<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                             <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
                             from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
                             Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                             The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                            or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                             <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
                             from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
                             Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                             The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>."
+                            or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>."
 "Basic Settings - PayPal Payments Pro Hosted Solution","Cài đặt cơ bản - các khoản thanh toán PayPal Pro giải pháp lưu trữ"
 "Display Express Checkout in the Payment Information step","Hiển thị thanh toán Express trong bước thông tin thanh toán"
 "Website Payments Pro Hosted Solution and Express Checkout","Trang web thanh toán giải pháp lưu trữ Pro và thanh toán Express"
@@ -699,8 +616,6 @@
 "Credit Card Settings","Cài đặt thẻ tín dụng"
 "Allowed Credit Card Types","Các loại thẻ tín dụng được cho phép"
 "Supporting of American Express cards require additional agreement. Learn more at <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.","Supporting of American Express cards require additional agreement. Learn more at <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>."
-"Fraud Management Filters","Fraud Management Filters"
-"Be sure to configure Fraud Management Filters in your PayPal account in ""Service Settings/Fraud Protection"" section. Attention! Please don't use Total Purchase Price Ceiling/Floor Filters. Current integration doesn't support them.","Be sure to configure Fraud Management Filters in your PayPal account in ""Service Settings/Fraud Protection"" section. Attention! Please don't use Total Purchase Price Ceiling/Floor Filters. Current integration doesn't support them."
 "CVV and AVS Settings","CVV và cài đặt AVS"
 "Reject Transaction if:","Từ chối giao dịch nếu:"
 "AVS Street Does Not Match","AVS Street không phù hợp"
@@ -708,11 +623,73 @@
 "Card Issuer Is Outside The United States","Card Issuer Is Outside The United States"
 "Card Security Code Does Not Match","Mã bảo vệ thẻ không khớp"
 "Payflow Pro and Express Checkout","Payflow Pro và thanh toán Express"
-"PayPal Express Checkout Payflow Edition lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
-                            You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
-                            <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","PayPal Express Checkout Payflow Edition lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
-                            You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
-                            <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>"
+"<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                                from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                                or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                                from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                                or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>."
+"We can't contact the PayPal gateway.","We can't contact the PayPal gateway."
+"The ordering amount of %1 is pending approval on the payment gateway.","The ordering amount of %1 is pending approval on the payment gateway."
+"Ordered amount of %1","Ordered amount of %1"
+"Matched whole nine-didgit ZIP (no Address)","Matched whole nine-didgit ZIP (no Address)"
+"Yes. Matched Address and five-didgit ZIP","Yes. Matched Address and five-didgit ZIP"
+"Invalid method %1::%2(%3)","Invalid method %1::%2(%3)"
+"To use PayPal Payments Advanced, you must configure  your PayPal Payments Advanced account on the PayPal website.","To use PayPal Payments Advanced, you must configure  your PayPal Payments Advanced account on the PayPal website."
+"PayPal Payment Gateways","PayPal Payment Gateways"
+"1","1"
+"PayPal Payment Solutions","PayPal Payment Solutions"
+"Email Associated with PayPal Merchant Account","Email Associated with PayPal Merchant Account"
+"Sandbox Credentials","Sandbox Credentials"
+"It is recommended to set this value to ""Magento_Paypal"" per store views.","It is recommended to set this value to ""Magento_Paypal"" per store views."
+"Payments Advanced (Includes Express Checkout)","Payments Advanced (Includes Express Checkout)"
+"Accept payments with a PCI-compliant checkout that keeps customers on your site.","Accept payments with a PCI-compliant checkout that keeps customers on your site."
+"Payflow Link (Includes Express Checkout)","Payflow Link (Includes Express Checkout)"
+"Connect your merchant account with a PCI-compliant gateway that lets customers pay without leaving your site.","Connect your merchant account with a PCI-compliant gateway that lets customers pay without leaving your site."
+"Accept payments with a PCI compliant checkout that keeps customers on your site.","Accept payments with a PCI compliant checkout that keeps customers on your site."
+"Connect your merchant account with a fully customizable gateway that lets customers pay without leaving your site.","Connect your merchant account with a fully customizable gateway that lets customers pay without leaving your site."
+"International AVS Indicator Does Not Match","International AVS Indicator Does Not Match"
+"Payflow Pro (Includes Express Checkout)","Payflow Pro (Includes Express Checkout)"
+"Save for later use.","Save for later use."
+"Payments Standard","Payments Standard"
+"Accept credit card and PayPal payments securely.","Accept credit card and PayPal payments securely."
+"Basic Settings - PayPal Website Payments Standard","Basic Settings - PayPal Website Payments Standard"
+"Website Payments Standard","Website Payments Standard"
+"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","The order wasn't placed. First, agree to the terms and conditions, then try placing your order again."
+"The payment couldn't be processed at this time. Please try again later.","The payment couldn't be processed at this time. Please try again later."
+"The verification transaction can't be voided. ","The verification transaction can't be voided. "
+"PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
+                        You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
+                        <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
+                        You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
+                        <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>"
+"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                        <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                        from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                        Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                        The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                        or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                        <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                        from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                        Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                        The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                        or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>."
+"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>."
 "<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                                 <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
                                 from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
@@ -724,3 +701,45 @@
                                 Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                                 The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
                                 or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>."
+"Vault enabled","Vault enabled"
+"Gold","Gold"
+"Blue","Blue"
+"Silver","Silver"
+"Black","Black"
+"Vertical","Vertical"
+"Horizontal","Horizontal"
+"Pill","Pill"
+"Rectangle","Rectangle"
+"Medium","Medium"
+"Large","Large"
+"Responsive","Responsive"
+"Checkout","Thanh toán"
+"Pay","Pay"
+"Buy Now","Buy Now"
+"PayPal","PayPal"
+"Installment","Installment"
+"PayPal Credit","PayPal Credit"
+"PayPal Guest Checkout Credit Card Icons","PayPal Guest Checkout Credit Card Icons"
+"Elektronisches Lastschriftverfahren - German ELV","Elektronisches Lastschriftverfahren - German ELV"
+"Something went wrong with your request. Please try again later.","Something went wrong with your request. Please try again later."
+"Customize Smart Buttons","Customize Smart Buttons"
+"Checkout Page","Checkout Page"
+"Customize Button","Customize Button"
+"Label","Nhãn"
+"The installment feature is available only in these locales: en_MX, es_MX, en_BR, pt_BR.","The installment feature is available only in these locales: en_MX, es_MX, en_BR, pt_BR."
+"Mexico Installment Period","Mexico Installment Period"
+"Brazil Installment Period","Brazil Installment Period"
+"Layout","Giao diện"
+"Select Responsive to ensure the PayPal button renders correctly on mobile devices.","Select Responsive to ensure the PayPal button renders correctly on mobile devices."
+"Shape","Shape"
+"Color","Color"
+"Product Pages","Product Pages"
+"Cart Page","Cart Page"
+"Mini Cart","Mini Cart"
+"Features","Features"
+"Disable Funding Options","Disable Funding Options"
+"PayPal will automatically display each enabled funding option to eligible buyers.
+                                For example, PayPal Credit is only shown to buyers in countries where PayPal Credit is
+                                offered and the currency offered by the merchant is USD.","PayPal will automatically display each enabled funding option to eligible buyers.
+                                For example, PayPal Credit is only shown to buyers in countries where PayPal Credit is
+                                offered and the currency offered by the merchant is USD."
