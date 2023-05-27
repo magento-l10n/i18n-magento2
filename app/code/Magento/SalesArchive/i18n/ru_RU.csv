@@ -54,6 +54,7 @@
 "Print Credit Memos","Print Credit Memos"
 "Print All","Распечатать все"
 "Print Shipping Labels","Print Shipping Labels"
+"Remove to Archive","Remove to Archive"
 "ID","Идентификатор"
 "Purchase Date","Purchase Date"
 "Ship-to Name","Имя получателя"
@@ -72,3 +73,4 @@
 "Ship Date","Дата отправки"
 "Total Quantity","Общее количество"
 "Go to Archive","Перейти в архив"
+"Page not found.","Page not found."
