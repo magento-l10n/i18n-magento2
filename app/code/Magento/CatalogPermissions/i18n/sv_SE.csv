@@ -26,7 +26,7 @@
 "Use parent","Använd Förälder"
 "Category Permissions Section","Kategoribehörigheter"
 "Enable","Aktivera"
-"<strong class=""warning-enable-permissions"">Warning!</strong> By default this feature restricts all categories.","<strong class=""warning-enable-permissions"">Warning!</strong> By default this feature restricts all categories."
+"<strong style=""color:red"">Warning!</strong> By default this feature restricts all categories.","<strong style=""color:red"">Warning!</strong> By default this feature restricts all categories."
 "Allow Browsing Category","Allow Browsing Category"
 "Customer Groups","Kundgrupper"
 "Landing Page","Landningssida"
