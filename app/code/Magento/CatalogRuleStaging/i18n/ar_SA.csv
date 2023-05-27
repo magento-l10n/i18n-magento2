@@ -1,4 +1,4 @@
-"Future Update already exists in this time range. Set a different range and try again.","Future Update already exists in this time range. Set a different range and try again."
+"Future Update in this time range already exists. Select a different range to add a new Future Update.","Future Update in this time range already exists. Select a different range to add a new Future Update."
 "Smth went to exception","Smth went to exception
 "
 "ID","التعريف"
@@ -18,7 +18,9 @@
 "End Date","تاريخ الانتهاء"
 "Rule Information","بيانات القاعدة"
 "Rule Name","أسم القاعدة"
+"Status","Status"
 "Active","فعال"
+"Inactive","Inactive"
 "Websites","الموقع"
 "Customer Groups","مجموعات العملاء"
 "Conditions","الحالات"
@@ -41,3 +43,7 @@
 "End Time","نهاية الوقت"
 "Catalog Price Rules","قواعد الاسعار فى دليل المنتجات"
 "Remove Catalog Price Rule from Campaign","إحذف قاعدة سعر الكتالوج من الحملة"
+"Future Update End Time cannot be equal or earlier than Start Time.","Future Update End Time cannot be equal or earlier than Start Time."
+"Move to Another Campaign","Move to Another Campaign"
+"Deleting the update will remove the catalog price rule from this campaign and all scheduled changes will be lost.","Deleting the update will remove the catalog price rule from this campaign and all scheduled changes will be lost."
+"Future Update already exists in this time range. Set a different range and try again.","Future Update already exists in this time range. Set a different range and try again."
