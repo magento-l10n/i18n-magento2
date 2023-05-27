@@ -1,5 +1,5 @@
 "Please specify a website.","ഒരു വെബ്‌സൈറ്റ് വ്യക്തമാക്കുക."
-"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."
+"Please specify an email.","Please specify an email."
 "We found an invalid value in a website column.","ഒരു വെബ്‌സൈറ്റ് നിരയിൽ ഞങ്ങൾ ഒരു അസാധുവായ മൂല്യം കണ്ടെത്തി."
 "Please enter a valid email.","സാധുവായ ഒരു ഇമെയിൽ നൽകുക."
 "Please make sure attribute ""%s"" is not empty.","""%s"" ആട്രിബ്യൂട്ട് ശൂന്യമല്ലെന്ന് ഉറപ്പാക്കുക."
@@ -15,3 +15,4 @@
 "Please enter a password with a valid length.","സാധുവായ ദൈർഘ്യമുള്ള പാസ്‌വേഡ് നൽകുക."
 "CSV","CSV"
 "Excel XML","Excel XML"
+"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."
