@@ -12,3 +12,4 @@
 "The encryption key has been changed.","A titkosítókulcs módosítva."
 "This is your new encryption key: %1. Be sure to write it down and take good care of it!","Ez az új titkosítókulcs: %1. Írja le, és gondosan vigyázzon rá!"
 "Manage Encryption Key","Titkosítókulcs kezelése"
+"This is your new encryption key: <span style=""font-family:monospace;"">%1</span>. Be sure to write it down and take good care of it!","This is your new encryption key: <span style=""font-family:monospace;"">%1</span>. Be sure to write it down and take good care of it!"

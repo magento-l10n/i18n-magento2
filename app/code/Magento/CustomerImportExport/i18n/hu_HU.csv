@@ -1,5 +1,5 @@
 "Please specify a website.","Kérem adjon meg egy weblapot."
-"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."
+"Please specify an email.","Please specify an email."
 "We found an invalid value in a website column.","Érvénytelen érték található a honlap oszlopban."
 "Please enter a valid email.","Kérjük érvényes emailt adjon meg."
 "Please make sure attribute ""%s"" is not empty.","Kérjük, győződjön meg róla, hogy a(z) ""%s"" attribútum nem üres!"
@@ -15,3 +15,4 @@
 "Please enter a password with a valid length.","Kérjük, érvényes hosszúságú jelszót adjon meg!"
 "CSV","CSV"
 "Excel XML","Excel XML"
+"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."

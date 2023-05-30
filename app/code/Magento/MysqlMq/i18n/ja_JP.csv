@@ -5,3 +5,4 @@
 "Successful Messages Lifetime","成功したメッセージの存続期間"
 "Failed Messages Lifetime","失敗したメッセージの存続期間"
 "New Messages Lifetime","新しいメッセージ有効期限"
+"MySQL Message Queue Cleanup - all the times are in minutes. Use ""0"" if you want to skip automatic clearance","MySQL Message Queue Cleanup - all the times are in minutes. Use ""0"" if you want to skip automatic clearance"

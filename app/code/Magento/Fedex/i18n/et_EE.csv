@@ -1,4 +1,3 @@
-"Can't convert a shipping cost from ""%1-%2"" for FedEx carrier.","Can't convert a shipping cost from ""%1-%2"" for FedEx carrier."
 "Europe First Priority","Euroopa esimene prioriteet"
 "1 Day Freight","1 Day Freight"
 "2 Day Freight","2 päeva tarne"
@@ -44,7 +43,6 @@
 "status","status"
 "Empty response","Empty response"
 "None","Puudub"
-"Expected Delivery:","Expected Delivery:"
 "Field ","Väli "
 " is required."," on nõutud."
 "FedEx","FedEx"
@@ -79,3 +77,4 @@
 "Debug","Silumine"
 "Show Method if Not Applicable","Näita meetodit kui seda ei saa kasutada"
 "Sort Order","Sorteerimise järjekord"
+"Expected Delivery:","Expected Delivery:"

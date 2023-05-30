@@ -1,23 +1,22 @@
 "Subscription status","Estado da subscrição"
 "Sorry, there has been an error processing your request. Please try again later.","Desculpe, ocorreu um erro ao processar o seu pedido. Por favor, tente novamente mais tarde."
-"The time value is using an unsupported format. Enter a supported format and try again.","O valor de tempo está a usar um formato não suportado.
-Introduza um formato suportado e tente novamente."
+"Time value has an unsupported format","Time value has an unsupported format"
 "Cron settings can't be saved","Configurações do cron não podem ser gravadas"
 "There was an error save new configuration value.","Houve um erro a gravar a nova configuração do valor."
-"Please select an industry.","Por favor, selecione uma indústria."
+"Please select a vertical.","Please select a vertical."
 "--Please Select--","-- Por favor escolha uma opção --"
-"Command ""%1"" was not found.","Comando não foi encontrado."
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","Os dados são inválidos. Insira os dados como uma sequência de caracteres ou dados que podem ser convertidos em um sequência de caracteres e tente novamente."
-"The data is invalid. Enter the data as a string and try again.","Os dados são inválidos. Insira os dados como uma string e tente novamente."
-"The data is invalid. Use a valid cipher method and try again.","Os dados são inválidos. Use um método de ""Criptografia"" válido e tente novamente."
-"Enter the encryption key and try again.","Digite a chave de acesso e tente novamente."
-"The ""%1"" source doesn't exist.","A fonte ""%1"" não existe."
+"Command was not found.","Command was not found."
+"Input data must be string or convertible into string.","Input data must be string or convertible into string."
+"Input data must be non-empty string.","Input data must be non-empty string."
+"Not valid cipher method.","Not valid cipher method."
+"Encryption key can't be empty.","Encryption key can't be empty."
+"Source ""%1"" is not exist","Source ""%1"" is not exist"
 "These arguments can't be empty ""%1""","Estes argumentos não podem estar vazios ""%1"""
 "Cannot find predefined integration user!","Não é possível encontrar o utilizador de integração predefinido!"
 "File is not ready yet.","O ficheiro ainda não está pronto."
 "Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Sua URL Base foi alterada e seus relatórios estão sendo atualizados. Relatórios avançados estarão disponíveis depois que esta alteração for processada. Por favor, tente novamente mais tarde."
 "Failed to synchronize data to the Magento Business Intelligence service. ","Falha ao sincronizar os dados para o Magento Business Intelligence service. "
-"Retry Synchronization","Tentar sincronizar novamente"
+"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Retry Synchronization</a>"
 "TestMessage","Messagem de Teste"
 "Apps and Games","Applicações e Jogos"
 "Athletic/Sporting Goods","Artigos Desportivos"
@@ -32,12 +31,13 @@ Introduza um formato suportado e tente novamente."
 "BI Essentials","BI Essentials"
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>.","Este serviço fornece um conjunto dinâmico de relatórios sobre seu negócio.
-Os seus relatórios podem ser acedidos com segurança num painel personalizado fora do painel de administração clicando no link ""Relatórios Avançados"". </br> Para obter mais informações, consulte nossos <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms""> termos e condições</a>."
+                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
+                terms and conditions</a>.","This service provides a dynamic suite of reports with rich insights about your business.
+                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
+                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
+                terms and conditions</a>."
 "Advanced Reporting Service","Serviço de informação avançado"
 "Time of day to send data","Hora do dia para enviar dados"
-"Industry Data","Dados da Industria"
 "Industry","Indústria"
 "In order to personalize your Advanced Reporting experience, please select your industry.","A fim de personalizar a sua experiência de Advanced Reporting, selecione por favor sua indústria."
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Sabe mais sobre Magento Business Intelligence</strong>"
@@ -63,3 +63,12 @@ Os seus relatórios podem ser acedidos com segurança num painel personalizado f
 "Pharma and Medical Devices","Dispositivos médicos e farmacêuticos"
 "Technology B2B","Tecnologia B2B"
 "Other","Outro"
+"The time value is using an unsupported format. Enter a supported format and try again.","O valor de tempo está a usar um formato não suportado.
+Introduza um formato suportado e tente novamente."
+"Please select an industry.","Por favor, selecione uma indústria."
+"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","Os dados são inválidos. Insira os dados como uma sequência de caracteres ou dados que podem ser convertidos em um sequência de caracteres e tente novamente."
+"The data is invalid. Enter the data as a string and try again.","Os dados são inválidos. Insira os dados como uma string e tente novamente."
+"The data is invalid. Use a valid cipher method and try again.","Os dados são inválidos. Use um método de ""Criptografia"" válido e tente novamente."
+"Enter the encryption key and try again.","Digite a chave de acesso e tente novamente."
+"The ""%1"" source doesn't exist.","A fonte ""%1"" não existe."
+"Retry Synchronization","Tentar sincronizar novamente"

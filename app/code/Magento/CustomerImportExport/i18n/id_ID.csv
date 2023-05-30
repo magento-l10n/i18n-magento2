@@ -1,5 +1,5 @@
 "Please specify a website.","Silakan tentukan sebuah situs web."
-"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."
+"Please specify an email.","Please specify an email."
 "We found an invalid value in a website column.","Kami menemukan nilai yang tidak valid di kolom situs web."
 "Please enter a valid email.","Silakan masukkan email yang benar."
 "Please make sure attribute ""%s"" is not empty.","Pastikan atribut ""%s"" tidak kosong."
@@ -15,3 +15,4 @@
 "Please enter a password with a valid length.","Masukkan kata sandi dengan panjang yang valid."
 "CSV","Csv"
 "Excel XML","Excel XML"
+"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."

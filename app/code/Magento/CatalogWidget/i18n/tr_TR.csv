@@ -16,6 +16,8 @@
 "Template","Şablon"
 "Products Grid Template","Ürünler Izgara Şablonu"
 "Cache Lifetime (Seconds)","Ön Bellek Ömrü (Saniye)"
+"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache."
+"Conditions","Koşullar"
 "
                     Time in seconds between the widget updates.
                     <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
@@ -25,4 +27,3 @@ Widget güncellenmeleri arasında saniye cinsinden süre
 
  <br/>Ayarlanmadıysa 86400 saniyeye (24 saat) eşittir. Widget'i anında güncellemek için Önbellek Yönetimi'ne gidin ve HTML Çıktı önbelleğini engelle seçeneğinin işaretini kaldırın. 
 <br/>Widget, önbellek yenilenene kadar belirtilen koşullara uymaya başlayan ürünleri göstermez.                "
-"Conditions","Koşullar"

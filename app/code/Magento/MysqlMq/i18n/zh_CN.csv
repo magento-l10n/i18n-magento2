@@ -5,3 +5,4 @@
 "Successful Messages Lifetime","成功消息有效期"
 "Failed Messages Lifetime","失败的消息有效期"
 "New Messages Lifetime","新消息有效期"
+"MySQL Message Queue Cleanup - all the times are in minutes. Use ""0"" if you want to skip automatic clearance","MySQL Message Queue Cleanup - all the times are in minutes. Use ""0"" if you want to skip automatic clearance"

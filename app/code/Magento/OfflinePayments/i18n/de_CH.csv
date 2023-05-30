@@ -1,4 +1,3 @@
-"Purchase order number is a required field.","Bestellnummer ist ein Pflichtfeld."
 "Make Check payable to:","Check ausstellen auf:"
 "Send Check to:","Bezahlvorgang bei 0,&mdash; Gesamtsumme"
 "Purchase Order Number","Bestellnummer"
@@ -21,3 +20,6 @@
 "Bank Transfer Payment","Zahlung per Überweisung"
 "Instructions","Anweisungen"
 "Cash On Delivery Payment","Zahlung per Nachnahme"
+"Zero Subtotal Checkout","Zero Subtotal Checkout"
+"Automatically Invoice All Items","Automatically Invoice All Items"
+"Purchase order number is a required field.","Bestellnummer ist ein Pflichtfeld."

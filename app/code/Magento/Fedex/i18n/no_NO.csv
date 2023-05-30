@@ -1,4 +1,3 @@
-"Can't convert a shipping cost from ""%1-%2"" for FedEx carrier.","Can't convert a shipping cost from ""%1-%2"" for FedEx carrier."
 "Europe First Priority","Europa førsteprioritet"
 "1 Day Freight","1 dag frakt"
 "2 Day Freight","2-dagers frakt"
@@ -44,7 +43,6 @@
 "status","status"
 "Empty response","Tomt svar"
 "None","Ingen"
-"Expected Delivery:","Expected Delivery:"
 "Field ","Felt "
 " is required."," er påkrevd."
 "FedEx","FedEx"
@@ -79,3 +77,4 @@
 "Debug","Feilsøk"
 "Show Method if Not Applicable","Vis metode hvis ikke gjeldende"
 "Sort Order","Sorteringsrekkefølge"
+"Expected Delivery:","Expected Delivery:"

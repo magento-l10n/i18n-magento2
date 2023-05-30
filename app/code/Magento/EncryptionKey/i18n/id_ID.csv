@@ -12,3 +12,4 @@
 "The encryption key has been changed.","Kunci enkripsi telah diubah."
 "This is your new encryption key: %1. Be sure to write it down and take good care of it!","Ini adalah kunci enkripsi baru Anda: %1. Pastikan untuk menuliskannya dan merawatnya dengan baik!"
 "Manage Encryption Key","Kelola Kunci Enkripsi"
+"This is your new encryption key: <span style=""font-family:monospace;"">%1</span>. Be sure to write it down and take good care of it!","This is your new encryption key: <span style=""font-family:monospace;"">%1</span>. Be sure to write it down and take good care of it!"

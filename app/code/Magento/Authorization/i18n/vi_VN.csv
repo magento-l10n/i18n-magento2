@@ -1,2 +1,3 @@
-"The role wasn't found for the user. Verify the role and try again.","The role wasn't found for the user. Verify the role and try again."
+"We can't find the role for the user you wanted.","We can't find the role for the user you wanted."
 "Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Có vấn đề xảy ra khi dịch danh sách nguồn được cho phép. Bạn có thể tìm thấy nhiều thông tin trong exceptions log."
+"The role wasn't found for the user. Verify the role and try again.","The role wasn't found for the user. Verify the role and try again."

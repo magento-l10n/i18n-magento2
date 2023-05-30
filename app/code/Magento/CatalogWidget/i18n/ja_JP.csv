@@ -16,6 +16,8 @@
 "Template","テンプレート"
 "Products Grid Template","商品グリッドテンプレート"
 "Cache Lifetime (Seconds)","キャッシュ有効期間 (秒)"
+"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache."
+"Conditions","条件"
 "
                     Time in seconds between the widget updates.
                     <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
@@ -25,4 +27,3 @@
                     <br/>設定されていない場合は 86400 秒 (24 時間) です。ウィジェットを即座に更新するには、キャッシュ管理や HTML 出力をブロック キャッシュのクリアを行ってください。
                     <br/>ウィジェットはキャッシュが更新されるまでの間、指定された条件に一致する商品のリストを更新しません。
                 "
-"Conditions","条件"

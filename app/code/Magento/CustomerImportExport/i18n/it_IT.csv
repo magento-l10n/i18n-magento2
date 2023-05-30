@@ -1,5 +1,5 @@
 "Please specify a website.","Si prega di specificare un website."
-"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."
+"Please specify an email.","Please specify an email."
 "We found an invalid value in a website column.","Abbiamo trovato un valore non valido in una colonna website."
 "Please enter a valid email.","Inserisci un indirizzo email valido."
 "Please make sure attribute ""%s"" is not empty.","Assicurati che l'attributo ""%s"" non sia vuoto."
@@ -15,3 +15,4 @@
 "Please enter a password with a valid length.","Inserire una password con una lunghezza valida."
 "CSV","CSV"
 "Excel XML","Excel XML"
+"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."

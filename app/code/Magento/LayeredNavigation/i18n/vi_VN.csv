@@ -2,14 +2,9 @@
 "Filterable (with results)","Có thể lọc (với kết quả)"
 "Filterable (no results)","Có thể lọc (không kết quả)"
 "Use in Layered Navigation","Dùng trong Layered Navigation"
-"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price"
-"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
-                    <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
-                     it will make no affect on Price filter.","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
-                    <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
-                     it will make no affect on Price filter."
+"Can be used only with catalog input type Dropdown, Multiple Select and Price","Can be used only with catalog input type Dropdown, Multiple Select and Price"
+"Can be used only with catalog input type Dropdown, Multiple Select and Price.","Can be used only with catalog input type Dropdown, Multiple Select and Price."
 "Use in Search Results Layered Navigation","Dùng trong kết quả tìm kiếm của Layered Navigation"
-"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price."
 "Position","Vị trí"
 "Position in Layered Navigation","Vị trí trong Layered Navigation"
 "Position of attribute in layered navigation block.","Vị trí của các thuộc tính trong khối danh mục chính."
@@ -32,4 +27,12 @@
 "This setting will be applied when all prices in the specific price interval are equal.","Thiết đặt này sẽ được áp dụng khi giá cả trong khoảng thời gian cụ thể giá là bình đẳng."
 "Interval Division Limit","Khoảng thời gian phân chia giới hạn"
 "Please specify the number of products, that will not be divided into subintervals.","Hãy chỉ ra số lượng sản phẩm, mà sẽ không được chia thành khoảng."
+"Position of attribute in layered navigation block","Position of attribute in layered navigation block"
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price"
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
+                    <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
+                     it will make no affect on Price filter.","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
+                    <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
+                     it will make no affect on Price filter."
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price."
 "Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price.","Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price."

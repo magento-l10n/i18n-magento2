@@ -1,4 +1,3 @@
-"Can't convert a shipping cost from ""%1-%2"" for FedEx carrier.","Can't convert a shipping cost from ""%1-%2"" for FedEx carrier."
 "Europe First Priority","Európa elsőbbségi"
 "1 Day Freight","1 napos szállítás"
 "2 Day Freight","2 napos szállítás"
@@ -44,7 +43,6 @@
 "status","állapot"
 "Empty response","Üres válasz"
 "None","Egyik sem"
-"Expected Delivery:","Expected Delivery:"
 "Field ","Mező "
 " is required."," kötelező."
 "FedEx","FedEx"
@@ -79,3 +77,4 @@
 "Debug","Hibakeresés"
 "Show Method if Not Applicable","Mód megjelenítése, ha nem alkalmazható"
 "Sort Order","Rendezési sorrend"
+"Expected Delivery:","Expected Delivery:"

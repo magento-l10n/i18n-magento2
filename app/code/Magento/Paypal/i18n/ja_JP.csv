@@ -63,13 +63,12 @@
 "We can't start the billing agreement wizard.","支払い同意ウィザードをスタートできませんでした。"
 "Billing Agreement # %1","支払契約 # %1"
 "We can't initialize Express Checkout.","エクスプレスチェックアウトを初期化できません。"
-"PayPal can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.","PayPalはゼロの残高では注文を処理できません。購入を完了するには通常のチェックアウト処理を行ってください。"
 "PayPal Express Checkout Token does not exist.","PayPalエクスプレスチェックアウトトークンは存在しません。"
 "A wrong PayPal Express Checkout Token is specified.","誤ったPayPalエクスプレスチェックアウトトークンが指摘されました。"
 "Express Checkout and Order have been canceled.","エクスプレスチェックアウトとオーダーはキャンセルされました。"
 "Express Checkout has been canceled.","エクスプレスチェックアウトはキャンセルされました。"
 "Unable to cancel Express Checkout","エクスプレスチェックアウトはキャンセルできません。"
-"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","注文は行われませんでした。まず、利用規約に同意してから、もう一度注文して下さい。"
+"Please agree to all the terms and conditions before placing the order.","Please agree to all the terms and conditions before placing the order."
 "We can't process Express Checkout approval.","エクスプレスチェックアウト商品は処理できません。"
 "We can't initialize Express Checkout review.","エクスプレスチェックアウトリヴューは初期化できません。"
 "We can't update shipping method.","発送方法をアップデートできません。"
@@ -79,7 +78,7 @@
 "Your payment has been declined. Please try again.","支払が拒否されました。再度お試しください。"
 "Requested payment method does not match with order.","リクエストされたお支払い方法が注文と一致しません。"
 "Would you like to sign a billing agreement to streamline further purchases with PayPal?","PayPalでの購入"
-"The payment couldn't be processed at this time. Please try again later.","今回、支払いが処理されませんでした。 後で再度お試し下さい。"
+"Error processing payment, please try again later.","Error processing payment, please try again later."
 "Authorization is not allowed.","オーソリアクションは許可されていません。"
 "Payment Gateway is unreachable at the moment. Please use another payment option.","現在、支払いゲートウェイに到達できません。別の支払いオプションを使用してください。"
 "PayPal response hasn't required fields.","PayPalレスポンスはフィールド必須ではありません。"
@@ -88,7 +87,6 @@
 "The PayPal gateway rejected the request. %1","PayPalゲートウェイが要求を拒否しました。 %1"
 "I'm sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you.","申し訳ありませんが、お支払いを処理できませんでした。別の支払い方法を試すか、お問い合わせください。"
 "I'm sorry - but we are not able to complete your transaction. Please contact us so we can assist you.","申し訳ありませんが、トランザクションを完了できません。お問い合わせください。"
-"A successful payment transaction has already been completed. Please, check if the order has been placed.","成功支払トランザクションが完了されました。注文が確定しましたかご確認ください。"
 "A match of the Shipping Address City, State, and Postal Code failed.","配送先住所の市、県、郵便番号が一致しませんでした。"
 "We can't place the order.","注文を行えません。"
 "The payment method code is not set.","支払方法コードが設定されていません。"
@@ -125,6 +123,7 @@
 "The maximum number of child authorizations is reached.","子の権限最大数に達しました。"
 "We'll authorize the amount of %1 as soon as the payment gateway approves it.","決済ゲートウェイが承認し次第額の1%を許可します。"
 "The authorized amount is %1.","認証された額は%1です。"
+"PayPal can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.","PayPalはゼロの残高では注文を処理できません。購入を完了するには通常のチェックアウト処理を行ってください。"
 "A payer is not identified.","支払人が特定されていません。"
 "Cannot get secure form URL from PayPal","PayPalから安全なフォームURLを得られませんでした"
 "Last Transaction ID","前回のトランザクション ID"
@@ -221,10 +220,10 @@
 "Unable to fetch transaction details.","トランザクション詳細を取得できませんでした"
 "Invalid method %1::%2","メソッドが無効です %1::%2"
 "Transaction has been declined","トランザクションは却下されました"
-"Payment can't be accepted since transaction was rejected by merchant.","トランザクションがマーチャントによって却下されたので、支払いを受け入れることができません。"
+"Error processing payment. Please try again later.","Error processing payment. Please try again later."
 "We cannot send the new order email.","新しい注文Eメールを送れません。"
 "Payment error. %value was not found.","支払いエラー。%valueが見つかりませんでした。"
-"The verification transaction can't be voided. ","検証トランザクションを無効にすることはできません。 "
+"You cannot void a verification transaction.","You cannot void a verification transaction."
 "You need an authorization transaction to void.","破棄するには認証トランザクションが必要です。"
 "We can't issue a refund transaction because there is no capture transaction.","取り置きトランザクションがないため返金トランザクションを発行できません。"
 "We cannot create a target file for reading reports.","レポート確認のためのターゲットファイルが作成できません。"
@@ -331,19 +330,6 @@
 "Header (center)","ヘッダー (真ん中)"
 "Sidebar (right)","サイドバー (右)"
 "Near PayPal Credit checkout button","PayPalクレジットチェックアウトボタンのそば"
-"Gold","ゴールド"
-"Blue","ブルー"
-"Silver","シルバー"
-"Black","ブラック"
-"Vertical","垂直"
-"Horizontal","水平"
-"Pill","Pill"
-"Rectangle","長方形"
-"Checkout","レジに進む"
-"Pay","支払う"
-"Buy Now","今すぐ購入する"
-"PayPal","PayPal"
-"Installment","定期請求"
 "--Please Select--","--選択してください--"
 "Daily","毎日"
 "Every 3 days","毎3日"
@@ -353,21 +339,6 @@
 "Every 30 days","毎30日"
 "Every 40 days","毎40日"
 "No Logo","ロゴなし"
-"White","白"
-"White No Border","白・線なし"
-"Gray","グレー"
-"Monochrome","モノクロ"
-"Grayscale","グレースケール"
-"Left","左"
-"Right","右"
-"Top","トップ"
-"Primary","プライマリー"
-"Alternative","代替"
-"Inline","インライン"
-"None","なし"
-"Sidebar","サイドバー"
-"Text","テキスト"
-"Flex","フレックス"
 "Yes (PayPal recommends this option)","はい (PayPalはこのオプションを推奨します)"
 "Created billing agreement #%1.","支払契約を作成 #%1."
 "We can't create a billing agreement for this order.","この注文のための支払契約を作成できません。"
@@ -375,11 +346,7 @@
 "Pending PayPal","PayPal保留"
 "PayPal Reversed","PayPal予約"
 "PayPal Canceled Reversal","PayPalは破棄をキャンセルしました"
-"PayPal Credit","PayPal クレジット"
-"PayPal Guest Checkout Credit Card Icons","PayPalゲストチェックアウトクレジットカードアイコン"
-"Elektronisches Lastschriftverfahren - German ELV","Elektronisches Lastschriftverfahren - German ELV"
 "Error","エラー"
-"PayPal gateway has rejected request.","PayPalゲートウェイがリクエストを拒否しました。"
 "Billing Agreement","支払合意"
 "Please Select","選択してください"
 "Customer","顧客"
@@ -397,7 +364,6 @@
 "Credit Card Number","クレジットカード番号"
 "Expiration Date","有効期限日"
 "Card Verification Number","セキュリティコード"
-"Save for later use.","後で使用するために保存してください。"
 "Billing Agreement # ","支払合意 # "
 "Agreement Information","合意情報"
 "Reference ID:","リファレンスID:"
@@ -422,6 +388,7 @@
 "Your billing agreement # is: ","あなたの支払合意番号は: "
 "Shipping Method","お届け方法"
 "Please select a shipping method...","送付方法を選んで下さい..."
+"Update Shipping Method","Update Shipping Method"
 "Sorry, no quotes are available for this order right now.","申し訳ありません、現在この注文の見積もりはできません。"
 "Shipping Address","お届け先住所"
 "Edit","編集"
@@ -449,7 +416,6 @@
 "Sign a billing agreement to streamline further purchases with PayPal.","PayPalでさらに購入を合理化するための請求契約書に署名してください。"
 "Continue to PayPal","PayPalに進む"
 "Save credit card information for future use.","将来の使用のためにクレジットカード情報を保存してください。"
-"Something went wrong with your request. Please try again later.","リクエストを処理中に問題が発生しました。後で再度お試し下さい。"
 "Sorry, something went wrong.","申し訳ありません、問題が発生しました"
 "Sorry, something went wrong. Please try again later.","申し訳ありません、問題が発生しました。後で再度お試しください。"
 "PayPal Section","PayPalセクション"
@@ -462,7 +428,7 @@
 "Payment Amount Authorization","支払い金額の承認"
 "Merchant Location","マーチャントの場所"
 "Merchant Country","マーチャントの国"
-"If not specified, Default Country from General Config will be used.","指定しない場合は、一般設定のデフォルトの国が使用されます。"
+"If not specified, Default Country from General Config will be used","If not specified, Default Country from General Config will be used"
 "Recommended Solutions:","推奨ソリューション:"
 "Other PayPal Payment Solutions:","その他のPayPal支払いソリューション:"
 "Other Payment Methods:","その他の支払い方法:"
@@ -473,20 +439,9 @@
 "Payments Pro","ペイメンツプロ"
 "Payments Pro and Express Checkout","支払プロとエクスプレスチェックアウト"
 "Basic Settings - PayPal Payments Pro","基本設定 - PayPalペイメントプロ"
-"Payments Standard","支払い基準"
-"Accept credit card and PayPal payments securely.","クレジットカードとPayPalによる支払いを安全に受け入れます。"
-"Basic Settings - PayPal Website Payments Standard","基本設定 - PayPal Website Payments Standard"
 "PayPal Payment Gateways&nbsp;<i>Process payments using your own internet merchant account.</i>","PayPal支払いゲートウェイ&nbsp"
-"Display pay later messaging on your site for offers like Pay in 3,
-                                    which lets customers pay with 3 interest- free monthly payments. We’ll show messages
-                                    on your site to promote this feature for you. You may not promote pay later offers
-                                    with any other content, marketing, or materials.","Display pay later messaging on your site for offers like Pay in 3,
-                                    which lets customers pay with 3 interest- free monthly payments. We’ll show messages
-                                    on your site to promote this feature for you. You may not promote pay later offers
-                                    with any other content, marketing, or materials."
 "PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>","PayPalオールインワン支払いソリューション&nbsp"
 "Accept payments with a completely customizable checkout page.","完全にカスタマイズできるチェックアウトページの支払を受付"
-"Website Payments Standard","Webサイトの支払い基準"
 "Process payments using your own internet merchant account.","自身のインターネットマーチャントアカウントを使って支払を処理する。"
 "Website Payments Pro","ウェブサイトペイメントプロ"
 "Express Checkout","エクスプレスチェックアウト"
@@ -503,7 +458,6 @@
 "API Uses Proxy","APIはプロキシーを使用します"
 "Proxy Host","プロキシーホスト"
 "Proxy Port","プロキシーポート"
-"Please enter at least 0 and at most 65535","0 ～ 65535以上の値を入力してください"
 "Enable this Solution","このソリューションを有効にする"
 "Enable In-Context Checkout Experience","コンテキスト内チェックアウトの使用を有効にする"
 "See PayPal Feature Support details and list of supported regions
@@ -512,27 +466,22 @@
 "Enable PayPal Credit","PayPalクレジットを有効化"
 "PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
                         You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
-                        <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","PayPal Express Checkoutを使用すると、顧客はPayPalクレジットを介して資金調達にアクセスできます。追加費用なしで。顧客が支払う時間がもっとあるとしても、前払いされます。事前に統合された支払いボタンにより、顧客はPayPalクレジット&#174; ですばやく支払いできます<a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">詳細を見る</a>"
+                        <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
+                        You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
+                        <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>"
 "Sort Order PayPal Credit","PayPalクレジットをソートする"
-"Enable PayPal PayLater Experience","PayPal 後払いエクスペリエンスを有効にする"
-"Recommended. <strong>Advertise PayPal Credit</strong> is deprecated.
-                    See PayPal PayLater details and list of supported regions
-                    <a href=""https://developer.paypal.com/docs/business/pay-later/us/#eligibility"" target=""_blank"">
-                    here</a>.","Recommended. <strong>Advertise PayPal Credit</strong> is deprecated.
-                    See PayPal PayLater details and list of supported regions
-                    <a href=""https://developer.paypal.com/docs/business/pay-later/us/#eligibility"" target=""_blank"">
-                    here</a>."
 "Advertise PayPal Credit","PayPalクレジットを広告化"
-"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+"<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                         <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
                         from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
                         Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                         The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                        or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">ファイナンシングを宣伝する理由</a><br/>
-<strong>ファイナンシングを宣伝すれば売り上げを増やすことができます。</strong>
-<br/>PayPalは、PayPalクレジット&#174;によるファイナンシングでブラウザをカード利用者に変えます。追加の支払いコストなく、前払いで支払いをうけつつ、お客様は後払いをすることができます。
-PayPalの無料バナー広告を使用してPayPalクレジット&#174;を宣伝する。ファイナンシングはPayPal決済時のオプションです。
-PayPal宣伝プログラムは、消費者の平均購入サイズを15％増加させることが期待できます。<a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">詳細を見る</a>"
+                        or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                        <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                        from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                        Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                        The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                        or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>."
 "Publisher ID","パブリッシャーID"
 "Required to display a banner","バナー表示必須"
 "Get Publisher ID from PayPal","PayPalよりパブリッシャーIDを入手"
@@ -543,16 +492,6 @@ PayPal宣伝プログラムは、消費者の平均購入サイズを15％増加
 "Catalog Category Page","カタログカテゴリページ"
 "Catalog Product Page","カタログプロダクトページ"
 "Checkout Cart Page","チェックアウトカートページ"
-"Advertise PayPal PayLater","PayPal後払いを広告する"
-"Enable PayPal PayLater","PayPal後払いを有効にする"
-"Style Layout","スタイルレイアウト"
-"Logo Type","ロゴのタイプ"
-"Logo Position","ロゴの位置"
-"Text Color","テキストの色"
-"Text Size","文字サイズ"
-"Ratio","比率"
-"Color","色"
-"Checkout Payment Step","チェックアウトのお支払いステップ"
 "Basic Settings - PayPal Express Checkout","基本設定 - PayPalエクスプレスチェックアウト"
 "Title","タイトル"
 "It is recommended to set this value to ""PayPal"" per store views.","ストアのビューごとにこの値を ""PayPal"" に設定することをお勧めします。"
@@ -609,32 +548,13 @@ PayPal宣伝プログラムは、消費者の平均購入サイズを15％増加
 "Page Style","ページスタイル"
 "Allowable values: ""paypal"", ""primary"" (default), your_custom_value (a custom payment page style from your merchant account profile).","許可される値: ""paypal"", ""primary"" (デフォルト), your_custom_value (あなたのマーチャントアカウントプロフィールのカスタムペイメントページスタイル)."
 "Header Image URL","ヘッダー画像URL"
-"The image at the top left of the checkout page. Max size is 750x90-pixel. <strong class=""colorRed"">https</strong> is highly encouraged.","チェックアウトページの左上の画像。最大サイズは750 x 90ピクセルです。<strong class=""colorRed"">https</strong>は非常に推奨されています。"
+"The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged.","The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged."
 "Header Background Color","ヘッダーバックグラウンドカラー"
 "The background color for the header of the checkout page. Case-insensitive six-character HTML hexadecimal color code in ASCII.","チェックアウトページのヘッダーのバックグラウンドカラー。大文字小文字無関係の6文字HTML16進数ASCIIカラーコード。"
 "Header Border Color","ヘッダーボーダーカラー"
 "2-pixel perimeter around the header space.","ヘッダースペースの周囲2ピクセル"
 "Page Background Color","ページバックグラウンドカラー"
 "The background color for the checkout page around the header and payment form.","チェックアウトページのヘッダと支払いフォームの背景色"
-"Customize Smart Buttons","スマートボタンをカスタマイズ"
-"Checkout Page","チェックアウトページ"
-"Customize Button","ボタンをカスタマイズ"
-"Label","ラベル"
-"The installment feature is available only in these locales: en_MX, es_MX, en_BR, pt_BR.","分割払い機能は次のロケールでご利用いただけます: en_MX, es_MZ, en_BR, pt_BR"
-"Mexico Installment Period","メキシコ分割払い"
-"Brazil Installment Period","ブラジル分割払い"
-"Layout","レイアウト"
-"Shape","形"
-"Product Pages","商品ページ"
-"Cart Page","カートページ"
-"Mini Cart","ミニカート"
-"Features","機能"
-"Disable Funding Options","資金調達オプションを無効にする"
-"PayPal will automatically display each enabled funding option to eligible buyers.
-                                For example, PayPal Credit is only shown to buyers in countries where PayPal Credit is
-                                offered and the currency offered by the merchant is USD.","PayPalは、有効な各資金調達オプションを適格な購入者に自動的に表示します。
-たとえば、PayPalクレジットは、PayPalクレジットが存在する国の購入者にのみ表示されます。
-販売者が提供する通貨は米ドルです。"
 "Payments Advanced","ペイメンツアドバンスド"
 "Accept payments with a PCI-compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>)","あなたのサイトに顧客を保つPCI準拠のチェックアウトで支払いを受け入れます。 （<u>エクスプレスチェックアウトを含む</u>）"
 "Payments Advanced and Express Checkout","ペイメンツアドバンスドおよびエクスプレスチェックアウト"
@@ -671,16 +591,17 @@ PayPal宣伝プログラムは、消費者の平均購入サイズを15％増加
 "Website Payments Pro Hosted Solution","Websites Hosted Solution"
 "Accept payments with a PCI compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>)","あなたのサイトに顧客を保つPCI準拠のチェックアウトで支払いを受け入れます。 （<u>エクスプレスチェックアウトを含む</u>）"
 "Payments Pro Hosted Solution","ペイメンツプロのホスティングソリューション"
-"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+"<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                             <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
                             from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
                             Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                             The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">ファイナンシングを宣伝する理由</a><br/>
-<strong>ファイナンシングを宣伝すれば売り上げを増やすことができます。</strong>
-<br/>PayPalは、PayPalクレジット&#174;によるファイナンシングでブラウザをカード利用者に変えます。追加の支払いコストなく、前払いで支払いをうけつつ、お客様は後払いをすることができます。
-PayPalの無料バナー広告を使用してPayPalクレジット&#174;を宣伝する。ファイナンシングはPayPal決済時のオプションです。
-PayPal宣伝プログラムは、消費者の平均購入サイズを15％増加させることが期待できます。<a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">詳細を見る</a>"
+                            or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                            or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>."
 "Basic Settings - PayPal Payments Pro Hosted Solution","基本設定 -  PayPal Payments Proのホスティングソリューション"
 "Display Express Checkout in the Payment Information step","支払情報ステップでエクスプレスチェックアウトを照会する"
 "Website Payments Pro Hosted Solution and Express Checkout","Website Payments Pro Hosted Solutionとチェックアウト"
@@ -693,8 +614,6 @@ PayPal宣伝プログラムは、消費者の平均購入サイズを15％増加
 "Credit Card Settings","クレジットカード設定"
 "Allowed Credit Card Types","使用可能なクレジットカードタイプ"
 "Supporting of American Express cards require additional agreement. Learn more at <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.","アメリカンエクスプレスカードをサポートするには追加の合意が必要です。詳しくはこちらで<a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>ご確認ください。"
-"Fraud Management Filters","不正管理フィルター"
-"Be sure to configure Fraud Management Filters in your PayPal account in ""Service Settings/Fraud Protection"" section. Attention! Please don't use Total Purchase Price Ceiling/Floor Filters. Current integration doesn't support them.","PayPalアカウントの「サービス設定/不正防止」セクションで、不正管理フィルターを必ず設定してください。注意！合計購入価格の上限/下限フィルターは使用しないでください。現在の統合ではサポートされていません。"
 "CVV and AVS Settings","CVVとAVS設定"
 "Reject Transaction if:","もしトランザクションが拒否されたら:"
 "AVS Street Does Not Match","AVS番地がマッチしません"
@@ -702,11 +621,69 @@ PayPal宣伝プログラムは、消費者の平均購入サイズを15％増加
 "Card Issuer Is Outside The United States","カード発行会社が米国外"
 "Card Security Code Does Not Match","カードセキュリティコードはマッチしません"
 "Payflow Pro and Express Checkout","Payflow Pro とチェックアウトエクスプレス"
-"PayPal Express Checkout Payflow Edition lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
-                            You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
-                            <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","PayPal Express Checkout Payflow Editionを使用すると、PayPal Credit&#174を通じて顧客に融資を受けることができます。 — 追加費用はかかりません。
-                            お客様が支払いを行う時間が多くても、前払いが行われます。事前統合された支払いボタンを使用すると、PayPal Credit&#174；でお客様の支払いを迅速に行えます。
-                            <a href=""https://www.paypal.com/webapps/mpp/promotional-financing""ターゲット=""_blank "">詳細情報</a>"
+"<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                                from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                                or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                                from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                                or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>."
+"We can't contact the PayPal gateway.","We can't contact the PayPal gateway."
+"The ordering amount of %1 is pending approval on the payment gateway.","The ordering amount of %1 is pending approval on the payment gateway."
+"Ordered amount of %1","Ordered amount of %1"
+"Matched whole nine-didgit ZIP (no Address)","Matched whole nine-didgit ZIP (no Address)"
+"Yes. Matched Address and five-didgit ZIP","Yes. Matched Address and five-didgit ZIP"
+"Invalid method %1::%2(%3)","Invalid method %1::%2(%3)"
+"To use PayPal Payments Advanced, you must configure  your PayPal Payments Advanced account on the PayPal website.","To use PayPal Payments Advanced, you must configure  your PayPal Payments Advanced account on the PayPal website."
+"PayPal Payment Gateways","PayPal Payment Gateways"
+"1","1"
+"PayPal Payment Solutions","PayPal Payment Solutions"
+"Email Associated with PayPal Merchant Account","Email Associated with PayPal Merchant Account"
+"Sandbox Credentials","Sandbox Credentials"
+"It is recommended to set this value to ""Magento_Paypal"" per store views.","It is recommended to set this value to ""Magento_Paypal"" per store views."
+"Payments Advanced (Includes Express Checkout)","Payments Advanced (Includes Express Checkout)"
+"Accept payments with a PCI-compliant checkout that keeps customers on your site.","Accept payments with a PCI-compliant checkout that keeps customers on your site."
+"Payflow Link (Includes Express Checkout)","Payflow Link (Includes Express Checkout)"
+"Connect your merchant account with a PCI-compliant gateway that lets customers pay without leaving your site.","Connect your merchant account with a PCI-compliant gateway that lets customers pay without leaving your site."
+"Accept payments with a PCI compliant checkout that keeps customers on your site.","Accept payments with a PCI compliant checkout that keeps customers on your site."
+"Connect your merchant account with a fully customizable gateway that lets customers pay without leaving your site.","Connect your merchant account with a fully customizable gateway that lets customers pay without leaving your site."
+"International AVS Indicator Does Not Match","International AVS Indicator Does Not Match"
+"Payflow Pro (Includes Express Checkout)","Payflow Pro (Includes Express Checkout)"
+"Save for later use.","後で使用するために保存してください。"
+"Payments Standard","支払い基準"
+"Accept credit card and PayPal payments securely.","クレジットカードとPayPalによる支払いを安全に受け入れます。"
+"Basic Settings - PayPal Website Payments Standard","基本設定 - PayPal Website Payments Standard"
+"Website Payments Standard","Webサイトの支払い基準"
+"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","注文は行われませんでした。まず、利用規約に同意してから、もう一度注文して下さい。"
+"The payment couldn't be processed at this time. Please try again later.","今回、支払いが処理されませんでした。 後で再度お試し下さい。"
+"The verification transaction can't be voided. ","検証トランザクションを無効にすることはできません。 "
+"PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
+                        You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
+                        <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","PayPal Express Checkoutを使用すると、顧客はPayPalクレジットを介して資金調達にアクセスできます。追加費用なしで。顧客が支払う時間がもっとあるとしても、前払いされます。事前に統合された支払いボタンにより、顧客はPayPalクレジット&#174; ですばやく支払いできます<a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">詳細を見る</a>"
+"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                        <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                        from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                        Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                        The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                        or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">ファイナンシングを宣伝する理由</a><br/>
+<strong>ファイナンシングを宣伝すれば売り上げを増やすことができます。</strong>
+<br/>PayPalは、PayPalクレジット&#174;によるファイナンシングでブラウザをカード利用者に変えます。追加の支払いコストなく、前払いで支払いをうけつつ、お客様は後払いをすることができます。
+PayPalの無料バナー広告を使用してPayPalクレジット&#174;を宣伝する。ファイナンシングはPayPal決済時のオプションです。
+PayPal宣伝プログラムは、消費者の平均購入サイズを15％増加させることが期待できます。<a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">詳細を見る</a>"
+"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">ファイナンシングを宣伝する理由</a><br/>
+<strong>ファイナンシングを宣伝すれば売り上げを増やすことができます。</strong>
+<br/>PayPalは、PayPalクレジット&#174;によるファイナンシングでブラウザをカード利用者に変えます。追加の支払いコストなく、前払いで支払いをうけつつ、お客様は後払いをすることができます。
+PayPalの無料バナー広告を使用してPayPalクレジット&#174;を宣伝する。ファイナンシングはPayPal決済時のオプションです。
+PayPal宣伝プログラムは、消費者の平均購入サイズを15％増加させることが期待できます。<a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">詳細を見る</a>"
 "<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                                 <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
                                 from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
@@ -717,3 +694,45 @@ PayPal宣伝プログラムは、消費者の平均購入サイズを15％増加
 <br/>PayPalは、PayPalクレジット&#174;によるファイナンシングでブラウザをカード利用者に変えます。追加の支払いコストなく、前払いで支払いをうけつつ、お客様は後払いをすることができます。
 PayPalの無料バナー広告を使用してPayPalクレジット&#174;を宣伝する。ファイナンシングはPayPal決済時のオプションです。
 PayPal宣伝プログラムは、消費者の平均購入サイズを15％増加させることが期待できます。<a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">詳細を見る</a>"
+"Vault enabled","Vault enabled"
+"Gold","ゴールド"
+"Blue","ブルー"
+"Silver","シルバー"
+"Black","ブラック"
+"Vertical","垂直"
+"Horizontal","水平"
+"Pill","Pill"
+"Rectangle","長方形"
+"Medium","Medium"
+"Large","Large"
+"Responsive","Responsive"
+"Checkout","レジに進む"
+"Pay","支払う"
+"Buy Now","今すぐ購入する"
+"PayPal","PayPal"
+"Installment","定期請求"
+"PayPal Credit","PayPal クレジット"
+"PayPal Guest Checkout Credit Card Icons","PayPalゲストチェックアウトクレジットカードアイコン"
+"Elektronisches Lastschriftverfahren - German ELV","Elektronisches Lastschriftverfahren - German ELV"
+"Something went wrong with your request. Please try again later.","リクエストを処理中に問題が発生しました。後で再度お試し下さい。"
+"Customize Smart Buttons","スマートボタンをカスタマイズ"
+"Checkout Page","チェックアウトページ"
+"Customize Button","ボタンをカスタマイズ"
+"Label","ラベル"
+"The installment feature is available only in these locales: en_MX, es_MX, en_BR, pt_BR.","分割払い機能は次のロケールでご利用いただけます: en_MX, es_MZ, en_BR, pt_BR"
+"Mexico Installment Period","メキシコ分割払い"
+"Brazil Installment Period","ブラジル分割払い"
+"Layout","レイアウト"
+"Select Responsive to ensure the PayPal button renders correctly on mobile devices.","Select Responsive to ensure the PayPal button renders correctly on mobile devices."
+"Shape","形"
+"Color","色"
+"Product Pages","商品ページ"
+"Cart Page","カートページ"
+"Mini Cart","ミニカート"
+"Features","機能"
+"Disable Funding Options","資金調達オプションを無効にする"
+"PayPal will automatically display each enabled funding option to eligible buyers.
+                                For example, PayPal Credit is only shown to buyers in countries where PayPal Credit is
+                                offered and the currency offered by the merchant is USD.","PayPalは、有効な各資金調達オプションを適格な購入者に自動的に表示します。
+たとえば、PayPalクレジットは、PayPalクレジットが存在する国の購入者にのみ表示されます。
+販売者が提供する通貨は米ドルです。"

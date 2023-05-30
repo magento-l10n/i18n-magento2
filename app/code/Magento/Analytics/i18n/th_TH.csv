@@ -1,22 +1,22 @@
 "Subscription status","สถานะการสมัครรับข่าวสาร"
 "Sorry, there has been an error processing your request. Please try again later.","ขออภัย เกิดข้อผิดพลาดในการดำเนินการตามคำขอของคุณ โปรดลองอีกครั้งในภายหลัง."
-"The time value is using an unsupported format. Enter a supported format and try again.","ค่าเวลาใช้รูปแบบที่ไม่รองรับ ป้อนรูปแบบที่รองรับแล้วลองอีกครั้ง"
+"Time value has an unsupported format","Time value has an unsupported format"
 "Cron settings can't be saved","ไม่สามารถบันทึกการตั้งค่า Cron ได้"
 "There was an error save new configuration value.","มีข้อผิดพลาดในการบันทึกค่าการกำหนดค่าใหม่"
-"Please select an industry.","กรุณาเลือกอุตสาหกรรม"
+"Please select a vertical.","Please select a vertical."
 "--Please Select--","--กรุณาเลือก--"
-"Command ""%1"" was not found.","ไม่พบคำสั่ง ""%1"""
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","ข้อมูลไม่ถูกต้อง ป้อนข้อมูลเป็นสตริงหรือข้อมูลที่สามารถแปลงเป็นสตริงแล้วลองอีกครั้ง"
-"The data is invalid. Enter the data as a string and try again.","ข้อมูลไม่ถูกต้อง ป้อนข้อมูลเป็นสตริงแล้วลองอีกครั้ง"
-"The data is invalid. Use a valid cipher method and try again.","ข้อมูลไม่ถูกต้อง ใช้วิธีการเข้ารหัสที่ถูกต้องแล้วลองอีกครั้ง"
-"Enter the encryption key and try again.","ป้อนคีย์เข้ารหัสแล้วลองอีกครั้ง"
-"The ""%1"" source doesn't exist.","ไม่มีแหล่งที่มา ""%1"""
+"Command was not found.","Command was not found."
+"Input data must be string or convertible into string.","Input data must be string or convertible into string."
+"Input data must be non-empty string.","Input data must be non-empty string."
+"Not valid cipher method.","Not valid cipher method."
+"Encryption key can't be empty.","Encryption key can't be empty."
+"Source ""%1"" is not exist","Source ""%1"" is not exist"
 "These arguments can't be empty ""%1""","อาร์กิวเมนต์เหล่านี้ไม่สามารถเว้นว่างไว้ได้ ""%1"""
 "Cannot find predefined integration user!","ไม่พบผู้ใช้การรวมที่กำหนดไว้ล่วงหน้า!"
 "File is not ready yet.","ไฟล์ยังไม่พร้อม"
 "Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","URL ฐานของคุณมีการเปลี่ยนแปลง และรายงานของคุณกำลังได้รับการอัปเดต การรายงานขั้นสูงจะพร้อมใช้งานเมื่อการเปลี่ยนแปลงนี้ได้รับการประมวลผลแล้ว โปรดลองอีกครั้งในภายหลัง."
 "Failed to synchronize data to the Magento Business Intelligence service. ","ไม่สามารถซิงโครไนซ์ข้อมูลกับบริการ Magento Business Intelligence "
-"Retry Synchronization","ลองซิงโครไนซ์อีกครั้ง"
+"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Retry Synchronization</a>"
 "TestMessage","ข้อความทดสอบ"
 "Apps and Games","แอพและเกม"
 "Athletic/Sporting Goods","อุปกรณ์กีฬา/เครื่องกีฬา"
@@ -31,14 +31,13 @@
 "BI Essentials","BI Essentials"
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>.","บริการนี้จัดทำชุดรายงานแบบไดนามิกพร้อมข้อมูลเชิงลึกเกี่ยวกับธุรกิจของคุณ
-                รายงานของคุณสามารถเข้าถึงได้อย่างปลอดภัยบนแดชบอร์ดส่วนบุคคลภายนอกแผงการดูแลระบบโดยคลิกที่
-                ลิงก์ ""ไปที่การรายงานขั้นสูง"" </br> สำหรับข้อมูลเพิ่มเติม โปรดดูที่ <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
-                ข้อกำหนดและเงื่อนไข</a>"
+                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
+                terms and conditions</a>.","This service provides a dynamic suite of reports with rich insights about your business.
+                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
+                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
+                terms and conditions</a>."
 "Advanced Reporting Service","บริการรายงานขั้นสูง"
 "Time of day to send data","เวลาของวันในการส่งข้อมูล"
-"Industry Data","ข้อมูลอุตสาหกรรม"
 "Industry","อุตสาหกรรม"
 "In order to personalize your Advanced Reporting experience, please select your industry.","เพื่อปรับแต่งประสบการณ์การรายงานขั้นสูงของคุณ โปรดเลือกอุตสาหกรรมของคุณ"
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>รับข้อมูลเชิงลึกเพิ่มเติมจาก Magento Business Intelligence</strong>"
@@ -66,3 +65,11 @@
 "Pharma and Medical Devices","ยาและอุปกรณ์การแพทย์"
 "Technology B2B","เทคโนโลยี B2B"
 "Other","อื่นๆ"
+"The time value is using an unsupported format. Enter a supported format and try again.","ค่าเวลาใช้รูปแบบที่ไม่รองรับ ป้อนรูปแบบที่รองรับแล้วลองอีกครั้ง"
+"Please select an industry.","กรุณาเลือกอุตสาหกรรม"
+"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","ข้อมูลไม่ถูกต้อง ป้อนข้อมูลเป็นสตริงหรือข้อมูลที่สามารถแปลงเป็นสตริงแล้วลองอีกครั้ง"
+"The data is invalid. Enter the data as a string and try again.","ข้อมูลไม่ถูกต้อง ป้อนข้อมูลเป็นสตริงแล้วลองอีกครั้ง"
+"The data is invalid. Use a valid cipher method and try again.","ข้อมูลไม่ถูกต้อง ใช้วิธีการเข้ารหัสที่ถูกต้องแล้วลองอีกครั้ง"
+"Enter the encryption key and try again.","ป้อนคีย์เข้ารหัสแล้วลองอีกครั้ง"
+"The ""%1"" source doesn't exist.","ไม่มีแหล่งที่มา ""%1"""
+"Retry Synchronization","ลองซิงโครไนซ์อีกครั้ง"

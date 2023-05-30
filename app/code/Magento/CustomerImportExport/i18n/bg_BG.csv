@@ -1,5 +1,5 @@
 "Please specify a website.","Задайте уеб сайт."
-"An email wasn't specified. Enter the email and try again.","Не е посочен имейл. Задайте и опитайте пак."
+"Please specify an email.","Please specify an email."
 "We found an invalid value in a website column.","Намерихме невалидна стойност в колона на сайт."
 "Please enter a valid email.","Моля, въведете валиден имейл."
 "Please make sure attribute ""%s"" is not empty.","Моля, уверете се, че атрибут ""%s"" не е празен."
@@ -15,3 +15,4 @@
 "Please enter a password with a valid length.","Моля, въведете парола с валидна дължина."
 "CSV","CSV"
 "Excel XML","Excel XML"
+"An email wasn't specified. Enter the email and try again.","Не е посочен имейл. Задайте и опитайте пак."

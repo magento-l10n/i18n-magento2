@@ -25,3 +25,5 @@
 "Enable CAPTCHA on Storefront","
 Usa solo lettere (a-z o A-Z) o numeri (0-9) in questo campo. Non sono consentiti spazi o altri caratteri. <br/> Caratteri con aspetto simile (per esempio ""i"", ""l"", ""1"") diminuiscono la probabilità di riconoscimento corretto dal parte del cliente.                    "
 "CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen.","Il CAPTCHA per i form ""Crea utente"" e ""Password dimenticata"" è sempre attivato se scelto."
+"Please enter the letters from the image","Please enter the letters from the image"
+"Please type the letters below","Please type the letters below"

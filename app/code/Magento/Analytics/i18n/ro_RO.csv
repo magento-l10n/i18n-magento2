@@ -1,22 +1,22 @@
 "Subscription status","Starea abonamentului"
 "Sorry, there has been an error processing your request. Please try again later.","Ne pare rău, a apărut o eroare la procesarea cererii tale. Te rugăm să încerci din nou mai târziu."
-"The time value is using an unsupported format. Enter a supported format and try again.","Valoarea timpului este un format neacceptat. Introduceți un format acceptat și încercați din nou."
+"Time value has an unsupported format","Time value has an unsupported format"
 "Cron settings can't be saved","Setările Cron nu pot fi salvate"
 "There was an error save new configuration value.","A apărut o eroare la salvarea noii valori de configurare."
-"Please select an industry.","Vă rugăm selectaţi o industrie."
+"Please select a vertical.","Please select a vertical."
 "--Please Select--","-- Selectați --"
-"Command ""%1"" was not found.","Comanda ""%1"" nu a fost găsită."
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","Datele nu sunt valide. Introduceți datele ca un text sau date care pot fi convertite într-un text și încercați din nou."
-"The data is invalid. Enter the data as a string and try again.","Datele nu sunt valide. Introduceți datele ca text și încercați din nou."
-"The data is invalid. Use a valid cipher method and try again.","Datele nu sunt valide. Utilizați o metodă validă de criptare și încercați din nou."
-"Enter the encryption key and try again.","Introduceți cheia de criptare și încercați din nou."
-"The ""%1"" source doesn't exist.","Sursa ""%1"" nu există."
+"Command was not found.","Command was not found."
+"Input data must be string or convertible into string.","Input data must be string or convertible into string."
+"Input data must be non-empty string.","Input data must be non-empty string."
+"Not valid cipher method.","Not valid cipher method."
+"Encryption key can't be empty.","Encryption key can't be empty."
+"Source ""%1"" is not exist","Source ""%1"" is not exist"
 "These arguments can't be empty ""%1""","Aceste argumente nu pot fi goale ""%1"""
 "Cannot find predefined integration user!","Nu se poate găsi utilizator predefinit de integrare!"
 "File is not ready yet.","Fişierul nu este gata încă."
 "Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","URL-ul tău de bază a fost schimbat și rapoartele tale sunt actualizate. Raportarea avansată va fi disponibilă odată ce această schimbare a fost procesată. Vă rugăm să încercați din nou mai târziu."
 "Failed to synchronize data to the Magento Business Intelligence service. ","Nu s-a reușit sincronizarea datelor cu serviciul Magento Business Intelligence. "
-"Retry Synchronization","Reîncercați sincronizarea"
+"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Retry Synchronization</a>"
 "TestMessage","Mesaj de test"
 "Apps and Games","Aplicații și jocuri"
 "Athletic/Sporting Goods","Bunuri atlantice/sportive"
@@ -31,14 +31,13 @@
 "BI Essentials","Esentiale BI"
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>.","Acest serviciu oferă o suită dinamică de rapoarte cu informații bogate despre afacerea dvs.
-                Rapoartele tale pot fi accesate în siguranță pe un tablou de bord personalizat în afara panoului de administrare făcând clic pe linkul
-                ""Raportare avansată"". </br> Pentru mai multe informații, consultați <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
-                termenii și condițiile noastre</a>."
+                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
+                terms and conditions</a>.","This service provides a dynamic suite of reports with rich insights about your business.
+                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
+                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
+                terms and conditions</a>."
 "Advanced Reporting Service","Serviciu de raportare avansat"
 "Time of day to send data","Ora zilei pentru a trimite date"
-"Industry Data","Date privind industria"
 "Industry","Industrie"
 "In order to personalize your Advanced Reporting experience, please select your industry.","Pentru a personaliza experiența dvs. Avansată de Raportare, vă rugăm să vă selectați industria."
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Obține mai multe informații de la Magento Business Intelligence</strong>"
@@ -66,3 +65,11 @@
 "Pharma and Medical Devices","Dispozitive farmaceutice și medicale"
 "Technology B2B","Tehnologie B2B"
 "Other","Altele"
+"The time value is using an unsupported format. Enter a supported format and try again.","Valoarea timpului este un format neacceptat. Introduceți un format acceptat și încercați din nou."
+"Please select an industry.","Vă rugăm selectaţi o industrie."
+"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","Datele nu sunt valide. Introduceți datele ca un text sau date care pot fi convertite într-un text și încercați din nou."
+"The data is invalid. Enter the data as a string and try again.","Datele nu sunt valide. Introduceți datele ca text și încercați din nou."
+"The data is invalid. Use a valid cipher method and try again.","Datele nu sunt valide. Utilizați o metodă validă de criptare și încercați din nou."
+"Enter the encryption key and try again.","Introduceți cheia de criptare și încercați din nou."
+"The ""%1"" source doesn't exist.","Sursa ""%1"" nu există."
+"Retry Synchronization","Reîncercați sincronizarea"

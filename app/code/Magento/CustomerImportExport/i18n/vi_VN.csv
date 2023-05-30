@@ -1,5 +1,5 @@
 "Please specify a website.","Hãy chỉ ra một trang web."
-"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."
+"Please specify an email.","Please specify an email."
 "We found an invalid value in a website column.","Chúng tôi tìm thấy một giá trị không hợp lệ trong một cột trang web."
 "Please enter a valid email.","Vui lòng nhập email hợp lệ."
 "Please make sure attribute ""%s"" is not empty.","Hãy chắc chắn rằng thuộc tính ""%s"" không bị trống."
@@ -15,3 +15,4 @@
 "Please enter a password with a valid length.","Vui lòng nhập một mật khẩu với chiều dài hợp lệ."
 "CSV","CSV"
 "Excel XML","Excel XML"
+"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."

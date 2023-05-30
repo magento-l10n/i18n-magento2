@@ -28,7 +28,7 @@
 "Use parent","使用父级"
 "Category Permissions Section","类别权限类目"
 "Enable","启用"
-"<strong class=""warning-enable-permissions"">Warning!</strong> By default this feature restricts all categories.","<strong class=""warning-enable-permissions"">Warning!</strong> By default this feature restricts all categories."
+"<strong style=""color:red"">Warning!</strong> By default this feature restricts all categories.","<strong style=""color:red"">Warning!</strong> By default this feature restricts all categories."
 "Allow Browsing Category","Allow Browsing Category"
 "Customer Groups","客户组"
 "Landing Page","登录页面"

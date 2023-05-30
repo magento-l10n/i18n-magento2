@@ -12,3 +12,4 @@
 "The encryption key has been changed.","کلید رمزگذاری تغییر کرده است."
 "This is your new encryption key: %1. Be sure to write it down and take good care of it!","کلید رمزگذاری شده جدید شما: %1 است. حتما آن را یادداشت کرده و از آن مراقبت کنید!"
 "Manage Encryption Key","مدیریت کلید رمزگذاری شده"
+"This is your new encryption key: <span style=""font-family:monospace;"">%1</span>. Be sure to write it down and take good care of it!","This is your new encryption key: <span style=""font-family:monospace;"">%1</span>. Be sure to write it down and take good care of it!"

@@ -1,4 +1,3 @@
-"Purchase order number is a required field.","Номера на поръчката е задължително поле."
 "Make Check payable to:","Направи чековете платими за:"
 "Send Check to:","Изпрати проверка за:"
 "Purchase Order Number","Номер на поръчка"
@@ -21,3 +20,6 @@
 "Bank Transfer Payment","Плащане с банков превод"
 "Instructions","Инструкции"
 "Cash On Delivery Payment","В брой, при доставка"
+"Zero Subtotal Checkout","Zero Subtotal Checkout"
+"Automatically Invoice All Items","Automatically Invoice All Items"
+"Purchase order number is a required field.","Номера на поръчката е задължително поле."

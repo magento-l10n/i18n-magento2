@@ -5,3 +5,4 @@
 "Successful Messages Lifetime","Dòng đời tin nhắn thành công"
 "Failed Messages Lifetime","Dòng đời tin nhắn thất bại"
 "New Messages Lifetime","Dòng đời tin nhắn mới"
+"MySQL Message Queue Cleanup - all the times are in minutes. Use ""0"" if you want to skip automatic clearance","MySQL Message Queue Cleanup - all the times are in minutes. Use ""0"" if you want to skip automatic clearance"

@@ -1,5 +1,5 @@
 "Please specify a website.","Zvolte web prosím."
-"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."
+"Please specify an email.","Please specify an email."
 "We found an invalid value in a website column.","Ve sloupci website byl nalezen neplatný údaj."
 "Please enter a valid email.","Zadejte platný e-mail."
 "Please make sure attribute ""%s"" is not empty.","Ujistěte se, že atribut ""%s"" není prázdný."
@@ -15,3 +15,4 @@
 "Please enter a password with a valid length.","Zadejte heslo s platnou délkou prosím."
 "CSV","CSV"
 "Excel XML","Excel XML"
+"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."

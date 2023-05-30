@@ -12,3 +12,4 @@
 "The encryption key has been changed.","La chiave crittografica è stata cambiata."
 "This is your new encryption key: %1. Be sure to write it down and take good care of it!","Questa è la tua nuova chiave crittografica: %1. Prendine nota e conservala con cura!"
 "Manage Encryption Key","Gestisci chiave di crittografia"
+"This is your new encryption key: <span style=""font-family:monospace;"">%1</span>. Be sure to write it down and take good care of it!","This is your new encryption key: <span style=""font-family:monospace;"">%1</span>. Be sure to write it down and take good care of it!"

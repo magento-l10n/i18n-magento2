@@ -1,5 +1,5 @@
 "Please specify a website.","Ange en webbplats."
-"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."
+"Please specify an email.","Please specify an email."
 "We found an invalid value in a website column.","Vi hittade ett ogiltigt värde i en webbplatskolumn."
 "Please enter a valid email.","Vänligen ange en giltig e-post."
 "Please make sure attribute ""%s"" is not empty.","Kontrollera att attributet ""%s"" inte är tom."
@@ -15,3 +15,4 @@
 "Please enter a password with a valid length.","Ange ett lösenord med en giltig längd."
 "CSV","CSV"
 "Excel XML","Excel XML"
+"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."

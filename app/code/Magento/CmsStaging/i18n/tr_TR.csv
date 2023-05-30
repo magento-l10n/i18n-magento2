@@ -1,6 +1,6 @@
-"The page doesn't exist. Verify and try again.","Sayfa mevcut değil. Doğrulayın ve tekrar deneyin."
 "This block no longer exists.","Blok bulunamıyor."
-"Future Update already exists in this time range. Set a different range and try again.","Gelecek Güncelleme bu zaman aralığında zaten var. Farklı bir aralık ayarlayın ve tekrar deneyin."
+"Future Update in this time range already exists. Select a different range to add a new Future Update.","Future Update in this time range already exists. Select a different range to add a new Future Update."
+"Error","Error"
 "Currently Active","Şu anda aktif"
 "New Theme","Yeni Tema"
 "-- Please Select --","-- Lütfen Seçiniz --"
@@ -42,20 +42,17 @@
 "Design","Tasarım"
 "Layout","Şablon"
 "Layout Update XML","Şablon Güncelleme XML"
-"Custom Layout Update","Özel Düzen Güncellemesi"
-"
-                        List of layout files with an update handle ""selectable""
-                        matching *PageIdentifier*_*UpdateID*.
-                        <br/>
-                        See Magento documentation for more information
-                    ","
-Güncelleme tutamacı ""seçilebilir"" olan düzen dosyalarının listesi
-                        eşleşen *PageIdentifier*_*UpdateID*.
-                        <br/>
-                        Daha fazla bilgi için Magento belgelerine bakın                    "
 "The page will be removed from the update and all scheduled changes will be lost.","Bu sayfa güncellemeden kaldırıldı ve bütün planlanmış değişiklikler kaybolacak."
 "CMS Pages","İçerik Yönetimi Sayfaları"
 "CMS Blocks","İçerik Blokları"
 "ID","No"
 "Title","Başlık"
 "Status","Durum"
+"Remove CMS block from Campaign","Remove CMS block from Campaign"
+"Move to Another Campaign","Move to Another Campaign"
+"Deleting the update will remove the block from this campaign and all scheduled changes will be lost.","Deleting the update will remove the block from this campaign and all scheduled changes will be lost."
+"Remove CMS page from Campaign","Remove CMS page from Campaign"
+"Deleting the update will remove the page from this campaign and all scheduled changes will be lost.","Deleting the update will remove the page from this campaign and all scheduled changes will be lost."
+"Remove CMS Page from Campaign","Remove CMS Page from Campaign"
+"Remove CMS Block from Campaign","Remove CMS Block from Campaign"
+"Future Update already exists in this time range. Set a different range and try again.","Gelecek Güncelleme bu zaman aralığında zaten var. Farklı bir aralık ayarlayın ve tekrar deneyin."

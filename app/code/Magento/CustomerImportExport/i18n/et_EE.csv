@@ -1,5 +1,5 @@
 "Please specify a website.","Määrake veebisait."
-"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."
+"Please specify an email.","Please specify an email."
 "We found an invalid value in a website column.","Leidsime sobimatu väärtuse veebilehe veerus."
 "Please enter a valid email.","Palun sisesta korrektne e-posti aadress."
 "Please make sure attribute ""%s"" is not empty.","Please make sure attribute ""%s"" is not empty."
@@ -15,3 +15,4 @@
 "Please enter a password with a valid length.","Please enter a password with a valid length."
 "CSV","CSV"
 "Excel XML","Exceli XML"
+"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."

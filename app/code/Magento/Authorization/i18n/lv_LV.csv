@@ -1,2 +1,3 @@
-"The role wasn't found for the user. Verify the role and try again.","Lietotājam nav piešķirtas funkcijas. Pārbaudiet lietotāja lomu un mēģiniet vēlreiz."
+"We can't find the role for the user you wanted.","We can't find the role for the user you wanted."
 "Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Notikusi kļūda kompilējot atļauto resursu sarakstu. Vairāk informācijas noraidījumu log failā."
+"The role wasn't found for the user. Verify the role and try again.","Lietotājam nav piešķirtas funkcijas. Pārbaudiet lietotāja lomu un mēģiniet vēlreiz."

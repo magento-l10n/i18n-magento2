@@ -2,14 +2,9 @@
 "Filterable (with results)","フィルタ可能 (結果あり)"
 "Filterable (no results)","フィルタ可能 (結果なし)"
 "Use in Layered Navigation","絞込検索で使用する"
-"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price","商品マスタの入力形式が Yes/No、ドロップダウン、複数選択、価格の場合にのみ利用できます"
-"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
-                    <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
-                     it will make no affect on Price filter.","商品マスタの入力形式がYes/No、ドロップダウン、複数選択、価格の場合にのみ利用できます。
-                    <br>価格は <b>'フィルタ可能(結果なし)'</b> オプションと互換性がありません -  
-                     価格フィルタには影響しません。"
+"Can be used only with catalog input type Dropdown, Multiple Select and Price","Can be used only with catalog input type Dropdown, Multiple Select and Price"
+"Can be used only with catalog input type Dropdown, Multiple Select and Price.","Can be used only with catalog input type Dropdown, Multiple Select and Price."
 "Use in Search Results Layered Navigation","検索結果の絞込条件で使用"
-"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.","商品マスタの入力形式が Yes/No、ドロップダウン、複数選択、価格の場合にのみ利用できます."
 "Position","おすすめ"
 "Position in Layered Navigation","絞込検索内の位置"
 "Position of attribute in layered navigation block.","絞込検索のブロック上での表示順。"
@@ -32,4 +27,12 @@
 "This setting will be applied when all prices in the specific price interval are equal.","この設定はすべての商品が特定の価格帯にある場合に適用されます。"
 "Interval Division Limit","ステップ分割制限数"
 "Please specify the number of products, that will not be divided into subintervals.","下階層の価格帯の中で価格帯を区切らないための商品数を指定してください。"
+"Position of attribute in layered navigation block","Position of attribute in layered navigation block"
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price","商品マスタの入力形式が Yes/No、ドロップダウン、複数選択、価格の場合にのみ利用できます"
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
+                    <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
+                     it will make no affect on Price filter.","商品マスタの入力形式がYes/No、ドロップダウン、複数選択、価格の場合にのみ利用できます。
+                    <br>価格は <b>'フィルタ可能(結果なし)'</b> オプションと互換性がありません -  
+                     価格フィルタには影響しません。"
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.","商品マスタの入力形式が Yes/No、ドロップダウン、複数選択、価格の場合にのみ利用できます."
 "Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price.","商品マスタの入力形式が Yes/No、ドロップダウン、複数選択、価格の場合にのみ利用できます."

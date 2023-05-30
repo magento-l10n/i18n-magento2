@@ -1,5 +1,5 @@
 "Please specify a website.","Пожалуйста, укажите веб-сайт."
-"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."
+"Please specify an email.","Please specify an email."
 "We found an invalid value in a website column.","Мы обнаружили недопустимое значение в столбце веб-сайта."
 "Please enter a valid email.","Пожалуйста, введите корректный email."
 "Please make sure attribute ""%s"" is not empty.","Пожалуйста, убедитесь, что атрибут ""%s"" не является пустым."
@@ -15,3 +15,4 @@
 "Please enter a password with a valid length.","Пожалуйста, введите пароль с допустимой длиной."
 "CSV","CSV"
 "Excel XML","Excel XML"
+"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."

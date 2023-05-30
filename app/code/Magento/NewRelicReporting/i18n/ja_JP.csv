@@ -1,6 +1,7 @@
 "No New Relic Application ID configured, cannot continue with Cron Event reporting","RelicアプリケーションIDが設定されていないため, Cronイベントレポートを続けれません"
-"The New Relic integration requires the newrelic-php5 agent, which is not installed. More
-                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","New Relicを利用するため「newrelic-php5」 エージェントが必要です。エージェントをインストール詳細情報が <a target=""_blank"" href=""%1"">こちら</a>で参考できます。"
+"The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
+                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
+                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>."
 "New Relic Reporting Section","新しいRelic報告セクション"
 "New Relic Reporting","New Relicレポート"
 "General","全般"
@@ -18,7 +19,7 @@
 "Generated under Insights in Manage data -> API Keys -> Insert Keys","Insight in Manage data -> API Keys -> Insert Keysの下に作成されています"
 "New Relic Application Name","New Relicアプリケーション名"
 "This is located by navigating to Settings from the New Relic APM website","設定のNew Relic APMウェブサイトにあります"
-"Send Adminhtml and Frontend as Separate Apps","Adminhtmlとフロントエンドを別々のアプリケーションとして送信する"
-"In addition to the main app (which includes all PHP execution), separate apps for adminhtml and frontend will be created. Requires New Relic Application Name to be set.","メインアプリケーション（すべてのPHP実行を含む）に加えて、adminhtmlとフロントエンド用に別々のアプリケーションが作成されます。 New Relicアプリケーション名を設定する必要があります。"
 "Cron","クロン"
 "Enable Cron","Cron有効化"
+"Send Adminhtml and Frontend as Separate Apps","Adminhtmlとフロントエンドを別々のアプリケーションとして送信する"
+"In addition to the main app (which includes all PHP execution), separate apps for adminhtml and frontend will be created. Requires New Relic Application Name to be set.","メインアプリケーション（すべてのPHP実行を含む）に加えて、adminhtmlとフロントエンド用に別々のアプリケーションが作成されます。 New Relicアプリケーション名を設定する必要があります。"

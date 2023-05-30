@@ -1,2 +1,3 @@
-"The role wasn't found for the user. Verify the role and try again.","لا يمكن العثور على الدور المطلوب. فضلا تأكد من الدور و حاول مرة أخرى."
+"We can't find the role for the user you wanted.","We can't find the role for the user you wanted."
 "Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","حدث خطأ أثناء تجميع قائمة من الموارد المسموح بها. يمكنك العثور على مزيد من المعلومات في سجل الاستثناءات."
+"The role wasn't found for the user. Verify the role and try again.","لا يمكن العثور على الدور المطلوب. فضلا تأكد من الدور و حاول مرة أخرى."

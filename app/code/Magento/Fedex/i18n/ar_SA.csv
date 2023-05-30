@@ -1,4 +1,3 @@
-"Can't convert a shipping cost from ""%1-%2"" for FedEx carrier.","Can't convert a shipping cost from ""%1-%2"" for FedEx carrier."
 "Europe First Priority","الأولوية الأولى في أوروبا"
 "1 Day Freight","الشحن بيوم واحد"
 "2 Day Freight","الشحن في يومين"
@@ -44,7 +43,6 @@
 "status","status"
 "Empty response","رد فارغ"
 "None","لا شئ"
-"Expected Delivery:","Expected Delivery:"
 "Field ","حقل "
 " is required."," مطلوب."
 "FedEx","FedEx"
@@ -79,3 +77,4 @@
 "Debug","نقح"
 "Show Method if Not Applicable","Show Method if Not Applicable"
 "Sort Order","الترتيب"
+"Expected Delivery:","Expected Delivery:"

@@ -1,5 +1,5 @@
 "Please specify a website.","Please specify a website."
-"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."
+"Please specify an email.","Please specify an email."
 "We found an invalid value in a website column.","We found an invalid value in a website column."
 "Please enter a valid email.","올바른 이메일 주소를 입력해주세요"
 "Please make sure attribute ""%s"" is not empty.","Please make sure attribute ""%s"" is not empty."
@@ -15,3 +15,4 @@
 "Please enter a password with a valid length.","유효한 길이의 암호를 입력 하십시오."
 "CSV","CSV"
 "Excel XML","Excel XML"
+"An email wasn't specified. Enter the email and try again.","An email wasn't specified. Enter the email and try again."

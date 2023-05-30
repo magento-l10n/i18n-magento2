@@ -1,4 +1,3 @@
-"Purchase order number is a required field.","Ο αριθμός παραγγελίας αγοράς είναι υποχρεωτικό πεδίο."
 "Make Check payable to:","Κάντε την επιταγή πληρωτέα σε:"
 "Send Check to:","Αποστολή Επιταγής σε:"
 "Purchase Order Number","Αριθμός Παραγγελίας Αγοράς"
@@ -21,3 +20,6 @@
 "Bank Transfer Payment","Πληρωμή σε τραπεζικό λογαριασμό"
 "Instructions","Οδηγίες"
 "Cash On Delivery Payment","Πληρωμή με αντικαταβολή"
+"Zero Subtotal Checkout","Zero Subtotal Checkout"
+"Automatically Invoice All Items","Automatically Invoice All Items"
+"Purchase order number is a required field.","Ο αριθμός παραγγελίας αγοράς είναι υποχρεωτικό πεδίο."

@@ -1,6 +1,6 @@
-"The page doesn't exist. Verify and try again.","La page n'existe pas. Vérifiez et réessayez."
 "This block no longer exists.","Ce bloc n'existe plus."
-"Future Update already exists in this time range. Set a different range and try again.","Une future mise à jour existe déjà pour cette période. Mettez une période différente et réessayez."
+"Future Update in this time range already exists. Select a different range to add a new Future Update.","Future Update in this time range already exists. Select a different range to add a new Future Update."
+"Error","Error"
 "Currently Active","Actuellement actif"
 "New Theme","Nouveau thème"
 "-- Please Select --","-- Faites un choix --"
@@ -42,21 +42,17 @@
 "Design","Conception"
 "Layout","Agencement"
 "Layout Update XML","XML de mise à jour d'agencement"
-"Custom Layout Update","Mise à jour de la mise en page personnalisée"
-"
-                        List of layout files with an update handle ""selectable""
-                        matching *PageIdentifier*_*UpdateID*.
-                        <br/>
-                        See Magento documentation for more information
-                    ","
-                        Liste des fichiers de mise en page avec un gestionnaire de mise à jour ""sélectionnable""
-                        correspondant à *PageIdentifier*_*UpdateID*.
-                        <br/>
-                        Voir la documentation Magento pour plus d'informations
-                    "
 "The page will be removed from the update and all scheduled changes will be lost.","La page sera retirée de la mise à jour et toutes les modifications planifiées seront perdues."
 "CMS Pages","Gabarit du bloc lien en ligne CMS"
 "CMS Blocks","Blocs CMS"
 "ID","Identifiant"
 "Title","Titre"
 "Status","Statut"
+"Remove CMS block from Campaign","Remove CMS block from Campaign"
+"Move to Another Campaign","Move to Another Campaign"
+"Deleting the update will remove the block from this campaign and all scheduled changes will be lost.","Deleting the update will remove the block from this campaign and all scheduled changes will be lost."
+"Remove CMS page from Campaign","Remove CMS page from Campaign"
+"Deleting the update will remove the page from this campaign and all scheduled changes will be lost.","Deleting the update will remove the page from this campaign and all scheduled changes will be lost."
+"Remove CMS Page from Campaign","Remove CMS Page from Campaign"
+"Remove CMS Block from Campaign","Remove CMS Block from Campaign"
+"Future Update already exists in this time range. Set a different range and try again.","Une future mise à jour existe déjà pour cette période. Mettez une période différente et réessayez."
