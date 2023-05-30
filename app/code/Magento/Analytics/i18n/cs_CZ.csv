@@ -9,7 +9,7 @@
 "Input data must be string or convertible into string.","Input data must be string or convertible into string."
 "Input data must be non-empty string.","Input data must be non-empty string."
 "Not valid cipher method.","Not valid cipher method."
-"Encryption key can't be empty.","Encryption key can't be empty."
+"Encryption key can't be empty.","Šifrovací klíč nemůže být prázdný."
 "Source ""%1"" is not exist","Source ""%1"" is not exist"
 "These arguments can't be empty ""%1""","Tyto argumenty nemohou být prázdné ""%1"""
 "Cannot find predefined integration user!","Nelze najít předdefinovaného uživatele integrace!"
