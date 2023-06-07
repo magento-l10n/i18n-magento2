@@ -120,7 +120,7 @@
 "Maximum length of this field must be equal or less than %1 symbols.","Maximum length of this field must be equal or less than %1 symbols."
 "Admin is a required field in the each row.","Admin is a required field in the each row."
 "Please enter a quantity greater than 0.","Please enter a quantity greater than 0."
-"The fewest you may purchase is %1.","The fewest you may purchase is %1."
+"The fewest you may purchase is %1.","La compra mínima es %1."
 "The maximum you may purchase is %1.","The maximum you may purchase is %1."
 "You can buy this product only in quantities of %1 at a time.","You can buy this product only in quantities of %1 at a time."
 "Forbidden extensions has been used. Avoid usage of ","Forbidden extensions has been used. Avoid usage of "
