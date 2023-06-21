@@ -17,7 +17,7 @@
 "You need more permissions to save this setting.","You need more permissions to save this setting."
 "Role Scopes","نطاقات الدور"
 "Custom","مخصص"
-"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view"
+"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","ليس لديك الصلاحيات اللازمة للحفظ في نطاق المتجر الحالي. رجاء، قم بالتبديل إلى المتجر المسموح لك بالتعديل عليه"
 "More permissions are needed to delete the ""%1"" item.","تحتاج إلى مزيد من الصلاحيات لحذف العنصر ""%1""."
 "This entity needs to be assigned to a store view. Verify the entity assignment and try again.","هذا الكيان يجب تعيينه إلى طريقة عرض متجر. تحقق من تعيين الكيان وحاول مرة أخرى."
 "Orders can only be completed in an active store. Verify the store and try again.","يمكن إكمال الطلبات فقط في متجر نشط. تحقق من المتجر وحاول مرة أخرى."
