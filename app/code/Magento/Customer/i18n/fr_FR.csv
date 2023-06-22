@@ -390,7 +390,7 @@
 "Hello,","Hello,"
 "We have received a request to change the following information associated with your account at %store_name: email.","Nous avons reçu une demande pour modifier les informations suivantes associées à votre compte sur %store_name : e-mail."
 "If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","Si vous n’avez pas autorisé cette action, merci de nous contacter immédiatement à <a href=""mailto:%store_email"">%store_email</a>"
-"or call us at <a href=""tel:%store_phone"">%store_phone</a>","or call us at <a href=""tel:%store_phone"">%store_phone</a>"
+"or call us at <a href=""tel:%store_phone"">%store_phone</a>","ou appelez-nous au <a href=""tel:%store_phone"">%store_phone</a>"
 "Thanks,<br>%store_name","Thanks,<br>%store_name"
 "Your %store_name email and password has been changed","L'adresse email de %store_name et son mot de passe ont été modifiés"
 "We have received a request to change the following information associated with your account at %store_name: email, password.","Nous avons reçu une demande pour modifier les informations suivantes associées à votre compte sur %store_name : e-mail, mot de passe."
