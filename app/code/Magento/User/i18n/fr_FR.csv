@@ -118,7 +118,7 @@
 "Hello,","Bonjour,"
 "We have received a request to change the following information associated with your account at %store_name: %changes.","Nous avons reçu une demande pour modifier les informations suivantes associées à votre compte sur %store_name : %changes."
 "If you have not authorized this action, please contact us immediately at %store_email","Si vous n’avez pas autorisé cette action, merci de nous contacter immédiatement à %store_email"
-"or call us at %store_phone","or call us at %store_phone"
+"or call us at %store_phone","ou appelez-nous au %store_phone"
 "Thanks,","Merci,"
 "All Users","Tous les utilisateurs"
 "User Roles","Rôles utilisateurs"
