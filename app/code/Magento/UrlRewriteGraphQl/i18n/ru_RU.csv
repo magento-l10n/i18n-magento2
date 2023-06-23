@@ -1,2 +1,2 @@
-"""url"" argument should be specified and not empty","""url"" argument should be specified and not empty"
-"""model"" value should be specified","""model"" value should be specified"
+"""url"" argument should be specified and not empty","Аргумент ""url"" должен быть указан и не пуст"
+"""model"" value should be specified","Значение ""model"" должно быть указано"

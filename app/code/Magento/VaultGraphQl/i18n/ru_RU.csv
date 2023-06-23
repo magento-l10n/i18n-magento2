@@ -1,2 +1,2 @@
-"Specify the ""public_hash"" value.","Specify the ""public_hash"" value."
-"Could not find a token using public hash: %1","Could not find a token using public hash: %1"
+"Specify the ""public_hash"" value.","Укажите значение ""public_hash""."
+"Could not find a token using public hash: %1","Не удалось найти токен с помощью публичного хэша: %1"
