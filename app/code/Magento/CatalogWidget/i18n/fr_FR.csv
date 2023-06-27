@@ -16,7 +16,7 @@
 "Template","Gabarit"
 "Products Grid Template","Template de la grille de produits"
 "Cache Lifetime (Seconds)","Durée de vie du cache (secondes)"
-"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache."
+"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 par défaut, si non défini. Pour actualiser instantanément, vider le cache de sortie HTML des Blocs."
 "Conditions","Conditions"
 "
                     Time in seconds between the widget updates.
