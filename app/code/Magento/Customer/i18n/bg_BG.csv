@@ -396,7 +396,7 @@
 "We have received a request to change the following information associated with your account at %store_name: email, password.","Получихме искане за промяна на следната информация, свързана с вашия акаунт в %store_name: имейл."
 "Reset your %store_name password","Възстановете вашата парола %store_name"
 "There was recently a request to change the password for your account.","Наскоро имаше искане за промяна на паролата за вашия акаунт."
-"If you requested this change, set a new password here:","Ако сте искаli тази промяна, задайте нова парола тук:"
+"If you requested this change, set a new password here:","Ако сте заявили тази промяна, задайте нова парола тук:"
 "If you did not make this request, you can ignore this email and your password will remain the same.","Ако не сте направили това запитване, можете да игнорирате това съобщение и вашата парола ще остане същата."
 "Your %store_name password has been changed","%store_name паролата е променена"
 "We have received a request to change the following information associated with your account at %store_name: password.","Получихме искане за промяна на следната информация, свързана с вашия акаунт в %store_name: имейл."
