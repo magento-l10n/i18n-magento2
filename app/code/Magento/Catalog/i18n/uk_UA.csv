@@ -666,7 +666,7 @@
 "Allow Dynamic Media URLs in Products and Categories","Allow Dynamic Media URLs in Products and Categories"
 "E.g. {{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}. Dynamic directives parsing impacts catalog performance.","E.g. {{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}. Dynamic directives parsing impacts catalog performance."
 "Product Image Placeholders","Заповнювач для зображення товару"
-"Search Engine Optimization","Пошукова оптимізація (SEO)"
+"Search Engine Optimization","Оптимізація для пошукових систем"
 "Page Title Separator","Роздільник заголовку сторінки"
 "Use Canonical Link Meta Tag For Categories","Використовувати мета-тег канонічного посилання для категорій"
 "Use Canonical Link Meta Tag For Products","Використовувати мета-тег канонічного посилання для товарів"
