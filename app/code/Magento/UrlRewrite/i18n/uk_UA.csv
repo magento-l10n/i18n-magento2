@@ -62,7 +62,7 @@
 "Custom storage message","Custom storage message"
 "Select Category","Виберіть категорію"
 "The value specified in the URL Key field would generate a URL that already exists.","The value specified in the URL Key field would generate a URL that already exists."
-"To resolve this conflict, you can either change the value of the URL Key field (located in the Search Engine Optimization section) to a unique value, or change the Request Path fields in all locations listed below:","To resolve this conflict, you can either change the value of the URL Key field (located in the Search Engine Optimization section) to a unique value, or change the Request Path fields in all locations listed below:"
+"To resolve this conflict, you can either change the value of the URL Key field (located in the Search Engine Optimization section) to a unique value, or change the Request Path fields in all locations listed below:","Для вирішення цього конфлікту, ви можете змінити значення поля URL Key (розташованого в розділі Оптимізація для пошукових систем) на унікальне значення, або змінити поля Request Path у всіх розташуваннях, перерахованих нижче:"
 "Action","Action"
 "Edit","Редагувати"
 "For category","For category"
