@@ -27,7 +27,7 @@
 "Invalid stock item id: %1. Should be null or numeric value greater than 0","Invalid stock item id: %1. Should be null or numeric value greater than 0"
 "Invalid stock item id: %1. Assigned stock item id is %2","Invalid stock item id: %1. Assigned stock item id is %2"
 "Not all of your products are available in the requested quantity.","Not all of your products are available in the requested quantity."
-"Product with SKU ""%1"" does not exist","Product with SKU ""%1"" does not exist"
+"Product with SKU ""%1"" does not exist","Товар з кодом ""%1"" не існує"
 "The fewest you may purchase is %1.","Ви можете придбати щонайменше %1."
 "Please correct the quantity for some products.","Будь ласка, виправте кількості деяких товарів."
 "The most you may purchase is %1.","The most you may purchase is %1."
