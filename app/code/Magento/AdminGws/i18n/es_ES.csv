@@ -1,7 +1,7 @@
 "All","Todos"
 "None","Ninguno"
 "Allowed Scopes","Vistas permitidas"
-"You need more permissions to delete this item(s): %1.","You need more permissions to delete this item(s): %1."
+"You need more permissions to delete this item(s): %1.","Necesitas más permisos para eliminar este artículo(s): %1."
 "You need more permissions to apply some of the rule updates.","Necesitas más permisos para aplicar algunas de las actualizaciones de las reglas."
 "Please assign this entity to a store view.","Please assign this entity to a store view."
 "You can create orders only in an active store.","You can create orders only in an active store."
