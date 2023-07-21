@@ -8,7 +8,7 @@
 "Exception message","Exception message"
 "The file could not be uploaded because it is in the wrong format. Please select a CSV file to upload.","The file could not be uploaded because it is in the wrong format. Please select a CSV file to upload."
 "Add from File","Add from File"
-"File must be in .csv format and include ""SKU"" and ""QTY"" columns","File must be in .csv format and include ""SKU"" and ""QTY"" columns"
+"File must be in .csv format and include ""SKU"" and ""QTY"" columns","Файл повинен бути в форматі .csv і містити стовпці ""SKU"" і ""QTY"""
 "Choose File","Choose File"
 "Enter Multiple SKUs","Enter Multiple SKUs"
 "Use commas or paragraph to separate SKUs.","Use commas or paragraph to separate SKUs."
