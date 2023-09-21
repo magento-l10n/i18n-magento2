@@ -1,22 +1,22 @@
 "Subscription status","État de l'abonnement"
 "Sorry, there has been an error processing your request. Please try again later.","Désolé, une erreur s'est produite lors du traitement de votre demande. Veuillez réessayer plus tard."
-"Time value has an unsupported format","Time value has an unsupported format"
+"Time value has an unsupported format","La valeur de l'heure a un format non pris en charge"
 "Cron settings can't be saved","Impossible d’enregistrer les paramètres de cron"
 "There was an error save new configuration value.","Une erreur s'est produite lors de l'enregistrement de la nouvelle valeur de configuration."
-"Please select a vertical.","Please select a vertical."
+"Please select a vertical.","Veuillez sélectionner une verticale."
 "--Please Select--","--Votre choix--"
-"Command was not found.","Command was not found."
-"Input data must be string or convertible into string.","Input data must be string or convertible into string."
-"Input data must be non-empty string.","Input data must be non-empty string."
-"Not valid cipher method.","Not valid cipher method."
-"Encryption key can't be empty.","Encryption key can't be empty."
-"Source ""%1"" is not exist","Source ""%1"" is not exist"
+"Command was not found.","Commande introuvable."
+"Input data must be string or convertible into string.","Les données d'entrée doivent être une chaîne de caractères ou convertibles en chaîne."
+"Input data must be non-empty string.","Les données d'entrée doivent être une chaîne de caractères non vide."
+"Not valid cipher method.","Méthode de chiffrement non valide."
+"Encryption key can't be empty.","La clé de chiffrement ne peut pas être vide."
+"Source ""%1"" is not exist","La source ""%1"" n'existe pas"
 "These arguments can't be empty ""%1""","Ces arguments ne peuvent pas être vides « %1 »"
 "Cannot find predefined integration user!","Impossible de trouver l'intégration prédéfinie par l'utilisateur !"
 "File is not ready yet.","Le fichier n'est pas encore prêt."
 "Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Votre URL de Base a été modifiée et que vos rapports sont en cours de mise à jour. Rapports avancés seront disponibles une fois que ce changement a été traitée. S'il vous plaît essayer à nouveau plus tard."
 "Failed to synchronize data to the Magento Business Intelligence service. ","Impossible de synchroniser les données vers le service d’Intelligence d’affaires de Magento. "
-"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Retry Synchronization</a>"
+"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Réessayer la synchronisation</a>"
 "TestMessage","Message d'essai"
 "Apps and Games","Applications et jeux"
 "Athletic/Sporting Goods","Articles d'Athlétisme / de Sport"
@@ -32,10 +32,10 @@
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
                 ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>.","This service provides a dynamic suite of reports with rich insights about your business.
-                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>."
+                terms and conditions</a>.","Ce service fournit une suite dynamique de rapports avec une riche connaissance de votre entreprise.
+                Vous pouvez accéder à vos rapports de façon sécurisée sur un tableau de bord personnalisé en dehors du panneau d'administration en cliquant sur le lien
+                « Aller au rapport avancé». </br> Pour plus d'informations, voir nos <a href=""https://magento.com/legal/terms/cloud-terms"">
+                conditions générales</a>."
 "Advanced Reporting Service","Service de Reporting avancé"
 "Time of day to send data","Moment de la journée pour envoyer des données"
 "Industry","Industrie"
