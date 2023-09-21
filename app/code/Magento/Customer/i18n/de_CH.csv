@@ -585,7 +585,7 @@
 "The confirmation token is invalid. Verify the token and try again.","The confirmation token is invalid. Verify the token and try again."
 "This account isn't confirmed. Verify and try again.","This account isn't confirmed. Verify and try again."
 "The password needs at least %1 characters. Create a new password and try again.","The password needs at least %1 characters. Create a new password and try again."
-"The password can't begin or end with a space. Verify the password and try again.","The password can't begin or end with a space. Verify the password and try again."
+"The password can't begin or end with a space. Verify the password and try again.","Das Passwort darf nicht mit einem Leerzeichen beginnen oder enden. Überprüfen Sie das Passwort und versuchen Sie es erneut."
 "The password can't be the same as the email address. Create a new password and try again.","The password can't be the same as the email address. Create a new password and try again."
 "The store view is not in the associated website.","Dieser Store-View gehört nicht zu dieser Website."
 "A customer with the same email address already exists in an associated website.","A customer with the same email address already exists in an associated website."
