@@ -109,7 +109,7 @@
 "Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?","Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?"
 "Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?"
 "Password Reset Confirmation for %name","Jelszó visszaállítás megerősítése: %name"
-"%name,","%name,"
+"%name,","%name"
 "There was recently a request to change the password for your account.","Nemrég kérelmezték a fiók jelszavának megváltoztatását."
 "If you requested this change, reset your password here:","Ha Ön nyújtotta be ezt a kérelmet, állítsa alaphelyzetbe jelszavát itt:"
 "If you did not make this request, you can ignore this email and your password will remain the same.","Ha nem Ön kérvényezte a változtatást, nyugodtan figyelmen kívül hagyhatja ezt az e-mailt, a jelszó változatlan marad."
