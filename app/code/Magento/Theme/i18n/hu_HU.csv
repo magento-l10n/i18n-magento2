@@ -124,7 +124,7 @@
 "Time","Idő"
 "Hour","Óra"
 "Minute","Perc"
-"%name,","%name,"
+"%name,","%name"
 "Welcome to %store_name.","Üdvözlet a %store_name webáruházban."
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","A bejelentkezéshez használja ezeket az adatokat fizetés közben vagy a <a href=""%customer_url"">Saját fiók</a> oldalon:"
 "Email:","E-mail:"
