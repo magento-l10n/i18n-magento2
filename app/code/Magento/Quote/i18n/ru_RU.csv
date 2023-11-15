@@ -64,7 +64,7 @@
 "Manage carts","Manage carts"
 "Unable to save address. Please, check input data.","Unable to save address. Please, check input data."
 "Cannot place order.","Cannot place order."
-"Carrier with such method not found: %1, %2","Carrier with such method not found: %1, %2"
+"Carrier with such method not found: %1, %2","Служба доставки с таким методом не найдена: %1, %2"
 "error123","error123"
 "Cart isn't assigned to correct store","Cart isn't assigned to correct store"
 "Something went wrong. Please try to place the order again.","Something went wrong. Please try to place the order again."
