@@ -1,3 +1,3 @@
 "Request content type must be application/json","Тип содержимого запроса должен быть application/json"
 "Store code %1 does not exist","Представление магазина %1 не существует"
-"Entity code %1 does not exist.","Entity code %1 does not exist."
+"Entity code %1 does not exist.","Код сущности %1 не существует."
