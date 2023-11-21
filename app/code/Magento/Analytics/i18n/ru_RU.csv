@@ -10,7 +10,7 @@
 "Input data must be non-empty string.","Input data must be non-empty string."
 "Not valid cipher method.","Not valid cipher method."
 "Encryption key can't be empty.","Ключ шифрования не может быть пустым."
-"Source ""%1"" is not exist","Source ""%1"" is not exist"
+"Source ""%1"" is not exist","Источник ""%1"" не существует"
 "These arguments can't be empty ""%1""","Эти аргументы не могут быть пустыми ""%1"""
 "Cannot find predefined integration user!","Предопределенная интеграция не может найти пользователя!"
 "File is not ready yet.","Файл ещё не готов."
