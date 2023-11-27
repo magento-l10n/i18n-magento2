@@ -105,7 +105,7 @@
 "Please enter a valid date.","Моля, въведете валидна дата."
 "Please enter a valid URL Key (Ex: ""example-page"", ""example-page.html"" or ""anotherlevel/example-page"").","Моля, въведете валиден URL ключ (Ex: ""например-страница"", ""пример-page.html"" или ""anotherlevel/пример-страница"")."
 "Please enter a valid zip code.","Моля, въведете валиден пощенски код."
-"Please select State/Province.","Моля, изберете щат/провинция."
+"Please select State/Province.","Моля, изберете област/провинция."
 "Please enter a value less than or equal to {0}.","Please enter a value less than or equal to {0}."
 "Please enter a value greater than or equal to {0}.","Please enter a value greater than or equal to {0}."
 "Please enter valid email addresses, separated by commas. For example, johndoe@domain.com, johnsmith@domain.com.","Моля, въведете валидни имейл адреси, разделени със запетаи. За пример johndoe@domain.com, johnsmith@domain.com."

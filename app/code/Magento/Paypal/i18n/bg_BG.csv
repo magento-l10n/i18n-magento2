@@ -87,7 +87,7 @@
 "The PayPal gateway rejected the request. %1","PayPal gateway отхвърля искането. %1"
 "I'm sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you.","Съжалявам - но ние не бяхме в състояние да обработим плащането ви. Опитайте друг метод на плащане или се свържете с нас, така че ние може да ви помогне."
 "I'm sorry - but we are not able to complete your transaction. Please contact us so we can assist you.","Съжалявам - но ние не сме в състояние да завършим вашата сделка. Моля свържете се с нас, за да ви помогнем."
-"A match of the Shipping Address City, State, and Postal Code failed.","Неуспешно съвпадение на адреса за доставка град, щат и пощенски код."
+"A match of the Shipping Address City, State, and Postal Code failed.","Неуспешно съвпадение на адреса за доставка област, град и пощенски код."
 "We can't place the order.","Не може да направите поръчка."
 "The payment method code is not set.","Кодът на метода на плащане не е зададен."
 "The reference ID is not set.","Референтното ID не е зададено."

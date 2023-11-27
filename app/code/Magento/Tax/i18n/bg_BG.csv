@@ -5,7 +5,7 @@
 "'*' - matches any; 'xyz*' - matches any that begins on 'xyz' and are not longer than %1.","' *'-съвпада с някоя; 'xyz *' - съвпада с някоя, която започва на ""xyz"" и не са повече от %1."
 "Range From","Варират от"
 "Range To","Нареждам към"
-"State","Щат"
+"State","Област"
 "Country","Държава"
 "Rate Percent","Процент %"
 "Tax Titles","Данъчно заглавие"
