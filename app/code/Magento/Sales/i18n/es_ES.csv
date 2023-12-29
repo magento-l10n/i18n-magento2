@@ -380,7 +380,7 @@
 "The transaction ""%1"" (%2) is already closed.","La transacción ""%s"" (%s) ya está cerrada."
 "Set order for existing transactions not allowed","No se le permite configurar un pedido de una transacción existente."
 "At minimum, you need to set a payment ID.","Como mínimo, es necesario establecer una ID de pago."
-"Order","Encargar"
+"Order","Pedido"
 "Authorization","Autorización"
 "We found an unsupported transaction type ""%1"".","Encontramos un tipo de transacción ""%1""."
 "Please set a proper payment and order id.","Establezca un ID de pago y de orden adecuado."
