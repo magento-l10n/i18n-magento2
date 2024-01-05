@@ -16,7 +16,7 @@
 "We can't save the credit memo because the company associated with this customer does not exist.","No podemos guardar la nota de credito porque la empresa asociada al cliente no existe."
 "We can't save the credit memo because the company associated with customer is not active.","No podemos guardar la nota de credito porque la empresa asociada al cliente no está activa."
 "Yes","Sí"
-"No","No 	"
+"No","No"
 "The requested Payment Method is not available.","El método de pago solicitado no está disponible."
 "Payment On Account cannot be used for this order because your order amount exceeds your credit amount.","Pago A Cuenta no se puede utilizar para este pedido porque el importe de su pedido excede el importe de su crédito."
 "Cannot process the request. Please check the operation type and try again.","No se puede procesar la solicitud. Por favor, compruebe el tipo de operación y vuelva a intentarlo."
