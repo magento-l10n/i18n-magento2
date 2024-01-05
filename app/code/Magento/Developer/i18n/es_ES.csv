@@ -9,7 +9,7 @@
 "Allowed IPs (comma separated)","IP permitidas (separadas por comas)"
 "Leave empty for access from any location.","Dejar en blanco para acceder desde cualquier lugar."
 "Log to File","Log to File"
-"Not available in production mode.","Not available in production mode."
+"Not available in production mode.","No disponible en modo de producción."
 "Front-end development workflow","Flujo de trabajo de desarrollo de la tienda"
 "Magento was installed with a table prefix. Please re-install without prefix.","Magento was installed with a table prefix. Please re-install without prefix."
 "Syslog","Syslog"
