@@ -234,7 +234,7 @@
 "Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details.","Su tipo de cuenta ha cambiado de Administrador de la empresa a una cuenta de usuario regular. Si cree que esto es un error, comuníquese con su gerente para obtener más detalles."
 "%name,","%name,"
 "You have been assigned to %company_name as the Sales Representative.","Se le ha asignado a %company_name como Representante de ventas."
-"When you sign in to your account, you will be able to:","Cuando inicie sesión en su cuenta, podrá:"
+"When you sign in to your account, you will be able to:","Cuando inicies sesión en tu cuenta, podrás:"
 "* View and manage company quotes in Admin Panel","* Visualizar y gestionar cotizaciones de la empresa en el Panel de administración"
 "* View and edit company profile in Admin Panel","* Ver y editar el perfil de la empresa en el Panel de administración"
 "Your company account <strong>%company_name</strong> has been blocked.
