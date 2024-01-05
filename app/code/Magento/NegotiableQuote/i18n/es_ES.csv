@@ -93,7 +93,7 @@
 "Cannot delete comment with id %1","No se puede eliminar el comentario con id %1"
 "There was an error saving company quote config.","Hubo un error al guardarla configuración del pedido de la empresa."
 "Yes","Sí"
-"No","No 	"
+"No","No"
 "System","Sistema"
 " - deleted"," - eliminado"
 "Product with ID #%1 is deleted","Se ha eliminado el producto con ID #%1"

@@ -61,7 +61,7 @@
 "A catalog named %catalogName already exists. Please select a different name.","Ya existe un catálogo llamado %catalogName. Por favor, seleccione un nombre diferente."
 "You cannot change the customer group for a shared catalog.","No puede cambiar el grupo de clientes para un catalogo compartido."
 "Yes","Sí"
-"No","No 	"
+"No","No"
 "Configure","Configurar"
 "Please <a href=""%1"">create</a> at least a public shared catalog to proceed.","Por favor <a href=""%1"">crear</a> al menos un catálogo compartido público para proceder."
 "A shared catalog is linked to this customer group. You must delete the shared catalog before you can delete this customer group.","Un catálogo compartido está vinculado a este grupo de clientes. Debe eliminar el catálogo compartido antes de poder eliminar este grupo de clientes."
