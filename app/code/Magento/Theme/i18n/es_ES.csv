@@ -74,7 +74,7 @@
 "The %templateName contains an incorrect configuration. The template has a reference to itself. Either remove or change the reference.","The %templateName contains an incorrect configuration. The template has a reference to itself. Either remove or change the reference."
 "Can not save empty config","Can not save empty config"
 "label","etiqueta"
-"-- Please Select --","--Seleccione--"
+"-- Please Select --","-- Selecciona --"
 "The start date can't follow the end date.","La fecha de inicio no puede después la fecha de finalización."
 "The date range for this design change overlaps another design change for the specified store.","El intervalo de fechas para este cambio de diseño superpone a otro cambio de diseño para la tienda especificada."
 "Copy","Copiar"
