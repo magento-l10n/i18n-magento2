@@ -46,7 +46,7 @@
 "Something went wrong while scheduling operations.","Algo salió mal al programar operaciones."
 "Sorry, something went wrong during product prices update. Please see log for details.","Lo sentimos, algo salió mal durante la actualización de los precios del producto. Por favor, consulte el registro para más detalles."
 "Assign custom prices to selected products","Asignar precios personalizados a productos seleccionados"
-"Something went wrong while processing the request.","Algo salió mal al procesar la solicitud."
+"Something went wrong while processing the request.","Algo salió mal durante el procesamiento de la solicitud."
 "Could not save shared catalog.","No se pudo guardar el catálogo compartido."
 "Custom","Personalizado"
 "Public","Público"
