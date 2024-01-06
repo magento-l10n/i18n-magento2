@@ -16,7 +16,7 @@
 "An item option with code %1 already exists.","Ya existe una opción de artículo con el código %1."
 "Could not save Requisition List","No se pudo guardar la Lista de Requisitos"
 "Cannot delete Requisition List with id %1","No se puede eliminar la Lista de Requisitos con id %1"
-"Requested product doesn't exist","Requested product doesn't exist"
+"Requested product doesn't exist","El producto solicitado no existe"
 "Cannot specify product.","No se pudo especificar artículo."
 "%1 has been updated in your requisition list.","%1 se ha actualizado en su Lista de Requisitos."
 "Product %1 has been added to the requisition list %2.","El producto %1 se ha agregado a la Lista de Requisitos %2."
