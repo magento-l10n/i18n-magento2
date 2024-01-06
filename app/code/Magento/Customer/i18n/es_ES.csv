@@ -198,7 +198,7 @@
 "We can't share customer accounts globally when the accounts share identical email addresses on more than one website.","No podemos compartir cuentas de clientes a nivel global cuando las cuentas comparten direcciones de correo electrónico idénticos en más de una página web."
 "Billing Address","Dirección de facturación"
 "Shipping Address","Dirección de envío"
-"-- Please Select --","--Seleccione--"
+"-- Please Select --","-- Selecciona --"
 "Please enter a valid password reset token.","Please enter a valid password reset token."
 "The password can not begin or end with a space.","The password can not begin or end with a space."
 "Admin","Administrar"
