@@ -52,7 +52,7 @@
 "Import","Importar"
 "Free Shipping","Transporte gratuito"
 "Minimum Order Amount","Pedido mínimo"
-"-- Please Select --","--Seleccione--"
+"-- Please Select --","-- Selecciona --"
 "Duplicate Row #%1 (Country ""%2"", Region/State ""%3"", Zip ""%4"" and Value ""%5"")","Duplicate Row #%1 (Country ""%2"", Region/State ""%3"", Zip ""%4"" and Value ""%5"")"
 "Sorry, but we can't deliver to the destination country with this shipping module.","Sorry, but we can't deliver to the destination country with this shipping module."
 "The Table Rates File Format is incorrect in row number ""%1"". Verify the format and try again.","The Table Rates File Format is incorrect in row number ""%1"". Verify the format and try again."
