@@ -50,7 +50,7 @@
 "Please define a product data object.","Define un objeto de datos de producto."
 "We can't rebuild the index for an undefined product.","No se puede reconstruir el índice para un artículo no definido."
 "Could not rebuild index for empty products array","No se pudo reconstruir el índice de una matriz de productos vacía"
-"-- Please Select --","--Seleccione--"
+"-- Please Select --","-- Selecciona --"
 "Related Products","Artículos relacionados"
 "Up-sells","Ventas ampliadas"
 "Cross-sells","Ventas cruzadas"

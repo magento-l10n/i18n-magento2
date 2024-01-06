@@ -1,7 +1,7 @@
 "ProductSku should be specified","ProductSku should be specified"
 "Attribute ""%1"" is required.","El atributo ""%1"" es obligatorio."
 "Enabled","Habilitado"
-"Disabled","Deshabilitada"
+"Disabled","Inhabilitada"
 "Future Update in this time range already exists. Select a different range to add a new Future Update.","Future Update in this time range already exists. Select a different range to add a new Future Update."
 "Unable to save product","No se puede guardar el producto"
 "The image cannot be removed as it has been assigned to the other image role","La imagen no se puede eliminar, ya que se ha asignado a la otra función de imagen"

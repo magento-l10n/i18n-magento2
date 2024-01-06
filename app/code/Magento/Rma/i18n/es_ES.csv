@@ -61,7 +61,7 @@
 "Edit Return Item Attribute ""%1""","Editar atributo de artículo de devolución ""%1"""
 "New Return Item Attribute","Nuevo atributo del elemento de devolución"
 "Input Type","Introducir tipo"
-"This is used internally. Make sure you don't use spaces or more than %1 symbols.","Se utiliza internamente. Asegúrese de que no utilizar espacios o más de %1 símbolos."
+"This is used internally. Make sure you don't use spaces or more than %1 symbols.","Se utiliza internamente. Asegúrate de no utilizar espacios o más de %1 símbolos."
 "Lines Count","Conteo de líneas"
 "Valid range 2-20","Rango válido 2-20"
 "Input Validation","Validación de entrada"
