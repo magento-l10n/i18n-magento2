@@ -219,7 +219,7 @@
 "We can't load track with retrieving identifier right now.","No podemos cargar la pista con el identificador de recolección en este momento."
 "Could not save the RMA tracking.","Could not save the RMA tracking."
 "Could not delete the RMA tracking.","Could not delete the RMA tracking."
-"Message","Message"
+"Message","Mensaje"
 "No detail for number ""' . . '""","Ningún detalle para el número ""'.. '"""
 "Use Config Settings","Usar opciones de configuración"
 "All Items","Todos los articulos"
