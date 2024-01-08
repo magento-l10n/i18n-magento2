@@ -99,7 +99,7 @@
 "Header Template","Plantilla de cabecera"
 "Footer Template","Plantilla de pie de página"
 "We're sorry, an error has occurred while generating this email.","We're sorry, an error has occurred while generating this email."
-"Emails","Emails"
+"Emails","Correos electrónicos"
 "Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in width/height fields below.","Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in width/height fields below."
 "Only necessary if image has been uploaded above. Enter number of pixels, without appending ""px"".","Only necessary if image has been uploaded above. Enter number of pixels, without appending ""px""."
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Email template chosen based on theme fallback when ""Default"" option is selected."
