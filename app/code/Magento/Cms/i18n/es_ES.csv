@@ -170,7 +170,7 @@
 "Could not create directory.","Could not create directory."
 "Delete ${ $.$data.title }","Delete ${ $.$data.title }"
 "Are you sure you wan't to delete a ${ $.$data.title } record?","Are you sure you wan't to delete a ${ $.$data.title } record?"
-"Details","Details"
+"Details","Detalles"
 "Delete ""${ $.$data.title }""","Delete ""${ $.$data.title }"""
 "Are you sure you wan't to delete a ""${ $.$data.title }"" record?","Are you sure you wan't to delete a ""${ $.$data.title }"" record?"
 "Are you sure you wan't to delete selected items?","Are you sure you wan't to delete selected items?"
