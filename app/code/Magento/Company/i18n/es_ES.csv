@@ -250,7 +250,7 @@
 "This action cannot be undone. Are you sure you want to delete this company? After the company is deleted, all the company members will be set to Inactive.","Esta acción no se puede deshacer. ¿Estás seguro de que quieres eliminar esta empresa? Una vez eliminada la empresa, todos los miembros de la empresa se configurarán como Inactivos."
 "Delete a Company?","¿Eliminar empresa?"
 "Cancel","Cancelar"
-"Are you sure you want to do this?","¿Está seguro de que quiere hacer esto?"
+"Are you sure you want to do this?","¿Seguro que quieres hacer esto?"
 "Sorry! You cannot delete this user: The user is the company admin.","¡Lo sentimos! No puede eliminar este usuario: El usuario es el administrador de la empresa."
 "Cannot Delete the Company Admin","No se puede eliminar el administrador de la empresa"
 "Done","Hecho"
