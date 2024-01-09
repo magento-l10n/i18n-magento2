@@ -13,7 +13,7 @@
 "Save and Next","Guardar y Siguiente"
 "Next","Siguiente"
 "Delete Review","Eliminar reseñas"
-"Are you sure you want to do this?","¿Está seguro de que quiere hacer esto?"
+"Are you sure you want to do this?","¿Seguro que quieres hacer esto?"
 "Edit Review '%1'","Editar reseña '%1'"
 "<a href=""%1"" onclick=""this.target='blank'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>","<a href=""%1"" onclick=""this.target='blank'"">%2 %3</a> <a href=""mailto:%4""> (%4)</a>"
 "Administrator","Administrador"
