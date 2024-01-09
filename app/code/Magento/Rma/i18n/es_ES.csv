@@ -365,7 +365,7 @@
 "Comma separated. Forbidden file extensions: %1.","Comma separated. Forbidden file extensions: %1."
 "The attribute couldn't be saved due to an error. Verify your information and try again. If the error persists, please try again later.","The attribute couldn't be saved due to an error. Verify your information and try again. If the error persists, please try again later."
 "Please correct the value for file extensions.","Please correct the value for file extensions."
-"Invalid Form Key. Please refresh the page.","Invalid Form Key. Please refresh the page."
+"Invalid Form Key. Please refresh the page.","Clave de formulario no válida. Por favor, actualiza la página."
 "The label cannot be created for '%1' because the product does not exist in the system.","La etiqueta no se puede crear para '%1' porque el producto no existe en el sistema."
 "The service is unknown. Verify the service and try again.","The service is unknown. Verify the service and try again."
 "The entity that was requested doesn't exist. Verify the entity and try again.","The entity that was requested doesn't exist. Verify the entity and try again."
