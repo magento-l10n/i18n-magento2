@@ -99,7 +99,7 @@
 "Admin is a required field in each row.","Se requiere ""Admin"" en cada fila."
 "Password cannot be the same as email address.","Password cannot be the same as email address."
 "Please fix this field.","Por favor, corrige este campo."
-"Please enter a valid email address.","Por favor, ingrese una dirección de correo electrónico válida."
+"Please enter a valid email address.","Por favor, introduce una dirección de correo electrónico válida."
 "Please enter a valid URL.","Introduce una URL válida."
 "Please enter a valid date (ISO).","Introduce una fecha correcta (ISO)."
 "Please enter only digits.","Introduce solo números."
