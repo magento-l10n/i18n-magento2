@@ -164,7 +164,7 @@
 "Payment Failed Email Sender","Remitente Email Pago Fallido"
 "Payment Failed Email Receiver","Destinatario Email Pago Fallido"
 "Payment Failed Template","Plantilla Pago Fallido"
-"Email template chosen based on theme fallback when ""Default"" option is selected.","Plantilla de correo electrónico elegido basado en suplencia de tema cuando está seleccionada la opción ""Predeterminado""."
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Plantilla de correo electrónico elegida en función del tema cuando está seleccionada la opción ""Por defecto""."
 "Send Payment Failed Email Copy To","Enviar Copia del Email Pago Fallido"
 "Separate by "","".","Separados por "",""."
 "Send Payment Failed Email Copy Method","Método para Enviar Copia del Email Pago Fallido"
