@@ -1,7 +1,7 @@
 "Please specify a website.","Por favor especifica un sitio Web."
 "Please specify an email.","Please specify an email."
 "We found an invalid value in a website column.","Encontramos un valor inválido en una columna de sitio Web."
-"Please enter a valid email.","Por favor ingrese un email válido."
+"Please enter a valid email.","Por favor, introduce un correo electrónico válido."
 "Please make sure attribute ""%s"" is not empty.","Por favor, asegúrese de que el atributo ""%s"" no está vacío."
 "We can't find a customer who matches this email and website code.","No podemos encontrar a un cliente que coincida con este correo electrónico y código de página web."
 "Customer address id column is not specified","Id de columna de dirección de cliente no especificada"
