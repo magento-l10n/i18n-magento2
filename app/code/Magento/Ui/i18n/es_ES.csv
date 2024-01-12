@@ -190,7 +190,7 @@ formElements/*[name(.)=../../@formElement]/settings/title
 "Edit","Edit"
 "Columns","Columns"
 "Reset","Reset"
-"Apply","Apply"
+"Apply","Aplicar"
 "All in column","All in column"
 "Record contains unsaved changes.","Record contains unsaved changes."
 "Export","Exportar"
