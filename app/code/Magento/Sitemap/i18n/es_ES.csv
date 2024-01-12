@@ -52,7 +52,7 @@
 "Error Email Recipient","Error en el destinatario del mensaje"
 "Error Email Sender","Error en el remitente del mensaje"
 "Error Email Template","Error en la plantilla del mensaje"
-"Email template chosen based on theme fallback when ""Default"" option is selected.","Plantilla de correo electrónico elegido basado en suplencia de tema cuando está seleccionada la opción ""Predeterminado""."
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Plantilla de correo electrónico elegida en función del tema cuando está seleccionada la opción ""Por defecto""."
 "Start Time","Hora de inicio"
 "Sitemap File Limits","Límites de archivo de mapa del sitio"
 "Maximum No of URLs Per File","Máximo No de URLs por archivo"

@@ -723,7 +723,7 @@
 "Enabled","Habilitado"
 "New Order Confirmation Email Sender","Confirmación de pedido - Remitente de correo electrónico"
 "New Order Confirmation Template","Plantilla para nueva confirmación de pedido"
-"Email template chosen based on theme fallback when ""Default"" option is selected.","Plantilla de correo electrónico elegido basado en suplencia de tema cuando está seleccionada la opción ""Predeterminado""."
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Plantilla de correo electrónico elegida en función del tema cuando está seleccionada la opción ""Por defecto""."
 "New Order Confirmation Template for Guest","Plantilla para nueva confirmación de pedido como visitante"
 "Send Order Email Copy To","Enviar aviso de pedido en copia a correo electrónico"
 "Comma-separated","Comma-separated"

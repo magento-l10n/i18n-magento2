@@ -25,7 +25,7 @@
 "Allow Alert When Product Price Changes","Permitir aviso cuando el precio del artículo cambie"
 "Allow Alert When Product Comes Back in Stock","Avisar cuando el artículo vuelva a estar en existencias."
 "Price Alert Email Template","Plantilla de correo eléctronico de alerta de precio"
-"Email template chosen based on theme fallback when ""Default"" option is selected.","Plantilla de correo electrónico elegido basado en suplencia de tema cuando está seleccionada la opción ""Predeterminado""."
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Plantilla de correo electrónico elegida en función del tema cuando está seleccionada la opción ""Por defecto""."
 "Stock Alert Email Template","Plantilla de correo electrónico de alerta de existencias"
 "Alert Email Sender","Alerta de correo electrónico del remitente"
 "Product Alerts Run Settings","Configuración de la función de alertas de artículo"
