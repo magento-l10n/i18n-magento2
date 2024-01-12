@@ -117,7 +117,7 @@
 "Need to Confirm","Debe confirmar"
 "Confirmation Email Sender","Remitente del correo electrónico de confirmación"
 "Confirmation Email Template","Plantilla del correo electrónico de confirmación"
-"Email template chosen based on theme fallback when ""Default"" option is selected.","Plantilla de correo electrónico elegido basado en suplencia de tema cuando está seleccionada la opción ""Predeterminado""."
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Plantilla de correo electrónico elegida en función del tema cuando está seleccionada la opción ""Por defecto""."
 "Success Email Sender","Remitente de correo electrónico para operación exitosa"
 "Success Email Template","Plantilla de correo electrónico para operación exitosa"
 "Unsubscription Email Sender","Remitente de correo electrónico para cancelar la suscripción"
