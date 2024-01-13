@@ -60,7 +60,7 @@
 "message %1","message %1"
 "message","mensaje"
 "Custom storage message","Mensaje personalizado de la tienda"
-"Select Category","Kategorie wählen"
+"Select Category","Seleccionar categoría"
 "The value specified in the URL Key field would generate a URL that already exists.","The value specified in the URL Key field would generate a URL that already exists."
 "To resolve this conflict, you can either change the value of the URL Key field (located in the Search Engine Optimization section) to a unique value, or change the Request Path fields in all locations listed below:","To resolve this conflict, you can either change the value of the URL Key field (located in the Search Engine Optimization section) to a unique value, or change the Request Path fields in all locations listed below:"
 "Action","Acción"
