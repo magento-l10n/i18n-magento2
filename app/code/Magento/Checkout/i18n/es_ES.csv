@@ -211,7 +211,7 @@
 "The shipping address is missing. Set the address and try again.","The shipping address is missing. Set the address and try again."
 "The shipping information was unable to be saved. Verify the input data and try again.","The shipping information was unable to be saved. Verify the input data and try again."
 "The shipping method can't be set for an empty cart. Add an item to cart and try again.","The shipping method can't be set for an empty cart. Add an item to cart and try again."
-"Billing Address","Billing Address"
+"Billing Address","Dirección de facturación"
 "Something went wrong with your request. Please try again later.","Something went wrong with your request. Please try again later."
 "The shipping method is missing. Select the shipping method and try again.","Falta el método de envío. Seleccione el método de envío y vuelva a intentarlo."
 "Show Cross-sell Items in the Shopping Cart","Mostrar los artículos de venta cruzada en el carrito de la compra"
