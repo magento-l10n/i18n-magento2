@@ -24,7 +24,7 @@
 "Invalid action type %1.","Invalid action type %1."
 "Invalid action.","Invalid action."
 "Invalid parameter %1.","Invalid parameter %1."
-"Something went wrong while removing the %1.","Algo salió mal al remover el %1."
+"Something went wrong while removing the %1.","Algo salió mal al eliminar el %1."
 "The 'mode' value is unexpected.","El valor de 'mode' es inesperado."
 "You saved this %1 update.","Has guardado esta actualización %1."
 "Something went wrong while saving the %1.","Algo salió mal al guardar el %1."
