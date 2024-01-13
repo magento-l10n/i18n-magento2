@@ -4,7 +4,7 @@
 "Add New %1","Añadir %1"
 "New %1","Nuevo %1"
 "Please select item(s).","Please select item(s)."
-"Invalid XML in file %1:\n%2","Invalid XML in file %1:\n%2"
+"Invalid XML in file %1:\n%2","XML no válido en archivo %1:\n%2"
 ".","."
 "Unsupported bookmark action.","Acción de marcador no soportada."
 "UI component could not be rendered because of system exception","UI component could not be rendered because of system exception"
