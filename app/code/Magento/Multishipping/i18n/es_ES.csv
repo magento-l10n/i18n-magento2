@@ -21,7 +21,7 @@
 "A payment method is not defined.","A payment method is not defined."
 "The requested payment method is not available for multishipping.","The requested payment method is not available for multishipping."
 "Item not found or already ordered","Item not found or already ordered"
-"Please specify a payment method.","Please specify a payment method."
+"Please specify a payment method.","Por favor, especifica un método de pago."
 "Please check shipping addresses information.","Please check shipping addresses information."
 "Please specify shipping methods for all addresses.","Please specify shipping methods for all addresses."
 "Some addresses cannot be used due to country-specific configurations.","Some addresses cannot be used due to country-specific configurations."
