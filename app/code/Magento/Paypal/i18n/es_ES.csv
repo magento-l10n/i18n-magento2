@@ -636,7 +636,7 @@
                                 or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>."
 "We can't contact the PayPal gateway.","We can't contact the PayPal gateway."
 "The ordering amount of %1 is pending approval on the payment gateway.","The ordering amount of %1 is pending approval on the payment gateway."
-"Ordered amount of %1","Ordered amount of %1"
+"Ordered amount of %1","Importe del pedido de %1"
 "Matched whole nine-didgit ZIP (no Address)","Matched whole nine-didgit ZIP (no Address)"
 "Yes. Matched Address and five-didgit ZIP","Yes. Matched Address and five-didgit ZIP"
 "Invalid method %1::%2(%3)","Invalid method %1::%2(%3)"
