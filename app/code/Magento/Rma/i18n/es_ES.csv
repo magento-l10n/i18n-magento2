@@ -231,7 +231,7 @@
 "ID","Número de Identificación (ID)"
 "#","#"
 "Order ID","Pedido ID"
-"Customer Name","Cliente nombre"
+"Customer Name","Nombre del cliente"
 "Email Address","Dirección de email"
 "RMA History","Historia RMA"
 "Comment Text","Texto del comentario"
