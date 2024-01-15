@@ -46,7 +46,7 @@
 "Refund to Company Credit","Reembolsar a crédito de empresa"
 "An invoice for partial quantities cannot be issued for this order. To continue, change the specified quantity to the full quantity.","An invoice for partial quantities cannot be issued for this order. To continue, change the specified quantity to the full quantity."
 "We refunded %1 online.","Reembolsamos %1 en línea."
-"We refunded %1 offline.","Reembolsamos %1 fuera de linea."
+"We refunded %1 offline.","Reembolsamos %1 sin conexión."
 "We refunded %1 to the company credit.","Reembolsamos %1 al crédito de la empresa."
 "Exception message.","Mensaje de excepción."
 "Exception Message","Mensaje de excepción"

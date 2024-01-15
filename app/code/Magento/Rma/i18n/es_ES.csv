@@ -207,7 +207,7 @@
 "We closed your Return request.","Cerramos su solicitud de devolución."
 "We processed and closed your Return request.","Había procesado y había cerrado su solicitud de devolución."
 "ID cannot be an empty","ID no puede estar vacío"
-"Requested entity doesn't exist","Requested entity doesn't exist"
+"Requested entity doesn't exist","La entidad solicitada no existe"
 "Could not save the RMA entity.","Could not save the RMA entity."
 "Could not delete the RMA entity.","Could not delete the RMA entity."
 "Please enter a valid comment.","Por favor introduce un comentario válido."
