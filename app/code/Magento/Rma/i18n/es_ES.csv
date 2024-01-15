@@ -101,7 +101,7 @@
 "Invalid order","Pedido Inválido"
 "We can't retrieve the product list right now.","No podemos recuperar la lista de productos en este momento."
 "Please specify a carrier.","Por favor especifique un portador."
-"Please enter a tracking number.","Por favor, introduzca un número de seguimiento."
+"Please enter a tracking number.","Por favor, introduce un número de seguimiento."
 "We cannot initialize an RMA to add a tracking number.","No podemos inicializar un RMA para agregar un número de seguimiento."
 "We can't add a message right now.","No podemos agregar un mensajeen este momento."
 "New Return","Nueva devolución"
