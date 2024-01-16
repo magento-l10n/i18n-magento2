@@ -831,7 +831,7 @@
 "Authorized amount of %1. Order is suspended as its authorizing amount %1 is suspected to be fraudulent.","Authorized amount of %1. Order is suspended as its authorizing amount %1 is suspected to be fraudulent."
 "Captured amount of %1 online.","Captured amount of %1 online."
 "Requested product doesn't exist","El producto solicitado no existe"
-"Product is not salable.","Product is not salable."
+"Product is not salable.","El producto no es vendible."
 "Get available payment methods","Get available payment methods"
 "Allow Zero GrandTotal","Permitir total cero"
 "Allow Zero GrandTotal for Creditmemo","Permitir total cero para la factura rectificativa"
