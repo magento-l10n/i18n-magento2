@@ -437,15 +437,15 @@
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Plantilla de correu electrònic escollida en funció del recurs de recuperació del tema quan s'ha seleccionat l'opció ""Predeterminat""."
 "Default Welcome Email Without Password","Correu electrònic de benvinguda predeterminat sense contrasenya"
 "This email will be sent instead of the Default Welcome Email, if a customer was created without password. <br /><br />
-                        Email template chosen based on theme fallback when ""Default"" option is selected.","This email will be sent instead of the Default Welcome Email, if a customer was created without password. <br /><br />
-                        Email template chosen based on theme fallback when ""Default"" option is selected."
+                        Email template chosen based on theme fallback when ""Default"" option is selected.","Aquest correu electrònic s'enviarà en lloc del Correu Electrònic de Benvinguda per Defecte, si un client es va crear sense paraula clau. <br /><br />
+                        Plantilla de correu electrònic seleccionada basada en l'alternativa (fallback) de temes quan s'ha seleccionat l'opció ""Per Defecte""."
 "Email Sender","Remitent de Correu electrònic"
 "Require Emails Confirmation","Requerir confirmació de correus electrònics"
 "Confirmation Link Email","Correu electrònic d’enllaç de confirmació"
 "Welcome Email","Email de benviguda"
 "This email will be sent instead of the Default Welcome Email, after account confirmation. <br /><br />
-                        Email template chosen based on theme fallback when ""Default"" option is selected.","This email will be sent instead of the Default Welcome Email, after account confirmation. <br /><br />
-                        Email template chosen based on theme fallback when ""Default"" option is selected."
+                        Email template chosen based on theme fallback when ""Default"" option is selected.","Aquest correu electrònic s'enviarà en lloc del Correu Electrònic de Benvinguda per Defecte, després de la confirmació del compte. <br /><br />
+                        Plantilla de correu electrònic seleccionada basada en l'alternativa (fallback) de tema quan s'ha seleccionat l'opció ""Per Defecte""."
 "Generate Human-Friendly Customer ID","Genereu un identificador de client amigable per a les persones"
 "Password Options","Opcions de contrasenya"
 "Forgot Email Template","Plantilla de Correu electrònic oblidat"
