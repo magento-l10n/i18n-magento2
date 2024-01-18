@@ -515,7 +515,7 @@
 "See <a href=""https://www.owasp.org/index.php/HTTP_Strict_Transport_Security"" target=""_blank"">HTTP Strict Transport Security</a> page for details.","See <a href=""https://www.owasp.org/index.php/HTTP_Strict_Transport_Security"" target=""_blank"">HTTP Strict Transport Security</a> page for details."
 "See <a href=""http://www.w3.org/TR/upgrade-insecure-requests/"" target=""_blank"">Upgrade Insecure Requests</a> page for details.","See <a href=""http://www.w3.org/TR/upgrade-insecure-requests/"" target=""_blank"">Upgrade Insecure Requests</a> page for details."
 "If no value is specified, the system default is used. The system default may be modified by third-party extensions.","Si no s’especifica cap valor, s’utilitza el valor predeterminat del sistema. El valor per defecte del sistema es pot modificar mitjançant extensions de tercers."
-"label","label"
+"label","etiqueta"
 "Enable Frontend Resize","Activar redimensionat d'interfície"
 "Invalid security or form key. Please refresh the page.","Clau de seguretat o de formulari invàlida. Si us plau, refresqueu la pàgina."
 "An item needs to be selected. Select and try again.","An item needs to be selected. Select and try again."
