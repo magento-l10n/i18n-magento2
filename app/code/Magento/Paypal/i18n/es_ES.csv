@@ -68,7 +68,7 @@
 "Express Checkout and Order have been canceled.","El pedido y la Caja Express se han cancelado."
 "Express Checkout has been canceled.","La Caja Express se ha cancelado."
 "Unable to cancel Express Checkout","No se ha podido cancelar Express Checkout"
-"Please agree to all the terms and conditions before placing the order.","Please agree to all the terms and conditions before placing the order."
+"Please agree to all the terms and conditions before placing the order.","Por favor, acepta todos los términos y condiciones antes de realizar el pedido."
 "We can't process Express Checkout approval.","No podemos procesar la aprobación de Express Checkout."
 "We can't initialize Express Checkout review.","No podemos inicializar la revisión de Checkout Express."
 "We can't update shipping method.","No se puede actualizar el método de envío."
