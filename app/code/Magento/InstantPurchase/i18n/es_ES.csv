@@ -1,5 +1,5 @@
-"Your order number is: %1.","Su número de pedido es: %1."
-"Something went wrong while processing your order. Please try again later.","Algo salió mal durante el procesamiento de su pedido. Por favor, inténtalo más tarde."
+"Your order number is: %1.","El número del pedido es: %1."
+"Something went wrong while processing your order. Please try again later.","Algo salió mal durante el procesamiento del pedido. Por favor, inténtalo más tarde."
 "Payment method is not defined for instance purchase.","El método de pago no está definido para compra de instancia."
 "Shipping address is not defined for instance purchase.","La dirección de envío no está definida para compra de instancia."
 "Billing address is not defined for instance purchase.","La dirección de facturación no está definida para compra de instancia."
