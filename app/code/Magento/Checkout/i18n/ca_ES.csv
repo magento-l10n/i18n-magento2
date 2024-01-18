@@ -58,7 +58,7 @@
 "Sorry, guest checkout is not available.","Ho sentim, cal ser usuari registrat per fer una comanda."
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","S'ha de confirmar el compte. Reviseu el correu per l'enllaç de confirmació o <a href=""%1"">cliqueu aquí</a> per rebre un nou enllaç."
 "Load customer quote error","Error al carregar el pressupost del client"
-"Error message!","Error message!"
+"Error message!","Missatge d'error!"
 "Error!","Error!"
 "DB exception","Excepció de BD"
 "Message","Missatge"
