@@ -71,5 +71,5 @@
 "The data is invalid. Enter the data as a string and try again.","Les dades no són vàlides. Introduïu les dades com a cadena de text i torneu-ho a provar."
 "The data is invalid. Use a valid cipher method and try again.","Les dades no són vàlides. Feu servir un mètode de xifrat vàlid i torneu-ho a provar."
 "Enter the encryption key and try again.","Enter the encryption key and try again."
-"The ""%1"" source doesn't exist.","The ""%1"" source doesn't exist."
+"The ""%1"" source doesn't exist.","L'origen de ""%1"" no existeix."
 "Retry Synchronization","Reintentar sincronització"
