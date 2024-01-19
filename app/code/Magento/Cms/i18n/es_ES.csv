@@ -81,7 +81,7 @@
 "We can't upload the file right now.","No podemos subir el archivo en este momento."
 "We can't delete root directory %1 right now.","No podemos eliminar el directorio raíz %1 en este momento."
 "Privacy and Cookie Policy","Política de privacidad y cookies"
-"Error message","Error message"
+"Error message","Mensaje de error"
 "LocalizedException","LocalizedException"
 "RuntimeException","RuntimeException"
 "Exception","Exception"

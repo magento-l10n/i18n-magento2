@@ -8,7 +8,7 @@
 "Currency Symbols","Símbolos de moneda"
 "Use Standard","Usa predeterminado"
 "Please specify a correct Import Service.","Please specify a correct Import Service."
-"We can't initialize the import model.","We can't initialize the import model."
+"We can't initialize the import model.","No se puede inicializar el modelo de importación."
 "Click ""Save"" to apply the rates we found.","Haga clic en ""Guardar"" para aplicar las tarifas que encontramos."
 "Currency Rates","Tipo de Cambio"
 "Please correct the input data for ""%1 => %2"" rate.","Por favor corregir los datos de entrada para la tarifa ""%1 => %2""."
