@@ -16,7 +16,7 @@
 "Wrong deploy strategy type: %1","Implementar mal tipo de estrategia: %1"
 "Some error","Algún error"
 "some message","algún mensaje"
-"Exception","Exception"
+"Exception","Excepción"
 "The class for ""%1"" type wasn't declared. Enter the class and try again.","The class for ""%1"" type wasn't declared. Enter the class and try again."
 "The value can't be empty. Enter the value and try again.","The value can't be empty. Enter the value and try again."
 "The mode can't be switched to ""%1"".","The mode can't be switched to ""%1""."

@@ -5,7 +5,7 @@
 "The SKU is out of stock.","El SKU está fuera de stock."
 "We don't have the quantity you requested.","No tenemos la cantidad solicitada."
 "An error occurred. For details, see the error log.","An error occurred. For details, see the error log."
-"Exception message","Exception message"
+"Exception message","Mensaje de excepción"
 "The file could not be uploaded because it is in the wrong format. Please select a CSV file to upload.","El archivo no se subió porque tiene el formato erróneo. Por favor, seleccione un archivo CSV para cargar."
 "Add from File","Agregar desde archivo"
 "File must be in .csv format and include ""SKU"" and ""QTY"" columns","El archivo debe estar en formato CSV e incluir columnas ""SKU"" y ""Cantidad"""
