@@ -54,7 +54,7 @@
 "Unable to retrieve shipping label","No se puede recuperar la etiqueta de envío"
 "Non documents","No documentos"
 "None","Ninguno"
-"Security validation of XML document has been failed.","Security validation of XML document has been failed."
+"Security validation of XML document has been failed.","La validación de seguridad del documento XML ha fallado."
 "The response is in the wrong format","The response is in the wrong format"
 "Field ","Campo "
 " is required."," es requerido."
