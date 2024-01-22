@@ -331,7 +331,7 @@
 "Block a Company","Bloquear una empresa"
 "Block","Bloquear"
 "This action cannot be undone. Are you sure you want to delete the selected companies? After the company is deleted, all the company members will be set to Inactive.","Esta acción no se puede deshacer. ¿Estás seguro de que quieres eliminar las empresas seleccionadas? Una vez eliminada la empresa, todos los miembros de la empresa se configurarán como Inactivos."
-"ID","Número de Identificación (ID)"
+"ID","ID"
 "Reseller ID","ID de Distribuidor"
 "Comment","Comentario"
 "ZIP","Código postal"
