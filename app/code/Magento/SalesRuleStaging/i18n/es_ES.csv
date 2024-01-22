@@ -1,6 +1,6 @@
 "An error occurred during processing; coupon with id %1 expiration date wasn't updated. The error message was: %2","Se ha producido un error durante el proceso. El cupón con ID %1 no tenía la fecha de expiración actualizada. El mensaje de error era: %2"
 "Future Update in this time range already exists. Select a different range to add a new Future Update.","Ya existe una futura actualización en este intervalo de tiempo. Seleccione un rango diferente para agregar una nueva actualización en el futuro."
-"ID","Número de Identificación (ID)"
+"ID","ID"
 "Rule","Regla"
 "Coupon Code","Código de cupón"
 "Priority","Prioridad"
