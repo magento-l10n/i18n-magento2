@@ -133,7 +133,7 @@
 "The selected companies will be unlinked from the current shared catalog and linked to the default public catalog. Would you like to continue?","Las compañías seleccionadas se desvincularán del catálogo compartido actual y se vincularán al catálogo público predeterminado. ¿Te gustaría continuar?"
 "Assign Catalog","Asignar Catálogo"
 "Unassign Catalog","Desasignar Catálogo"
-"ID","Número de Identificación (ID)"
+"ID","ID"
 "Company","Empresa"
 "Country","País"
 "State/Province","Estado/provincia"
