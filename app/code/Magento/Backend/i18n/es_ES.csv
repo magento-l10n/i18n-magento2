@@ -494,7 +494,7 @@
 "Copyright &copy; %1 Magento, Inc. All rights reserved.","Copyright &copy; %1 Magento, Inc. All rights reserved."
 "Add New User Agent Rule","Add New User Agent Rule"
 "Magento_Ui/js/dynamic-rows/record","Magento_Ui/js/dynamic-rows/record"
-"Search String","Search String"
+"Search String","Cadena de búsqueda"
 "Page not found.","Página no encontrada."
 "Add Block Class Type to Hints","Añadir el tipo de clase del bloque a las sugerencias"
 "When the adapter was changed, please flush Catalog Images Cache.","Cuando cambie el adaptador, por favor, vacíe la caché de imágenes del catálogo."
