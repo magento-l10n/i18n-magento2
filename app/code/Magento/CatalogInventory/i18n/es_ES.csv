@@ -4,7 +4,7 @@
 "Add Minimum Qty","Añadir cantidad mínima"
 "We can't rebuild the index for an undefined product.","No se puede reconstruir el índice para un artículo no definido."
 "Could not rebuild index for empty products array","No se pudo reconstruir el índice de una matriz de productos vacía"
-"The stock item for Product is not valid.","The stock item for Product is not valid."
+"The stock item for Product is not valid.","El artículo de inventario para el producto no es válido."
 "This product is out of stock.","Este producto está fuera de stock."
 "Some of the products are out of stock.","Algunos de los productos están fuera de stock."
 "The stock item for Product in option is not valid.","Es estado de existencia para la opción selectada no es válido."
