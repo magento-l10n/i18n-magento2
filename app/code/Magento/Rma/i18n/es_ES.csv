@@ -182,7 +182,7 @@
 "A quantity of %1 is greater than you can return.","Cantidad de %1 es mayor que puede volver."
 "You entered an invalid type: ""%1"".","Ha introducido un tipo no válido: ""%1""."
 "You entered an invalid email address: ""%1"".","Escribiste una dirección válida de correo electrónico: ""%1""."
-"You entered an invalid hostname: ""%1""","Ha introducido un nombre de host inválido: ""%1"""
+"You entered an invalid hostname: ""%1""","Has introducido un nombre de servidor no válido: ""%1"""
 """%1"" is longer than allowed.","""%1"" es más de lo permitido."
 "Unknown service","Unknown service"
 "We can't save this RMA. No items were specified.","No podemos guardar este RMA. Ningún artículo fue especificado."
