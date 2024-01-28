@@ -561,7 +561,7 @@
 "You are signed out.","Has cerrado la sesión."
 "Invalid value of ""%value"" provided for the %fieldName field. Possible values are %template1 or %template2.","Invalid value of ""%value"" provided for the %fieldName field. Possible values are %template1 or %template2."
 "Could not authenticate. Please try again later","Could not authenticate. Please try again later"
-"Page not found","Page not found"
+"Page not found","No se encuentra la página"
 "Account will be unlocked after provided time.","Account will be unlocked after provided time."
 "Text","Text"
 "Text One Line","Text One Line"
