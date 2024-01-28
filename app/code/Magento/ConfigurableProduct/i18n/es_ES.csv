@@ -70,7 +70,7 @@
 "Select All","Seleccionar Todo"
 "Deselect All","Anular todas las selecciones"
 "Remove Attribute","Eliminar atributo"
-"Save Option","Opción de guardar"
+"Save Option","Guardar opción"
 "Remove Option","Quitar la opción"
 "Create New Value","Crear un nuevo valor"
 "Step 3: Bulk Images, Price and Quantity","Paso 3: Conjunto de Imágenes, Precio, y Cantidades"
@@ -158,7 +158,7 @@
 "Product with id ""%1"" does not exist.","Product with id ""%1"" does not exist."
 "Products ""%1"" and %2 have the same set of attribute values.","Products ""%1"" and %2 have the same set of attribute values."
 "Configurable product ""%1"" do not have sub-products","Configurable product ""%1"" do not have sub-products"
-"Select values from each attribute to include in this product. Each unique combination of values creates a unigue product SKU.","Select values from each attribute to include in this product. Each unique combination of values creates a unigue product SKU."
+"Select values from each attribute to include in this product. Each unique combination of values creates a unigue product SKU.","Selecciona los valores de cada atributo para incluir en este producto. Cada combinación única de valores crea un SKU de producto único."
 "Step 3: Bulk Images, Price, and Quantity","Step 3: Bulk Images, Price, and Quantity"
 "Based on your selections <span class=""new-products-count"" data-bind=""text:countVariations""></span>
         new products will be created. Use this step to customize images and price for your new products.","Based on your selections <span class=""new-products-count"" data-bind=""text:countVariations""></span>
