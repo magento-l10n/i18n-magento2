@@ -7,7 +7,7 @@
 "Entity Type","Tipo de datos"
 "Start Time","Hora de inicio"
 "Frequency","Frecuencia"
-"Status","Estatus"
+"Status","Estado"
 "Server Type","Tipo de servidor"
 "File Directory","Directorio de archivos"
 "For Type ""Local Server"" use relative path to Magento installation, e.g. var/export, var/import, var/export/some/dir","Para el tipo ""Servidor local"" usa una ruta de acceso relativa a la instalación de Magento, por ejemplo, var/exportación, importación/var, var/exportación/algún/dir"
