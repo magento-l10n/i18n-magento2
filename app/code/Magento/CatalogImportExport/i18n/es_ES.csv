@@ -20,7 +20,7 @@
 "File '%1' was not found or has read restriction.","El archivo '%1' no se ha encontrado o tiene restricciones de lectura."
 "Entity type model must be an instance of Magento\CatalogImportExport\Model\Import\Product\Type\AbstractType","Modelo de tipo de entidad debe ser una instancia de \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType"
 "Entity type model must be an instance of '%1'","Entity type model must be an instance of '%1'"
-"Disallowed file type.","Disallowed file type."
+"Disallowed file type.","Tipo de archivo no permitido."
 "Value for multiselect attribute %s contains duplicated values","Value for multiselect attribute %s contains duplicated values"
 "Invalid Stock data for insert","Invalid Stock data for insert"
 "Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: %1","El valor del sub-atributo 'type' en el atributo 'custom_options' contiene un valor incorrecto, los valores aceptables son: %1"
