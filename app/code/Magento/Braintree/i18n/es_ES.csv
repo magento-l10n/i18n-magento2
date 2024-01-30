@@ -143,7 +143,7 @@
 "Error executing PayPal billing agreement.","Error al ejecutar el acuerdo de facturación de PayPal."
 "Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","Aplicar filtros para obtener resultados. Sólo los 100 primeros registros se mostrarán en la cuadrícula, podrá descargar la versión completa del informe en formato .csv ."
 "Select...","Seleccionar..."
-"Status","Estatus"
+"Status","Estado"
 "Transaction Type","Tipo de transacción"
 "Payment Type","Tipo de pago"
 "PayPal Payment ID","ID de pago de PayPal"
