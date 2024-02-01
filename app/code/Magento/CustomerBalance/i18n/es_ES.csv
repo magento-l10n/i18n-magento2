@@ -30,7 +30,7 @@
 "Refunded","Reembolsado."
 "Reverted","Revertido"
 "You need a balance to save your balance history.","You need a balance to save your balance history."
-"Order #%1","Pedido #%1"
+"Order #%1","Pedido n.º %1"
 "There is no credit memo set to balance model.","No hay ninguna factura rectificativa establecida para el modelo de saldo."
 "Order #%1, creditmemo #%2","Pedido n.º %1, factura rectificativa n.º %2"
 "Unknown balance history action code","Código de acción de historial de saldo desconocido"
