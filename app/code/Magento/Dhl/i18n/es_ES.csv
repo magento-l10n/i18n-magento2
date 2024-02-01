@@ -49,7 +49,7 @@
 "Wrong Region","Región incorrecta"
 "Unable to retrieve tracking","No se puede recuperar el seguimiento."
 "Response is in the wrong format","La respuesta está en el formato incorrecto"
-"Error #%1 : %2","Error #%1: %2"
+"Error #%1 : %2","Error n.º %1: %2"
 "No packages for request","No hay paquetes que solicitar"
 "Unable to retrieve shipping label","No se puede recuperar la etiqueta de envío"
 "Non documents","No documentos"
