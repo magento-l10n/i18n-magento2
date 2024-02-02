@@ -43,7 +43,7 @@
 "Unknown utility: %1","Unknown utility: %1"
 "Cannot set root directory.","Cannot set root directory."
 "Support Module doesn't support %s operation system","Support Module no es compatible con el sistema de operación de %s"
-"Unable to create backup due to php exec function is disabled","No se puede crear una copia de seguridad debido a que la función php exec está deshabilitada"
+"Unable to create backup due to php exec function is disabled","No se puede crear una copia de seguridad debido a que la función php exec está inhabilitada"
 "Incomplete","Incompleto"
 "Complete","Completo"
 "Failed","Falló"
