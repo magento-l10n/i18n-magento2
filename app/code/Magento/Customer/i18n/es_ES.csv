@@ -516,7 +516,7 @@
 "Type","Tipo"
 "Customer Information","Información del cliente"
 "If your Magento installation has multiple websites, you can edit the scope to associate the customer with a specific site.","Si su instalación de Magento tiene varios sitios web, puede editar el alcance para asociar al cliente con un sitio específico."
-"Disable Automatic Group Change Based on VAT ID","Desactivar el cambio automático de grupo basado en ID de IVA"
+"Disable Automatic Group Change Based on VAT ID","Desactivar el cambio automático de grupo en función del NIF"
 "Send Welcome Email From","Enviar correo de bienvenida desde"
 "Are you sure you want to delete this item?","¿Estás seguro de que deseas borrar este elemento?"
 "Addresses","Direcciones"
