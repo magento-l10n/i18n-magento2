@@ -122,7 +122,7 @@
 "Enable Reward Points Functionality on Storefront","Habilite la funcionalidad de puntos de recompensa en la interfaz"
 "Customers May See Reward Points History","Los clientes pueden ver el historial de los puntos de recompensa"
 "Rewards Points Balance Redemption Threshold","Puntos de recompensa Equilibrio de redención de saldo"
-"An empty value disables this limitation.","Un valor vacío deshabilita esta limitación."
+"An empty value disables this limitation.","Un valor vacío inhabilita esta limitación."
 "Cap Reward Points Balance At","Poner tope a saldo de puntos de recompensa en"
 "Reward Points Expire in (days)","Los puntos de recompensa caducarán en (días)"
 "Reward Points Expiry Calculation","Cálculo de vencimiento de puntos de recompensa"
