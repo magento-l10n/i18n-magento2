@@ -190,7 +190,7 @@
 "You deleted the website.","Has eliminado el sitio web."
 "Unable to delete the website. Please try again later.","No se puede eliminar el sitio web. Por favor, inténtalo más tarde."
 "The website does not exist.","El sitio web no existe."
-"Before modifying the website code please make sure it is not used in index.php.","Antes de modificar el código de la página web por favor, asegúrate de que no se utiliza en index.php."
+"Before modifying the website code please make sure it is not used in index.php.","Antes de modificar el código del sitio web, por favor asegúrate de que no se utiliza en index.php."
 "The store does not exist","La tienda no existe"
 "Store view doesn't exist","La vista de tienda no existe"
 "Before modifying the store view code please make sure it is not used in index.php.","Antes de modificar el código de vista de la tienda por favor, asegúrate de que no se utiliza en index.php."

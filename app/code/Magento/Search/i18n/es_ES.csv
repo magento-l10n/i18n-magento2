@@ -82,7 +82,7 @@
 "Synonyms","Sinónimos"
 "Automatically merges synonyms in groups that share the same scope. If you check this box and you add one or more of the same terms to different synonym groups in the same scope, automatically merges all the terms to one group. If this isn't what you want, uncheck the box and an error displays if you try to add the same terms.","Automáticamente fusiona sinónimos en grupos que comparten el mismo ámbito. Si marca esta casilla y añades uno o más de los mismos términos a los grupos de sinónimos diferentes en el mismo ámbito, fusionará automáticamente todos los términos a un grupo. Si esto no es lo que quieres, desmarque la casilla y un error se mostrará si se intenta añadir los mismos términos."
 "Store View","Vista de la tienda"
-"Website","Página web"
+"Website","Sitio web"
 "Are you sure you want to delete the selected synonym groups?","¿Seguro que quieres eliminar los grupos de sinónimos seleccionados?"
 "Delete items","Eliminar elementos"
 "Synonym For","Sinónimo de"
