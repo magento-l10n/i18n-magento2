@@ -57,7 +57,7 @@
 "Your search query can't be longer than %1, so we shortened your query.","La consulta de búsqueda no puede ser más larga que %1, por lo que se acortó tu solicitud."
 "Synonym group with id %1 cannot be deleted. %2","Synonym group with id %1 cannot be deleted. %2"
 "Merge conflict with existing synonym group(s): %1","Fusionar conflicto con grupos de sinónimos existentes: %1"
-"All Websites","Todos sitios web"
+"All Websites","Todos los sitios web"
 "    All Store Views","    Todas las vistas de la tienda"
 "All Store Views","Todas las vistas de la tienda"
 "Delete","Borrar"
