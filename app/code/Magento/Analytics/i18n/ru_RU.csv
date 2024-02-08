@@ -5,7 +5,7 @@
 "There was an error save new configuration value.","Ошибка сохранения нового значения конфигурации."
 "Please select a vertical.","Please select a vertical."
 "--Please Select--","-- Выберите --"
-"Command was not found.","Command was not found."
+"Command was not found.","Команда не найдена."
 "Input data must be string or convertible into string.","Input data must be string or convertible into string."
 "Input data must be non-empty string.","Input data must be non-empty string."
 "Not valid cipher method.","Not valid cipher method."
