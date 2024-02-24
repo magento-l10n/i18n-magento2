@@ -20,7 +20,7 @@
 "Invalid transaction ID.","Transaction ID ใช้ไม่ได้"
 "Payment voiding error.","Payment voiding error."
 "Invalid amount for refund.","Invalid amount for refund."
-"Payment refunding error.","Payment refunding error."
+"Payment refunding error.","เกิดความผิดพลาดในการคืนเงิน"
 "The transaction was declined because the response hash validation failed.","The transaction was declined because the response hash validation failed."
 "This payment didn't work out because we can't find this order.","This payment didn't work out because we can't find this order."
 "There was a payment authorization error.","There was a payment authorization error."
