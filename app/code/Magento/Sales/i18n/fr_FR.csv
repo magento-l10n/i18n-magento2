@@ -121,7 +121,7 @@
 "Edit","Éditer"
 "Are you sure you want to send an order email to customer?","Êtes-vous sûr(e) de vouloir envoyer la commande par email au client?"
 "This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you want to continue?","Cela créera un remboursement hors ligne. Pour créer un remboursement en ligne, ouvrez une facture et créez un avoir pour celle-ci. Voulez-vous continuer?"
-"Are you sure you want to void the payment?","Êtes-vous certain(e) de vouloir envoyer l'annulation de paiement par courriel au client ?"
+"Are you sure you want to void the payment?","Êtes-vous certain(e) de vouloir envoyer l\'annulation de paiement par courriel au client ?"
 "Hold","Bloquer"
 "hold","bloquer"
 "Unhold","Débloquer"
