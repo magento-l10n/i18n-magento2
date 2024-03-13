@@ -38,7 +38,7 @@
 "A total of %1 record(s) were updated.","(%1) wpisów zostało zaktualizowanych."
 "Something went wrong. Please try again later.","Coś poszło nie tak. Proszę spróbować później."
 "Invalid value of ""%value"" provided for the email field.","W polu wiadomości email podano nieprawidłową wartość ""%value""."
-"Invalid value ""%value"" given for the website ID field.","Invalid value ""%value"" given for the website ID field."
+"Invalid value ""%value"" given for the website ID field.","Nieprawidłowa wartość ""%value"" podana dla pola identyfikatora witryny."
 "You have deleted company %companyName.","Usunąłeś firmę %companyName."
 "The company no longer exists.","Firma już nie istnieje."
 "The requested company is not found","Nie można znaleźć firmy."
