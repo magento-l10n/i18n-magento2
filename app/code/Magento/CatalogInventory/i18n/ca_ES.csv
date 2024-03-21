@@ -30,7 +30,7 @@
 "Product with SKU ""%1"" does not exist","Product with SKU ""%1"" does not exist"
 "The fewest you may purchase is %1.","The fewest you may purchase is %1."
 "Please correct the quantity for some products.","Please correct the quantity for some products."
-"The most you may purchase is %1.","The most you may purchase is %1."
+"The most you may purchase is %1.","El màxim que podeu comprar és %1."
 "We don't have as many ""%1"" as you requested.","We don't have as many ""%1"" as you requested."
 "We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","We don't have as many ""%1"" as you requested, but we'll back order the remaining %2."
 "We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2."
