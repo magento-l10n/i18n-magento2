@@ -1,3 +1,3 @@
-"We can't find the role for the user you wanted.","We can't find the role for the user you wanted."
-"Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Щось пішло не так під час компілювання списку дозволених ресурсів. Ви можете дізнатися більше у журналі винятків."
-"The role wasn't found for the user. Verify the role and try again.","Ця роль не знайдена в користувача. Перевірте роль та повторіть спробу."
+"We can't find the role for the user you wanted.","Ми не можемо знайти Роль (Role) для Користувача (User), якого ви шукаєте."
+"Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Щось пішло не так під час компілювання списку дозволених ресурсів. Ви можете дізнатися більше у журналі винятків (exceptions log)."
+"The role wasn't found for the user. Verify the role and try again.","Ця роль не знайдена в Користувача (User). Перевірте Роль (Role) та повторіть спробу."
