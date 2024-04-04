@@ -17,7 +17,7 @@
 "successful","correcte"
 "You deleted the selected backup(s).","Has esborrat la/les còpia/còpies seleccionada/es."
 "Can't load snapshot archive","No es pot carregar la vista de l'arxiu"
-"Please correct the password.","Si us plau corregiu la contrasenya."
+"Please correct the password.","Si us plau corregiu la paraula clau."
 "To complete the rollback, please deselect ""Put store into maintenance mode"" or update your permissions.","To complete the rollback, please deselect ""Put store into maintenance mode"" or update your permissions."
 "We can't find the backup file.","No trobem l'arxiu de còpies de seguretat."
 "We can't connect to the FTP right now.","No es pot conectar a l'FTP ara mateix."
