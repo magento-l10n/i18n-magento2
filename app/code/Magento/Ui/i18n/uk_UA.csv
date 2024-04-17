@@ -152,17 +152,17 @@
 "
                         formElements/*[name(.)=../../@formElement]/settings/description
                     ","
-                        formElements/*[name(.)=../../@formElement]/settings/description
+                        formElements/*[name(.)=../../../@formElement]/settings/description
                     "
 "
                         formElements/*[name(.)=../../@formElement]/settings/caption
                     ","
-                        formElements/*[name(.)=../../@formElement]/settings/caption
+                        formElements/*[name(.)=../../../@formElement]/settings/caption
                     "
 "
                         formElements/*[name(.)=../../@formElement]/settings/title
                     ","
-                        formElements/*[name(.)=../../@formElement]/settings/title
+                        formElements/*[name(.)=../../../@formElement]/settings/caption
                     "
 "settings/placeholder","settings/placeholder"
 "settings/caption","settings/caption"
