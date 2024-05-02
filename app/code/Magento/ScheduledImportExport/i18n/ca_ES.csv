@@ -13,7 +13,7 @@
 "For Type ""Local Server"" use relative path to Magento installation, e.g. var/export, var/import, var/export/some/dir","For Type ""Local Server"" use relative path to Magento installation, e.g. var/export, var/import, var/export/some/dir"
 "FTP Host[:Port]","FTP Host[:Port]"
 "User Name","Nom d'usuari"
-"Password","Password"
+"Password","Paraula Clau"
 "File Mode","File Mode"
 "Passive Mode","Passive Mode"
 "Failed Email Receiver","Failed Email Receiver"

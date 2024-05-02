@@ -532,7 +532,7 @@
 "Settlement Report Settings","Settlement Report Settings"
 "SFTP Credentials","SFTP Credentials"
 "Login","Login"
-"Password","Password"
+"Password","Paraula Clau"
 "Custom Endpoint Hostname or IP-Address","Custom Endpoint Hostname or IP-Address"
 "By default it is ""reports.paypal.com"".","By default it is ""reports.paypal.com""."
 "Use colon to specify port. For example: ""test.example.com:5224"".","Use colon to specify port. For example: ""test.example.com:5224""."
