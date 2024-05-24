@@ -27,4 +27,4 @@
 "Min Time Between Password Reset Requests","Min Time Between Password Reset Requests"
 "Delay in minutes between password reset requests. Use 0 to disable.","Delay in minutes between password reset requests. Use 0 to disable."
 "Your account is temporarily disabled. Please try again later.","Your account is temporarily disabled. Please try again later."
-"We received too many requests for password resets. Please wait and try again later or contact %1.","We received too many requests for password resets. Please wait and try again later or contact %1."
+"We received too many requests for password resets. Please wait and try again later or contact %1.","Hem rebut massa sol·licituds de restabliment de la paraula clau. Espereu i torneu-ho a intentar més tard o contacteu amb %1."
