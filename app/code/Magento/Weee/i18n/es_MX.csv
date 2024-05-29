@@ -27,6 +27,6 @@
 "Display Prices In Emails","Mostrar precios en el correo electrónico"
 "Apply Tax To FPT","Aplicar impuesto a FPT"
 "Include FPT In Subtotal","Includir impuestos en el subtotal"
-"We found a duplicate of website, country and state fields for a fixed product tax","We found a duplicate of website, country and state fields for a fixed product tax"
+"We found a duplicate of website, country and state fields for a fixed product tax","Se encontró un duplicado de los campos de sitio web, país y estado para un impuesto fijo sobre productos"
 "label_value' 'label_value' 'frontend_label","label_value' 'label_value' 'frontend_label"
 "Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again.","Set unique country-state combinations within the same fixed product tax. Verify the combinations and try again."
