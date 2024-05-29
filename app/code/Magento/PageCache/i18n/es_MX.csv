@@ -16,7 +16,7 @@
 "Grace period","Período de gracia"
 "Specify grace period in seconds for config file generation. If field is empty default value 300 will be saved. This grace period will be used to serve cached content when the server is healthy. If the server is not healthy, cached content will be served for 3 days before failing.","Especifique el período de gracia en segundos para generación de archivo de config. Si el campo está vacío se guardarán el valor por defecto 300. Este período de gracia se utilizará para servir contenido almacenado en caché cuando el servidor está sano. Si el servidor no es saludable, contenido almacenado en caché se servirá durante 3 días antes."
 "TTL for public content","TTL para contenido público"
-"Public content cache lifetime in seconds. If field is empty default value 86400 will be saved.","Public content cache lifetime in seconds. If field is empty default value 86400 will be saved."
+"Public content cache lifetime in seconds. If field is empty default value 86400 will be saved.","Duración en caché del contenido público en segundos. Si el campo está vacío, se guardará el valor predeterminado 86400."
 "Page Cache","Caché de la página"
 "Full page caching","Caché de pagina completa"
 "Export VCL for Varnish ","Export VCL for Varnish "

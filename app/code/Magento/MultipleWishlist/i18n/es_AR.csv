@@ -20,7 +20,7 @@
 "We can't copy %1 items.","No podemos copiar elementos de %1."
 "%1 items are already present in %2: %3.","%1 elementos ya están presentes en %2: %3."
 "%1 items were copied to %2: %3.","%1 artículos fueron copiados a %2: %3."
-"You can't delete the default wish list.","You can't delete the default wish list."
+"You can't delete the default wish list.","No se puede eliminar la lista de deseos predeterminada."
 "Wish List ""%1"" has been deleted.","Lista de deseos ""%1"" ha sido eliminada."
 "We can't delete the wish list right now.","No podemos borrar la lista de deseos en este momento"
 """%1"" was moved to %2.","""%1"" fue movido a %2."
