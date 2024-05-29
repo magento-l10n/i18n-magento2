@@ -68,7 +68,7 @@
 "Express Checkout and Order have been canceled.","El pedido y la Caja Express se han cancelado."
 "Express Checkout has been canceled.","La Caja Express se ha cancelado."
 "Unable to cancel Express Checkout","No se ha podido cancelar la Salida Express"
-"Please agree to all the terms and conditions before placing the order.","Please agree to all the terms and conditions before placing the order."
+"Please agree to all the terms and conditions before placing the order.","Por favor, acepta todos los términos y condiciones antes de realizar el pedido."
 "We can't process Express Checkout approval.","No podemos procesar aprobación Express Checkout."
 "We can't initialize Express Checkout review.","No podemos inicializar revisión Checkout Express."
 "We can't update shipping method.","No se puede actualizar el método de envío."
@@ -205,7 +205,7 @@
 "N/A. Merchant has indicated that CVV2 is not present on card","No disponible. El comerciante ha notificado que su tarjeta no tiene CVV2"
 "CNPJ","CNPJ"
 "CPF","CPF"
-"Credit Card","Credit Card"
+"Credit Card","Tarjeta de crédito"
 "ending","finalizando"
 "expires","vence"
 "Note: %1","Nota: %1"
@@ -216,7 +216,7 @@
 "IPN ""%1"". %2 Transaction amount %3. Transaction ID: ""%4""","IPN ""%s"". La cantidad de la transacción es %s. ID de la transacción: ""%s"""
 "You notified customer about creditmemo #%1.","Le notifica al cliente sobre creditmemo #%1."
 "IPN ""%1""","IPN ""%1"""
-"Payflow PNREF: #%1.","Payflow PNREF: #%1."
+"Payflow PNREF: #%1.","Payflow PNREF: n.º %1."
 "Unable to fetch transaction details.","No se puede obtener detalles de la transacción."
 "Invalid method %1::%2","Método inválido %1::%2"
 "Transaction has been declined","La operación ha sido declinada"
@@ -424,7 +424,7 @@
 "Actions","Acciones"
 "Manage","Gestionar"
 "Place Order Using Billing Agreements","Hacer el pedido utilizando los acuerdos de facturación"
-"Orders","Orders"
+"Orders","Pedidos"
 "Payment Amount Authorization","Payment Amount Authorization"
 "Merchant Location","Ubicación del minorista"
 "Merchant Country","País de envío"
@@ -448,7 +448,7 @@
 "Add PayPal as an additional payment method to your checkout page.","Añada PayPal como método de pago adicional a su página de procesos de compra en línea."
 "Required PayPal Settings","Configuración obligatoria de PayPal"
 "Email Associated with PayPal Merchant Account (Optional)","Correo electrónico asociado con la cuenta de minorista de PayPal (opcional)"
-"<a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>","<a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>"
+"<a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>","<a href=""http://www.magentocommerce.com/paypal"">¡Comienza a aceptar pagos a través de PayPal!</a>"
 "Don't have a PayPal account? Simply enter your email address.","No dispone de una cuenta PayPal? Introduzca su dirección de email."
 "API Authentication Methods","Métodos de autenticación API"
 "API Username","Nombre de usuario API"
@@ -571,12 +571,7 @@
                                             from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
                                             Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                                             The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
-                                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>."
+                                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">¿Por qué publicitar el financiamiento?</a><br/><strong>Aumenta tus ventas cuando publicites financiamiento.</strong><br/>PayPal ayuda a convertir los navegadores en compradores con financiamiento de PayPal Credit&#174;. Tus clientes tienen más tiempo para pagar, mientras que se les paga por adelantado, sin costo adicional para ti. Utiliza los anuncios gratuitos de PayPal que te permiten anunciar el financiamiento de PayPal Credit&#174; como una opción de pago cuando tus clientes realizan pagos con PayPal. Se ha demostrado que el programa de publicidad de PayPal genera compras adicionales y aumenta el tamaño promedio de compra del consumidor en un 15% o más. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">Ver detalles</a>."
 "Basic Settings - PayPal Payments Advanced","Ajustes básicos: Pagos avanzados con PayPal"
 "It is recommended to set this value to ""Debit or Credit Card"" per store views.","Se recomienda fijar este valor en ""Tarjeta de débito o crédito"" por vistas de tienda."
 "CVV Entry is Editable","La entrada de CVV es editable"
@@ -636,7 +631,7 @@
                                 or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>."
 "We can't contact the PayPal gateway.","We can't contact the PayPal gateway."
 "The ordering amount of %1 is pending approval on the payment gateway.","The ordering amount of %1 is pending approval on the payment gateway."
-"Ordered amount of %1","Ordered amount of %1"
+"Ordered amount of %1","Importe del pedido de %1"
 "Matched whole nine-didgit ZIP (no Address)","Matched whole nine-didgit ZIP (no Address)"
 "Yes. Matched Address and five-didgit ZIP","Yes. Matched Address and five-didgit ZIP"
 "Invalid method %1::%2(%3)","Invalid method %1::%2(%3)"
@@ -650,7 +645,7 @@
 "Payments Advanced (Includes Express Checkout)","Payments Advanced (Includes Express Checkout)"
 "Accept payments with a PCI-compliant checkout that keeps customers on your site.","Accept payments with a PCI-compliant checkout that keeps customers on your site."
 "Payflow Link (Includes Express Checkout)","Payflow Link (Includes Express Checkout)"
-"Connect your merchant account with a PCI-compliant gateway that lets customers pay without leaving your site.","Connect your merchant account with a PCI-compliant gateway that lets customers pay without leaving your site."
+"Connect your merchant account with a PCI-compliant gateway that lets customers pay without leaving your site.","Conecta tu cuenta de comerciante con una pasarela que cumple con la normativa PCI y que permite a los clientes pagar sin abandonar tu sitio."
 "Accept payments with a PCI compliant checkout that keeps customers on your site.","Accept payments with a PCI compliant checkout that keeps customers on your site."
 "Connect your merchant account with a fully customizable gateway that lets customers pay without leaving your site.","Connect your merchant account with a fully customizable gateway that lets customers pay without leaving your site."
 "International AVS Indicator Does Not Match","International AVS Indicator Does Not Match"
@@ -673,34 +668,19 @@
                         from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
                         Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                         The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                        or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                        <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                        from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                        Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
-                        The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                        or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>."
+                        or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">¿Por qué publicitar el financiamiento?</a><br/><strong>Aumenta tus ventas cuando publicites financiamiento.</strong><br/>PayPal ayuda a convertir los navegadores en compradores con financiamiento de PayPal Credit&#174;. Tus clientes tienen más tiempo para pagar, mientras que se les paga por adelantado, sin costo adicional para ti. Utiliza los anuncios gratuitos de PayPal que te permiten anunciar el financiamiento de PayPal Credit&#174; como una opción de pago cuando tus clientes realizan pagos con PayPal. Se ha demostrado que el programa de publicidad de PayPal genera compras adicionales y aumenta el tamaño promedio de compra del consumidor en un 15% o más. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">Ver detalles</a>."
 "<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                             <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
                             from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
                             Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                             The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
-                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>."
+                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">¿Por qué publicitar el financiamiento?</a><br/><strong>Aumenta tus ventas cuando publicites financiamiento.</strong><br/>PayPal ayuda a convertir los navegadores en compradores con financiamiento de PayPal Credit&#174;. Tus clientes tienen más tiempo para pagar, mientras que se les paga por adelantado, sin costo adicional para ti. Utiliza los anuncios gratuitos de PayPal que te permiten anunciar el financiamiento de PayPal Credit&#174; como una opción de pago cuando tus clientes realizan pagos con PayPal. Se ha demostrado que el programa de publicidad de PayPal genera compras adicionales y aumenta el tamaño promedio de compra del consumidor en un 15% o más. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">Ver detalles</a>."
 "<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                                 <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
                                 from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
                                 Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                                 The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                                or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
-                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                                from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
-                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
-                                or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>."
+                                or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">¿Por qué publicitar el financiamiento?</a><br/><strong>Aumenta tus ventas cuando publicites financiamiento.</strong><br/>PayPal ayuda a convertir los navegadores en compradores con financiamiento de PayPal Credit&#174;. Tus clientes tienen más tiempo para pagar, mientras que se les paga por adelantado, sin costo adicional para ti. Utiliza los anuncios gratuitos de PayPal que te permiten anunciar el financiamiento de PayPal Credit&#174; como una opción de pago cuando tus clientes realizan pagos con PayPal. Se ha demostrado que el programa de publicidad de PayPal genera compras adicionales y aumenta el tamaño promedio de compra del consumidor en un 15% o más. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">Ver detalles</a>."
 "Vault enabled","Vault enabled"
 "Gold","Oro"
 "Blue","Azul"
@@ -710,8 +690,8 @@
 "Horizontal","Horizontal"
 "Pill","Pill"
 "Rectangle","Rectángulo"
-"Medium","Medium"
-"Large","Large"
+"Medium","Medio"
+"Large","Grande"
 "Responsive","Responsive"
 "Checkout","Cobro"
 "Pay","Pagar"
