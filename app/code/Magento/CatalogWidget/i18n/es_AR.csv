@@ -16,7 +16,7 @@
 "Template","Plantilla"
 "Products Grid Template","Plantilla Grid de artículos"
 "Cache Lifetime (Seconds)","Caché ciclo de vida caché (segundos)"
-"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache."
+"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 por defecto, si no está configurado. Para refrescar inmediatamente, borra la caché de salida de bloques HTML."
 "Conditions","Condiciones"
 "
                     Time in seconds between the widget updates.
