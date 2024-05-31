@@ -117,7 +117,7 @@
 "Please enter a valid year (1900-%1).","Por favor, insira um ano válido (1900-%1)."
 "Please enter a valid day (1-%1).","Por favor, insira um dia válido (1-%1)."
 "Please enter a date from the past.","Por favor, insira uma data do passado."
-"Maximum length of this field must be equal or less than %1 symbols.","Maximum length of this field must be equal or less than %1 symbols."
+"Maximum length of this field must be equal or less than %1 symbols.","O tamanho máximo deste campo é %1 caracteres."
 "Admin is a required field in the each row.","Admin. É um campo obrigatório nesta linha."
 "Please enter a quantity greater than 0.","Por favor, insira uma quantidade maior que 0."
 "The fewest you may purchase is %1.","O menor valor que você pode comprar é %1."
