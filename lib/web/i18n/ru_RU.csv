@@ -122,7 +122,7 @@
 "Please enter a quantity greater than 0.","Пожалуйста, введите количество больше 0."
 "The fewest you may purchase is %1.","The fewest you may purchase is %1."
 "The maximum you may purchase is %1.","The maximum you may purchase is %1."
-"You can buy this product only in quantities of %1 at a time.","You can buy this product only in quantities of %1 at a time."
+"You can buy this product only in quantities of %1 at a time.","Вы можете купить этот продукт только в количестве %1, за раз."
 "Forbidden extensions has been used. Avoid usage of ","Forbidden extensions has been used. Avoid usage of "
 "No marginal white space please","Пожалуйста, не используйте пробелы в начале и конце."
 "Please enter 6 or more characters. Leading or trailing spaces will be ignored.","Please enter 6 or more characters. Leading or trailing spaces will be ignored."
