@@ -672,7 +672,7 @@
 "%customer_name,","%customer_name,"
 "Once your package ships we will send you a tracking number.","Rebreu el número de seguiment quan us enviem la comanda."
 "Your Order <span class=""no-link"">#%increment_id</span>","Comanda <span class=""no-link"">#%increment_id</span>"
-"Placed on <span class=""no-link"">%created_at</span>","Posat en <span class=""no-link"">%created_at</span>"
+"Placed on <span class=""no-link"">%created_at</span>","Comprat el <span class=""no-link"">%created_at</span>"
 "Once your package ships we will send an email with a link to track your order.","Un cop s'hagi enviat el teu paquet, t'enviarem un correu electrònic amb un enllaç per fer el seguiment de la teva comanda."
 "Update to your %store_name order","Actualització de la comanda a %store_name"
 "Your %store_name order has shipped","S'ha enviat la comanda realitzada a %store_name"
