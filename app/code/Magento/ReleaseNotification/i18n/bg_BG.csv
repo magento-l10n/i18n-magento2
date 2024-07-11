@@ -2,7 +2,7 @@
 "Error message","Съобщение за грешка"
 "An error occurred while logging process.","Възникна грешка при процеса на зареждане."
 "Release Notification","Release Notification"
-"What’s new with Magento 2.2.4","What’s new with Magento 2.2.4"
+"What’s new with Magento 2.2.4","Какво е ново в Магенто 2.2.4"
 "
                         <p>Magento 2.2.4 provides powerful new tools to help reduce cart abandonment and simplify store operations:</p>
                         <br />
@@ -36,7 +36,7 @@
                         </div>
                         <p>To learn more, see the <a href=""http://devdocs.magento.com/guides/v2.2/release-notes/bk-release-notes.html"" target=""_blank"">Release Notes</a> and the <a href=""http://docs.magento.com/m2/ce/user_guide/getting-started.html"" target=""_blank"">Magento User Guide</a>.</p>
                         "
-"Trusted Payment Options","Trusted Payment Options"
+"Trusted Payment Options","Опции за надеждно плащане"
 "<p>With <a href=""http://docs.magento.com/m2/ce/user_guide/payment/amazon-pay.html"" target=""_blank"">Amazon Pay</a>, we make it simple for the hundreds of millions of Amazon customers worldwide to easily log in and purchase from your store using information already stored their Amazon account. With easy setup in Magento 2.2.4, Amazon Pay provides your customers with a trusted and familiar checkout experience. In just a few taps, they can complete a transaction without ever leaving your site.</p>
                         <ul>
                         <li><span>Your customers use one familiar login to identify themselves and transact anywhere Amazon Pay is offered.</span></li>
@@ -92,7 +92,7 @@
                         <li><span>Flexible deployment options fit the needs of your organization in the cloud, or on premises.</span></li>
                         </ul>
                         "
-"What's new with Magento 2.2.2","What's new with Magento 2.2.2"
+"What's new with Magento 2.2.2","Какво е ново в Магенто 2.2.2"
 "
                         <p>Magento 2.2.2 offers advanced new features, including:</p>
                         <br />
@@ -154,7 +154,7 @@
                         and <a href=""https://magento.com/legal/terms/cloud-terms"" target=""_blank"">Terms
                         of Service</a>. You may opt out at any time from the Stores Configuration page.</p>
                         "
-"Instant Purchase","Instant Purchase"
+"Instant Purchase","Незабавна покупка"
 "
                         <p>Now you can deliver an Amazon-like experience with a new, streamlined checkout option.
                         Logged-in customers can use previously-stored payment credentials and shipping information
@@ -186,7 +186,7 @@
                         merchant needs.</span></li>
                         </ul>
                         "
-"Email Marketing Automation","Email Marketing Automation"
+"Email Marketing Automation","Автоматизация на имейл маркетинга"
 "
                         <p>Unlock an unparalleled level of insight and control of your eCommerce marketing with
                         dotmailer Email Marketing Automation. Included with Magento 2.2.2 for easy set-up, dotmailer
