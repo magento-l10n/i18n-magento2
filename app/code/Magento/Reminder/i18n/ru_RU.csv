@@ -38,7 +38,7 @@
 "Repeat Schedule","Repeat Schedule"
 "Enter the number of days until the email reminder rule is retriggered if conditions still match (Ex: Enter ""7, 14"" to trigger emails in 7 days, and then 14 days after that).","Enter the number of days until the email reminder rule is retriggered if conditions still match (Ex: Enter ""7, 14"" to trigger emails in 7 days, and then 14 days after that)."
 "Select Rule...","Выберите правило..."
-"Email Templates","Email Templates"
+"Email Templates","Шаблоны эл. почты"
 "Only customers who have an account for a store view will receive emails related to that store view.","Only customers who have an account for a store view will receive emails related to that store view."
 "Default Titles and Description","Default Titles and Description"
 "You can find and edit rule label and descriptions, per store view, in email templates.","You can find and edit rule label and descriptions, per store view, in email templates."
