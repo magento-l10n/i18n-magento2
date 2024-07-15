@@ -26,7 +26,7 @@
 "Duration:","Длительность:"
 "Video Error","Video Error"
 "Unknown video type","Unknown video type"
-"Invalid video url","Invalid video url"
+"Invalid video url","Неверный URL-адрес видео"
 "Youtube API key is invalid","Некорректный ключ YouTube API"
 "Video cant be shown due to the following reason: ","Видео не может быть показано по следующей причине: "
 "Video not found","Видео не найдено"

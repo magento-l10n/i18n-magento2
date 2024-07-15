@@ -73,7 +73,7 @@
 "Save history file content ""%1""","Save history file content ""%1"""
 "We couldn't write file ""%1"" to ""%2"" with the ""%3"" driver.","We couldn't write file ""%1"" to ""%2"" with the ""%3"" driver."
 "Save file content","Save file content"
-"Please correct the server type.","Please correct the server type."
+"Please correct the server type.","Пожалуйста, исправьте тип сервера."
 "Import path %1 not exists","Import path %1 not exists"
 "We can't read the file.","We can't read the file."
 "We can't save the file history file.","We can't save the file history file."

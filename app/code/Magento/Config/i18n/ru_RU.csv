@@ -48,7 +48,7 @@
 "website(%1) scope","website(%1) scope"
 "store(%1) scope","store(%1) scope"
 "Currency ""%1"" is used as %2 in %3.","Currency ""%1"" is used as %2 in %3."
-"Please correct the timezone.","Please correct the timezone."
+"Please correct the timezone.","Пожалуйста, исправьте часовой пояс."
 "The file ""%1"" does not exist","The file ""%1"" does not exist"
 "The ""%1"" path does not exist","The ""%1"" path does not exist"
 "Always (during development)","Always (during development)"
