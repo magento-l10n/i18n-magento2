@@ -40,7 +40,7 @@
 "Off","Off"
 "Go to Details Page","Перейти на страницу редактирования"
 "New View","New View"
-"Default View","Default View"
+"Default View","Вид по умолчанию"
 "${ $.visible } out of ${ $.total } visible","${ $.visible } out of ${ $.total } visible"
 "You have successfully saved your edits.","You have successfully saved your edits."
 "There are {placeholder} messages requires your attention.","There are {placeholder} messages requires your attention."
