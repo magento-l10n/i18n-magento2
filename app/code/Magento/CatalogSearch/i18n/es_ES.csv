@@ -46,7 +46,7 @@
 "Please enter a valid price range.","Por favor, introduce un rango de precios válido."
 "Number of popular search terms to be cached for faster response. Use “0” to cache all results after a term is searched for the second time.","Número de términos de búsqueda populares a ser cacheados para una respuesta más rápida. Utilice “0” para cachear todos los resultados después de que se busque un término por segunda vez."
 "Enable EAV Indexer","Habilitar indexador EAV"
-"Enter a search term and try again.","Introduzca un término de búsqueda e inténtelo de nuevo."
+"Enter a search term and try again.","Introduce un término de búsqueda e inténtalo de nuevo."
 "An error occurred. For details, see the error log.","Se ha producido un error. Para más detalles, vea el registro de errores."
 "The bucket doesn't exist.","La búsqueda no existe."
 "Deprecation Notice","Deprecation Notice"
