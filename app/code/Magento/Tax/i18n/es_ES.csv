@@ -109,7 +109,7 @@
 "Store(s) affected: ","Tiendas afectadas: "
 "Click on the link to <a href=""%1"">ignore this notification</a>","Haz clic en el enlace para <a href=""%1"">ignorar esta notificación</a>"
 "With customer tax applied “Before Discount”, the final discount calculation may not match customers’ expectations. ","Con el impuesto al cliente aplicado ""Antes del descuento"", el cálculo del descuento final puede no coincidir con las expectativas de los clientes. "
-"Your current tax configuration may result in rounding errors. ","Su configuración actual de impuestos puede provocar errores de redondeo. "
+"Your current tax configuration may result in rounding errors. ","Tu configuración actual de impuestos puede provocar errores de redondeo. "
 "Please see <a href=""%1"">documentation</a> for more details. ","Consulta la <a href=""%1"">documentación</a> para más detalles. "
 "Click here to go to <a href=""%1"">Tax Configuration</a> and change your settings.","Pulsa aquí para ir a la <a href=""%1"">configuración de impuestos</a> y cambiar la configuración."
 "Invalid type of tax class ""%1""","Tipo inválido de clase de impuestos ""%1"""
