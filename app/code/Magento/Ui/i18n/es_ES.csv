@@ -43,7 +43,7 @@
 "Default View","Vista predeterminada"
 "${ $.visible } out of ${ $.total } visible","${ $.visible } de ${ $.total } visible"
 "You have successfully saved your edits.","Ha guardado exitosamente sus cambios."
-"There are {placeholder} messages requires your attention.","Hay {placeholder} mensajes que requieren su atención."
+"There are {placeholder} messages requires your attention.","Hay {placeholder} mensajes que requieren tu atención."
 "from","a partir de"
 "to","hasta"
 "You haven't selected any items!","¡No ha seleccionado ningún artículo!"
