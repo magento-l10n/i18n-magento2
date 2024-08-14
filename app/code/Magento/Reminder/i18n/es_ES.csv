@@ -141,7 +141,7 @@
 "Enable Reminder Emails","Habilitar cemails de recordatorio"
 "Frequency","Frecuencia"
 "Interval","Intervalo"
-"Set this value equal or greater to your Magento cron job launch period.","Establezca este valor igual o mayor a su cron de periodo de lanzamiento de Magento."
+"Set this value equal or greater to your Magento cron job launch period.","Establece este valor igual o mayor al periodo de lanzamiento del cron de Magento."
 "Minute of the Hour","Minutos de la hora"
 "Valid range: 0-59 (default 0).","Intervalo válido: 0-59 (por defecto 0)."
 "Start Time","Hora de inicio"
