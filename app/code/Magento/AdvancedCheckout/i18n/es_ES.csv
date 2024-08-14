@@ -138,7 +138,7 @@
 "This customer couldn't be found. Verify the customer and try again.","Cliente no encontrado. Verifique el cliente y vuelva a intentarlo."
 "This store couldn't be found. Verify the store and try again.","Tienda no encontrada. Verifique la tienda y vuelva a intentarlo."
 "An error occurred. For details, see the error log.","Ha ocurrido un error. Para ver los detalles consultar el log del error."
-"Orders can only be completed in an active store. Verify the store and try again.","Los pedidos sólo se pueden completar en una tienda activa. Verifique la tienda e inténtelo de nuevo."
+"Orders can only be completed in an active store. Verify the store and try again.","Los pedidos solo se pueden completar en una tienda activa. Verifica la tienda e inténtalo de nuevo."
 "The ordered item needs to be loaded. Load the item and try again.","Los artículos seleccionados deben cargarse. Carga el articulo he inténtalo de nuevo."
 "The quote item ID needs to be received. Set the ID and try again.","El ID del articulo requerido tiene que recibirse. Configura el ID y prueba de nuevo."
 "The quote item needs to be loaded. Load the item and try again.","El articulo requerido tiene que cargarse. Carga el articulo y prueba de nuevo."
