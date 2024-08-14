@@ -36,7 +36,7 @@
 "Incorrect CAPTCHA","CAPTCHA incorrecto"
 "Create New Company","Crear Nueva Empresa"
 "A total of %1 record(s) were updated.","Un total de %1 registro(s) fueron actualizados."
-"Something went wrong. Please try again later.","Algo salió mal. Por favor, inténtelo de nuevo más tarde."
+"Something went wrong. Please try again later.","Algo salió mal. Por favor, inténtalo de nuevo más tarde."
 "Invalid value of ""%value"" provided for the email field.","Valor no válido de ""%value"" proporcionado para el campo de correo electrónico."
 "Invalid value ""%value"" given for the website ID field.","Valor invalido ""%value"" para el campo pagina web."
 "You have deleted company %companyName.","Has eliminado la empresa %companyName."
@@ -203,9 +203,9 @@
 "* Create and manage company shipping and billing addresses","* Crear y administrar la empresa de envío y facturación direcciones"
 "You've been added to the <a href=%customer_url>%company_name</a> as the company member.
     Once you enter your account,
-    the company's shared resources will be available for you.","Ha agregado a la <a href=%customer_url>%company_name</a> como el miembro de la empresa.
+    the company's shared resources will be available for you.","Has sido agregado a la <a href=%customer_url>%company_name</a> como el miembro de la empresa.
     una vez que entres a tu cuenta,
-    los recursos compartidos de la empresa estará disponibles para usted."
+    los recursos compartidos de la empresa estará disponibles para ti."
 "If this is a mistake,
     please contact the company Admin at %company_admin_email.","Si esto es un error,
     contácte con el administrador en %company_admin_email."
