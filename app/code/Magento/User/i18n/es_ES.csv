@@ -88,7 +88,7 @@
 "Password is required field.","Se requiere contraseña."
 "Your password must be at least %1 characters.","Tu contraseña debe tener al menos %1 caracteres."
 "Your password must include both numeric and alphabetic characters.","Tu contraseña debe incluir tanto caracteres numéricos como alfabéticos."
-"Your password confirmation must match your password.","La confirmación de su contraseña debe coincidir con la contraseña."
+"Your password confirmation must match your password.","La confirmación de la contraseña debe coincidir con la contraseña."
 "It's time to change your password.","Es hora de cambiar tu contraseña."
 "It's time to <a href=""%1"">change your password</a>.","Es hora de <a href=""%1"">cambiar tu contraseña</a>."
 "Your password has expired; please contact your administrator.","Tu contraseña ha caducado; por favor, ponte en contacto con tu administrador."
