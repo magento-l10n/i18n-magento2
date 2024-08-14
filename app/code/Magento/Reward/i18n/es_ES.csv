@@ -107,7 +107,7 @@
 "Save Subscription Settings","Guardar configuración de suscripción"
 "Reward Points Balance Updated at %store_name","Saldo de puntos de recompensa actualizado en %store_name"
 "%name,","%name,"
-"You have %points_balance points that may be used in our store:","Usted tienes puntos de %points_balance que pueden usarse en nuestra tienda:"
+"You have %points_balance points that may be used in our store:","Tienes %points_balance puntos que pueden usarse en nuestra tienda:"
 "<a href=""%unsubscription_url"">Unsubscribe</a> from these notifications.","Puede <a href=""%unsubscription_url"">cancelar la suscripción</a> de las notificaciones."
 "Reward Points Expiry Warning at %store_name","Puntos de recompensa Aviso de vencimiento en %store_name"
 "There are %remaining_days day(s) remaining to use %points_expiring of your reward points.","Quedan %remaining_days días restantas para usar %points_expiring de sus puntos de recompensa."

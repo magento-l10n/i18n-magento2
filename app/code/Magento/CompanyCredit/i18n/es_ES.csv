@@ -1,6 +1,6 @@
 "Reimburse Balance","Reembolsar Saldo"
-"Are you sure you want to cancel this order? The order amount will not be reverted to %1 because the company is not active.","¿Seguro que desea cancelar este pedido? El importe del pedido no se revertirá a %1 porque la empresa no está activa."
-"Are you sure you want to cancel this order? The order amount will not be reverted to %1 because the company associated with this customer does not exist.","¿Seguro que desea cancelar este pedido? El importe del pedido no se revertirá a %1 porque la empresa asociada a este cliente no existe."
+"Are you sure you want to cancel this order? The order amount will not be reverted to %1 because the company is not active.","¿Seguro que deseas cancelar este pedido? El importe del pedido no se revertirá a %1 porque la empresa no está activa."
+"Are you sure you want to cancel this order? The order amount will not be reverted to %1 because the company associated with this customer does not exist.","¿Seguro que deseas cancelar este pedido? El importe del pedido no se revertirá a %1 porque la empresa asociada a este cliente no existe."
 "Page not found.","Página no encontrada."
 "Something went wrong. Please try again later.","Algo salió mal. Por favor, inténtelo de nuevo más tarde."
 "History record no longer exists.","El historial ya no existe."
@@ -18,7 +18,7 @@
 "Yes","Sí"
 "No","No"
 "The requested Payment Method is not available.","El método de pago solicitado no está disponible."
-"Payment On Account cannot be used for this order because your order amount exceeds your credit amount.","Pago A Cuenta no se puede utilizar para este pedido porque el importe de su pedido excede el importe de su crédito."
+"Payment On Account cannot be used for this order because your order amount exceeds your credit amount.","Pago A Cuenta no se puede utilizar para este pedido porque el importe de tu pedido excede el importe de tu crédito."
 "Cannot process the request. Please check the operation type and try again.","No se puede procesar la solicitud. Por favor, compruebe el tipo de operación y vuelva a intentarlo."
 "Invalid attribute value. Row ID: %fieldName = %fieldValue.","Valor de atributo no válido. ID fila: %fieldName = %fieldValue."
 """%fieldName"" is required. Enter and try again.","Se requiere ""%fieldName"". Ingreselo e intente nuevamente."
@@ -30,7 +30,7 @@
 "Updated","Actualizado"
 "Purchased","Comprada"
 "Reimbursed","Reembolsado"
-"Refunded","Reembolsado."
+"Refunded","Reembolsado"
 "Reverted","Revertido"
 "Could not save history","No se pudo guardar el historial"
 "Cannot delete history with id %1","No se puede eliminar el historial con id %1"
@@ -73,16 +73,16 @@
 "Credit allocated to %company_name","Crédito asignado a %company_name"
 "Dear %name,","Estimado/a %name,"
 "Your company has been allocated a credit of %available_credit.
-    You can now use the Payment On Account method to place you orders.","A su empresa se le ha asignado un crédito de %available_credit.
-    Ahora puede utilizar el método de pago  A Cuenta para hacer pedidos."
+    You can now use the Payment On Account method to place you orders.","A tu empresa se le ha asignado un crédito de %available_credit.
+    Ahora puedes utilizar el método de pago A Cuenta para hacer pedidos."
 "The history of your credit operations is available on the Company Credit page.","La historia de sus operaciones de crédito está disponible en la página de Crédito de la Empresa."
 "%company_name account reimbursed","cuenta %company_name reembolsada"
-"Your company credit account has been reimbursed by %reimbursed_amount.","Su cuenta de crédito de la empresa ha sido reembolsada por %reimbursed_amount."
+"Your company credit account has been reimbursed by %reimbursed_amount.","Tu cuenta de crédito de la empresa ha sido reembolsada con %reimbursed_amount."
 "If you have any questions, please contact the seller.","Si tiene alguna pregunta, por favor contacte con el vendedor."
 "%company_name credit limit updated","El límite de crédito de %company_name se ha actualizado"
 "Your credit limit has been updated and is now %available_credit.
-    Your outstanding balance currently totals %outstanding_balance. You are %exceed_limit to exceed the credit limit.","Su límite de crédito se ha actualizado y ahora es %available_credit.
-    Su saldo pendiente asciende actualmente a %outstanding_balance. Esta a %exceed_limit de exceder el límite de crédito."
+    Your outstanding balance currently totals %outstanding_balance. You are %exceed_limit to exceed the credit limit.","Tu límite de crédito se ha actualizado y ahora es %available_credit.
+    Tu saldo pendiente asciende actualmente a %outstanding_balance. Estás a %exceed_limit de exceder el límite de crédito."
 "Order %order_id refunded","Pedido %order_id reembolsado"
 "A refund of %refunded_amount has been issued on order #%order_id. This amount has been applied to the company credit.","Un reembolso de %refunded_amount se ha hecho en el pedido n.º %order_id. Esta cantidad se ha aplicado al crédito de la empresa."
 "Order %order_id reverted","Pedido %order_id reembolsado"

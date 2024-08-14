@@ -25,7 +25,7 @@
 "Please, enter valid Expiration Date","Por favor, indica la fecha de vencimiento válida"
 "Card Verification Number","Número de verificación de tarjeta"
 "Please, enter valid Card Verification Number","Por favor, indica el número de verificación de tarjeta válido"
-"Are you sure you want to delete this PayPal account","¿Esta seguro que quieres eliminar esta cuenta de PayPal?"
+"Are you sure you want to delete this PayPal account","¿Seguro que quieres eliminar esta cuenta de PayPal?"
 "PayPal Account","Cuenta PayPal"
 "PayPal Logo","Logo PayPal"
 "Actions","Acciones"
@@ -55,14 +55,14 @@
 "Cannot refund a transaction with a suspended merchant account.","No se reembolsará una transacción con una cuenta suspendida."
 "Merchant account does not support refunds.","Cuenta de comerciante no admite devoluciones."
 "Cannot refund a transaction transaction in settling status on this merchant account. Try again after the transaction has settled.","No se reembolsará una transacción de la transacción en la resolución de status en esta cuenta. Inténtelo de nuevo después de que la transacción se ha establecido."
-"PayPal is not enabled for your merchant account.","PayPal no está habilitado para su cuenta de comerciante."
+"PayPal is not enabled for your merchant account.","PayPal no está habilitado para tu cuenta de comerciante."
 "Partial settlements are not supported by this processor.","Los créditos no son compatibles con este procesador."
 "Cannot submit for partial settlement.","No puede presentar para la liquidación parcial."
 "Transaction can not be voided if status of a PayPal partial settlement child transaction is settlement_pending.","La transacción no puede anularse si el estado de una transacción secundaria de PayPal es settlement_pending."
 "Too many concurrent attempts to refund this transaction. Try again later.","Demasiados intentos en la operación de reembolso. Inténtalo más tarde."
 "Too many concurrent attempts to void this transaction. Try again later.","Demasiados intentos anulando la operación. Inténtalo más tarde."
 "Braintree","Braintree"
-"Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.","Acepta tarjetas de crédito/débito y PayPal en su tienda Magento. <br/> Sin cargos mensuales o de instalación y los clientes nunca abandonan su tienda para completar la compra."
+"Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.","Acepta tarjetas de crédito/débito y PayPal en tu tienda Magento.<br/> Sin cargos mensuales o de instalación y los clientes nunca abandonan tu tienda para completar la compra."
 "Enable this Solution","Habilitar esta solución"
 "Enable PayPal through Braintree","Activar PayPal a través de Braintree"
 "Vault Enabled","Bóveda habilitada"
@@ -242,19 +242,19 @@
 "Pay with PayPal","Pagar con PayPal"
 "Transaction is cancelled offline.","La transacción se ha cancelado offline."
 "Braintree Settlement","Liquidación de Braintree"
-"If you don't specify the merchant account to use to process a transaction, Braintree will process it using your default merchant account.","Si no se especifica la cuenta de comerciante para procesar una transacción, Braintree procesará utilizando su cuenta de comerciante por defecto."
-"Be sure to Enable Advanced Fraud Protection in Your Braintree Account in Settings/Processing Section","Asegúrese de habilitar la protección contra fraude avanzada en su cuenta de Braintree en la sección configuración/procesamiento"
-"Used for direct fraud tool integration. Make sure you also contact <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> to setup your Kount account.","Se usa para la integración directa de herramientas de fraude. Asegúrese de contactar también a <a href=""mailto:accounts@braintreepayments.com""> accounts@braintreepayments.com </a> para configurar su cuenta de Kount."
-"Be sure to Enable AVS and/or CVV in Your Braintree Account in Settings/Processing Section.","Asegúrese de habilitar la protección contra fraude avanzada en su cuenta de Braintree en la sección configuración/procesamiento."
+"If you don't specify the merchant account to use to process a transaction, Braintree will process it using your default merchant account.","Si no se especifica la cuenta de comerciante para procesar una transacción, Braintree procesará utilizando tu cuenta de comerciante por defecto."
+"Be sure to Enable Advanced Fraud Protection in Your Braintree Account in Settings/Processing Section","Asegúrate de habilitar la protección contra fraude avanzada en tu cuenta de Braintree en la sección configuración/procesamiento"
+"Used for direct fraud tool integration. Make sure you also contact <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> to setup your Kount account.","Se usa para la integración directa de herramientas de fraude. Asegúrate de contactar también a <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> para configurar tu cuenta de Kount."
+"Be sure to Enable AVS and/or CVV in Your Braintree Account in Settings/Processing Section.","Asegúrate de habilitar AVS y/o CVV en tu cuenta de Braintree en la sección configuración/procesamiento."
 "It is recommended to set this value to ""PayPal"" per store views.","Se recomienda fijar este valor en ""PayPal"" por vistas de tienda."
 "This feature needs be enabled first for the merchant account through PayPal technical support.","Esta característica necesita primero ser activada para la cuenta comercial a través del soporte técnico de PayPal."
 "Also affects mini-shopping cart.","También afecta al mini-carro de la compra."
 "Dynamic descriptors are sent on a per-transaction basis and define what will appear on your customers credit card statements for a specific purchase.
                             The clearer the description of your product, the less likely customers will issue chargebacks due to confusion or non-recognition.
                             Dynamic descriptors are not enabled on all accounts by default. If you receive a validation error of 92203 or if your dynamic descriptors are not displaying as expected,
-                            please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>.","Los descriptores dinámicos son enviados sobre una base por transacción y definen lo que aparecerán en las declaraciones de su tarjeta de crédito para una compra específica.
-                            Cuanto más clara sea la descripción de su producto, los clientes menos probables emitirán cargos debido a confusión o no reconocimiento.
-                            Los descriptores dinámicos no están habilitados en todas las cuentas por defecto. Si recibe un error de validación de 92203 o si sus descriptores dinámicos no se muestran como se esperaba,
+                            please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>.","Los descriptores dinámicos son enviados por transacción y definen lo que aparecerá en los extractos de las tarjetas de crédito de tus clientes para una compra específica.
+                            Cuanto más clara sea la descripción de tu producto, los clientes menos probables emitirán cargos debido a confusión o no reconocimiento.
+                            Los descriptores dinámicos no están habilitados en todas las cuentas por defecto. Si recibes un error de validación de 92203 o si tus descriptores dinámicos no se muestran como se esperaba,
                             por favor <a href=""mailto:support@getbraintree.com"">Soporte de Braintree</a>."
 "The value in the business name field of a customer's statement. Company name/DBA section must be either 3, 7 or 12 characters
                                 and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters).","El valor en el campo del nombre de negocio de la declaración de un cliente. La sección Nombre de la empresa/DBA debe ser de 3, 7 o 12 caracteres
@@ -263,7 +263,7 @@
 "The value in the URL/web address field of a customer's statement. The URL must be 13 characters or shorter.","El valor en el campo URL/dirección web de la declaración de un cliente. La URL debe tener 13 caracteres o más corto."
 "The Payment Token is not available to perform the request.","El token de pago no está disponible para realizar la solicitud."
 "Checkout failed to initialize. Verify and try again.","No se pudo iniciar el proceso de pago. Vuelva a intentarlo."
-"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","El pedido no fue realizado. Primero, acepte los términos y condiciones, luego intente realizar su pedido nuevamente."
+"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","El pedido no fue realizado. Primero, acepta los términos y condiciones, luego intenta realizar el pedido nuevamente."
 "Paypal account","Cuenta de PayPal"
 "Coinbase account","Cuenta Coinbase"
 "Europe bank account","Cuenta del banco europeo"
