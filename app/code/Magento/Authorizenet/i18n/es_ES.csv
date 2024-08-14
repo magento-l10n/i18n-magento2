@@ -70,7 +70,7 @@
 "Cannot place order.","No se puede realizar el pedido."
 "'Gateway error: ' .","'Error de puerta de enlace:' ."
 "Unable to place order. Please try again later.","No ha sido posible crear el pedido. Por favor inténtalo de nuevo más tarde."
-"A server error stopped your order from being placed. Please try to place your order again.","Un error del servidor detuvo su pedido de ser completado. Por favor, intente hacer su pedido de nuevo."
+"A server error stopped your order from being placed. Please try to place your order again.","Un error del servidor ha impedido que tu pedido se complete. Por favor, intenta hacer el pedido de nuevo."
 "The transaction details are unavailable. Please try again later.","Los detalles de la transacción no están disponibles. Por favor prueba de nuevo después."
 "Authorize.Net Direct Post (Deprecated)","Post Directo Authorize.Net (Obsoleto)"
 "Signature Key","Clave de Firma"
