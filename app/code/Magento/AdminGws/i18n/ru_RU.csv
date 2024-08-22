@@ -13,7 +13,7 @@
 "You need more permissions to set All Scopes to a Role.","You need more permissions to set All Scopes to a Role."
 "Incorrect website ID: %1","Некорректный ID веб-сайта: %1"
 "You need more permissions to access website ""%1"".","У вас недостаточно прав для доступа к веб-сайту «%1»."
-"Incorrect store ID: %1","Incorrect store ID: %1"
+"Incorrect store ID: %1","Некорректный ID магазина: %1"
 "You need more permissions to save this setting.","У вас недостаточно прав для сохранения этого параметра."
 "Role Scopes","Области ролей"
 "Custom","Выборочный"
