@@ -354,7 +354,7 @@
 "Change Customer Group?","Change Customer Group?"
 "This action will change the customer group for all members of this company. Would you like to proceed?","This action will change the customer group for all members of this company. Would you like to proceed?"
 "The user <%- username %> is the company admin and cannot be set to inactive. You must set another user as the company admin first.","The user <%- username %> is the company admin and cannot be set to inactive. You must set another user as the company admin first."
-"Customer Active","Customer Active"
+"Customer Active","Клиент активен"
 "This customer is a user of a different company. If you proceed, the customer will be unlinked from the current company and linked to the selected company.","Клиент является пользователем другой компании. Если вы продолжите, клиент будет удален из текущей компании и привязан к выбранной компании."
 "Change Company?","Изменить компанию?"
 "Associate to Company","Связать с компанией"
