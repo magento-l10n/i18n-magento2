@@ -390,7 +390,7 @@
 "Hello,","Hello,"
 "We have received a request to change the following information associated with your account at %store_name: email.","Получихме искане за промяна на следната информация, свързана с вашия акаунт в %store_name: имейл."
 "If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","Ако не сте разрешили това действие, моля свържете се с нас веднага на <a href=""mailto:%store_email""> %store_email</a>"
-"or call us at <a href=""tel:%store_phone"">%store_phone</a>","or call us at <a href=""tel:%store_phone"">%store_phone</a>"
+"or call us at <a href=""tel:%store_phone"">%store_phone</a>","или ни се обадете на <a href=""tel:%store_phone"">%store_phone</a>"
 "Thanks,<br>%store_name","Thanks,<br>%store_name"
 "Your %store_name email and password has been changed","Вашият %store_name имейл и парола са променени"
 "We have received a request to change the following information associated with your account at %store_name: email, password.","Получихме искане за промяна на следната информация, свързана с вашия акаунт в %store_name: имейл."
