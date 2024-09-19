@@ -22,7 +22,7 @@
 "Product %1 has been added to the requisition list %2.","Продукт %1 е добавен към списъка със заявки %2."
 "Options were updated. Please review available configurations.","Опциите бяха актуализирани. Моля, прегледайте наличните конфигурации."
 "The SKU is out of stock.","SKU е изчерпан."
-"The requested qty is not available","Изискано количество не е налично"
+"The requested qty is not available","Заявеното количество не е налично"
 "Could not save Requisition List. Maximum number of requisition lists was exceeded.","Не можа да се запази списък с заявки. Максималният брой списъци с заявки е надвишен."
 "Exception","Изключение"
 "exception","изключение"
