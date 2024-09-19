@@ -83,5 +83,5 @@
 "The ""%1"" value is invalid for stock item ID. Enter either zero or a number than zero to try again.","Стойността ""%1"" е невалидна за складова единица с ID. Въведете 0 или число различно от нула и опитайте пак."
 "The ""%1"" value is invalid for stock item ID. Use the stock item ID's assigned ""%2"" value and try again.","Стойността ""%1"" е невалидна за ID на складова единица. Използвайте ID за складова единица ""%2"" и опитайте пак."
 "The Product with the ""%1"" SKU doesn't exist.","Не съществува Продукт със SKU ""%1""."
-"The requested qty is not available","Изискано количество не е налично"
+"The requested qty is not available","Заявеното количество не е налично"
 "Quantity increments can't use decimals. Enter a new increment and try again.","Повишението на количеството не може да е десетична дроб. Въведете цяло число и опитайте пак."
