@@ -31,7 +31,7 @@
 "A positive or negative non-decimal number please","Por favor insira um número inteiro negativo ou positivo"
 "The specified vehicle identification number (VIN) is invalid.","A matrícula do veículo é inválida."
 "Please enter a correct date","Por favor insira uma data correta"
-"Please enter a valid time, between 00:00 and 23:59","Por favor insira uma hora válida, entre as 00:00 e as 23:59"
+"Please enter a valid time, between 00:00 and 23:59","Por favor, insira uma hora válida, entre as 00:00 e as 23:59"
 "Please enter a valid time, between 00:00 am and 12:00 pm","Por favor insira uma hora válida, entre as 00:00 am e as 11:59 pm"
 "Please specify a valid phone number","Por favor especifique um número de telefone válido"
 "Please specify a valid mobile number","Por favor especifique um número de celular válido"
