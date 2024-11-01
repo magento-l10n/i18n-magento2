@@ -24,6 +24,6 @@
                     <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.
                 ","
                     Tijd in seconden tussen de widget-updates.
-                     <br/> Als dit niet is ingesteld, is dit gelijk aan 86400 seconden (24 uur). Om de widget onmiddellijk wilt bijwerken, kun je naar Cachebeheer gaan en de Blocks HTML cache legen.
+                     <br/> Als dit niet is ingesteld, is dit gelijk aan 86400 seconden (24 uur). Als je de widget onmiddellijk wilt bijwerken dan kun je naar Cachebeheer gaan en de Blocks HTML cache legen.
                      <br/> Widget geeft geen producten weer die beginnen aan de opgegeven voorwaarden totdat het cachegeheugen is vernieuwd.
                 "
