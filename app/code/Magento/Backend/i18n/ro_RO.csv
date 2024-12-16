@@ -520,7 +520,7 @@
 "Invalid security or form key. Please refresh the page.","Cheie securitate sau formular nevalidă. Vă rugăm să reîmprospătați pagina."
 "An item needs to be selected. Select and try again.","Un element trebuie să fie selectat. Selectați și încercați din nou."
 "These cache type(s) don't exist: %1","Aceste tip(uri) de cache nu există: %1"
-"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","Înregistrarea contului a fost incorectă sau contul dvs. este dezactivat temporar. Vă rugăm să așteptați și să încercați din nou mai târziu."
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","Autentificarea contului a fost incorectă sau contul dvs. este dezactivat temporar. Vă rugăm să așteptați și să încercați din nou mai târziu."
 "An authentication error occurred. Verify and try again.","A apărut o eroare de autentificare. Verificați și încercați din nou."
 "The Admin session lifetime is invalid. Set the lifetime to 31536000 seconds (one year) or shorter and try again.","Durata de viață a sesiunii de Admin este invalidă. Setați durata de viață la 31536000 secunde (un an) sau mai scurt și încercați din nou."
 "The Admin session lifetime is invalid. Set the lifetime to 60 seconds or longer and try again.","Durata de viata a sesiunii de Admin este invalida. Setati durata de viata la 60 de secunde sau mai mare si incercati din nou."

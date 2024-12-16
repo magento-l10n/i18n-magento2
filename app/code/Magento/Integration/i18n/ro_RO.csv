@@ -141,7 +141,7 @@
 "Period of time in seconds after which account will be unlocked.","Period of time in seconds after which account will be unlocked."
 "The integrations created in the config file can't be edited.","The integrations created in the config file can't be edited."
 "A consumer with ""%1"" ID doesn't exist. Verify the ID and try again.","A consumer with ""%1"" ID doesn't exist. Verify the ID and try again."
-"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later."
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","Autentificarea contului a fost incorectă sau contul dvs. este dezactivat temporar. Vă rugăm să așteptați și să încercați din nou mai târziu."
 "The tokens couldn't be revoked.","The tokens couldn't be revoked."
 "An error occurred during the attempt to grant permissions. For details, see the exceptions log.","An error occurred during the attempt to grant permissions. For details, see the exceptions log."
 """%fieldName"" is required. Enter and try again.","""%fieldName"" is required. Enter and try again."
