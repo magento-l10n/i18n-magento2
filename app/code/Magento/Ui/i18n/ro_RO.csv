@@ -206,7 +206,7 @@
 "Search","Căutare"
 "Please enter 6 or more characters. Leading or trailing spaces will be ignored.","Please enter 6 or more characters. Leading or trailing spaces will be ignored."
 "ui/grid/filters/elements/select","ui/grid/filters/elements/select"
-"Please enter a quantity greater than 0.","Please enter a quantity greater than 0."
+"Please enter a quantity greater than 0.","Te rog introdu o cantitate mai mare de 0."
 "The fewest you may purchase is %1.","Cantitatea minimă de achiziție este de %1."
 "The maximum you may purchase is %1.","The maximum you may purchase is %1."
 "You can buy this product only in quantities of %1 at a time.","You can buy this product only in quantities of %1 at a time."
