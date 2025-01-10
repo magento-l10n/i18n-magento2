@@ -17,7 +17,7 @@
 "You need more permissions to save this setting.","Você precisa de mais permissões para salvar essa configuração."
 "Role Scopes","Escopos da Regra"
 "Custom","Personalizado"
-"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view"
+"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","Você não tem permissão para salvar no escopo da visão de loja atual, por favor troque para uma visão de loja permitida"
 "More permissions are needed to delete the ""%1"" item.","Mais permissões são necessárias para excluir o item ""%1""."
 "This entity needs to be assigned to a store view. Verify the entity assignment and try again.","Esta entidade necessita ser atribuída a uma visão da loja. Verifique a atribuição da entidade e tente novamente."
 "Orders can only be completed in an active store. Verify the store and try again.","Pedidos apenas podem ser completados em lojas ativas. Verifique a loja e tente novamente."
