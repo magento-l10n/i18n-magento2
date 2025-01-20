@@ -1,22 +1,22 @@
 "Subscription status","Abonnementsstatus"
 "Sorry, there has been an error processing your request. Please try again later.","Desværre, der er sket en fejl under behandling af din anmodning. Prøv igen senere."
-"Time value has an unsupported format","Time value has an unsupported format"
+"Time value has an unsupported format","Tidsværdien har et ikke-understøttet format"
 "Cron settings can't be saved","Cron indstillinger kan ikke gemmes"
 "There was an error save new configuration value.","Der opstod en fejl da ny konfigurationsværdien skulle gemmes."
-"Please select a vertical.","Please select a vertical."
+"Please select a vertical.","Vælg venligst en lodret."
 "--Please Select--","--Vælg--"
-"Command was not found.","Command was not found."
-"Input data must be string or convertible into string.","Input data must be string or convertible into string."
-"Input data must be non-empty string.","Input data must be non-empty string."
-"Not valid cipher method.","Not valid cipher method."
-"Encryption key can't be empty.","Encryption key can't be empty."
-"Source ""%1"" is not exist","Source ""%1"" is not exist"
+"Command was not found.","Kommando blev ikke fundet."
+"Input data must be string or convertible into string.","Input-data skal være en streng eller være konverterbar til en streng."
+"Input data must be non-empty string.","Input-data skal være en ikke-tom streng."
+"Not valid cipher method.","Ikke gyldig cipher metode."
+"Encryption key can't be empty.","Krypteringsnøgle må ikke være tom."
+"Source ""%1"" is not exist","Kilde ""%1"" findes ikke"
 "These arguments can't be empty ""%1""","Disse argumenter må ikke være tomme ""%1"""
 "Cannot find predefined integration user!","Kan ikke finde foruddefinerede integrationsbruger!"
 "File is not ready yet.","Filen er ikke klar endnu."
 "Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Din Base URL-adresse er blevet ændret og dine rapporter opdateres. Avancerede rapporter vil være tilgængelige når denne ændring er blevet behandlet. Prøv igen senere."
 "Failed to synchronize data to the Magento Business Intelligence service. ","Ikke kunne synkronisere data til tjenesten Magento Business Intelligence. "
-"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Retry Synchronization</a>"
+"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Forsøg at synkronisere igen</a>"
 "TestMessage","TestBesked"
 "Apps and Games","Apps og spil"
 "Athletic/Sporting Goods","Atletisk/sports varer"
@@ -32,10 +32,10 @@
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
                 ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>.","This service provides a dynamic suite of reports with rich insights about your business.
-                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>."
+                terms and conditions</a>.","Denne service giver en dynamisk suite af rapporter med omfattende indsigt om din virksomhed.
+                Dine rapporter kan tilgås sikkert på et personligt dashboard udenfor admin-panelet, ved at klikke på linket
+                ""Gå til avanceret rapportering"". </br> For mere information, se vores <a href=""https://magento.com/legal/terms/cloud-terms"">
+                forretningsbetingelser</a>."
 "Advanced Reporting Service","Avanceret rapport service"
 "Time of day to send data","Tidspunkt på dagen at sende data"
 "Industry","Industri"
