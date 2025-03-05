@@ -1,7 +1,7 @@
 "All","Tous"
 "None","Aucun"
 "Allowed Scopes","Portées autorisées"
-"You need more permissions to delete this item(s): %1.","Vous avez besoin de plus de permissions pour supprimer ce(s) élément(s) : %1."
+"You need more permissions to delete this item(s): %1.","."
 "You need more permissions to apply some of the rule updates.","Permissions insuffisantes pour appliquer certaines règles de mises à jour."
 "Please assign this entity to a store view.","Veuillez assigner cette entité à une vue magasin."
 "You can create orders only in an active store.","Vous ne pouvez créer des commandes que dans une boutique active."
