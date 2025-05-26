@@ -4,7 +4,7 @@
 "You need more permissions to delete this item(s): %1.","You need more permissions to delete this item(s): %1."
 "You need more permissions to apply some of the rule updates.","تحتاج إلى مزيد من الصلاحيات لتطبيق بعض تحديثات القاعدة."
 "Please assign this entity to a store view.","Please assign this entity to a store view."
-"You can create orders only in an active store.","You can create orders only in an active store."
+"You can create orders only in an active store.",""
 "Please assign this item to a store view.","Please assign this item to a store view."
 "You need more permissions to save this item.","You need more permissions to save this item."
 "You need more permissions to delete this item.","You need more permissions to delete this item."
