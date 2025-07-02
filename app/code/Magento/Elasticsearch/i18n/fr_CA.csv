@@ -10,4 +10,4 @@
 "Elasticsearch HTTP Password","Mot de passe HTTP Elasticsearch"
 "Elasticsearch Server Timeout","Délai d'expiration du serveur Elasticsearch"
 "Test Connection","Tester la connexion"
-"We were unable to perform the search because of a search engine misconfiguration.","We were unable to perform the search because of a search engine misconfiguration."
+"We were unable to perform the search because of a search engine misconfiguration.","Impossible d’exécuter la recherche à cause d'une mauvaise configuration du moteur de recherche."

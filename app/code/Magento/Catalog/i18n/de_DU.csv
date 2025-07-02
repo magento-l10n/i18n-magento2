@@ -330,7 +330,7 @@
 "Disabled","Deaktiviert"
 "Attribute Set already exists.","Dieses Attribut-Set ist bereits vorhanden."
 "We couldn't copy file %1. Please delete media with non-existing images and try again.","Wir konnten die Datei %1 nicht kopieren. Löschen Sie Medien mit nicht vorhandenen Bildern und versuchen Sie es erneut."
-"The image content is not valid.","The image content is not valid."
+"The image content is not valid.","Der Bildinhalt ist nicht gültig."
 "Cannot save product.","Cannot save product."
 "Failed to save new media gallery entry.","Failed to save new media gallery entry."
 "There is no image with provided ID.","There is no image with provided ID."

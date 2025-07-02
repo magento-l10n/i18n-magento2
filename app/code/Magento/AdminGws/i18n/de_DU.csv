@@ -14,7 +14,7 @@
 "Incorrect website ID: %1","Incorrect website ID: %1"
 "You need more permissions to access website ""%1"".","Sie benötigen weitere Berechtigungen, um auf die Website ""%1"" zugreifen zu können."
 "Incorrect store ID: %1","Incorrect store ID: %1"
-"You need more permissions to save this setting.","You need more permissions to save this setting."
+"You need more permissions to save this setting.","Sie brauchen weitere Berechtigungen, um diese Einstellung zu speichern."
 "Role Scopes","Bereich der Rolle"
 "Custom","Benutzerdefiniert"
 "You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view"
