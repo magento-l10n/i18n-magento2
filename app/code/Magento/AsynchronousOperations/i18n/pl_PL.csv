@@ -4,7 +4,7 @@
 "'Action Details - #' .","'Szczegóły akcji - #'."
 "%1 item(s) have been scheduled for update.""","%1 elementy zostały zaplanowane dla aktualizacji."""
 "Bulk Actions Log","Masowe przetwarzanie"
-"Bulk uuid %bulkUuid not exist","Bulk uuid %bulkUuid not exist"
+"Bulk uuid %bulkUuid not exist","Nie istnieje masowy uuid %bulkUuid"
 "Topic %1","Temat %1"
 "Something went wrong while processing the request.","Coś poszło nie tak podczas przetwarzania zapytania."
 "Error processing %key element of input data","Błąd przetwarzania elementu %key danych wejściowych"
