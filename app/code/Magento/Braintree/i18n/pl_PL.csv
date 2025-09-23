@@ -196,7 +196,7 @@
 "Shipment","Dostawa"
 "Invalid Customer ID provided","Zapewniono nieprawidłowy identyfikator klienta"
 "some error","błąd"
-"a,b,c","a,b,c"
+"a,b,c","a, b, c"
 "Something went wrong while processing.","Coś się zepsuło podczas przetwarzania."
 "error","błąd"
 "exception","wyjątek"
@@ -244,32 +244,32 @@
 "Braintree Settlement","Rozliczenie Braintree"
 "If you don't specify the merchant account to use to process a transaction, Braintree will process it using your default merchant account.","Jeśli nie wybierzesz konkretnego konta do procesowania transakcji, Braintree wykona zlecenie używając konta domyślnego."
 "Be sure to Enable Advanced Fraud Protection in Your Braintree Account in Settings/Processing Section","Upewnij się, że funkcja Advanced Fraud Protection w sekcji Ustawienia/Procesowanie twojego konta Braintree jest uruchomiona."
-"Used for direct fraud tool integration. Make sure you also contact <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> to setup your Kount account.","Used for direct fraud tool integration. Make sure you also contact <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> to setup your Kount account."
-"Be sure to Enable AVS and/or CVV in Your Braintree Account in Settings/Processing Section.","Be sure to Enable AVS and/or CVV in Your Braintree Account in Settings/Processing Section."
+"Used for direct fraud tool integration. Make sure you also contact <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> to setup your Kount account.","Używany do bezpośredniej integracji narzędzia do oszustw. Upewnij się również, że skontaktowałeś się z <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a>, aby skonfigurować swoje konto Kount."
+"Be sure to Enable AVS and/or CVV in Your Braintree Account in Settings/Processing Section.","Pamiętaj, aby włączyć AVS i/lub CVV na swoim koncie Braintree w sekcji Ustawienia/Przetwarzanie."
 "It is recommended to set this value to ""PayPal"" per store views.","Zalecane jest ustawienia tej wartości na ""PayPal"" na każy widok sklepu."
-"This feature needs be enabled first for the merchant account through PayPal technical support.","This feature needs be enabled first for the merchant account through PayPal technical support."
+"This feature needs be enabled first for the merchant account through PayPal technical support.","Funkcję tę należy najpierw włączyć dla konta sprzedawcy za pośrednictwem pomocy technicznej PayPal."
 "Also affects mini-shopping cart.","Również dotyczy mini-koszyka."
 "Dynamic descriptors are sent on a per-transaction basis and define what will appear on your customers credit card statements for a specific purchase.
                             The clearer the description of your product, the less likely customers will issue chargebacks due to confusion or non-recognition.
                             Dynamic descriptors are not enabled on all accounts by default. If you receive a validation error of 92203 or if your dynamic descriptors are not displaying as expected,
-                            please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>.","Dynamic descriptors are sent on a per-transaction basis and define what will appear on your customers credit card statements for a specific purchase.
-                            The clearer the description of your product, the less likely customers will issue chargebacks due to confusion or non-recognition.
-                            Dynamic descriptors are not enabled on all accounts by default. If you receive a validation error of 92203 or if your dynamic descriptors are not displaying as expected,
-                            please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>."
+                            please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>.","Dynamiczne deskryptory są wysyłane dla każdej transakcji i definiują, co pojawi się na wyciągu z karty kredytowej klienta dla konkretnego zakupu.
+                            Im jaśniejszy opis produktu, tym mniejsze prawdopodobieństwo, że klienci dokonają obciążenia zwrotnego z powodu pomyłki lub braku rozpoznania.
+                            Dynamiczne deskryptory nie są domyślnie włączone na wszystkich kontach. Jeśli otrzymasz błąd walidacji 92203 lub jeśli dynamiczne deskryptory nie wyświetlają się zgodnie z oczekiwaniami,
+                            prosimy o <a href=""mailto:support@getbraintree.com"">wsparcie Braintree</a>."
 "The value in the business name field of a customer's statement. Company name/DBA section must be either 3, 7 or 12 characters
-                                and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters).","The value in the business name field of a customer's statement. Company name/DBA section must be either 3, 7 or 12 characters
-                                and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters)."
-"The value in the phone number field of a customer's statement. Phone must be 10-14 characters and can only contain numbers, dashes, parentheses and periods.","The value in the phone number field of a customer's statement. Phone must be 10-14 characters and can only contain numbers, dashes, parentheses and periods."
-"The value in the URL/web address field of a customer's statement. The URL must be 13 characters or shorter.","The value in the URL/web address field of a customer's statement. The URL must be 13 characters or shorter."
-"The Payment Token is not available to perform the request.","The Payment Token is not available to perform the request."
-"Checkout failed to initialize. Verify and try again.","Checkout failed to initialize. Verify and try again."
+                                and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters).","Wartość w polu nazwy firmy na wyciągu klienta. Sekcja nazwy firmy/DBA musi składać się z 3, 7 lub 12 znaków
+                                a deskryptor produktu może składać się odpowiednio z maksymalnie 18, 14 lub 9 znaków (z * pomiędzy, aby całkowita nazwa deskryptora wynosiła 22 znaki)."
+"The value in the phone number field of a customer's statement. Phone must be 10-14 characters and can only contain numbers, dashes, parentheses and periods.","Wartość w polu numeru telefonu na wyciągu klienta. Telefon musi składać się z 10-14 znaków i może zawierać tylko cyfry, myślniki, nawiasy i kropki."
+"The value in the URL/web address field of a customer's statement. The URL must be 13 characters or shorter.","Wartość w polu adresu URL/adresu internetowego wyciągu klienta. Adres URL musi składać się z 13 lub mniej znaków."
+"The Payment Token is not available to perform the request.","Token płatności nie jest dostępny do wykonania żądania."
+"Checkout failed to initialize. Verify and try again.","Nie udało się zainicjować kasy. Sprawdź i spróbuj ponownie."
 "The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","Zamówienie nie zostało złożone. Zaakceptuj warunki sprzedaży i spróbuj ponownie."
 "Paypal account","Konto PayPal"
 "Coinbase account","Coinbase konto"
 "Europe bank account","Rachunek bankowy w Europie"
 "Credit card","Karta kredytowa"
-"Apple pay card","Apple pay card"
-"Android pay card","Android pay card"
+"Apple pay card","Karta Apple Pay"
+"Android pay card","Karta płatnicza Android"
 "Authorization expired","Autoryzacja wygasła"
 "Authorizing","Autoryzowanie"
 "Authorized","Upoważniony"
@@ -286,4 +286,4 @@
 "Settlement confirmed","Rozliczenie potwierdzone"
 "Sale","Sprzedaż"
 "Credit","Kredyt"
-"Vault enabled","Vault enabled"
+"Vault enabled","Vault włączony"
