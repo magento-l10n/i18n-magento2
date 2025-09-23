@@ -1,7 +1,7 @@
 "No New Relic Application ID configured, cannot continue with Cron Event reporting","Nie można raportować zdarzeń Crona, ponieważ nie skonfigurowano identyfikatora aplikacji New Relic"
 "The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
-                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
-                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>."
+                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","Integracja New Relic wymaga agenta newrelic-php5, który nie jest zainstalowany. Więcej
+                        informacji na temat instalacji agenta można znaleźć <a target=""_blank"" href=""%1"">tutaj</a>."
 "New Relic Reporting Section","Dział raportowania New Relic"
 "New Relic Reporting","Raportowanie New Relic"
 "General","Ogólne"
@@ -21,5 +21,5 @@
 "This is located by navigating to Settings from the New Relic APM website","To znajduje się przechodząc do ustawień ze strony nowych Relic APM"
 "Cron","Cron"
 "Enable Cron","Włączyć Cron"
-"Send Adminhtml and Frontend as Separate Apps","Send Adminhtml and Frontend as Separate Apps"
-"In addition to the main app (which includes all PHP execution), separate apps for adminhtml and frontend will be created. Requires New Relic Application Name to be set.","In addition to the main app (which includes all PHP execution), separate apps for adminhtml and frontend will be created. Requires New Relic Application Name to be set."
+"Send Adminhtml and Frontend as Separate Apps","Wyślij Adminhtml i Frontend jako oddzielne aplikacje"
+"In addition to the main app (which includes all PHP execution), separate apps for adminhtml and frontend will be created. Requires New Relic Application Name to be set.","Oprócz głównej aplikacji (która obejmuje całe wykonanie PHP), zostaną utworzone oddzielne aplikacje dla adminhtml i frontend. Wymaga ustawienia nazwy aplikacji New Relic."

@@ -2,8 +2,8 @@
 "Filterable (with results)","Filtrowalne (z wynikami)"
 "Filterable (no results)","Filtrowalne (bez wyników)"
 "Use in Layered Navigation","Zastosuj w warstwowej nawigacji"
-"Can be used only with catalog input type Dropdown, Multiple Select and Price","Can be used only with catalog input type Dropdown, Multiple Select and Price"
-"Can be used only with catalog input type Dropdown, Multiple Select and Price.","Can be used only with catalog input type Dropdown, Multiple Select and Price."
+"Can be used only with catalog input type Dropdown, Multiple Select and Price","Może być używany tylko z danymi wejściowymi katalogu typu Dropdown, Multiple Select i Price."
+"Can be used only with catalog input type Dropdown, Multiple Select and Price.","Może być używany tylko z danymi wejściowymi katalogu typu Dropdown, Multiple Select i Price."
 "Use in Search Results Layered Navigation","Używane w warstwowej nawigacji wyników wyszukiwania"
 "Position","Pozycja"
 "Position in Layered Navigation","Pozycja w warstwowej nawigacji"
@@ -27,12 +27,12 @@
 "This setting will be applied when all prices in the specific price interval are equal.","Ustawienie zostanie zastosowane kiedy wszystkie ceny w okreslonym przedziale są równe."
 "Interval Division Limit","Limit wewnętrznego podziału"
 "Please specify the number of products, that will not be divided into subintervals.","Prosimy sprecyzowac ilość produktów, które nie będą dzielona na podprzedziały."
-"Position of attribute in layered navigation block","Position of attribute in layered navigation block"
-"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price"
+"Position of attribute in layered navigation block","Pozycja atrybutu w warstwowym bloku nawigacyjnym"
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price","Może być używany tylko z danymi wejściowymi katalogu typu Tak/Nie, Kropla, Wybór wielokrotny i Cena."
 "Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
                     <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
-                     it will make no affect on Price filter.","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
-                    <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
-                     it will make no affect on Price filter."
-"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price."
-"Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price.","Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price."
+                     it will make no affect on Price filter.","Może być używany tylko z danymi wejściowymi katalogu typu Tak/Nie, Rozwijane, Wielokrotny wybór i Cena.
+                    <br>Cena nie jest kompatybilna z opcją <b>'Filtrowanie (brak wyników)'</b> - nie będzie ona miała wpływu na filtrowanie ceny.
+                     nie będzie ona miała wpływu na filtr ceny."
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.","Może być używany tylko z danymi wejściowymi katalogu typu Tak/Nie, Rozwijane, Wielokrotny wybór i Cena."
+"Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price.","Może być używany tylko z danymi wejściowymi katalogu typu Tak/Nie (Boolean), Dropdown, Multiple Select i Price."
