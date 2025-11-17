@@ -48,3 +48,4 @@ More,More
 "Sending swatch values as package.","Sending swatch values as package."
 "Addtional data is wrong and cannot be assembled","Addtional data is wrong and cannot be assembled"
 "Addtional data is wrong and cannot be populated","Addtional data is wrong and cannot be populated"
+"The value of Admin must be unique. (%1)","The value of Admin must be unique. (%1)"

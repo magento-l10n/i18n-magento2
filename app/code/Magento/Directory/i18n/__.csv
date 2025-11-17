@@ -55,3 +55,6 @@ Service,Service
 "The country isn't available.","The country isn't available."
 "The import model can't be initialized. Verify the model and try again.","The import model can't be initialized. Verify the model and try again."
 "Currency Converter API","Currency Converter API"
+                        Base currency is used for all online payment transactions. The base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").
+                    ","
+"No API Key was specified.","No API Key was specified."
