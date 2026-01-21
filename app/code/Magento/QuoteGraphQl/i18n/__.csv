@@ -39,3 +39,5 @@
 "Required parameter ""cart_item_id"" for ""cart_items"" is missing.","Required parameter ""cart_item_id"" for ""cart_items"" is missing."
 "Required parameter ""quantity"" for ""cart_items"" is missing.","Required parameter ""quantity"" for ""cart_items"" is missing."
 "Could not find cart item with id: %1.","Could not find cart item with id: %1."
+"The requested qty. is not available","The requested qty. is not available"
+"Unable to place order: %message","Unable to place order: %message"
