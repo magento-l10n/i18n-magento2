@@ -12,7 +12,7 @@
 "authorize and capture","valtuuta ja talteenota"
 "capture","talteenota"
 "refund","hyvitä"
-"void","mitätön"
+"void","mitätöi"
 "Gateway error: %1","Gateway-virhe: %1"
 "Something went wrong in the payment gateway.","Maksukäytävässä tapahtui virhe."
 "Invalid amount for capture.","Virheellinen hyvityssumma."
