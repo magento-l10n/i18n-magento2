@@ -665,7 +665,7 @@
 "Shipping Info","Shipping Info"
 "Update to your %store_name credit memo","Update to your %store_name credit memo"
 "Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Comanda dumneavoastră #%increment_id a fost actualizată la statusul de <strong>%order_status</strong>."
-"Invoice for your %store_name order","Invoice for your %store_name order"
+"Invoice for your %store_name order","Factura pentru comanda ta la %store_name"
 "Your Invoice #%invoice_id for Order #%order_id","Factura dumneavoastră #%invoice_id pentru Comanda #%order_id"
 "Update to your %store_name invoice","Update to your %store_name invoice"
 "Your %store_name order confirmation","Your %store_name order confirmation"
