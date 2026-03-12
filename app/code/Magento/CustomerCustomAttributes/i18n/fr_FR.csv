@@ -141,7 +141,7 @@
 "Default Values","Valeurs par défaut"
 "Fax","Fax"
 "Default Billing Address","Adresse de facturation par défaut"
-"Default Shipping Address","Adresse d'expédition par défaut"
+"Default Shipping Address","Adresse de livraison par défaut"
 "Comma separated. Forbidden file extensions: %1.","Séparé par des virgules. Extensions de fichiers interdites : %1."
 "The attribute couldn't be saved due to an error. Verify your information and try again. If the error persists, please try again later.","Une erreur empêche la sauvegarde de l'attribut. Vérifiez vos informations et réessayez. Si l'erreur persiste, veuillez réessayer plus tard."
 "Please correct the value for file extensions.","Veuillez corriger la valeur pour les extensions de fichier."
