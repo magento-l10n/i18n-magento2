@@ -16,7 +16,7 @@
 "This name is already being used for custom option. Please enter a different name.","Acest nume este deja folosit pentru o opţiune personalizată. Vă rugăm să introduceţi un nume diferit."
 "Custom options have different types.","Opțiunile personalizate au tipuri diferite."
 "Every option entity must have a parent product entity.","Fiecare entitate trebuie să aibă o entitate părinte."
-"Please correct the parameters.","Vă rugăm să corectaţi parametrii."
+"Please correct the parameters.","Vă rugăm să corectați parametrii."
 "File '%1' was not found or has read restriction.","Fișierul '%1' nu a fost găsit sau are restricții de citire."
 "Entity type model must be an instance of Magento\CatalogImportExport\Model\Import\Product\Type\AbstractType","Entity type model must be an instance of Magento\CatalogImportExport\Model\Import\Product\Type\AbstractType"
 "Entity type model must be an instance of '%1'","Entity type model must be an instance of '%1'"
