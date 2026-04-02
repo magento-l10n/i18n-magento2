@@ -4,7 +4,7 @@
 """path"" value should be specified","Valoarea ""cale"" trebuie specificată"
 "currentPage value %1 specified is greater than the number of pages available.","valoarea paginii curente %1 specificată este mai mare decât numărul de pagini disponibile."
 """id for category should be specified","""Id-ul pentru categorie ar trebui specificat"
-"No child sku found for product link.","Nici un sku copil nu a fost găsit pentru link-ul produsului."
+"No child sku found for product link.","Nici un SKU copil nu a fost găsit pentru link-ul produsului."
 "'search' or 'filter' input argument is required.","Argumentul ""căutare"" sau ""filtru"" este necesar."
 "SimpleProduct type not defined in schema.","Tip de produs simplu nedefinit în schemă."
 "'category_id' only supports 'eq' condition type.","'category_id' acceptă doar tipul de condiție 'eq'."
