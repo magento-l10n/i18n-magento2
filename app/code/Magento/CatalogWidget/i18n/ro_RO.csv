@@ -16,7 +16,7 @@
 "Template","Şablon"
 "Products Grid Template","Șablon grilă produse"
 "Cache Lifetime (Seconds)","Durata Cache (Secunde)"
-"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 în mod implicit, dacă nu este setat. Pentru a reîmprospăta instantaneu, şterge memoria cache de ieşire HTML."
+"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 în mod implicit, dacă nu este setat. Pentru a reîmprospăta instantaneu, șterge memoria cache de ieșire HTML."
 "Conditions","Condiții"
 "
                     Time in seconds between the widget updates.
