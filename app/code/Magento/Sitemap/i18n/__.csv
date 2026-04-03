@@ -64,3 +64,6 @@ ID,ID
 "Link for Google","Link for Google"
 "Last Generated","Last Generated"
 Action,Action
+"example: ""/media/sitemap/"" for base path (path must be writeable)","example: ""/media/sitemap/"" for base path (path must be writeable)"
+"One or more sitemap generation errors occurred: %1","One or more sitemap generation errors occurred: %1"
+"Store Url Options","Store Url Options"
