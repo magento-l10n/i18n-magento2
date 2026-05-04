@@ -1,22 +1,22 @@
 "Subscription status","Status pretplate"
 "Sorry, there has been an error processing your request. Please try again later.","Izvinite, dogodila se greška pri obradi vašeg zahteva. Pokušajte ponovo kasnije."
-"Time value has an unsupported format","Time value has an unsupported format"
+"Time value has an unsupported format","Vrednost za vreme sadrži nepodržani format"
 "Cron settings can't be saved","Podešavanje Kron-a ne može biti sačuvano"
 "There was an error save new configuration value.","Došlo je do greške pri snimanju novih konfiguracionih vrednosti."
-"Please select a vertical.","Please select a vertical."
+"Please select a vertical.","Molimo izabrati uspravno."
 "--Please Select--","--- Molimo odaberite ---"
-"Command was not found.","Command was not found."
-"Input data must be string or convertible into string.","Input data must be string or convertible into string."
-"Input data must be non-empty string.","Input data must be non-empty string."
-"Not valid cipher method.","Not valid cipher method."
-"Encryption key can't be empty.","Encryption key can't be empty."
-"Source ""%1"" is not exist","Source ""%1"" is not exist"
+"Command was not found.","Komanda nije pronađena."
+"Input data must be string or convertible into string.","Ulazni podatak mora biti znak ili podatak koji se može pretvoriti u znak."
+"Input data must be non-empty string.","Ulazni podatak ne sme biti prazan niz znakova."
+"Not valid cipher method.","Neispravna metoda za šifriranja."
+"Encryption key can't be empty.","Ključ za šifriranje ne može biti prazan."
+"Source ""%1"" is not exist","Ulazni podatak ""%1"" ne postoji"
 "These arguments can't be empty ""%1""","Ovi argumenti ne mogu biti prazni ""%1"""
 "Cannot find predefined integration user!","Nije moguće pronaći korisnički definisane integracije!"
 "File is not ready yet.","Datoteka još uvek nije spremna."
 "Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Tvoj osnovni URL je promenjen i izvještaji se ažuriraju. Više opcija za izveštavanje biće na raspolaganju kada ova promena bude obrađena. Pokušajte ponovo kasnije."
 "Failed to synchronize data to the Magento Business Intelligence service. ","Greška u sinhronizaciji podataka sa Magento poslovnim servisom inteligencije. "
-"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Retry Synchronization</a>"
+"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Pokušaj ponovo sinhronizaciju</a>"
 "TestMessage","Test poruka"
 "Apps and Games","Aplikacije i igre"
 "Athletic/Sporting Goods","Sportski/sportske opreme"
@@ -32,10 +32,9 @@
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
                 ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>.","This service provides a dynamic suite of reports with rich insights about your business.
-                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>."
+                terms and conditions</a>.","Ova usluga pruža dinamičan programski paket izveštavanja sa bogatim zapažanjem o vašem poslovanju.                 
+                Izveštaju se može pristupiti sigurno preko personalizovane stranice izvan admin panel tako što ćete kliknuti na vezu 
+                „Idi da više opcija za izveštavanje”. </br> Za više informacija, pogledajte naše <a href=""https://magento.com/legal/terms/cloud-terms""> termine i uslove.</a>."
 "Advanced Reporting Service","Napredna usluga izveštavanja"
 "Time of day to send data","Doba dana za slanje podataka"
 "Industry","Industrija"
