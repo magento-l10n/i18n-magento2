@@ -30,7 +30,7 @@
 "The payment review action is unavailable.","Acțiunea de revizuire plată nu este disponibilă."
 "The credit card number doesn't match the credit card type.","Numărul cardului de credit nu coincide cu tipul cardului de credit."
 "Invalid Credit Card Number","Număr card de credit nevalid."
-"This credit card type is not allowed for this payment method.","Acet tip de card de credit nu este acceptat pentru această modalitate de plată."
+"This credit card type is not allowed for this payment method.","Acest tip de card de credit nu este acceptat pentru această modalitate de plată."
 "Please enter a valid credit card verification number.","Introduceți un număr de verificare card de credit valid."
 "Please enter a valid credit card expiration date.","Introduceți o dată de expirare card de credit validă."
 "%1 class doesn't implement \Magento\Payment\Model\MethodInterface","Clasa %1 nu implementează \Magento\Plată\Model\InterfațăModalitate"
