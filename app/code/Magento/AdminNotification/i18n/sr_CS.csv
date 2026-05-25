@@ -27,7 +27,7 @@
 "Wrong message type","Pogrešna poruka"
 "Wrong notification ID specified.","Pogrešno navedena ID oznaka."
 "{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} se ne preporučuje za korišćenje u proizvodnom okruženju za opis osnovnog Nesigurnog URL/ Sigurnosnog URL. Zbog toga se preporučuje promena ove vrednosti u vaš Magento <a href=""%1"">konfiguraciju</a>."
-"One or more of the Cache Types are invalidated: %1. ","Jedan ili više tipova keša su poništeni: %1. "
+"One or more of the Cache Types are invalidated: %1. ","Jedan ili više tipova keša su poništeni: %1."
 "Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Idite na <a href=""%1"">za upravljanje kešom</a> i osvežite tipove keša."
 "We were unable to synchronize one or more media files. Please refer to the log file for details.","Nije bilo moguće sinhronizovati jednu ili više medijskih datoteka. Pogledajte dnevnik evidencije za detalje."
 "Synchronization of media storages has been completed.","Sinhronizacija skladišta medija je dovršeno."
