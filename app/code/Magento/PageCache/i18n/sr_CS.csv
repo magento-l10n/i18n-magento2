@@ -1,5 +1,5 @@
 "Export VCL for Varnish %1","Export VCL for Varnish %1"
-"Ttl value ""%1"" is not valid. Please use only numbers equal or greater than zero.","Ttl value ""%1"" is not valid. Please use only numbers equal or greater than zero."
+"Ttl value ""%1"" is not valid. Please use only numbers equal or greater than zero.","TTL vrednost ""%1"" nije važeća. Koristite samo brojeve veće ili jednake nuli."
 "Built-in Cache","Built-in Cache"
 "Varnish Cache (Recommended)","Varnish Cache (Recommended)"
 "Unsupported varnish version","Unsupported varnish version"
@@ -24,5 +24,5 @@
 "Built-in Application (Not Recommended for Production Use)","Built-in Application (Not Recommended for Production Use)"
 "Varnish Caching","Varnish Caching"
 "Full page caching.","Full page caching."
-"Access List value ""%1"" is not valid. Please use only IP addresses and host names.","Access List value ""%1"" is not valid. Please use only IP addresses and host names."
+"Access List value ""%1"" is not valid. Please use only IP addresses and host names.","Vrednost Access List ""%1"" nije važeća. Koristite samo IP adrese i imena hostova."
 "Export Configuration","Export Configuration"
