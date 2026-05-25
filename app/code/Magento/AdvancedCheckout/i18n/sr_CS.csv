@@ -100,7 +100,7 @@
 "SKU number","Šifra"
 "Upload File","Pošalji datoteku"
 "Your csv file must include ""sku"" and ""qty"" columns.","Vaša csv datoteka mora da sadrži kolone ""sku"" i ""qty""."
-"Reset","Reset"
+"Reset","Resetovati"
 "SKU: ","SKU:"
 "Only <span id=""%1_max_allowed"">%2</span> in stock","Samo <span id=""%1_max_allowed"">,%2</span> na lageru"
 "Item","Artikal"
