@@ -15,7 +15,7 @@
 "Cannot find predefined integration user!","Nije moguće pronaći korisnički definisane integracije!"
 "File is not ready yet.","Datoteka još uvek nije spremna."
 "Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Tvoj osnovni URL je promenjen i izvještaji se ažuriraju. Više opcija za izveštavanje biće na raspolaganju kada ova promena bude obrađena. Pokušajte ponovo kasnije."
-"Failed to synchronize data to the Magento Business Intelligence service. ","Greška u sinhronizaciji podataka sa Magento poslovnim servisom inteligencije. "
+"Failed to synchronize data to the Magento Business Intelligence service. ","Greška u sinhronizaciji podataka sa Magento poslovnim servisom inteligencije."
 "<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Pokušaj ponovo sinhronizaciju</a>"
 "TestMessage","Test poruka"
 "Apps and Games","Aplikacije i igre"
