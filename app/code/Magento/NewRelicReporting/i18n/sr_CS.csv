@@ -12,7 +12,7 @@
 "New Relic Account ID","New Relic Account ID"
 """Need a New Relic account? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Click here to get one","""Need a New Relic account? <a href=""http://www.newrelic.com/magento"" target=""_blank"">Click here to get one"
 "New Relic Application ID","New Relic Application ID"
-"This can commonly be found at the end of the URL when viewing the APM after ""/applications/""","This can commonly be found at the end of the URL when viewing the APM after ""/applications/"""
+"This can commonly be found at the end of the URL when viewing the APM after ""/applications/""","Ovo se obično nalazi na kraju URL-a kada gledate APM nakon ""/applications/"""
 "New Relic API Key","New Relic API Key"
 "This is located by navigating to Events -> Deployments from the New Relic APM website","This is located by navigating to Events -> Deployments from the New Relic APM website"
 "Insights API Key","Insights API Key"

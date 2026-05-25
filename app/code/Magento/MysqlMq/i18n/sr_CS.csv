@@ -1,6 +1,6 @@
 "Message has been rejected: %1","Poruka je odbijena: %1"
 "MySQL Message Queue Cleanup","MySQL Message Queue Cleanup"
-"All the times are in minutes. Use ""0"" if you want to skip automatic clearance.","All the times are in minutes. Use ""0"" if you want to skip automatic clearance."
+"All the times are in minutes. Use ""0"" if you want to skip automatic clearance.","Sva vremena su u minutima. Koristite ""0"" ako želite da preskočite automatsko čišćenje."
 "Retry Messages In Progress After","Retry Messages In Progress After"
 "Successful Messages Lifetime","Successful Messages Lifetime"
 "Failed Messages Lifetime","Failed Messages Lifetime"
