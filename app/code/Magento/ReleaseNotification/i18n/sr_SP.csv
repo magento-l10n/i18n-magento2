@@ -1,8 +1,8 @@
 "It is impossible to log user action","It is impossible to log user action"
-"Error message","Error message"
-"An error occurred while logging process.","An error occurred while logging process."
-"Release Notification","Release Notification"
-"What’s new with Magento 2.2.4","What’s new with Magento 2.2.4"
+"Error message","Порука грешке"
+"An error occurred while logging process.","Дошло је до грешке wхиле логгинг процесс."
+"Release Notification","Релеасе Обавештење"
+"What’s new with Magento 2.2.4","Шта је ново у Магенто 2.2.4"
 "
                         <p>Magento 2.2.4 provides powerful new tools to help reduce cart abandonment and simplify store operations:</p>
                         <br />
@@ -20,23 +20,23 @@
                         </div>
                         <p>To learn more, see the <a href=""http://devdocs.magento.com/guides/v2.2/release-notes/bk-release-notes.html"" target=""_blank"">Release Notes</a> and the <a href=""http://docs.magento.com/m2/ce/user_guide/getting-started.html"" target=""_blank"">Magento User Guide</a>.</p>
                         ","
-                        <p>Magento 2.2.4 provides powerful new tools to help reduce cart abandonment and simplify store operations:</p>
-                        <br />
-                        <div class=""trusted-payments-highlight"">
-                        <h3>Trusted Payment Options</h3>
-                        <p>Online or on the go, your shoppers can easily purchase in a familiar, trusted way with Amazon Pay.</p>
-                        </div>
-                        <div class=""flexible-payments-highlight"">
-                        <h3>Flexible Payment Terms</h3>
-                        <p>Increase sales by providing shoppers with the flexibility to pay now, later, or in installments using Klarna&#8217;s integrated payment option.</p>
-                        </div>
-                        <div class=""tax-automation-highlight"">
-                        <h3>Sales and Use Tax Automation</h3>
-                        <p>Merchants can now automatically perform instant and accurate sales tax calculations on shopping cart items with Vertex Cloud.</p>
-                        </div>
-                        <p>To learn more, see the <a href=""http://devdocs.magento.com/guides/v2.2/release-notes/bk-release-notes.html"" target=""_blank"">Release Notes</a> and the <a href=""http://docs.magento.com/m2/ce/user_guide/getting-started.html"" target=""_blank"">Magento User Guide</a>.</p>
+                        <п>Магенто 2.2.4 пружа моћне нове алате који помажу у смањењу напуштања корпе и поједностављују операције продавнице:</п>
+                        <бр />
+                        <див цласс=""трустед-паyментс-хигхлигхт"">
+                        <х3>Поуздане опције плаћања</х3>
+                        <п>Онлине или у покрету, ваши купци могу лако купити на познат, поуздан начин са Амазон Паy.</п>
+                        </див>
+                        <див цласс=""флеxибле-паyментс-хигхлигхт"">
+                        <х3>Флексибилни услови плаћања</х3>
+                        <п>Повећајте продају пружајући купцима флексибилност да плате сада, касније, или на рате користећи Кларна интегрисану опцију плаћања.</п>
+                        </див>
+                        <див цласс=""таx-аутоматион-хигхлигхт"">
+                        <х3>Аутоматизација пореза на промет</х3>
+                        <п>Трговци сада могу аутоматски да извршавају тренутне и тачне обрачуне пореза на промет на ставке у корпи са Вертеx Цлоуд.</п>
+                        </див>
+                        <п>Да сазнате више, погледајте <а хреф=""хттп://девдоцс.магенто.цом/гуидес/в2.2/релеасе-нотес/бк-релеасе-нотес.хтмл"" таргет=""_бланк"">Белешке о издању</а> анд тхе <а хреф=""хттп://доцс.магенто.цом/м2/це/усер_гуиде/геттинг-стартед.хтмл"" таргет=""_бланк"">Магенто кориснички водич</а>.</п>
                         "
-"Trusted Payment Options","Trusted Payment Options"
+"Trusted Payment Options","Трустед Плаћање Оптионс"
 "<p>With <a href=""http://docs.magento.com/m2/ce/user_guide/payment/amazon-pay.html"" target=""_blank"">Amazon Pay</a>, we make it simple for the hundreds of millions of Amazon customers worldwide to easily log in and purchase from your store using information already stored their Amazon account. With easy setup in Magento 2.2.4, Amazon Pay provides your customers with a trusted and familiar checkout experience. In just a few taps, they can complete a transaction without ever leaving your site.</p>
                         <ul>
                         <li><span>Your customers use one familiar login to identify themselves and transact anywhere Amazon Pay is offered.</span></li>
@@ -44,15 +44,15 @@
                         <li><span>Built on years of Amazon eCommerce innovation, and trusted by merchants and buyers alike.</span></li>
                         <li><span>Available across platforms and devices, in the home and on the go.</span></li>
                         </ul>
-                        ","<p>With <a href=""http://docs.magento.com/m2/ce/user_guide/payment/amazon-pay.html"" target=""_blank"">Amazon Pay</a>, we make it simple for the hundreds of millions of Amazon customers worldwide to easily log in and purchase from your store using information already stored their Amazon account. With easy setup in Magento 2.2.4, Amazon Pay provides your customers with a trusted and familiar checkout experience. In just a few taps, they can complete a transaction without ever leaving your site.</p>
-                        <ul>
-                        <li><span>Your customers use one familiar login to identify themselves and transact anywhere Amazon Pay is offered.</span></li>
-                        <li><span>Checkout experience is covered by the Amazon A-to-z Guarantee at no additional cost.</span></li>
-                        <li><span>Built on years of Amazon eCommerce innovation, and trusted by merchants and buyers alike.</span></li>
-                        <li><span>Available across platforms and devices, in the home and on the go.</span></li>
-                        </ul>
+                        ","<п>Wитх <а хреф=""хттп://доцс.магенто.цом/м2/це/усер_гуиде/паyмент/амазон-паy.хтмл"" таргет=""_бланк"">Амазон Паy</а>, Чинимо једноставним за стотине милиона Амазон купаца широм света да се лако пријаве и купе из ваше продавнице користећи информације које су већ сачуване у њиховом Амазон налогу. Уз једноставно подешавање у Магенто 2.2.4, Амазон Паy пружа вашим купцима поуздано и познато искуство наплате. У само неколико додира, могу завршити трансакцију без напуштања вашег сајта.</п>
+                        <ул>
+                        <ли><спан>Ваши купци користе један познати логин да се идентификују и обављају трансакције било где где је Амазон Паy доступан.</спан></ли>
+                        <ли><спан>Искуство наплате је покривено Амазон А-то-з гарантијом без додатних трошкова.</спан></ли>
+                        <ли><спан>Изграђено на годинама Амазон еЦоммерце иновација, и поуздано од стране трговаца и купаца.</спан></ли>
+                        <ли><спан>Доступно на свим платформама и уређајима, код куће и у покрету.</спан></ли>
+                        </ул>
                         "
-"Flexible Payment Terms","Flexible Payment Terms"
+"Flexible Payment Terms","Флеxибле Плаћање Термс"
 "
                         <p>With <a href=""http://docs.magento.com/m2/ce/user_guide/payment/klarna.html"" target=""_blank"">Klarna</a>, reduce purchase stress and improve your shopping experience with several retail finance and direct-payment options that are easily integrated into your existing buying journey. Shoppers can choose to pay now by online payment or direct debit, pay later by invoice, or pay in installments.</p>
                         <ul>
@@ -63,16 +63,16 @@
                         <li><span>Fast and easy setup, right from the Magento Admin.</span></li>
                         </ul>
                         ","
-                        <p>With <a href=""http://docs.magento.com/m2/ce/user_guide/payment/klarna.html"" target=""_blank"">Klarna</a>, reduce purchase stress and improve your shopping experience with several retail finance and direct-payment options that are easily integrated into your existing buying journey. Shoppers can choose to pay now by online payment or direct debit, pay later by invoice, or pay in installments.</p>
-                        <ul>
-                        <li><span>Customers never leave your site, and enjoy a smoother shopping experience.</span></li>
-                        <li><span>Easy application process with the ability to pay over time increases average order value and conversion rates.</span></li>
-                        <li><span>Assumes all credit and fraud risk, and ensures you are paid for ordered goods.</span></li>
-                        <li><span>Ready for all devices, and enables shoppers to use their Klarna account at any Klarna merchant with just a few clicks.</span></li>
-                        <li><span>Fast and easy setup, right from the Magento Admin.</span></li>
-                        </ul>
+                        <п>Wитх <а хреф=""хттп://доцс.магенто.цом/м2/це/усер_гуиде/паyмент/кларна.хтмл"" таргет=""_бланк"">Кларна</а>, смањите стрес при куповини и побољшајте искуство куповине са неколико опција финансирања и директног плаћања које се лако интегришу у ваше постојеће путовање куповине. Купци могу изабрати да плате сада онлине плаћањем или директним задужењем, плате касније путем фактуре, или плате на рате.</п>
+                        <ул>
+                        <ли><спан>Купци никада не напуштају ваш сајт и уживају у глаткијем искуству куповине.</спан></ли>
+                        <ли><спан>Једноставан процес пријаве са могућношћу плаћања на рате повећава просечну вредност поруџбине и стопе конверзије.</спан></ли>
+                        <ли><спан>Преузима сав кредитни ризик и ризик од превара и осигурава да будете плаћени за наручену робу.</спан></ли>
+                        <ли><спан>Спреман за све уређаје и омогућава купцима да користе свој Кларна налог код било ког Кларна трговца са само неколико кликова.</спан></ли>
+                        <ли><спан>Брзо и једноставно подешавање, директно из Магенто Админа.</спан></ли>
+                        </ул>
                         "
-"Sales and Use Tax Automation","Sales and Use Tax Automation"
+"Sales and Use Tax Automation","Продаја анд Усе Порез Аутоматион"
 "
                         <p><a href=""http://docs.magento.com/m2/ce/user_guide/tax/vertex.html"" target=""_blank"">Vertex Cloud</a> combines sophisticated software with an exceptional team of tax experts to help Magento merchants simplify the sales tax process, and comply with ever-changing tax laws. Merchants can easily access and configure Vertex Cloud from the Magento Admin to meet complex tax challenges.</p>
                         <ul>
@@ -83,14 +83,14 @@
                         <li><span>Flexible deployment options fit the needs of your organization in the cloud, or on premises.</span></li>
                         </ul>
                         ","
-                        <p><a href=""http://docs.magento.com/m2/ce/user_guide/tax/vertex.html"" target=""_blank"">Vertex Cloud</a> combines sophisticated software with an exceptional team of tax experts to help Magento merchants simplify the sales tax process, and comply with ever-changing tax laws. Merchants can easily access and configure Vertex Cloud from the Magento Admin to meet complex tax challenges.</p>
-                        <ul>
-                        <li><span>Seamless integration with award-winning support for simple-to-complex tax needs.</span></li>
-                        <li><span>Automatically comply with the latest tax rules for each product and every jurisdiction.</span></li>
-                        <li><span>Perform tax calculations and generate signature-ready PDF returns in one solution.</span></li>
-                        <li><span>No penalty to merchants for tax estimates from abandoned carts.</span></li>
-                        <li><span>Flexible deployment options fit the needs of your organization in the cloud, or on premises.</span></li>
-                        </ul>
+                        <п><а хреф=""хттп://доцс.магенто.цом/м2/це/усер_гуиде/таx/вертеx.хтмл"" таргет=""_бланк"">Вертеx Цлоуд</а> комбинује софистицирани софтвер са изузетним тимом пореских стручњака како би помогао Магенто трговцима да поједноставе процес пореза на промет и ускладе се са стално променљивим пореским законима. Трговци могу лако приступити и конфигурисати Вертеx Цлоуд из Магенто Админа како би одговорили на сложене пореске изазове.</п>
+                        <ул>
+                        <ли><спан>Беспрекорна интеграција са награђиваном подршком за једноставне до сложених пореских потреба.</спан></ли>
+                        <ли><спан>Аутоматски се ускладите са најновијим пореским правилима за сваки производ и сваку јурисдикцију.</спан></ли>
+                        <ли><спан>Извршите обрачун пореза и генеришите ПДФ пријаве спремне за потпис у једном решењу.</спан></ли>
+                        <ли><спан>Без казни за трговце за процене пореза из напуштених корпи.</спан></ли>
+                        <ли><спан>Флексибилне опције имплементације одговарају потребама ваше организације у облаку или на сопственим серверима.</спан></ли>
+                        </ул>
                         "
 "What's new with Magento 2.2.2","What's new with Magento 2.2.2"
 "
@@ -115,28 +115,28 @@
                         <a href=""http://devdocs.magento.com/"" target=""_blank"">Magento DevDocs</a>.
                         </p>
                         ","
-                        <p>Magento 2.2.2 offers advanced new features, including:</p>
-                        <br />
-                        <div class=""analytics-highlight"">
-                        <h3>Advanced Reporting</h3>
-                        <p>Gain valuable insights through a dynamic suite of product, order, and customer reports,
-                        powered by Magento Business Intelligence.</p>
-                        </div>
-                        <div class=""instant-purchase-highlight"">
-                        <h3>Instant Purchase</h3>
-                        <p>Simplify ordering and boost conversion rates by allowing your customers to use stored
-                        payment and shipping information to skip tedious checkout steps.</p>
-                        </div>
-                        <div class=""email-marketing-highlight"">
-                        <h3>Email Marketing Automation</h3>
-                        <p>Send smarter, faster email campaigns with marketing automation from dotmailer, powered by
-                        your Magento store's live data.</p>
-                        </div>
-                        <p>Release notes and additional details can be found at
-                        <a href=""http://devdocs.magento.com/"" target=""_blank"">Magento DevDocs</a>.
-                        </p>
+                        <п>Магенто 2.2.2 нуди напредне нове функције, укључујући:</п>
+                        <бр />
+                        <див цласс=""аналyтицс-хигхлигхт"">
+                        <х3>Напредно извештавање</х3>
+                        <п>Добијте вредне увиде кроз динамичан скуп извештаја о производима, поруџбинама и купцима,
+                        покретан од стране Магенто Бусинесс Интеллигенце.</п>
+                        </див>
+                        <див цласс=""инстант-пурцхасе-хигхлигхт"">
+                        <х3>Тренутна куповина</х3>
+                        <п>Поједноставите наручивање и повећајте стопе конверзије омогућавајући вашим купцима да користе сачуване
+                        информације о плаћању и испоруци како би прескочили заморне кораке наплате.</п>
+                        </див>
+                        <див цласс=""емаил-маркетинг-хигхлигхт"">
+                        <х3>Аутоматизација емаил маркетинга</х3>
+                        <п>Шаљите паметније, брже емаил кампање са аутоматизацијом маркетинга из дотмаилер-а, покретане
+                        подацима уживо ваше Магенто продавнице.</п>
+                        </див>
+                        <п>Белешке о издању и додатни детаљи могу се пронаћи на
+                        <а хреф=""хттп://девдоцс.магенто.цом/"" таргет=""_бланк"">Магенто ДевДоцс</а>.
+                        </п>
                         "
-"Advanced Reporting","Advanced Reporting"
+"Advanced Reporting","Напредна подешавања"
 "<p>Advanced Reporting
                         provides you with a dynamic suite of reports with rich insights about the health of your
                         business.</p><br /><p>As part of the Advanced Reporting service, we may also use your customer
@@ -145,14 +145,13 @@
                         Reporting <a href=""https://magento.com/legal/terms/privacy"" target=""_blank"">Privacy Policy</a>
                         and <a href=""https://magento.com/legal/terms/cloud-terms"" target=""_blank"">Terms
                         of Service</a>. You may opt out at any time from the Stores Configuration page.</p>
-                        ","<p>Advanced Reporting
-                        provides you with a dynamic suite of reports with rich insights about the health of your
-                        business.</p><br /><p>As part of the Advanced Reporting service, we may also use your customer
-                        data for such purposes as benchmarking, improving our products and services, and providing you
-                        with new and improved analytics.</p><br /><p>By using Magento 2.2.2, you agree to the Advanced
-                        Reporting <a href=""https://magento.com/legal/terms/privacy"" target=""_blank"">Privacy Policy</a>
-                        and <a href=""https://magento.com/legal/terms/cloud-terms"" target=""_blank"">Terms
-                        of Service</a>. You may opt out at any time from the Stores Configuration page.</p>
+                        ","<п>Напредно извештавање
+                        пружа вам динамичан скуп извештаја са богатим увидима о здрављу вашег
+                        пословања.</п><бр /><п>Ас парт оф тхе Напредно извештавање сервице, wе маy алсо усе yоур цустомер
+                        дата фор суцх пурпосес ас бенцхмаркинг, импровинг оур продуцтс анд сервицес, анд провидинг yоу
+                        wитх неw анд импровед аналyтицс.</п><бр /><п>Коришћењем Магенто 2.2.2, прихватате <а хреф=""хттпс://магенто.цом/легал/термс/привацy"" таргет=""_бланк"">Политику приватности</а>
+                        анд <а хреф=""хттпс://магенто.цом/легал/термс/цлоуд-термс"" таргет=""_бланк"">Услове
+                        коришћења</а>. Можете се ођавити у било ком тренутку са странице Конфигурације продавница.</п>
                         "
 "Instant Purchase","Instant Purchase"
 "
@@ -171,22 +170,22 @@
                         merchant needs.</span></li>
                         </ul>
                         ","
-                        <p>Now you can deliver an Amazon-like experience with a new, streamlined checkout option.
-                        Logged-in customers can use previously-stored payment credentials and shipping information
-                        to skip steps, making the process faster and easier, especially for mobile shoppers. Key
-                        features include:
-                        </p>
-                        <ul>
-                        <li><span>Configurable “Instant Purchase” button to place orders.</span></li>
-                        <li><span>Support for all payment solutions using Braintree Vault, including Braintree Credit
-                        Card, Braintree PayPal, and PayPal Payflow Pro.</span></li>
-                        <li><span>Shipping to the customer’s default address using the lowest cost, available shipping
-                        method.</span></li>
-                        <li><span>Ability for developers to customize the Instant Purchase business logic to meet
-                        merchant needs.</span></li>
-                        </ul>
+                        <п>Сада можете пружити Амазон-слично искуство са новом, поједностављеном опцијом наплате.
+                        Пријављени купци могу користити претходно сачуване акредитиве за плаћање и информације о испоруци
+                        да прескоче кораке, чинећи процес бржим и лакшим, посебно за мобилне купце. Кључне
+                        карактеристике укључују:
+                        </п>
+                        <ул>
+                        <ли><спан>Цонфигурабле “Тренутна куповина” буттон то плаце ордерс.</спан></ли>
+                        <ли><спан>Подршка за сва решења плаћања која користе Браинтрее Ваулт, укључујући Браинтрее кредитну
+                        картицу, Браинтрее ПаyПал и ПаyПал Паyфлоw Про.</спан></ли>
+                        <ли><спан>Испорука на подразумевану адресу купца користећи најјефтинији, доступни начин
+                        испоруке.</спан></ли>
+                        <ли><спан>Абилитy фор девелоперс то цустомизе тхе Тренутна куповина бусинесс логиц то меет
+                        мерцхант неедс.</спан></ли>
+                        </ул>
                         "
-"Email Marketing Automation","Email Marketing Automation"
+"Email Marketing Automation","Е-пошта Маркетинг Аутоматион"
 "
                         <p>Unlock an unparalleled level of insight and control of your eCommerce marketing with
                         dotmailer Email Marketing Automation. Included with Magento 2.2.2 for easy set-up, dotmailer
@@ -201,18 +200,18 @@
                         <li><span>Telephone support and advice from marketing experts included.</span></li>
                         </ul>
                         ","
-                        <p>Unlock an unparalleled level of insight and control of your eCommerce marketing with
-                        dotmailer Email Marketing Automation. Included with Magento 2.2.2 for easy set-up, dotmailer
-                        ensures every customer’s journey is captured, segmented, and personalized, enabling you to
-                        deliver customer-centric campaigns that beat your results over and over again. Benefits include:
-                        </p>
-                        <ul>
-                        <li><span>No obligation 14-day trial.</span></li>
-                        <li><span>Automation campaigns using your live Magento store data that drive revenue,
-                        including abandoned cart, abandoned browse, product replenishment, and many more.</span></li>
-                        <li><span>Built-in solution for transactional emails.</span></li>
-                        <li><span>Telephone support and advice from marketing experts included.</span></li>
-                        </ul>
+                        <п>Унлоцк ан унпараллелед левел оф инсигхт анд цонтрол оф yоур еЦоммерце маркетинг wитх
+                        дотмаилер Аутоматизација емаил маркетинга. Инцлудед wитх Магенто 2.2.2 фор еасy сет-уп, дотмаилер
+                        енсурес еверy цустомер’с јоурнеy ис цаптуред, сегментед, анд персонализед, енаблинг yоу то
+                        деливер цустомер-центриц цампаигнс тхат беат yоур ресултс овер анд овер агаин. Бенефитс инцлуде:
+                        </п>
+                        <ул>
+                        <ли><спан>Пробни период од 14 дана без обавезе.</спан></ли>
+                        <ли><спан>Аутоматске кампање које користе податке уживо ваше Магенто продавнице које покрећу приход,
+                        укључујући напуштену корпу, напуштено прегледање, допуну производа и многе друге.</спан></ли>
+                        <ли><спан>Уграђено решење за трансакционе емаилове.</спан></ли>
+                        <ли><спан>Телефонска подршка и савети маркетиншких стручњака укључени.</спан></ли>
+                        </ул>
                         "
 "Sorry, we had a problem loading our “What’s new” content.","Sorry, we had a problem loading our “What’s new” content."
 "
@@ -221,19 +220,19 @@
                         <a href=""http://devdocs.magento.com/magento-release-information.html""
                         target=""_blank"">DevDocs' Release Information</a>.
                         </p>","
-                        <p>We’ll try to show it again the next time you sign in to Magento Admin.</p>
-                        <p>To learn more about new features, see our latest Release Notes in
-                        <a href=""http://devdocs.magento.com/magento-release-information.html""
-                        target=""_blank"">DevDocs' Release Information</a>.
-                        </p>"
+                        <п>Покушаћемо поново да је прикажемо следећи пут када се пријавите у Магенто Админ.</п>
+                        <п>То леарн море абоут неw феатурес, сее оур латест Белешке о издању ин
+                        <а хреф=""хттп://девдоцс.магенто.цом/магенто-релеасе-информатион.хтмл""
+                        таргет=""_бланк"">ДевДоцс информацијама о издању</а>.
+                        </п>"
 "
                         <p>We’ll try to show it again the next time you sign in to Magento Admin.</p>
                         <p>To learn more about new features, see our latest Release Notes in
                         <a href=""https://devdocs.magento.com/magento-release-information.html""
                         target=""_blank"">DevDocs' Release Information</a>.
                         </p>","
-                        <p>We’ll try to show it again the next time you sign in to Magento Admin.</p>
-                        <p>To learn more about new features, see our latest Release Notes in
-                        <a href=""https://devdocs.magento.com/magento-release-information.html""
-                        target=""_blank"">DevDocs' Release Information</a>.
-                        </p>"
+                        <п>Покушаћемо поново да је прикажемо следећи пут када се пријавите у Магенто Админ.</п>
+                        <п>То леарн море абоут неw феатурес, сее оур латест Белешке о издању ин
+                        <а хреф=""хттпс://девдоцс.магенто.цом/магенто-релеасе-информатион.хтмл""
+                        таргет=""_бланк"">ДевДоцс информацијама о издању</а>.
+                        </п>"
