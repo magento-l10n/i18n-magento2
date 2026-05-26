@@ -1,2 +1,2 @@
-"""url"" argument should be specified and not empty","""url"" argument should be specified and not empty"
-"""model"" value should be specified","""model"" value should be specified"
+"""url"" argument should be specified and not empty","Argument ""url"" treba da bude naveden i neprazan"
+"""model"" value should be specified","Vrednost ""modela"" treba biti određena"

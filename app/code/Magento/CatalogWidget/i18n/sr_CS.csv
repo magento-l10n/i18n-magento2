@@ -1,29 +1,27 @@
-"Conditions Combination","Conditions Combination"
-"Product Attribute","Product Attribute"
+"Conditions Combination","Uslovi Kombinacije"
+"Product Attribute","Atributi proizvoda"
 "SKU","Šifra"
-"Please choose a condition to add.","Please choose a condition to add."
+"Please choose a condition to add.","Molimo odaberite koji ćete uslov dodati."
 "Add to Cart","Dodaj u korpu"
 "In stock","Na stanju"
 "Out of stock","Nema na lageru"
 "Add to Wish List","Dodaj u listu želja"
 "Add to Compare","Dodaj za upoređivanje"
-"Catalog Products List","Catalog Products List"
-"List of Products","List of Products"
+"Catalog Products List","Katalog sa Listom Proizvoda"
+"List of Products","Lista Proizvoda"
 "Title","Naslov"
-"Display Page Control","Display Page Control"
-"Number of Products per Page","Number of Products per Page"
-"Number of Products to Display","Number of Products to Display"
-"Template","Template"
-"Products Grid Template","Products Grid Template"
-"Cache Lifetime (Seconds)","Cache Lifetime (Seconds)"
+"Display Page Control","Kontrola prikaza proizvoda"
+"Number of Products per Page","Broj proizvoda po stranici"
+"Number of Products to Display","Broj proizvoda za prikaz"
+"Template","Šablon"
+"Products Grid Template","Šablon Mreže Proizvoda"
+"Cache Lifetime (Seconds)","Vek trajanja keša (sekunde)"
 "86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache."
-"Conditions","Conditions"
+"Conditions","Uslovi"
 "
                     Time in seconds between the widget updates.
                     <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
                     <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.
-                ","
-                    Time in seconds between the widget updates.
-                    <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
-                    <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.
-                "
+                ","Vreme u sekundama između ažuriranja dodataka.
+                    <br/>Ako nije podešen, jednak je 86400 sekunda (24 sata). Ako želite da ažurirate dodatak odmah, idite u Keš Menadžment i očistite keš Blocks HTML Output.
+                    <br/>Dodatak neće prikazati proizvode koji se poklapaju sa definisanim uslovim dok se keš ne osveži."

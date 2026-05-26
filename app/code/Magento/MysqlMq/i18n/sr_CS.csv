@@ -4,5 +4,5 @@
 "Retry Messages In Progress After","Retry Messages In Progress After"
 "Successful Messages Lifetime","Successful Messages Lifetime"
 "Failed Messages Lifetime","Failed Messages Lifetime"
-"New Messages Lifetime","New Messages Lifetime"
-"MySQL Message Queue Cleanup - all the times are in minutes. Use ""0"" if you want to skip automatic clearance","MySQL Message Queue Cleanup - all the times are in minutes. Use ""0"" if you want to skip automatic clearance"
+"New Messages Lifetime","Novo Messages Lifetime"
+"MySQL Message Queue Cleanup - all the times are in minutes. Use ""0"" if you want to skip automatic clearance","MySQL čišćenje reda poruka - sva vremena su u minutima. Koristite ""0"" ako želite da preskočite automatsko čišćenje"
