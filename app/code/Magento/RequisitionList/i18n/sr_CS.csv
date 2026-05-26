@@ -21,7 +21,7 @@
 "%1 has been updated in your requisition list.","%1 je updated in your requisition list."
 "Product %1 has been added to the requisition list %2.","Proizvod %1 je added to the requisition list %2."
 "Options were updated. Please review available configurations.","Options were updated. Please review available configurations."
-"The SKU is out of stock.","The SKU is out of stock."
+"The SKU is out of stock.","Šifra nije na zalihama."
 "The requested qty is not available","Tražena kol nije dostupna"
 "Could not save Requisition List. Maximum number of requisition lists was exceeded.","Nije mogao save Requisition Lista. Maximum number of requisition lists was exceeded."
 "Exception","Izuzetak"
