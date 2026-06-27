@@ -187,7 +187,7 @@
 "Password cannot be the same as email address.","Password cannot be the same as email address."
 "This customer already exists in this store.","Dieser Kunde ist bereits in diesem Store vorhanden."
 "A customer with the same email already exists in an associated website.","A customer with the same email already exists in an associated website."
-"Invalid value of ""%value"" provided for the %fieldName field.","Ungültiger Wert ""%Wert"" für Feld %FeldName."
+"Invalid value of ""%value"" provided for the %fieldName field.","Ungültiger Wert """"%value"""" für Feld %fieldName."
 "%fieldName is a required field.","%fieldName is a required field."
 "Reset password token mismatch.","Reset password token mismatch."
 "Reset password token expired.","Token zum Zurücksetzen des Passworts ist abgelaufen."
