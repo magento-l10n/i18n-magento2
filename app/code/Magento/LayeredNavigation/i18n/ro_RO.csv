@@ -2,19 +2,19 @@
 "Filterable (with results)","Filtrabile (cu rezultate)"
 "Filterable (no results)","Filtrabile (fără rezultate)"
 "Use in Layered Navigation","Folosiți la navigarea stratificată"
-"Can be used only with catalog input type Dropdown, Multiple Select and Price","Can be used only with catalog input type Dropdown, Multiple Select and Price"
-"Can be used only with catalog input type Dropdown, Multiple Select and Price.","Can be used only with catalog input type Dropdown, Multiple Select and Price."
+"Can be used only with catalog input type Dropdown, Multiple Select and Price","Poate fi folosit doar cu tipul de introducere a Catalogului Derulant, Selecție multiplă și preț"
+"Can be used only with catalog input type Dropdown, Multiple Select and Price.","Poate fi folosit doar cu tipul de introducere a Catalogului Derulant, Selecție multiplă și preț"
 "Use in Search Results Layered Navigation","Folosește la Navigarea stratificată a rezultatelor căutării"
 "Position","Poziție"
 "Position in Layered Navigation","Poziție în navigarea stratificată"
-"Position of attribute in layered navigation block.","Position of attribute in layered navigation block."
+"Position of attribute in layered navigation block.","Poziția atributului în blocul de navigare în straturi."
 "item","articol"
 "items","articole"
 "Now Shopping by","Cumpără acum de la"
 "Previous","Anterior"
 "Remove","Elimină"
 "Remove This Item","Eliminați acest articol"
-"Shop By","Filtreaza dupa"
+"Shop By","Filtrează după"
 "Clear All","Anulați toate filtrele"
 "Shopping Options","Opțiuni cumpărare"
 "Layered Navigation","Navigație pe niveluri"
@@ -27,12 +27,12 @@
 "This setting will be applied when all prices in the specific price interval are equal.","Această setare va fi pusă în aplicare atunci când toate prețurile dintr-un interval specific de preț sunt egale."
 "Interval Division Limit","Limită diviziune interval"
 "Please specify the number of products, that will not be divided into subintervals.","Specificați numărul de produse care nu vor fi divizate în sub intervale."
-"Position of attribute in layered navigation block","Position of attribute in layered navigation block"
-"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price"
+"Position of attribute in layered navigation block","Poziția atributului în blocul de navigare în straturi."
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price","Poate fi folosit doar cu tipul de catalog de introducere Da/Nu, Derulant, Multiple Selectări și Preț"
 "Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
                     <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
-                     it will make no affect on Price filter.","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
-                    <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
-                     it will make no affect on Price filter."
-"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.","Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price."
-"Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price.","Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price."
+                     it will make no affect on Price filter.","Poate fi folosit doar cu tipul de catalog de introducere Da/Nu, Derulant, Multiple Selectare și Preț.
+                    <br>Prețul nu este compatibil cu opțiunea <b>'Filtru (fără rezultate)'</b> - 
+                     nu va afecta filtrul de preț."
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.","Poate fi folosit doar cu tipul de catalog de introducere Da/Nu, Derulant, Multiple Selectare și Preț."
+"Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price.","Poate fi folosit doar cu tipul de catalog de introducere Da/Nu (Boolean), Derulant, Multiple Selectare și Preț."
