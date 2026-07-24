@@ -2,7 +2,7 @@
 "Missing key %1 in product data","Cheia %1 lipsește din datele produsului"
 """model"" value should be specified","Valoarea ""model"" trebuie specificată"
 """path"" value should be specified","Valoarea ""cale"" trebuie specificată"
-"currentPage value %1 specified is greater than the number of pages available.","valoarea paginii curente %1 specificată este mai mare decât numărul de pagini disponibile."
+"currentPage value %1 specified is greater than the number of pages available.","Valoarea paginii curente %1 specificată este mai mare decât numărul de pagini disponibile."
 """id for category should be specified","""Id-ul pentru categorie ar trebui specificat"
 "No child sku found for product link.","Nici un SKU copil nu a fost găsit pentru link-ul produsului."
 "'search' or 'filter' input argument is required.","Argumentul ""căutare"" sau ""filtru"" este necesar."
