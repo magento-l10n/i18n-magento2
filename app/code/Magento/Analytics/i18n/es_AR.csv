@@ -1,22 +1,22 @@
 "Subscription status","Estado de la suscripción"
 "Sorry, there has been an error processing your request. Please try again later.","Lo sentimos, ocurrió un error al procesar su petición. Por favor intentalo más tarde."
-"Time value has an unsupported format","Time value has an unsupported format"
+"Time value has an unsupported format","El valor de Tiempo tiene un formato no válido"
 "Cron settings can't be saved","Configuraciones de cron no puede ser guardado"
 "There was an error save new configuration value.","Ocurrió un error al guardar el nuevo valor de configuración."
-"Please select a vertical.","Please select a vertical."
+"Please select a vertical.","Por favor, selecciona una vertical."
 "--Please Select--","--Por favor elegí--"
-"Command was not found.","Command was not found."
-"Input data must be string or convertible into string.","Input data must be string or convertible into string."
-"Input data must be non-empty string.","Input data must be non-empty string."
-"Not valid cipher method.","Not valid cipher method."
-"Encryption key can't be empty.","Encryption key can't be empty."
-"Source ""%1"" is not exist","Source ""%1"" is not exist"
+"Command was not found.","Comando no encontrado."
+"Input data must be string or convertible into string.","El valor introducido debe ser una cadena de texto o algo convertible a una cadena de texto."
+"Input data must be non-empty string.","El valor introducido debe ser una cadena no vacía."
+"Not valid cipher method.","Método de cifrado no válido."
+"Encryption key can't be empty.","La clave de cifrado no puede estar vacía."
+"Source ""%1"" is not exist","Origen ""%1"" no existe"
 "These arguments can't be empty ""%1""","Estos argumentos no pueden quedar vacíos ""%1"""
 "Cannot find predefined integration user!","¡No se puede encontrar el usuario de integración predefinido!"
 "File is not ready yet.","El archivo todavía no esta preparado."
 "Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","La URL base ha cambiado y los informes están siendo actualizados. Los informes avanzados estarán disponibles cuando los cambios hayan sido procesados. Por favor inténtelo mas tarde."
 "Failed to synchronize data to the Magento Business Intelligence service. ","Fallo al sincronizar los datos al servicio de Magento Business Intelligence. "
-"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Retry Synchronization</a>"
+"<a href=""%1"">Retry Synchronization</a>","<a href=""%1"">Reintentar sincronización</a>"
 "TestMessage","MensajeDePrueba"
 "Apps and Games","Aplicaciones y juegos"
 "Athletic/Sporting Goods","Artículos deportivos"
@@ -32,10 +32,10 @@
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
                 ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>.","This service provides a dynamic suite of reports with rich insights about your business.
-                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>."
+                terms and conditions</a>.","Este servicio proporciona un conjunto dinámico de informes con información valiosa sobre tu negocio.
+                Puedes acceder a tus informes de forma segura en un panel personalizado fuera del panel de administración haciendo clic en el enlace
+                ""Ir a informes avanzados"".</br>Para obtener más información, consulta nuestros <a href=""https://magento.com/legal/terms/cloud-terms"">
+                términos y condiciones</a>."
 "Advanced Reporting Service","Servicio de informes avanzados"
 "Time of day to send data","Hora del día para enviar los datos"
 "Industry","Tipo de negocio"
