@@ -116,3 +116,7 @@ Type,Type
 "The option couldn't be saved.","The option couldn't be saved."
 """%fieldName"" is required. Enter and try again.","""%fieldName"" is required. Enter and try again."
 "The option with ""%1"" ID can't be deleted.","The option with ""%1"" ID can't be deleted."
+"Cannot create shipment as bundle product ""%1"" has shipment type ""%2"". %3 should be shipped instead.","Cannot create shipment as bundle product ""%1"" has shipment type ""%2"". %3 should be shipped instead."
+"Bundle product itself","Bundle product itself"
+"Bundle product options","Bundle product options"
+"Product relations processor must implement %1.","Product relations processor must implement %1."

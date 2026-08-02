@@ -28,3 +28,6 @@ None,None
 "Delay in minutes between password reset requests. Use 0 to disable.","Delay in minutes between password reset requests. Use 0 to disable."
 "Your account is temporarily disabled. Please try again later.","Your account is temporarily disabled. Please try again later."
 "We received too many requests for password resets. Please wait and try again later or contact %1.","We received too many requests for password resets. Please wait and try again later or contact %1."
+"""%1"" must be later than the current date.","""%1"" must be later than the current date."
+"User Expiration","User Expiration"
+"""%1"" is not a valid date.","""%1"" is not a valid date."

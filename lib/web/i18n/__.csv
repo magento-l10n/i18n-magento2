@@ -133,3 +133,4 @@ Submit,Submit
 "The widget %1 is no longer available. Select a different widget.","The widget %1 is no longer available. Select a different widget."
 "First character must be letter.","First character must be letter."
 "The password can't be the same as the email address. Create a new password and try again.","The password can't be the same as the email address. Create a new password and try again."
+"Please use only visible characters and spaces. The colon character is not allowed.","Please use only visible characters and spaces. The colon character is not allowed." 

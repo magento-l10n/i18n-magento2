@@ -157,3 +157,8 @@ Store,Store
 "We have updated your subscription.","We have updated your subscription."
 "General Options","General Options"
 Enabled,Enabled
+"Follow this link to unsubscribe <!-- This tag is for unsubscribe link  --><a href=""{{var subscriber_data.unsubscription_link}}"">{{var subscriber_data.unsubscription_link}}</a>","Follow this link to unsubscribe <!-- This tag is for unsubscribe link  --><a href=""{{var subscriber_data.unsubscription_link}}"">{{var subscriber_data.unsubscription_link}}</a>"
+"Are you sure you want to delete the selected subscriber(s)?","Are you sure you want to delete the selected subscriber(s)?"
+"Cannot create a newsletter subscription.","Cannot create a newsletter subscription."
+"Enter a valid email address.","Enter a valid email address."
+"Guests can not subscribe to the newsletter. You must create an account to subscribe.","Guests can not subscribe to the newsletter. You must create an account to subscribe."

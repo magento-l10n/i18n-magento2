@@ -27,3 +27,4 @@ Message,Message
 "REST and SOAP configurations, generated WSDL file.","REST and SOAP configurations, generated WSDL file."
 "Specified request cannot be processed.","Specified request cannot be processed."
 "The consumer isn't authorized to access %resources.","The consumer isn't authorized to access %resources."
+"Too Many Requests","Too Many Requests"

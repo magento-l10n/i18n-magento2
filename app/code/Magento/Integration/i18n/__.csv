@@ -154,3 +154,4 @@ Status,Status
 "A consumer with ID ""%1"" doesn't exist. Verify the ID and try again.","A consumer with ID ""%1"" doesn't exist. Verify the ID and try again."
 "Your account is temporarily disabled. Please try again later.","Your account is temporarily disabled. Please try again later."
 "The password entered for the current user is invalid. Verify the password and try again.","The password entered for the current user is invalid. Verify the password and try again."
+"Invalid Identity Link URL", "Invalid Identity Link URL"
