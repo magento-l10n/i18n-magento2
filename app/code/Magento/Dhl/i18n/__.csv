@@ -92,3 +92,4 @@ Debug,Debug
 "Content Type (Non Domestic)","Content Type (Non Domestic)"
 "Documents Allowed Methods","Documents Allowed Methods"
 "Non Documents Allowed Methods","Non Documents Allowed Methods"
+"Whether to use Documents or NonDocuments service for non domestic shipments. (Shipments within the EU are classed as domestic)","Whether to use Documents or NonDocuments service for non domestic shipments. (Shipments within the EU are classed as domestic)"

@@ -637,3 +637,21 @@ Actions,Actions
 "Are you sure you want to unsubscribe the selected customers from the newsletter?","Are you sure you want to unsubscribe the selected customers from the newsletter?"
 "The customer does not have default billing address","The customer does not have default billing address"
 "The customer does not have default shipping address","The customer does not have default shipping address"
+"Order #","Order #"
+                        This email will be sent instead of the Default Welcome Email, if a customer was created without password. <br /><br />
+                    ","
+                        Semicolon (;) separated values.<br/>Leave empty for open text field.
+"Only 'b', 'br', 'em', 'i', 'li', 'ol', 'p', 'strong', 'sub', 'sup', 'ul' tags are allowed","Only 'b', 'br', 'em', 'i', 'li', 'ol', 'p', 'strong', 'sub', 'sup', 'ul' tags are allowed"
+"Associate to Website","Associate to Website"
+"Prefix","Prefix"
+"Suffix","Suffix"
+"The Date of Birth should not be greater than today.","The Date of Birth should not be greater than today."
+"The Store View selected for sending Welcome email from is not related to the customer's associated website.","The Store View selected for sending Welcome email from is not related to the customer's associated website."
+"Add/Update Address","Add/Update Address"
+"The specified customer group id does not exist.","The specified customer group id does not exist."
+"Partial Match","Partial Match"
+"Full Match","Full Match"
+"Prefix Match","Prefix Match"
+T,T
+F,F
+VAT,VAT
