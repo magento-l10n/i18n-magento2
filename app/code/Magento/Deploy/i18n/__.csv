@@ -23,3 +23,5 @@ Exception,Exception
 "The hash isn't saved.","The hash isn't saved."
 "The parameter ""importer_class"" is missing. Set the ""importer_class"" and try again.","The parameter ""importer_class"" is missing. Set the ""importer_class"" and try again."
 "The configuration file has changed. Run the ""app:config:import"" or the ""setup:upgrade"" command to synchronize the configuration.","The configuration file has changed. Run the ""app:config:import"" or the ""setup:upgrade"" command to synchronize the configuration."
+"Parameter ""class"" must be present.","Parameter ""class"" must be present."
+"Compilation from source: %1","Compilation from source: %1"

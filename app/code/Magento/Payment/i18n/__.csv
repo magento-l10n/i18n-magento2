@@ -70,3 +70,4 @@ Visa,Visa
 "The gateway response format was incorrect. Verify the format and try again.","The gateway response format was incorrect. Verify the format and try again."
 "The validator for the ""%1"" field doesn't exist.","The validator for the ""%1"" field doesn't exist."
 "Unable to place order. Please try again later.","Unable to place order. Please try again later."
+"Zero Subtotal Checkout","Zero Subtotal Checkout"
