@@ -8,7 +8,7 @@
 "There is no item with provided id in the order or gift message isn't allowed","There is no item with provided id in the order or gift message isn't allowed"
 "Could not add gift message to order: ""%1""","Could not add gift message to order: ""%1"""
 "There is no order with provided id or gift message isn't allowed","There is no order with provided id or gift message isn't allowed"
-"There is no order with provided id","There is no order with provided id"
+"There is no order with provided id","Il n'y a pas de commande avec cet identifiant"
 "Gift Messages are not applicable for empty order","Gift Messages are not applicable for empty order"
 "Could not add gift message to order's item: ""%1""","Could not add gift message to order's item: ""%1"""
 "Unknown entity type","Type d'entité inconnu"
