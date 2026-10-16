@@ -36,7 +36,7 @@
 "An item option with code %1 already exists.","Opcja produktu z kodem %1 już istnieje."
 "We can't specify a wish list.","Nie możemy dokładnie określić listy życzeń."
 "Cannot specify product.","Nie można ustalić produktu."
-"Product is not salable.","Produkt nie jest chodliwy."
+"Product is not salable.","Produkt nie jest dostępny w sprzedaży."
 "Invalid item option format.","Nieprawidłowy format opcji elementu."
 "%1 for ""%2"".","%1 na ""%2""."
 "We can't add this item to your shopping cart right now.","Teraz nie ma możliwości dodania tego produktu do Twojego koszyka."
