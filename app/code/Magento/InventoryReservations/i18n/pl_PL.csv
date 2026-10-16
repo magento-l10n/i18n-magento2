@@ -1,0 +1,4 @@
+"""%field"" can not be null.","Pole „%field” nie może mieć wartości null."
+"""%field"" is expected to be a number.","Pole „%field” musi być liczbą."
+"Cannot update Reservation %reservation","Nie można zaktualizować rezerwacji %reservation"
+"Could not append Reservation","Nie można dodać rezerwacji"
