@@ -1,6 +1,6 @@
 "Concrete type for %1 not implemented","Typ betonu dla %1 nie został zaimplementowany"
 "Missing key %1 in product data","Brakuje klucza %1 w danych produktu"
-"""model"" value should be specified","wartość ""model"" musi być określona"
+"""model"" value should be specified","Należy określić wartość ""model"""
 """path"" value should be specified","wartość ""path"" musi być określona"
 "currentPage value %1 specified is greater than the number of pages available.","obecny numer strony %1 jest większy niż dostępna ilość stron."
 """id for category should be specified","""id danej kategorii musi być określone"
