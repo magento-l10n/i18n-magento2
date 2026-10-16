@@ -26,3 +26,8 @@
 "The ""%1"" file doesn't exist. Verify the file and try again.","Plik ""%1"" nie istnieje. Zweryfikuj plik i spróbuj ponownie."
 "Cannot resize image ""%1"" - original image not found","Nie można zmienić rozmiaru obrazu ""%1"" - nie znaleziono oryginalnego obrazu"
 "Cannot resize images - product images not found","Nie można zmienić rozmiaru obrazów - nie znaleziono obrazów produktów"
+"After selecting a new media storage location, press the Synchronize button to transfer all media to that location and then ""Save Config"". Media will not be available in the new location until the synchronization process is complete.","Po wybraniu nowej lokalizacji przechowywania multimediów kliknij przycisk Synchronizuj, aby przenieść wszystkie multimedia do tej lokalizacji, a następnie ""Zapisz konfigurację"". Multimedia nie będą dostępne w nowej lokalizacji, dopóki synchronizacja się nie zakończy."
+"Database (Deprecated)","Baza danych (przestarzałe)"
+"File validation failed. Check Image Processing Settings in the Store Configuration.","Walidacja pliku nie powiodła się. Sprawdź ustawienia przetwarzania obrazów w konfiguracji sklepu."
+"Image resize: %1","Zmiana rozmiaru obrazu: %1"
+"Sorry, something went wrong during image resize. Please see log for details.","Przepraszamy, podczas zmiany rozmiaru obrazu wystąpił błąd. Szczegóły znajdziesz w logu."

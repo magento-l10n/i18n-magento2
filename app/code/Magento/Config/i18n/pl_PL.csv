@@ -128,3 +128,6 @@
 "The ""%1"" file doesn't exist.","Plik ""%1"" nie istnieje."
 "The ""%1"" path doesn't exist. Verify and try again.","Ścieżka ""%1"" nie istnieje. Zweryfikuj i spróbuj ponownie."
 "'The XML in file ""%1"" is invalid:' . ""\n%2\nVerify the XML and try again.""","""XML w pliku ""%1"" jest nieprawidłowy:"" . ""\n%2\nWeryfikuj XML i spróbuj ponownie."""
+"Invalid file name","Nieprawidłowa nazwa pliku"
+"Something went wrong while saving this configuration.","Wystąpił błąd podczas zapisywania tej konfiguracji."
+"The sender name ""%1"" is not valid. The colon character is not allowed.","Nazwa nadawcy ""%1"" jest nieprawidłowa. Znak dwukropka jest niedozwolony."

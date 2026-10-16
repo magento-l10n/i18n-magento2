@@ -191,3 +191,4 @@
 "The ZIP Code is invalid. Use numbers only.","Kod pocztowy jest nieprawidłowy. Należy używać wyłącznie cyfr."
 "The tax rate can't be removed because it exists in a tax rule.","Stawki podatku nie można usunąć, ponieważ istnieje ona w regule podatkowej."
 """%fieldName"" is required. Enter and try again.","""%fieldName"" jest wymagane. Wprowadź i spróbuj ponownie."
+"Additionally Show Order Total Without Tax","Dodatkowo pokazuj sumę zamówienia bez podatku"

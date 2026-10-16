@@ -136,3 +136,5 @@
 "Only registered users can write reviews. Please, <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Tylko zarejestrowani użytkownicy mogą pisać recenzje. Prosimy o <a href=""%1"">zalogowanie się</a> lub <a href=""%2"">założenie konta</a>."
 "Enabled","Włączone"
 "The storage key wasn't set. Add the storage key and try again.","Klucz magazynu nie został ustawiony. Dodaj klucz pamięci i spróbuj ponownie."
+"You don’t have permission to perform this operation. Selected reviews must be in Pending Status only.","Brak uprawnień do wykonania tej operacji. Wybrane opinie muszą mieć status Oczekujące."
+"You don’t have permission to perform this operation. The selected review must be in Pending Status.","Brak uprawnień do wykonania tej operacji. Wybrana opinia musi mieć status Oczekujące."

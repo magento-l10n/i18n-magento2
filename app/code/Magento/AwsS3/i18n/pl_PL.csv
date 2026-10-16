@@ -1,0 +1,10 @@
+"An error occurred during ""%1"" execution.","Wystąpił błąd podczas wykonywania „%1”."
+"An error occurred during ""%1"" fileFlush execution.","Wystąpił błąd podczas wykonywania fileFlush dla „%1”."
+"An error occurred during ""%1"" fileLock execution.","Wystąpił błąd podczas wykonywania fileLock dla „%1”."
+"An error occurred during ""%1"" fileSeek execution.","Wystąpił błąd podczas wykonywania fileSeek dla „%1”."
+"An error occurred during ""%1"" fileUnlock execution.","Wystąpił błąd podczas wykonywania fileUnlock dla „%1”."
+"Bucket and region are required values","Bucket i region są wartościami wymaganymi"
+"Cannot gather stats! %1","Nie można pobrać statystyk! %1"
+"File cannot be read %1","Nie można odczytać pliku %1"
+"Invalid file open mode ""%1"".","Nieprawidłowy tryb otwarcia pliku „%1”."
+VAT,VAT

@@ -92,3 +92,8 @@
 "Content Type (Non Domestic)","Typ zawartości (niekrajowa)"
 "Documents Allowed Methods","Dozwolone metody dla dokumentów"
 "Non Documents Allowed Methods","Metody niedozwolone w dokumentach"
+"API KEY","Klucz API"
+"API Secret","Sekret API"
+"DHL Type","Typ DHL"
+"Package ready time after order submission (in hours).","Czas gotowości paczki po złożeniu zamówienia (w godzinach)."
+"Whether to use Documents or NonDocuments service for non domestic shipments. (Shipments within the EU are classed as domestic)","Czy używać usługi Documents czy NonDocuments dla przesyłek zagranicznych. (Przesyłki w obrębie UE są traktowane jako krajowe)"

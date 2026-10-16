@@ -1,2 +1,8 @@
 "Close Session","Close Session"
 "You are connected as <strong>%1</strong> on %2","You are connected as <strong>%1</strong> on %2"
+"Admin ID","ID administratora"
+"An error occurred while saving this user.","Wystąpił błąd podczas zapisywania tego użytkownika."
+"Fail to get authentication data.","Nie można pobrać danych uwierzytelniających."
+"Login as Customer","Zaloguj jako klient"
+"Login as Customer is disabled.","Funkcja ""Zaloguj jako klient"" jest wyłączona."
+"Login was not successful.","Logowanie nie powiodło się."

@@ -1,0 +1,4 @@
+"An error occurred at deleting links between the media asset and media content.","Wystąpił błąd podczas usuwania powiązań między zasobem multimedialnym a treścią."
+"An error occurred at getting asset used in content information.","Wystąpił błąd podczas pobierania informacji o użyciu zasobu w treści."
+"An error occurred at getting media asset to content relation by media asset id.","Wystąpił błąd podczas pobierania powiązań zasobu multimedialnego z treścią według ID zasobu."
+"An error occurred while saving relation between media asset and media content.","Wystąpił błąd podczas zapisywania powiązania między zasobem multimedialnym a treścią."

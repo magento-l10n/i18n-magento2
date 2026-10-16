@@ -55,3 +55,6 @@
 "The country isn't available.","Kraj nie jest dostępny."
 "The import model can't be initialized. Verify the model and try again.","Nie można zainicjować modelu importu. Zweryfikuj model i spróbuj ponownie."
 "Currency Converter API","API przelicznika walut"
+"Fixer.io (legacy)","Fixer.io (starsza wersja)"
+Past,Przeszłość
+"Please correct the target currency","Popraw walutę docelową"

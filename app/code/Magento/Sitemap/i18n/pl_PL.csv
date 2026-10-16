@@ -64,3 +64,7 @@
 "Link for Google","Link dla Google"
 "Last Generated","Ostatnio generowane"
 "Action","Operacja"
+"Generation Method","Metoda generowania"
+"Standard method processes all data in memory. Batch method uses memory-optimized processing for large catalogs.","Metoda standardowa przetwarza wszystkie dane w pamięci. Metoda wsadowa używa przetwarzania zoptymalizowanego pod kątem pamięci dla dużych katalogów."
+"Store Url Options","Opcje adresu URL sklepu"
+"example: ""/media/sitemap/"" for base path (path must be writeable)","przykład: ""/media/sitemap/"" dla ścieżki bazowej (ścieżka musi być zapisywalna)"

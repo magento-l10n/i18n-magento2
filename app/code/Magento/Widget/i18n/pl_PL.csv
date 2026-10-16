@@ -73,3 +73,7 @@
 "We're sorry, an error has occurred while loading widget options.","Przepraszamy, wystąpił błąd podczas ładowania opcji widżetu."
 "Cancel","Anuluj"
 "Inserting a widget does not create a widget instance.","Umieszczenie widgetu nie tworzy jego instancji."
+"Are you sure you want to delete the selected widget(s)?","Czy na pewno usunąć wybrane widżety?"
+"No widget instance IDs were provided to be deleted.","Nie podano ID instancji widżetów do usunięcia."
+"The specified template ""%1"" is not allowed for this widget type.","Wskazany szablon ""%1"" nie jest dozwolony dla tego typu widżetu."
+"Widget(s) with ID(s) %1 were not found","Nie znaleziono widżetów o ID %1"

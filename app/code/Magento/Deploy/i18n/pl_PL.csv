@@ -23,3 +23,4 @@
 "The hash isn't saved.","Skrót nie jest zapisywany."
 "The parameter ""importer_class"" is missing. Set the ""importer_class"" and try again.","Brakuje parametru ""importer_class"". Ustaw ""importer_class"" i spróbuj ponownie."
 "The configuration file has changed. Run the ""app:config:import"" or the ""setup:upgrade"" command to synchronize the configuration.","Plik konfiguracyjny uległ zmianie. Uruchom polecenie ""app:config:import"" lub ""setup:upgrade"", aby zsynchronizować konfigurację."
+"Compilation from source: %1","Kompilacja ze źródeł: %1"
