@@ -64,7 +64,7 @@
 "In stock","W magazynie"
 "You've been sent a gift from %store_name","Dostałeś prezent od %store_name"
 "%name,","%name,"
-"%sender has sent you a gift card for use at <a href=""%store_url"">%store_name</a> and it is now ready to be used for purchases.","%sender wysłał kartę podarunkową do użycia tu <a href=""%store_url"">%store_name</a> i jest gotowa do wykorzystania na zakupy."
+"%sender has sent you a gift card for use at <a href=""%store_url"">%store_name</a> and it is now ready to be used for purchases.","%sender przesyła Ci kartę podarunkową do sklepu <a href=""%store_url"">%store_name</a>. Możesz od razu wykorzystać ją na zakupy."
 "Gift Card Codes:","Kody kart podarunkowych:"
 "Gift Card Code:","Kod karty podarunkowej:"
 "Each card has a balance of %balance that can be used at <a href=""%store_url"">%store_name</a>.","Każda karta ma saldo %balance, które można wykorzystać w <a href=""%store_url"">%store_name</a>."
