@@ -7,7 +7,7 @@
 "Shipping address is not set","Adres wysyłki nie został ustawiony"
 "The requested Payment Method is not available.","Wybrana metoda płatności nie jest dostępna."
 "We found an invalid request for adding product to quote.","Znaleźliśmy błędne polecenia dodania produktu do zapytania."
-"Product that you are trying to add is not available.","Produktu, który próbujesz dodać, nie jest dostępny."
+"Product that you are trying to add is not available.","Produkt, który próbujesz dodać, jest niedostępny."
 "This is the wrong quote item id to update configuration.","To jest nieprawidłowe id produktu zapytania do aktualizacji konfiguracji."
 "This shipping method is not available. To use this shipping method, please contact us.","Ta metoda wysyłki nie jest dostępna. By jej użyć skontaktuj się z nami."
 "The address model is not defined.","Model adresu nie został zdefiniowany."
