@@ -5,3 +5,5 @@
 "Menu","Menu"
 "Account","Konto"
 "Settings","Ustawienia"
+"Area code is not set","Nie ustawiono kodu obszaru"
+"Unable to write file into directory product/cache. Access forbidden.","Nie można zapisać pliku w katalogu product/cache. Brak dostępu."

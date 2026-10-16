@@ -40,3 +40,6 @@
 "Sign up to be notified when this product is back in stock.","Zarejestruj się, aby otrzymywać powiadomienia o dostępności tego produktu."
 "The alert subscription couldn't update at this time. Please try again later.","Subskrypcja alertu nie mogła zostać zaktualizowana w tej chwili. Spróbuj ponownie później."
 "The product wasn't found. Verify the product and try again.","Produkt nie został znaleziony. Zweryfikuj produkt i spróbuj ponownie."
+"Mailing of Product Alerts","Wysyłka powiadomień o produktach"
+"Product alerts are sent successfully.","Powiadomienia o produktach zostały wysłane."
+"Sorry, something went wrong during mailing product alerts. Please see log for details.","Wystąpił błąd podczas wysyłki powiadomień o produktach. Szczegóły znajdują się w logu."

@@ -1,2 +1,3 @@
 """url"" argument should be specified and not empty","Argument ""url"" powinien być określony i nie może być pusty."
 """model"" value should be specified","Należy określić wartość ""model"""
+"No such entity found with matching URL key: %url","Nie znaleziono encji o pasującym kluczu URL: %url"

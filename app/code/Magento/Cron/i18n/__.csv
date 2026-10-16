@@ -21,3 +21,4 @@ Monthly,Monthly
 "Use Separate Process","Use Separate Process"
 "Cron (Scheduled Tasks) - all the times are in minutes","Cron (Scheduled Tasks) - all the times are in minutes"
 "For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.","For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set."
+"Could not acquire lock for cron job: %1","Could not acquire lock for cron job: %1"

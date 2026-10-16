@@ -122,3 +122,6 @@
 "The item isn't found, or it's already ordered.","Przedmiot nie został znaleziony lub został już zamówiony."
 "The payment method isn't selected. Enter the payment method and try again.","Metoda płatności nie została wybrana. Wprowadź metodę płatności i spróbuj ponownie."
 "Some addresses can't be used due to the configurations for specific countries.","Niektóre adresy nie mogą być używane ze względu na konfiguracje dla określonych krajów."
+"Customer does not exist","Klient nie istnieje"
+"Order results","Wyniki zamówień"
+"Turn Off",Wyłącz

@@ -1,0 +1,5 @@
+"An error occurred at deleting links between the media asset and media content.","An error occurred at deleting links between the media asset and media content."
+"An error occurred at getting asset used in content information.","An error occurred at getting asset used in content information."
+"An error occurred at getting media asset to content relation by media asset id.","An error occurred at getting media asset to content relation by media asset id."
+"An error occurred while saving relation between media asset and media content.","An error occurred while saving relation between media asset and media content."
+"Could not remove media content relations for assets ids: %ids","Could not remove media content relations for assets ids: %ids"

@@ -1,2 +1,4 @@
 """model"" value should be specified","Należy określić wartość ""model"""
 "Unlimited","Nielimitowany"
+"""id"" value should be specified.","Należy podać wartość ""id""."
+"Wrong product type. Links are available for Downloadable and Virtual product types","Nieprawidłowy typ produktu. Linki są dostępne dla produktów do pobrania i wirtualnych"

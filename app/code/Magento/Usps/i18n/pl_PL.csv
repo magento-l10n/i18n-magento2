@@ -143,3 +143,8 @@
 "Priority Mail Express Flat Rate Boxes","Pudełka Priority Mail Express Flat Rate"
 "Priority Mail Express Flat Rate Boxes Hold For Pickup","Pudełka z płaską ceną Priority Mail Express wstrzymane do odbioru"
 "Priority Mail Express International Flat Rate Boxes","Skrzynki Priority Mail Express International Flat Rate"
+"An error occurred while processing your request.","Wystąpił błąd podczas przetwarzania żądania."
+"An unexpected error occurred while preparing package dimensions.","Wystąpił nieoczekiwany błąd podczas przygotowywania wymiarów paczki."
+"Failed to prepare package dimensions. Please check the input values.","Nie można przygotować wymiarów paczki. Sprawdź wprowadzone wartości."
+"Mailer Identifier (MID)","Identyfikator nadawcy (MID)"
+"Pricing Options","Opcje cenowe"

@@ -1,0 +1,8 @@
+"Admin User JWT Expires In","Czas ważności JWT administratora"
+"Algorithm to sign/encrypt JWTs used for authentication","Algorytm podpisywania/szyfrowania tokenów JWT używanych do uwierzytelniania"
+"Content encryption algorithm for JWEs","Algorytm szyfrowania treści dla JWE"
+"Customer JWT Expires In","Czas ważności JWT klienta"
+"Encryption algorithm for JWT content to be used when JWE algorithm is selected","Algorytm szyfrowania treści JWT używany po wybraniu algorytmu JWE"
+"JWT Authentication","Uwierzytelnianie JWT"
+"Selected algorithm will define JWT type used (JWS or JWE)","Wybrany algorytm określa typ używanego tokena JWT (JWS lub JWE)"
+"User token has been revoked","Token użytkownika został unieważniony"

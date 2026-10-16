@@ -1,2 +1,6 @@
 """option_id"" and ""parent_id"" values should be specified","wartości ""option_id"" i ""parent_id"" powinny być określone"
 """sku"" value should be specified","wartość ""sku"" powinna być określona"
+"""itemModel"" should be a ""%instance"" instance","""itemModel"" powinien być instancją ""%instance"""
+"""option_id"" value should be specified.","Należy podać wartość ""option_id""."
+"""selection_id"" value should be specified.","Należy podać wartość ""selection_id""."
+"Value must contain ""model"" property.","Wartość musi zawierać właściwość ""model""."

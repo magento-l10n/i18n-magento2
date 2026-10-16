@@ -116,3 +116,10 @@
 "The option couldn't be saved.","Opcja nie mogła zostać zapisana."
 """%fieldName"" is required. Enter and try again.","""%fieldName"" jest wymagane. Wprowadź i spróbuj ponownie."
 "The option with ""%1"" ID can't be deleted.","Opcja o identyfikatorze ""%1"" nie może zostać usunięta."
+"Cannot create shipment as bundle product %1 should be included as well.","Nie można utworzyć przesyłki, ponieważ produkt pakietowy %1 również musi zostać uwzględniony."
+"Excl. tax","Bez podatku"
+"Option type (%types) should have only one element.","Typ opcji (%types) powinien zawierać tylko jeden element."
+"Product relations processor must implement %1.","Procesor relacji produktów musi implementować %1."
+"Shopping cart",Koszyk
+Sidebar,"Pasek boczny"
+thumbnail,miniatura

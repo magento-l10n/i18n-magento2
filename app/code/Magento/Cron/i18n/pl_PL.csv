@@ -21,3 +21,4 @@
 "Use Separate Process","Za pomocą oddzielnego procesu"
 "Cron (Scheduled Tasks) - all the times are in minutes","Cron (Zaplanowane zadania) - wszystkie czasy podawane są w minutach."
 "For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.","Aby uzyskać prawidłowe adresy URL generowane podczas uruchamiania cron, upewnij się, że Web > Secure i Unsecure Base URLs są jawnie ustawione."
+"Could not acquire lock for cron job: %1","Nie można uzyskać blokady dla zadania cron: %1"

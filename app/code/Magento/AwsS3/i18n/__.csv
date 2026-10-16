@@ -1,0 +1,11 @@
+"An error occurred during ""%1"" execution.","An error occurred during ""%1"" execution."
+"An error occurred during ""%1"" fileFlush execution.","An error occurred during ""%1"" fileFlush execution."
+"An error occurred during ""%1"" fileLock execution.","An error occurred during ""%1"" fileLock execution."
+"An error occurred during ""%1"" fileSeek execution.","An error occurred during ""%1"" fileSeek execution."
+"An error occurred during ""%1"" fileUnlock execution.","An error occurred during ""%1"" fileUnlock execution."
+"Bucket and region are required values","Bucket and region are required values"
+"Cannot gather stats! %1","Cannot gather stats! %1"
+"File cannot be read %1","File cannot be read %1"
+"Invalid file open mode ""%1"".","Invalid file open mode ""%1""."
+"The ""%1"" CSV handle is incorrect. Verify the handle and try again.","The ""%1"" CSV handle is incorrect. Verify the handle and try again."
+VAT,VAT

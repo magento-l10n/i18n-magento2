@@ -23,3 +23,11 @@
 "Mode","Tryb"
 "Status","Stan"
 "Updated","Zaktualizowano"
+"%1 indexer(s) were invalidated.","Unieważnione indeksery: %1."
+"%status (%count in backlog)","%status (%count w kolejce)"
+"Are you sure you want to invalidate the selected index(es)?","Czy na pewno chcesz unieważnić wybrane indeksy?"
+"Child process failed with message: %1","Proces potomny zakończył się błędem: %1"
+"Schedule Status","Stan harmonogramu"
+Suspended,Wstrzymany
+"We couldn't invalidate indexer(s) because of an error.","Nie można unieważnić indekserów z powodu błędu."
+"has been rebuilt successfully in %1:%2:%3","został przebudowany pomyślnie w %1:%2:%3"

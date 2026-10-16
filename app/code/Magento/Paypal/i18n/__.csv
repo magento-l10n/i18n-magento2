@@ -743,3 +743,29 @@ Features,Features
                                 offered and the currency offered by the merchant is USD.","PayPal will automatically display each enabled funding option to eligible buyers.
                                 For example, PayPal Credit is only shown to buyers in countries where PayPal Credit is
                                 offered and the currency offered by the merchant is USD."
+"A successful payment transaction has already been completed. Please, check if the order has been placed.","A successful payment transaction has already been completed. Please, check if the order has been placed."
+"Payment can't be accepted since transaction was rejected by merchant.","Payment can't be accepted since transaction was rejected by merchant."
+"Advertise PayPal Pay Later","Advertise PayPal Pay Later"
+"Advertise PayPal PayLater","Advertise PayPal PayLater"
+"Background Color","Background Color"
+"Be sure to configure Fraud Management Filters in your PayPal account in ""Service Settings/Fraud Protection"" section. Attention! Please don't use Total Purchase Price Ceiling/Floor Filters. Current integration doesn't support them.","Be sure to configure Fraud Management Filters in your PayPal account in ""Service Settings/Fraud Protection"" section. Attention! Please don't use Total Purchase Price Ceiling/Floor Filters. Current integration doesn't support them."
+"Border Color","Border Color"
+"Buyer Country","Buyer Country"
+"Checkout Payment Step","Checkout Payment Step"
+"Enable PayPal Pay Later","Enable PayPal Pay Later"
+"Enable PayPal Pay Later Experience","Enable PayPal Pay Later Experience"
+"Fraud Management Filters","Fraud Management Filters"
+Gray,Gray
+Grayscale,Grayscale
+"If not specified, Default Country from General Config will be used.","If not specified, Default Country from General Config will be used."
+"Logo Position","Logo Position"
+"Logo Type","Logo Type"
+"Missing invoice field in IPN request.","Missing invoice field in IPN request."
+Monochrome,Monochrome
+"PayPal gateway has rejected request.","PayPal gateway has rejected request."
+"Style Layout","Style Layout"
+"Text Color","Text Color"
+"Text Size","Text Size"
+"The image at the top left of the checkout page. Max size is 750x90-pixel. <strong class=""colorRed"">https</strong> is highly encouraged.","The image at the top left of the checkout page. Max size is 750x90-pixel. <strong class=""colorRed"">https</strong> is highly encouraged."
+"Under PayPal Checkout buttons","Under PayPal Checkout buttons"
+"White No Border","White No Border"

@@ -26,3 +26,4 @@
 "Full page caching.","Pełne buforowanie stron."
 "Access List value ""%1"" is not valid. Please use only IP addresses and host names.","Wartość listy dostępu ""%1"" jest nieprawidłowa. Używaj tylko adresów IP i nazw hostów."
 "Export Configuration","Konfiguracja eksportu"
+"Handles params size. For better performance use handles parameter size between 50 and 100.","Rozmiar parametrów uchwytów. Dla lepszej wydajności ustaw rozmiar parametru uchwytów w zakresie od 50 do 100."

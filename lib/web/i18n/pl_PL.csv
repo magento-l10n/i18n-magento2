@@ -133,3 +133,15 @@
 "The widget %1 is no longer available. Select a different widget.","Widżet %1 nie jest już dostępny. Wybierz inny widżet."
 "First character must be letter.","Pierwszy znak musi być literą."
 "The password can't be the same as the email address. Create a new password and try again.","Hasło nie może być takie samo jak adres e-mail. Utwórz nowe hasło i spróbuj ponownie."
+Alignment,Wyrównanie
+Appearance,Wygląd
+Autoplay,"Automatyczne odtwarzanie"
+Contained,Zawarty
+Continuous,Ciągły
+Divider,Separator
+Dotted,Kropkowana
+"Drop here","Upuść tutaj"
+"No Color","Brak koloru"
+"All %1","Wszystkie %1"
+"Please enter %1 or more characters, using both numeric and alphabetic.","Wprowadź co najmniej %1 znaków, używając zarówno cyfr, jak i liter."
+"Please use only visible characters and spaces. The colon character is not allowed.","Używaj tylko widocznych znaków i spacji. Dwukropek jest niedozwolony."

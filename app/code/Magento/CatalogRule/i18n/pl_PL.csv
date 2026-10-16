@@ -90,3 +90,7 @@
 "The ""%1"" rule was unable to be saved. Please try again.","Nie udało się zapisać reguły ""%1"". Spróbuj ponownie."
 "The rule with the ""%1"" ID wasn't found. Verify the ID and try again.","Nie znaleziono reguły o identyfikatorze ""%1"". Zweryfikuj identyfikator i spróbuj ponownie."
 "The ""%1"" rule couldn't be removed.","Nie można było usunąć reguły ""%1""."
+"The rule ID is required.","Identyfikator reguły jest wymagany."
+"Validation error","Błąd walidacji"
+"You activated a total of %1 records.","Aktywowano łącznie %1 rekordów."
+"You deactivated a total of %1 records.","Dezaktywowano łącznie %1 rekordów."
