@@ -532,3 +532,50 @@ Edit,Edit
 "Parameter Value","Parameter Value"
 "Enable Template Path Hints for Storefront","Enable Template Path Hints for Storefront"
 "Enable Template Path Hints for Admin","Enable Template Path Hints for Admin"
+px,px
+"%1 and %2","%1 and %2"
+"<strong class=""colorRed"">Warning!</strong> Enabling this feature is not recommended on production environments because it represents a potential security risk.","<strong class=""colorRed"">Warning!</strong> Enabling this feature is not recommended on production environments because it represents a potential security risk."
+"<strong class=""colorRed"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third-party services (e.g. PayPal etc.).","<strong class=""colorRed"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third-party services (e.g. PayPal etc.)."
+"Add the following parameter to the URL to show template hints ?templatehints=[parameter_value]","Add the following parameter to the URL to show template hints ?templatehints=[parameter_value]"
+"Admin Grids","Admin Grids"
+Asset,Asset
+Buttons,Buttons
+"Defer non-critical head scripts","Defer non-critical head scripts"
+Examples,Examples
+"For SMTP and Windows server only.","For SMTP and Windows server only."
+Inline,Inline
+Leave,Leave
+"Limit Number of Products in Grid","Limit Number of Products in Grid"
+"Limit total number of products in grid collection if their number is greater than this value. Minimum value: 20000.","Limit total number of products in grid collection if their number is greater than this value. Minimum value: 20000."
+"Limit total number of products in grid collection.","Limit total number of products in grid collection."
+"Minimum Admin Password Length","Minimum Admin Password Length"
+"Minimum number of characters required for admin user passwords. Values below 7 are not allowed.","Minimum number of characters required for admin user passwords. Values below 7 are not allowed."
+"Next Page","Next Page"
+"Non-critical scripts loaded in the head section will automatically receive ""defer"" attribute.","Non-critical scripts loaded in the head section will automatically receive ""defer"" attribute."
+"Please enable your Store View before using this Web Site as Default","Please enable your Store View before using this Web Site as Default"
+"Please enter at least 0 and at most 65535","Please enter at least 0 and at most 65535"
+"Please enter at least 0 and at most 65535 (For SMTP and Windows server only).","Please enter at least 0 and at most 65535 (For SMTP and Windows server only)."
+"Previous Page","Previous Page"
+"Privacy Policy","Privacy Policy"
+Ratio,Ratio
+"Records Limit","Records Limit"
+"Removes only Magento-generated cache. Safe to use when refreshing outdated data.","Removes only Magento-generated cache. Safe to use when refreshing outdated data."
+"Resize performed via javascript before file upload.","Resize performed via javascript before file upload."
+SMTP,SMTP
+"Search strings are either normal strings or regular expressions (PCRE). They are matched in the same order as entered.","Search strings are either normal strings or regular expressions (PCRE). They are matched in the same order as entered."
+"See <a href=""https://cheatsheetseries.owasp.org/cheatsheets/HTTP_Strict_Transport_Security_Cheat_Sheet.html"" target=""_blank"">HTTP Strict Transport Security</a> page for details.","See <a href=""https://cheatsheetseries.owasp.org/cheatsheets/HTTP_Strict_Transport_Security_Cheat_Sheet.html"" target=""_blank"">HTTP Strict Transport Security</a> page for details."
+"Short Description","Short Description"
+Standard,Standard
+Tabs,Tabs
+"The %1 and %2 of this account have been modified successfully.","The %1 and %2 of this account have been modified successfully."
+"The %1 of this account has been modified successfully.","The %1 of this account has been modified successfully."
+"The minimum admin password length must be at least %1 characters.","The minimum admin password length must be at least %1 characters."
+Today,Today
+Tooltip,Tooltip
+Transport,Transport
+"URL key ""%1"" matches a reserved endpoint name (%2). Use another URL key.","URL key ""%1"" matches a reserved endpoint name (%2). Use another URL key."
+Upload,Upload
+"Use URL parameter to enable template path hints for Storefront","Use URL parameter to enable template path hints for Storefront"
+"User agent exceptions override product and CMS pages rules.","User agent exceptions override product and CMS pages rules."
+Video,Video
+"When disabled, each script is loaded separately.","When disabled, each script is loaded separately."

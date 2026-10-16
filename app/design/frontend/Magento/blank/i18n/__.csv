@@ -5,3 +5,6 @@ Summary,Summary
 Menu,Menu
 Account,Account
 Settings,Settings
+"Area code is not set","Area code is not set"
+Fade,Fade
+"Unable to write file into directory product/cache. Access forbidden.","Unable to write file into directory product/cache. Access forbidden."

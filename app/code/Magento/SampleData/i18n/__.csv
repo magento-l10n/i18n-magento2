@@ -1,1 +1,4 @@
 "File not found","File not found"
+"Error in writing Auth file %1. Please check permissions for writing.","Error in writing Auth file %1. Please check permissions for writing."
+"Failed to set ini option display_errors to value 1. %1","Failed to set ini option display_errors to value 1. %1"
+"Failed to set ini option memory_limit to 756M. %1","Failed to set ini option memory_limit to 756M. %1"

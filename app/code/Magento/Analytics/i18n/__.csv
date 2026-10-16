@@ -73,3 +73,8 @@ Other,Other
 "Enter the encryption key and try again.","Enter the encryption key and try again."
 "The ""%1"" source doesn't exist.","The ""%1"" source doesn't exist."
 "Retry Synchronization","Retry Synchronization"
+"Command ""%1"" was not found.","Command ""%1"" was not found."
+"Industry Data","Industry Data"
+Integration,Integration
+Left,Left
+"The data could not be encrypted. Try again.","The data could not be encrypted. Try again."

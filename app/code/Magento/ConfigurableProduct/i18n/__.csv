@@ -184,3 +184,4 @@ Comparable,Comparable
 "This is implemented for the ""%1"" configurable product only.","This is implemented for the ""%1"" configurable product only."
 "Contribution must have attributes specified. Enter attributes and try again.","Contribution must have attributes specified. Enter attributes and try again."
 "Configurable product ""%1"" does not have sub-products","Configurable product ""%1"" does not have sub-products"
+"The value of attribute """"%1"""" must be unique","The value of attribute """"%1"""" must be unique"

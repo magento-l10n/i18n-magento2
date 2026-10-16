@@ -26,3 +26,5 @@
 "Full page caching.","Full page caching."
 "Access List value ""%1"" is not valid. Please use only IP addresses and host names.","Access List value ""%1"" is not valid. Please use only IP addresses and host names."
 "Export Configuration","Export Configuration"
+"Handles params size","Handles params size"
+"Handles params size. For better performance use handles parameter size between 50 and 100.","Handles params size. For better performance use handles parameter size between 50 and 100."
