@@ -6,7 +6,7 @@
 "Processing","Przetwarzam"
 "Never","Nigdy"
 "%1 index is locked by another reindex process. Skipping.","%1 indeks jest zablokowany przez inny proces indeksowania. Pomijam."
-"Index Management","Indeksy"
+"Index Management","Zarządzanie indeksami"
 "Please select indexers.","Prosimy wybrać indeksy."
 "%1 indexer(s) are in ""Update by Schedule"" mode.","%1 indeks(ów) jest w tryby ""Zaplanowanej aktualizacji""."
 "We couldn't change indexer(s)' mode because of an error.","Nie można zmienić trybu indeksowania z powodu błędu."
