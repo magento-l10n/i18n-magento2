@@ -35,19 +35,19 @@
 "An error occurred on the server. Your changes have not been saved.","Na serwerze wystąpił błąd. Twoje zmiany nie zostały zapisane."
 "Incorrect CAPTCHA","Niepoprawna CAPTCHA"
 "Create New Company","Stwórz nową firmę"
-"A total of %1 record(s) were updated.","(%1) wpisów zostało zaktualizowanych."
+"A total of %1 record(s) were updated.","Łączna liczba zaktualizowanych rekordów: %1."
 "Something went wrong. Please try again later.","Coś poszło nie tak. Proszę spróbować później."
 "Invalid value of ""%value"" provided for the email field.","W polu wiadomości email podano nieprawidłową wartość ""%value""."
 "Invalid value ""%value"" given for the website ID field.","Nieprawidłowa wartość ""%value"" podana dla pola identyfikatora witryny."
-"You have deleted company %companyName.","Usunąłeś firmę %companyName."
+"You have deleted company %companyName.","Usunięto firmę %companyName."
 "The company no longer exists.","Firma już nie istnieje."
 "The requested company is not found","Nie można znaleźć firmy."
 "Please correct the data sent.","Proszę poprawić wprowadzone dane."
 "can not be saved","Nie można zachować."
 "A total of %1 record(s) were deleted.","Usunięto %1 wpis(ów)."
 "Could not save company","Nie można zachować firmy"
-"You have saved company %companyName.","Zapisałeś firmę %companyName."
-"You have created company %companyName.","Utworzyłeś firmę %companyName."
+"You have saved company %companyName.","Zapisano firmę %companyName."
+"You have created company %companyName.","Utworzono firmę %companyName."
 "A user with this email address already exists in the system. If you proceed, the user will be linked to your company.","Użytkownik z tym adresem email już istnieje w systemie. Jeżeli będziesz kontynuować, użytkownik zostanie powiązany z Twoją firmą."
 "A user with this email address is already a member of your company.","Użytkownik o tym adresie email jest już członkiem twojej organizacji."
 "A user with this email address already exists in the system. Enter a different email address to create this user.","Użytkownik o tym adresie email już istnieje w systemie. Wprowadź inny adres email celem stworzenia nowego użytkownika."
@@ -98,7 +98,7 @@
 "This account is locked.","To konto jest zablokowane."
 "Your account is not yet approved. If you have questions, please contact the seller.","Twoje konto nie zostało jeszcze potwierdzone. Jeśli masz pytania, proszę skontaktuj się z doradcą."
 "There was an error saving custom attributes.","Wystąpił błąd podczas zapisywania atrybutów niestandardowych."
-"Invalid value of ""%value"" provided for the %fieldName field.","Nieprawidłowa wartość ""%value"" przewidziana polu %fieldname."
+"Invalid value of ""%value"" provided for the %fieldName field.","Podano nieprawidłową wartość ""%value"" w polu %fieldName."
 """%fieldName"" is required. Enter and try again.","Pole ""%fieldName"" jest wymagane. Uzupełnij i spróbuj ponownie."
 "No such entity with %fieldName = %fieldValue","Nie znaleziono %fieldName = %fieldValue"
 "This role cannot be deleted because users are assigned to it. Reassign the users to another role to continue.","Rola nie może zostać usunięta, ponieważ są przypisani do niej użytkownicy. Przypisz użytkowników do innej roli aby kontynuować."
@@ -124,12 +124,12 @@
 "The consumer isn't authorized to access resource.","Konsument nie ma uprawnień dostępu do zasobu."
 " - Duplicated"," - Duplikat"
 "message","wiadomość"
-"Exception message","Komunikat wyjątku"
+"Exception message","Komunikat o wyjątku"
 "test","test"
 "phrase","fraza"
 "exception","wyjątek"
-"Localized Exception.","Zlokalizowanie wyjątku."
-"Error message","Komunikat błędu"
+"Localized Exception.","Zlokalizowany wyjątek."
+"Error message","Komunikat o błędzie"
 "No such entity.","Nie ma takiego podmiotu."
 "error message","komunikat błędu"
 "Could not save role","Nie udało się zapisać roli"
@@ -152,7 +152,7 @@
 "Street Address","Ulica i numer"
 "City","Miasto"
 "Country","Kraj"
-"State/Province","Województwo"
+"State/Province","Województwo/Region"
 "Please select a region, state or province.","Wybierz województwo lub region."
 "ZIP/Postal Code","Kod pocztowy"
 "Phone Number","Numer telefonu"
@@ -178,7 +178,7 @@
 "Team Title","Nazwa zespołu"
 "Description","Opis"
 "You don't have a company account yet.","Nie posiadasz jeszcze konta firmowego."
-"Account Information","Dane konta"
+"Account Information","Informacje o koncie"
 "VAT/TAX ID: ","Regon/NIP: "
 "Re-seller ID: ","ID sprzedawcy:"
 "You have no other address entries in your address book.","Nie masz innych wpisów adresów w swojej książce adresowej."
@@ -195,16 +195,16 @@
 "This action will replace your Company Admin.","Ta akcja zastąpi administratora firmy."
 "* Your latest changes on the company profile have not been saved yet.","* Ostatnie zmiany w profilu firmy nie zostały jeszcze zapisane."
 "Dear %name,","Witaj %name,"
-"You have been assigned to <a href=""%customer_url"">%company_name</a> as the Company Admin.","Zostałeś przypisany do <a href=""%customer_url"">%company_name</a> jako administrator firmy."
+"You have been assigned to <a href=""%customer_url"">%company_name</a> as the Company Admin.","Przypisano Cię do <a href=""%customer_url"">%company_name</a> jako administratora firmy."
 "When you sign in to your account, you can:","Gdy zalogujesz się na swoje konto, możesz:"
 "* Create and manage company users and teams","* Tworzenie i zarządzanie firmowymi użytkownikami i zespołami"
 "* Manage user permissions for the store","* Zarządzanie uprawnieniami użytkowników dla sklepu"
 "* Create and manage company shipping and billing addresses","* Tworzenie i zarządzanie firmowymi adresami wysyłkowymi i rozliczeniowymi"
 "You've been added to the <a href=%customer_url>%company_name</a> as the company member.
     Once you enter your account,
-    the company's shared resources will be available for you.","Zostałeś dodany do <a href=%customer_url>%company_name</a> jako członek firmy.
-    Po wprowadzeniu konta,
-    udostępnione zasoby firmy będą dostępne."
+    the company's shared resources will be available for you.","Dodano Cię do <a href=%customer_url>%company_name</a> jako członka firmy.
+    Po zalogowaniu się na konto
+    udostępnione zasoby firmy będą dla Ciebie dostępne."
 "If this is a mistake,
     please contact the company Admin at %company_admin_email.","Jeśli jest to błąd,
     prosimy o kontakt z administratorem firmy pod adresem %company_admin_email."
@@ -213,15 +213,15 @@
 "If this is a mistake, please contact the seller.","Jeśli jest to błąd, prosimy o kontakt ze sprzedawcą."
 "Your account has been set to inactive and you cannot now access the company account. If you think this is a mistake, please contact your manager for details.","Twoje konto zostało ustawione jako nieaktywne i nie możesz teraz uzyskać dostępu do konta firmowego. Jeśli uważasz, że to pomyłka, skontaktuj się ze swoim przełożonym w celu uzyskania szczegółowych informacji."
 "A company registration request has been submitted by customer %customer. The account is temporarily locked until you approve or reject this company.","Klient %customer przesłał wniosek o rejestrację firmy. Konto jest tymczasowo zablokowane do momentu zatwierdzenia lub odrzucenia tej firmy."
-"Company: %company","Firma: %firma"
+"Company: %company","Firma: %company"
 "Your company registration request (for the <strong>%company_name</strong>)
     has been approved and you have been set as the Company Admin.
     You can now create and manage your company structure.
     Your company members are able to request quotes, create requisition lists,
-    and use other B2B features.","Twój wniosek o rejestrację firmy (dla <strong>%nazwa_firmy</strong>)
-    został zatwierdzony i zostałeś ustawiony jako administrator firmy.
+    and use other B2B features.","Twój wniosek o rejestrację firmy (dla <strong>%company_name</strong>)
+    został zatwierdzony i ustawiono Cię jako administratora firmy.
     Możesz teraz tworzyć strukturę firmy i zarządzać nią.
-    Członkowie firmy mogą składać zapytania ofertowe, tworzyć listy zamówień,
+    Członkowie firmy mogą składać zapytania ofertowe, tworzyć listy zamówień
     i korzystać z innych funkcji B2B."
 "The status of your company <strong>%company_name</strong>
     is now <strong>Active</strong>.
@@ -232,7 +232,7 @@
     i korzystać z innych funkcji B2B."
 "Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details.","Twój typ konta został zmieniony z Company Admin na zwykłe konto użytkownika. Jeśli uważasz, że to pomyłka, skontaktuj się ze swoim przełożonym w celu uzyskania szczegółowych informacji."
 "%name,","%name,"
-"You have been assigned to %company_name as the Sales Representative.","Zostałeś przydzielony do %company_name jako przedstawiciel handlowy."
+"You have been assigned to %company_name as the Sales Representative.","Przydzielono Cię do %company_name jako przedstawiciela handlowego."
 "When you sign in to your account, you will be able to:","Gdy zalogujesz się na swoje konto, będziesz mógł:"
 "* View and manage company quotes in Admin Panel","* Wyświetlanie i zarządzanie ofertami firmy w panelu administracyjnym"
 "* View and edit company profile in Admin Panel","* Przeglądaj i edytuj profil firmy w panelu administracyjnym"
@@ -242,7 +242,7 @@
     Członkowie Twojej firmy mogą nadal korzystać z witryny,
     ale nie będą mogli składać zamówień."
 "If you have any questions, please contact the seller.","W razie jakichkolwiek pytań prosimy o kontakt ze sprzedawcą."
-"Your company account <strong>%company_name</strong> has been suspended, pending approval from the seller.","Twoje konto firmowe <strong>%nazwa_firmy</strong> zostało zawieszone w oczekiwaniu na zatwierdzenie przez sprzedawcę."
+"Your company account <strong>%company_name</strong> has been suspended, pending approval from the seller.","Twoje konto firmowe <strong>%company_name</strong> zostało zawieszone w oczekiwaniu na zatwierdzenie przez sprzedawcę."
 "Your company registration request (for the <strong>%company_name</strong>) has been rejected
     for the following reason:","Twój wniosek o rejestrację firmy (dla <strong>%company_name</strong>) został odrzucony
     z następującego powodu:"
@@ -275,7 +275,7 @@
 "Cannot Delete Customer","Nie można usunąć klienta"
 "Set Inactive","Ustaw nieaktywne"
 "Select Delete to permanently delete the user account and content. User's orders and quotes are still visible for the merchant. Select Set Inactive to temporarily lock the user. The user’s content is still available to parent users.","Wybierz Usuń, aby trwale usunąć konto użytkownika i jego zawartość. Zamówienia i oferty użytkownika są nadal widoczne dla sprzedawcy. Wybierz opcję Ustaw nieaktywne, aby tymczasowo zablokować użytkownika. Zawartość użytkownika jest nadal dostępna dla użytkowników nadrzędnych."
-"User with this email already exists in the system. Enter a different email address to continue. If you want to use your current account as an administrator account, please contact the seller.","Użytkownik o podanym adresie email jest już zarejestrowany. Podaj inny adres email aby kontynuować. Jeśli chcesz użyć istniejącego konta w roli administratora, skontaktuj się ze sprzedawcą."
+"User with this email already exists in the system. Enter a different email address to continue. If you want to use your current account as an administrator account, please contact the seller.","Użytkownik o podanym adresie e-mail jest już zarejestrowany. Podaj inny adres e-mail, aby kontynuować. Jeśli chcesz użyć istniejącego konta w roli administratora, skontaktuj się ze sprzedawcą."
 "Enable Company","Enable Company"
 "Company Configuration","Konfiguracja firmy"
 "General","Ogólne"

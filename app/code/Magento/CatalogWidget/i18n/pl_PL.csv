@@ -25,5 +25,5 @@
                 ","
                     Czas w sekundach między aktualizacjami widżetu.
                     <br/>Jeśli nie jest ustawiony, wynosi 86400 sekund (24 godziny). Aby zaktualizować widżet natychmiast, przejdź do Zarządzania pamięcią podręczną i wyczyść pamięć podręczną Wyjście HTML bloków.
-                    <br/>Widget nie będzie pokazywał produktów, które zaczną pasować do określonych warunków, dopóki pamięć podręczna nie zostanie odświeżona.
+                    <br/>Widżet nie będzie pokazywał produktów, które zaczną pasować do określonych warunków, dopóki pamięć podręczna nie zostanie odświeżona.
                 "

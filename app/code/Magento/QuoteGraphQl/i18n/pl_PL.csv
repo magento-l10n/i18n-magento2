@@ -1,6 +1,6 @@
-"Shopping cart error: %message","Błąd koszyka: %komunikat"
+"Shopping cart error: %message","Błąd koszyka: %message"
 "Could not find a product with SKU ""%sku""","Nie można znaleźć produktu z SKU ""%sku"""
-"Could not add the product with SKU %sku to the shopping cart: %message","Nie można dodać do koszyka produktu z kodem SKU %sku: %komunikat"
+"Could not add the product with SKU %sku to the shopping cart: %message","Nie można dodać do koszyka produktu z kodem SKU %sku: %message"
 "Missing key ""sku"" in cart item data","Brakujący klucz ""sku"" w danych pozycji koszyka"
 "Missing key ""qty"" in cart item data","Brakujący klucz ""qty"" w danych pozycji koszyka"
 "Could not find a cart with ID ""%masked_cart_id""","Nie można znaleźć koszyka o identyfikatorze ""%masked_cart_id"""

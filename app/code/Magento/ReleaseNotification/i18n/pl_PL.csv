@@ -28,7 +28,7 @@
                         </div>
                         <div class=""flexible-payments-highlight"">
                         <h3>Elastyczne warunki płatności</h3>
-                        <p>Zwiększ sprzedaż, zapewniając kupującym elastyczność płacenia teraz, później lub w ratach za pomocą zintegrowanej opcji płatności Klarna.
+                        <p>Zwiększ sprzedaż, zapewniając kupującym elastyczność płacenia teraz, później lub w ratach za pomocą zintegrowanej opcji płatności Klarna.</p>
                         </div>
                         <div class=""tax-automation-highlight"">
                         <h3>Automatyzacja podatku od sprzedaży i użytkowania</h3>
@@ -44,7 +44,7 @@
                         <li><span>Built on years of Amazon eCommerce innovation, and trusted by merchants and buyers alike.</span></li>
                         <li><span>Available across platforms and devices, in the home and on the go.</span></li>
                         </ul>
-                        ","<p>Dzięki <a href=""http://docs.magento.com/m2/ce/user_guide/payment/amazon-pay.html"" target=""_blank"">Amazon Pay</a> ułatwiamy setkom milionów klientów Amazon na całym świecie łatwe logowanie się i dokonywanie zakupów w Twoim sklepie przy użyciu informacji już zapisanych na ich koncie Amazon. Dzięki łatwej konfiguracji w Magento 2.2.4, Amazon Pay zapewnia klientom zaufane i znajome doświadczenie przy kasie. Wystarczy kilka dotknięć, aby sfinalizować transakcję bez opuszczania witryny.
+                        ","<p>Dzięki <a href=""http://docs.magento.com/m2/ce/user_guide/payment/amazon-pay.html"" target=""_blank"">Amazon Pay</a> ułatwiamy setkom milionów klientów Amazon na całym świecie łatwe logowanie się i dokonywanie zakupów w Twoim sklepie przy użyciu informacji już zapisanych na ich koncie Amazon. Dzięki łatwej konfiguracji w Magento 2.2.4, Amazon Pay zapewnia klientom zaufane i znajome doświadczenie przy kasie. Wystarczy kilka dotknięć, aby sfinalizować transakcję bez opuszczania witryny.</p>
                         <ul>
                         <li><span>Twoi klienci używają jednego znanego loginu do identyfikacji i dokonywania transakcji wszędzie tam, gdzie oferowana jest usługa Amazon Pay.</span></li>
                         <li><span>Obsługa płatności jest objęta gwarancją Amazon od A do Z bez dodatkowych kosztów.</span></li>
@@ -83,7 +83,7 @@
                         <li><span>Flexible deployment options fit the needs of your organization in the cloud, or on premises.</span></li>
                         </ul>
                         ","
-                        <p><a href=""http://docs.magento.com/m2/ce/user_guide/tax/vertex.html"" target=""_blank"">Vertex Cloud</a> łączy zaawansowane oprogramowanie z wyjątkowym zespołem ekspertów podatkowych, aby pomóc sprzedawcom Magento uprościć proces podatku od sprzedaży i zachować zgodność z ciągle zmieniającymi się przepisami podatkowymi. Sprzedawcy mogą łatwo uzyskać dostęp i skonfigurować Vertex Cloud z poziomu administratora Magento, aby sprostać złożonym wyzwaniom podatkowym.
+                        <p><a href=""http://docs.magento.com/m2/ce/user_guide/tax/vertex.html"" target=""_blank"">Vertex Cloud</a> łączy zaawansowane oprogramowanie z wyjątkowym zespołem ekspertów podatkowych, aby pomóc sprzedawcom Magento uprościć proces podatku od sprzedaży i zachować zgodność z ciągle zmieniającymi się przepisami podatkowymi. Sprzedawcy mogą łatwo uzyskać dostęp i skonfigurować Vertex Cloud z poziomu administratora Magento, aby sprostać złożonym wyzwaniom podatkowym.</p>
                         <ul>
                         <li><span>Bezproblemowa integracja z wielokrotnie nagradzanym wsparciem dla prostych i złożonych potrzeb podatkowych.</span></li>
                         <li><span>Automatyczna zgodność z najnowszymi przepisami podatkowymi dla każdego produktu i każdej jurysdykcji.</span></li>
@@ -172,18 +172,18 @@
                         </ul>
                         ","
                         <p>Teraz możesz dostarczyć doświadczenie podobne do Amazon dzięki nowej, usprawnionej opcji płatności.
-                        Zalogowani klienci mogą korzystać z wcześniej zapisanych danych uwierzytelniających płatności i informacji o wysyłce.
+                        Zalogowani klienci mogą korzystać z wcześniej zapisanych danych płatności i informacji o wysyłce,
                         aby pominąć kolejne kroki, dzięki czemu proces jest szybszy i łatwiejszy, szczególnie dla kupujących mobilnie. Kluczowe
                         funkcje obejmują:
                         </p>
                         <ul>
                         <li><span>Konfigurowalny przycisk ""Natychmiastowy zakup"" do składania zamówień.</span></li>
-                        <li><span>Wsparcie dla wszystkich rozwiązań płatniczych korzystających z Braintree Vault, w tym Braintree Credit Card, Braintree PayPal i PayPal Payflow Pro.</span></li>.
-                        kartą kredytową, Braintree PayPal i PayPal Payflow Pro.</span></li>
-                        <li><span>Wysyłka na domyślny adres klienta przy użyciu najtańszej dostępnej metody wysyłki.
-                        metody wysyłki.</span></li>
-                        <li><span>Możliwość dostosowania logiki biznesowej Instant Purchase do potrzeb handlowców.</span></li>.
-                        potrzeb sprzedawcy.</span></li>
+                        <li><span>Obsługa wszystkich rozwiązań płatniczych korzystających z Braintree Vault, w tym Braintree Credit
+                        Card, Braintree PayPal i PayPal Payflow Pro.</span></li>
+                        <li><span>Wysyłka na domyślny adres klienta przy użyciu najtańszej dostępnej metody
+                        wysyłki.</span></li>
+                        <li><span>Możliwość dostosowania przez programistów logiki biznesowej Instant Purchase do potrzeb
+                        sprzedawcy.</span></li>
                         </ul>
                         "
 "Email Marketing Automation","Automatyzacja marketingu e-mailowego"
