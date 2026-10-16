@@ -120,7 +120,7 @@
 "Maximum length of this field must be equal or less than %1 symbols.","Maksymalna długość w tym polu musi być mniejsza lub równa %1 symboli."
 "Admin is a required field in the each row.","Pole ""Admin"" jest wymagane w każdym wierszu."
 "Please enter a quantity greater than 0.","Wprowadź ilość większą niż 0."
-"The fewest you may purchase is %1.","Najmniej, ile możesz zakupić to %1."
+"The fewest you may purchase is %1.","Minimalna ilość tego produktu w zamówieniu to %1."
 "The maximum you may purchase is %1.","Możesz zakupić maksymalnie %1."
 "You can buy this product only in quantities of %1 at a time.","Możesz kupić ten produkt tylko w ilościach po %1 na raz."
 "Forbidden extensions has been used. Avoid usage of ","Używano zabronionych rozszerzeń. Unikaj używania "
