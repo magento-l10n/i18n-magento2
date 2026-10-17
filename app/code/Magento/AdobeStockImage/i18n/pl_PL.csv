@@ -1,0 +1,8 @@
+"Could not load related assets for asset id: %id","Nie można wczytać powiązanych zasobów dla zasobu o ID: %id"
+"Could not save image.","Nie można zapisać obrazu."
+"Could not save image: destination directory is restricted.","Nie można zapisać obrazu: katalog docelowy jest objęty ograniczeniami."
+"Could not save image: unsupported file type.","Nie można zapisać obrazu: nieobsługiwany typ pliku."
+"Could not save media gallery asset.","Nie można zapisać zasobu galerii multimediów."
+"Destination Path is too long; must be %1 characters or less","Ścieżka docelowa jest za długa; może mieć maksymalnie %1 znaków"
+"Image File has invalid characters.","Nazwa pliku obrazu zawiera niedozwolone znaki."
+"Image with the same file name already exits.","Obraz o tej samej nazwie pliku już istnieje."
