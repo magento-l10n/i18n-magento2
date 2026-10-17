@@ -1,0 +1,6 @@
+"Order notified for pickup at: %1","Wysłano powiadomienie o gotowości zamówienia do odbioru w: %1"
+"Please feel free to pickup your order now.","Możesz już odebrać zamówienie."
+"The order is not ready for pickup","Zamówienie nie jest gotowe do odbioru"
+"Your %store_name order is ready for pickup","Twoje zamówienie w sklepie %store_name jest gotowe do odbioru"
+"Your Order <span class=""no-link"">#%increment_id</span> is complete","Twoje zamówienie <span class=""no-link"">#%increment_id</span> zostało zrealizowane"
+"Your order placed from %store_name is ready for pickup.","Twoje zamówienie złożone w sklepie %store_name jest gotowe do odbioru."

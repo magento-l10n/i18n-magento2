@@ -1,0 +1,7 @@
+"""%column"" contains incorrect value","Kolumna „%column” zawiera nieprawidłową wartość"
+"Given column name ""%columnName"" is not present in collection.","Podanej nazwy kolumny „%columnName” nie ma w kolekcji."
+"Missing required column ""%column""","Brak wymaganej kolumny „%column”"
+"No filter processor for ""%type"" given.","Nie podano procesora filtra dla „%type”."
+"Source code ""%code"" does not exists","Kod źródła „%code” nie istnieje"
+"There is no backend type specified for column ""%columnName"".","Nie określono typu zaplecza dla kolumny „%columnName”."
+"There is no command registered for behavior ""%behavior"".","Brak polecenia zarejestrowanego dla zachowania „%behavior”."

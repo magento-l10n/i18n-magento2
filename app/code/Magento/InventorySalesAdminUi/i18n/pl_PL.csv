@@ -1,0 +1,5 @@
+"Aggregated inventory available to purchase for a stock. The amount aggregates assigned source's Quantity subtracting the Out-of-Stock Threshold (or MinQty).","Łączna ilość zapasu dostępna do zakupu. Jest to suma ilości w przypisanych źródłach pomniejszona o próg braku w magazynie (lub minimalną ilość)."
+"All unassigned sales channels will be assigned to the Default Stock","Wszystkie nieprzypisane kanały sprzedaży zostaną przypisane do domyślnego zapasu"
+"No manage stock","Bez zarządzania zapasami"
+"Product Salable Quantity","Ilość produktu dostępna do sprzedaży"
+"Salable Quantity","Ilość dostępna do sprzedaży"

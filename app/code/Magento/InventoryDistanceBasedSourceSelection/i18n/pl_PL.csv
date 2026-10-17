@@ -1,0 +1,17 @@
+"Algorithm which provides Source Selections based on shipping address distance from the source","Algorytm wybierający źródła na podstawie odległości adresu dostawy od źródła"
+"Cannot download country","Nie można pobrać kraju"
+Distance,Odległość
+"Distance Priority","Priorytet odległości"
+"Google API key","Klucz API Google"
+"Google API key is not defined","Klucz API Google nie jest zdefiniowany"
+"No destination address was provided in the request","W żądaniu nie podano adresu docelowego"
+Postcode,"Kod pocztowy"
+Provider,Dostawca
+"Source Selection","Wybór źródła"
+Sources,Źródła
+"Unable to connect google API for distance matrix","Nie można połączyć się z Google API w celu pobrania macierzy odległości"
+"Unable to connect google API for geocoding","Nie można połączyć się z Google API w celu geokodowania"
+"Unable to geocode address %1","Nie można geokodować adresu %1"
+"Unable to get distance between %1 and %2","Nie można ustalić odległości między %1 a %2"
+"Undefined country code","Niezdefiniowany kod kraju"
+"Unknown geoname for %1","Nieznana nazwa geograficzna dla %1"
