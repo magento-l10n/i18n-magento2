@@ -1,0 +1,3 @@
+"Could not find payment information for cart.","Nie znaleziono informacji o płatności dla koszyka."
+"Invalid Url.","Nieprawidłowy adres URL."
+"Required parameter ""paypal_payload"" is missing.","Brak wymaganego parametru ""paypal_payload""."

@@ -51,3 +51,11 @@
 "The bucket doesn't exist.","Wiadro nie istnieje."
 "Deprecation Notice","Powiadomienie o wycofaniu"
 "Autocomplete Limit","Limit autouzupełniania"
+"This search engine option is no longer supported by Adobe. It is recommended to use OpenSearch as a search engine instead.","Ta wyszukiwarka nie jest już wspierana przez Adobe. Zalecamy użycie OpenSearch jako wyszukiwarki."
+"10 is the highest priority/heaviest weighting.","10 to najwyższy priorytet/największa waga."
+"Default product collection strategy not found","Nie znaleziono domyślnej strategii kolekcji produktów"
+"Disable Notice","Wyłącz powiadomienie"
+"If not specified, Default Search Engine will be used.","Jeśli nie zostanie określony, użyta zostanie domyślna wyszukiwarka."
+Stacked,Skumulowany
+"This value must be compatible with the corresponding setting in the configured search engine.","Ta wartość musi być zgodna z odpowiednim ustawieniem w skonfigurowanej wyszukiwarce."
+"This value must be compatible with the corresponding setting in the configured search engine. Be aware: a low query length limit may cause the performance impact.","Ta wartość musi być zgodna z odpowiednim ustawieniem w skonfigurowanej wyszukiwarce. Uwaga: niski limit długości zapytania może wpłynąć na wydajność."

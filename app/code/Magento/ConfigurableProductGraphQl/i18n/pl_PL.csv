@@ -1,0 +1,6 @@
+"""attribute_id"" value should be specified.","Należy podać wartość ""attribute_id""."
+"""value_index"" value should be specified.","Należy podać wartość ""value_index""."
+"Could not find specified product.","Nie można znaleźć wskazanego produktu."
+"Required parameter ""cart_items"" is missing","Brak wymaganego parametru ""cart_items"""
+"The product with SKU %sku is out of stock.","Produkt o SKU %sku jest niedostępny."
+"configurableOptionValueUids values are incorrect","Wartości configurableOptionValueUids są nieprawidłowe"

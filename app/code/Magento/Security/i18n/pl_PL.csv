@@ -28,3 +28,6 @@
 "Delay in minutes between password reset requests. Use 0 to disable.","Opóźnienie w minutach między żądaniami zresetowania hasła. Użyj 0 by wyłączyć opóźnienie."
 "Your account is temporarily disabled. Please try again later.","Twoje konto jest tymczasowo wyłączone. Spróbuj ponownie później."
 "We received too many requests for password resets. Please wait and try again later or contact %1.","Otrzymaliśmy zbyt wiele próśb o zresetowanie hasła. Poczekaj i spróbuj ponownie później lub skontaktuj się z %1."
+"""%1"" must be later than the current date.","""%1"" musi być późniejsza niż bieżąca data."
+"Max Session Size in Admin","Maksymalny rozmiar sesji w panelu administracyjnym"
+"Max Session Size in Storefront","Maksymalny rozmiar sesji w sklepie"

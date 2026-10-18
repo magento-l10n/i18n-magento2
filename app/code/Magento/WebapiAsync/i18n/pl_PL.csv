@@ -1,2 +1,3 @@
 "WebapiAsync config for ""%topicName"" does not exist.","Konfiguracja WebapiAsync dla ""%topicName"" nie istnieje."
 "WebapiAsync config for ""%lookupKey"" does not exist.","Konfiguracja WebapiAsync dla ""%lookupKey"" nie istnieje."
+"Request body must be an array","Treść żądania musi być tablicą"

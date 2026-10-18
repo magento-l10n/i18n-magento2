@@ -90,3 +90,8 @@ No,No
 "The ""%1"" rule was unable to be saved. Please try again.","The ""%1"" rule was unable to be saved. Please try again."
 "The rule with the ""%1"" ID wasn't found. Verify the ID and try again.","The rule with the ""%1"" ID wasn't found. Verify the ID and try again."
 "The ""%1"" rule couldn't be removed.","The ""%1"" rule couldn't be removed."
+"Please select a catalog price rule(s)","Please select a catalog price rule(s)"
+"The rule ID is required.","The rule ID is required."
+"Validation error","Validation error"
+"You activated a total of %1 records.","You activated a total of %1 records."
+"You deactivated a total of %1 records.","You deactivated a total of %1 records."
