@@ -128,3 +128,7 @@ Action,Action
 "The ""%1"" file doesn't exist.","The ""%1"" file doesn't exist."
 "The ""%1"" path doesn't exist. Verify and try again.","The ""%1"" path doesn't exist. Verify and try again."
 "'The XML in file ""%1"" is invalid:' . ""\n%2\nVerify the XML and try again.""","'The XML in file ""%1"" is invalid:' . ""\n%2\nVerify the XML and try again."""
+"Something went wrong while saving this configuration.","Something went wrong while saving this configuration."
+"The sender name ""%1"" is not valid. The colon character is not allowed.","The sender name ""%1"" is not valid. The colon character is not allowed."
+"The  ""%1"" path doesn't exist. Verify and try again.","The  ""%1"" path doesn't exist. Verify and try again."
+"Invalid file name", "Invalid file name"

@@ -26,3 +26,4 @@
 "Full page caching.","Full page caching."
 "Access List value ""%1"" is not valid. Please use only IP addresses and host names.","Access List value ""%1"" is not valid. Please use only IP addresses and host names."
 "Export Configuration","Export Configuration"
+"Public content cache lifetime in seconds. If field is empty default value 86400 will be saved. ","Public content cache lifetime in seconds. If field is empty default value 86400 will be saved. "

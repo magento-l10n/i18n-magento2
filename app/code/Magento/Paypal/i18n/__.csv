@@ -743,3 +743,53 @@ Features,Features
                                 offered and the currency offered by the merchant is USD.","PayPal will automatically display each enabled funding option to eligible buyers.
                                 For example, PayPal Credit is only shown to buyers in countries where PayPal Credit is
                                 offered and the currency offered by the merchant is USD."
+                    <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                ","
+payflowpro,"Payflow Pro"
+                        <a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>
+                    ","
+"Buyer Country","Buyer Country"
+                    See PayPal Feature Support details and list of supported regions
+                        Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.
+                            Will appear as a payment option only for customers who have at least one active billing agreement.
+                        ","
+                            Allowable values: ""paypal"", ""primary"" (default), your_custom_value (a custom payment page style from your merchant account profile).
+                            The image at the top left of the checkout page. Max size is 750x90-pixel. <strong class=""colorRed"">https</strong> is highly encouraged.
+                            The background color for the header of the checkout page. Case-insensitive six-character HTML hexadecimal color code in ASCII.
+                            The background color for the checkout page around the header and payment form.
+                    Supporting of American Express cards require additional agreement. Learn more at <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.
+"PayPal Express Checkout Payflow Edition lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
+                            You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
+                            <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","PayPal Express Checkout Payflow Edition lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
+"PayPal will automatically display each enabled funding option to eligible buyers. For example, PayPal Credit is only shown to buyers in countries where PayPal Credit is offered and the currency offered by the merchant is USD.","PayPal will automatically display each enabled funding option to eligible buyers. For example, PayPal Credit is only shown to buyers in countries where PayPal Credit is offered and the currency offered by the merchant is USD."
+"Please enter at least 0 and at most 65535","Please enter at least 0 and at most 65535"
+"Order is suspended as an account verification transaction is suspected to be fraudulent.","Order is suspended as an account verification transaction is suspected to be fraudulent."
+"Payment can't be accepted since transaction was rejected by merchant.","Payment can't be accepted since transaction was rejected by merchant."
+"A successful payment transaction has already been completed. Please, check if the order has been placed.","A successful payment transaction has already been completed. Please, check if the order has been placed."
+"Advertise PayPal Pay Later","Advertise PayPal Pay Later"
+"Enable PayPal Pay Later","Enable PayPal Pay Later"
+"Style Layout","Style Layout"
+"Logo Type","Logo Type"
+"Logo Position","Logo Position"
+"Text Color","Text Color"
+"Text Size","Text Size"
+"Ratio","Ratio"
+"White","White"
+"White No Border","White No Border"
+"Gray","Gray"
+"Left","Left"
+"Right","Right"
+"Top","Top"
+"Primary","Primary"
+"Alternative","Alternative"
+"Inline","Inline"
+"None","None"
+"Text","Text"
+"Flex","Flex"
+"Display pay later messaging on your site for offers like Pay in 3, which lets customers pay with 3 interest- free monthly payments. We’ll show messages on your site to promote this feature for you. You may not promote pay later offers with any other content, marketing, or materials","Display pay later messaging on your site for offers like Pay in 3, which lets customers pay with 3 interest- free monthly payments. We’ll show messages on your site to promote this feature for you. You may not promote pay later offers with any other content, marketing, or materials"
+"Enable PayPal Pay Later Experience","Enable PayPal Pay Later Experience"
+"Recommended. <strong>Advertise PayPal Credit</strong> is deprecated. See PayPal Pay Later details and list of supported regions <a href="https://developer.paypal.com/docs/business/pay-later/us/#eligibility" target="_blank">here</a>.","Recommended. <strong>Advertise PayPal Credit</strong> is deprecated. See PayPal Pay Later details and list of supported regions <a href="https://developer.paypal.com/docs/business/pay-later/us/#eligibility" target="_blank">here</a>.Recommended. <strong>Advertise PayPal Credit</strong> is deprecated. See PayPal Pay Later details and list of supported regions <a href="https://developer.paypal.com/docs/business/pay-later/us/#eligibility" target="_blank">here</a>."
+"Monochrome","Monochrome"
+"Grayscale","Grayscale"
+"Sidebar","Sidebar"
+"Checkout Payment Step","Checkout Payment Step"

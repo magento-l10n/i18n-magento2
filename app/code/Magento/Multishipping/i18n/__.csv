@@ -122,3 +122,6 @@ Error:,Error:
 "The item isn't found, or it's already ordered.","The item isn't found, or it's already ordered."
 "The payment method isn't selected. Enter the payment method and try again.","The payment method isn't selected. Enter the payment method and try again."
 "Some addresses can't be used due to the configurations for specific countries.","Some addresses can't be used due to the configurations for specific countries."
+"The order was not successful!","The order was not successful!"
+"Quote address for failed order ID "%1" not found.","Quote address for failed order ID "%1" not found."
+"The current cart does not match multi shipping criteria, please review or contact the store administrator","The current cart does not match multi shipping criteria, please review or contact the store administrator"

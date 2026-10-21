@@ -11,3 +11,5 @@
 "Elasticsearch Server Timeout","Elasticsearch Server Timeout"
 "Test Connection","Test Connection"
 "We were unable to perform the search because of a search engine misconfiguration.","We were unable to perform the search because of a search engine misconfiguration."
+"Minimum Terms to Match","Minimum Terms to Match"
+"Created indexer handler must be instance of %1.", "Created indexer handler must be instance of %1."

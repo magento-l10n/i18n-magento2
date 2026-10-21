@@ -73,3 +73,20 @@ Other,Other
 "Enter the encryption key and try again.","Enter the encryption key and try again."
 "The ""%1"" source doesn't exist.","The ""%1"" source doesn't exist."
 "Retry Synchronization","Retry Synchronization"
+"Error occurred during postponement notification","Error occurred during postponement notification"
+"Command "%1" was not found.","Command "%1" was not found."
+"Error message","Error message"
+"View details","View details"
+"An error occurred while subscription process.","An error occurred while subscription process."
+                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.
+                ","This service provides a dynamic suite of reports with rich insights about your business.
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> tier.","Magento Business Intelligence provides you with a simple and clear path to
+"Analytics Subscription","Analytics Subscription"
+"powered by Magento Business Intelligence","powered by Magento Business Intelligence"
+"Are you sure you want to opt out?","Are you sure you want to opt out?"
+Cancel,Cancel
+"Opt out","Opt out"
+"<p>Advanced Reporting in included,
+                    free of charge, in your Magento software. When you opt out, we collect no product, order, and
+                    customer data to generate our dynamic reports.</p><p>To opt in later: You can always turn on Advanced
+                    Reporting in you Admin Panel.</p>","<p>Advanced Reporting in included,

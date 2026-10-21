@@ -23,3 +23,7 @@ Description,Description
 Mode,Mode
 Status,Status
 Updated,Updated
+"Invalidate index","Invalidate index"
+"We couldn't invalidate indexer(s) because of an error.","We couldn't invalidate indexer(s) because of an error."
+"%1 indexer(s) were invalidated.","%1 indexer(s) were invalidated."
+"Are you sure you want to invalidate the selected index(es)?","Are you sure you want to invalidate the selected index(es)?"

@@ -114,3 +114,5 @@ Mode,Mode
 Debug,Debug
 "Live account","Live account"
 "Request Tax-Inclusive Rate","Request Tax-Inclusive Rate"
+"When applicable, taxes (sales tax, VAT etc.) are included in the rate","When applicable, taxes (sales tax, VAT etc.) are included in the rate"
+"UPS API endpoint URL's must use ups.com","UPS API endpoint URL's must use ups.com"
