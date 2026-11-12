@@ -55,3 +55,8 @@ Service,Service
 "The country isn't available.","The country isn't available."
 "The import model can't be initialized. Verify the model and try again.","The import model can't be initialized. Verify the model and try again."
 "Currency Converter API","Currency Converter API"
+"Fixer Api (APILayer)","Fixer Api (APILayer)"
+"Fixer.io (legacy)","Fixer.io (legacy)"
+Past,Past
+"Please correct the target currency","Please correct the target currency"
+TLS,TLS

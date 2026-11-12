@@ -532,3 +532,41 @@
 "Parameter Value","Wartość parametru"
 "Enable Template Path Hints for Storefront","Włącz podpowiedzi ścieżki szablonu dla witryny Storefront"
 "Enable Template Path Hints for Admin","Włącz podpowiedzi ścieżki szablonu dla administratora"
+"%1 and %2","%1 i %2"
+"<strong class=""colorRed"">Warning!</strong> Enabling this feature is not recommended on production environments because it represents a potential security risk.","<strong class=""colorRed"">Ostrzeżenie!</strong> Włączenie tej funkcji nie jest zalecane w środowiskach produkcyjnych, ponieważ stanowi potencjalne zagrożenie bezpieczeństwa."
+"<strong class=""colorRed"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third-party services (e.g. PayPal etc.).","<strong class=""colorRed"">Ostrzeżenie!</strong> Przy użyciu kodu sklepu w adresach URL system może w niektórych przypadkach działać nieprawidłowo, jeśli w usługach zewnętrznych (np. PayPal) podano adresy URL bez kodów sklepu."
+"Add the following parameter to the URL to show template hints ?templatehints=[parameter_value]","Aby wyświetlić podpowiedzi szablonów, dodaj do adresu URL parametr ?templatehints=[parameter_value]"
+"Admin Grids","Siatki w panelu administracyjnym"
+Asset,Zasób
+Buttons,Przyciski
+Examples,Przykłady
+"For SMTP and Windows server only.","Tylko dla serwera SMTP i Windows."
+"Limit Number of Products in Grid","Ogranicz liczbę produktów w siatce"
+"Limit total number of products in grid collection if their number is greater than this value. Minimum value: 20000.","Ogranicz łączną liczbę produktów w kolekcji siatki, jeśli przekracza tę wartość. Minimalna wartość: 20000."
+"Limit total number of products in grid collection.","Ogranicz łączną liczbę produktów w kolekcji siatki."
+"Minimum Admin Password Length","Minimalna długość hasła administratora"
+"Minimum number of characters required for admin user passwords. Values below 7 are not allowed.","Minimalna liczba znaków wymagana w hasłach administratorów. Wartości poniżej 7 są niedozwolone."
+"Next Page","Następna strona"
+"Non-critical scripts loaded in the head section will automatically receive ""defer"" attribute.","Niekrytyczne skrypty ładowane w sekcji head automatycznie otrzymają atrybut ""defer""."
+"Please enable your Store View before using this Web Site as Default","Włącz widok sklepu przed ustawieniem tej witryny jako domyślnej"
+"Please enter at least 0 and at most 65535 (For SMTP and Windows server only).","Podaj wartość od 0 do 65535 (tylko dla serwera SMTP i Windows)."
+"Previous Page","Poprzednia strona"
+"Privacy Policy","Polityka prywatności"
+"Records Limit","Limit rekordów"
+"Removes only Magento-generated cache. Safe to use when refreshing outdated data.","Usuwa wyłącznie pamięć podręczną wygenerowaną przez Magento. Bezpieczne przy odświeżaniu nieaktualnych danych."
+"Resize performed via javascript before file upload.","Zmiana rozmiaru wykonywana przez JavaScript przed przesłaniem pliku."
+"Search strings are either normal strings or regular expressions (PCRE). They are matched in the same order as entered.","Szukane ciągi to zwykłe ciągi znaków lub wyrażenia regularne (PCRE). Są dopasowywane w kolejności wprowadzenia."
+"See <a href=""https://cheatsheetseries.owasp.org/cheatsheets/HTTP_Strict_Transport_Security_Cheat_Sheet.html"" target=""_blank"">HTTP Strict Transport Security</a> page for details.","Szczegóły znajdziesz na stronie <a href=""https://cheatsheetseries.owasp.org/cheatsheets/HTTP_Strict_Transport_Security_Cheat_Sheet.html"" target=""_blank"">HTTP Strict Transport Security</a>."
+"Short Description","Krótki opis"
+Tabs,Zakładki
+"The %1 and %2 of this account have been modified successfully.","Zmieniono %1 i %2 tego konta."
+"The %1 of this account has been modified successfully.","Zmieniono %1 tego konta."
+"The minimum admin password length must be at least %1 characters.","Minimalna długość hasła administratora musi wynosić co najmniej %1 znaków."
+Today,Dzisiaj
+Tooltip,Podpowiedź
+"URL key ""%1"" matches a reserved endpoint name (%2). Use another URL key.","Klucz URL ""%1"" pokrywa się z zastrzeżoną nazwą punktu końcowego (%2). Użyj innego klucza URL."
+Upload,Prześlij
+"Use URL parameter to enable template path hints for Storefront","Użyj parametru URL do włączenia podpowiedzi ścieżek szablonów w sklepie"
+"User agent exceptions override product and CMS pages rules.","Wyjątki dla User-Agent mają pierwszeństwo przed regułami dla stron produktów i CMS."
+Video,Wideo
+"When disabled, each script is loaded separately.","Po wyłączeniu każdy skrypt jest ładowany osobno."

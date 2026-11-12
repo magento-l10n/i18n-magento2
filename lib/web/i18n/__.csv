@@ -133,3 +133,21 @@ Submit,Submit
 "The widget %1 is no longer available. Select a different widget.","The widget %1 is no longer available. Select a different widget."
 "First character must be letter.","First character must be letter."
 "The password can't be the same as the email address. Create a new password and try again.","The password can't be the same as the email address. Create a new password and try again."
+Alignment,Alignment
+Appearance,Appearance
+Autoplay,Autoplay
+Contained,Contained
+Continuous,Continuous
+Dashed,Dashed
+Divider,Divider
+Dotted,Dotted
+"Drop here","Drop here"
+Groove,Groove
+Inset,Inset
+"No Color","No Color"
+Poster,Poster
+Ridge,Ridge
+Solid,Solid
+"All %1","All %1"
+"Please enter %1 or more characters, using both numeric and alphabetic.","Please enter %1 or more characters, using both numeric and alphabetic."
+"Please use only visible characters and spaces. The colon character is not allowed.","Please use only visible characters and spaces. The colon character is not allowed."

@@ -154,3 +154,6 @@
 "A consumer with ID ""%1"" doesn't exist. Verify the ID and try again.","Konsument o identyfikatorze ""%1"" nie istnieje. Zweryfikuj ID i spróbuj ponownie."
 "Your account is temporarily disabled. Please try again later.","Twoje konto jest tymczasowo wyłączone. Spróbuj ponownie później."
 "The password entered for the current user is invalid. Verify the password and try again.","Hasło wprowadzone dla bieżącego użytkownika jest nieprawidłowe. Zweryfikuj hasło i spróbuj ponownie."
+"Allow OAuth Access Tokens to be used as standalone Bearer tokens","Zezwalaj na używanie tokenów dostępu OAuth jako samodzielnych tokenów Bearer"
+"Invalid Identity Link URL","Nieprawidłowy adres URL Identity Link"
+"OAuth Configuration","Konfiguracja OAuth"

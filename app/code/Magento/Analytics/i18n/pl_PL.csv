@@ -72,3 +72,6 @@
 "Enter the encryption key and try again.","Wprowadź klucz szyfrowania i spróbuj ponownie."
 "The ""%1"" source doesn't exist.","Źródło ""%1"" nie istnieje."
 "Retry Synchronization","Ponów próbę synchronizacji"
+"Command ""%1"" was not found.","Nie znaleziono polecenia ""%1""."
+Integration,Integracja
+"The data could not be encrypted. Try again.","Nie można zaszyfrować danych. Spróbuj ponownie."

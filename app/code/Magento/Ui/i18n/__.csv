@@ -249,3 +249,17 @@ settings/settingTemplate,settings/settingTemplate
 settings/openDialogTitle,settings/openDialogTitle
 "This element contains invalid data. Please resolve this before saving.","This element contains invalid data. Please resolve this before saving."
 "Please use only lowercase letters (a-z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","Please use only lowercase letters (a-z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter."
+"All in Column","All in Column"
+"Click here or drag and drop to add files.","Click here or drag and drop to add files."
+"Delete bookmark","Delete bookmark"
+"Edit bookmark","Edit bookmark"
+"Please enter a number 0 or greater, without comma in this field.","Please enter a number 0 or greater, without comma in this field."
+"Please enter a number greater than 0, without comma in this field.","Please enter a number greater than 0, without comma in this field."
+"Please make corrections to the errors in the table below and re-submit.","Please make corrections to the errors in the table below and re-submit."
+"Save Edits","Save Edits"
+"Save all changes","Save all changes"
+"Select from Gallery","Select from Gallery"
+Slider,Slider
+"To End","To End"
+"To Start","To Start"
+"Trailing hyphens are not allowed.","Trailing hyphens are not allowed."

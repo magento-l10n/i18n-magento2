@@ -114,3 +114,11 @@ Mode,Mode
 Debug,Debug
 "Live account","Live account"
 "Request Tax-Inclusive Rate","Request Tax-Inclusive Rate"
+"UPS API endpoint URL's must use ups.com","UPS API endpoint URL's must use ups.com"
+"Error occurred: %1","Error occurred: %1"
+"Failed to get the quote","Failed to get the quote"
+"Failed to send items","Failed to send items"
+"Failed to send the package","Failed to send the package"
+"Gateway REST URL","Gateway REST URL"
+"Status Updated On:","Status Updated On:"
+"Tracking REST URL","Tracking REST URL"

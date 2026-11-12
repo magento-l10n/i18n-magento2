@@ -191,3 +191,4 @@ Rate,Rate
 "The ZIP Code is invalid. Use numbers only.","The ZIP Code is invalid. Use numbers only."
 "The tax rate can't be removed because it exists in a tax rule.","The tax rate can't be removed because it exists in a tax rule."
 """%fieldName"" is required. Enter and try again.","""%fieldName"" is required. Enter and try again."
+"Additionally Show Order Total Without Tax","Additionally Show Order Total Without Tax"

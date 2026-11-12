@@ -1,0 +1,5 @@
+"""order"" value should be specified","Należy podać wartość ""order"""
+"Missing key %1 in sales item data","Brak klucza %1 w danych pozycji sprzedaży"
+"Product not found","Nie znaleziono produktu"
+"Unable to find associated order item.","Nie można znaleźć powiązanej pozycji zamówienia."
+"Unable to load one or more orders.","Nie można wczytać co najmniej jednego zamówienia."
