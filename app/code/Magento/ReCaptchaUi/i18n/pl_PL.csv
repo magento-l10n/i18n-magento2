@@ -1,0 +1,5 @@
+"Can not resolve reCAPTCHA parameter.","Nie można przetworzyć parametru reCAPTCHA."
+"UI config provider for ""%type"" is not configured.","Dostawca konfiguracji UI dla „%type” nie jest skonfigurowany."
+"UI config provider must implement %1","Dostawca konfiguracji UI musi implementować %1"
+"Validation config provider for ""%type"" is not configured.","Dostawca konfiguracji walidacji dla „%type” nie jest skonfigurowany."
+"Validation config provider must implement %1.","Dostawca konfiguracji walidacji musi implementować %1."
