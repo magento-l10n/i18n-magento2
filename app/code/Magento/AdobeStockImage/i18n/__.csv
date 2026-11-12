@@ -1,0 +1,8 @@
+"Could not load related assets for asset id: %id","Could not load related assets for asset id: %id"
+"Could not save image.","Could not save image."
+"Could not save image: destination directory is restricted.","Could not save image: destination directory is restricted."
+"Could not save image: unsupported file type.","Could not save image: unsupported file type."
+"Could not save media gallery asset.","Could not save media gallery asset."
+"Destination Path is too long; must be %1 characters or less","Destination Path is too long; must be %1 characters or less"
+"Image File has invalid characters.","Image File has invalid characters."
+"Image with the same file name already exits.","Image with the same file name already exits."

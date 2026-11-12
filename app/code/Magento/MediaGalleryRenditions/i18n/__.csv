@@ -1,0 +1,8 @@
+"Cannot create directory for rendition %path","Cannot create directory for rendition %path"
+"Cannot create rendition for media asset paths: %paths","Cannot create rendition for media asset paths: %paths"
+"Could not create rendition for image, path is restricted: %path","Could not create rendition for image, path is restricted: %path"
+"Could not create rendition for image, unsupported file type: %path.","Could not create rendition for image, unsupported file type: %path."
+"Enable Image Optimization","Enable Image Optimization"
+"Incorrect rendition path provided for update: %path","Incorrect rendition path provided for update: %path"
+"Media Gallery Image Optimization","Media Gallery Image Optimization"
+"Media asset file %path does not exist!","Media asset file %path does not exist!"

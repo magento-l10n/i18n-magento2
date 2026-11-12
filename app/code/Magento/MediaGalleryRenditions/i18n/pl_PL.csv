@@ -1,0 +1,6 @@
+"Cannot create rendition for media asset paths: %paths","Nie można utworzyć wersji obrazu dla ścieżek zasobów multimedialnych: %paths"
+"Could not create rendition for image, path is restricted: %path","Nie można utworzyć wersji obrazu, ścieżka jest objęta ograniczeniem: %path"
+"Could not create rendition for image, unsupported file type: %path.","Nie można utworzyć wersji obrazu, nieobsługiwany typ pliku: %path."
+"Enable Image Optimization","Włącz optymalizację obrazów"
+"Media Gallery Image Optimization","Optymalizacja obrazów w galerii multimediów"
+"Media asset file %path does not exist!","Plik zasobu multimedialnego %path nie istnieje!"
