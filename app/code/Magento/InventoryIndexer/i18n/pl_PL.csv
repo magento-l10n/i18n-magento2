@@ -1,0 +1,5 @@
+"Could not receive Stock Item data","Nie można pobrać danych pozycji zapasu"
+"Index Strategy not found, please check system settings.","Nie znaleziono strategii indeksowania. Sprawdź ustawienia systemu."
+"Inventory index (MSI)","Indeks zapasów (MSI)"
+Synchronous,Synchronicznie
+"Table %table already exits","Tabela %table już istnieje"
