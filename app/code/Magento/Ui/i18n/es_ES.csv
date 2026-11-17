@@ -201,7 +201,7 @@ formElements/*[name(.)=../../@formElement]/settings/title
 "Apply Filters","Apply Filters"
 "We couldn't find any records.","No pudimos encontrar ningún registro."
 "Save","Guardar"
-"Custom","Personalizado"
+"Custom","A medida"
 "per page","por página"
 "Search","Buscar"
 "Please enter 6 or more characters. Leading or trailing spaces will be ignored.","Por favor, introduce 6 o más caracteres. Los espacios iniciales o finales serán ignorados."
