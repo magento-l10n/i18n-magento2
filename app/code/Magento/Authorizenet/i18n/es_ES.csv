@@ -27,7 +27,7 @@
 "Please enter a transaction ID to authorize this payment.","Por favor, introduce un ID de transacción para autorizar este pago."
 "Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.","Algo salió mal: el monto pagado no coincide con el total del pedido. Por favor, corrija esto y vuelva a intentarlo."
 "Transaction %1 has been approved. Amount %2. Transaction status is ""%3""","La transacción %1 ha sido aprobada. Importe %2. El estado de la transacción es ""%3"""
-"Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.","La transacción %1 ha sido anulada/declinada. El estado de transacción es ""%2"". Importe %3."
+"Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.","La transacción %1 ha sido anulada/rechazada. El estado de transacción es ""%2"". Importe %3."
 "Authorize Only","Sólo Autorizar"
 "Authorize and Capture","Autorizar y Capturar"
 "Unable to get transaction details. Try again later.","No se pueden obtener detalles de la transacción. Inténtalo más tarde."
