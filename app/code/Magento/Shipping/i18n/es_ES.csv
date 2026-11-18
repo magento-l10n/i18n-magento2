@@ -35,7 +35,7 @@
 "We don't recognize or support the file extension in this shipment: %1.","No reconocemos o admitimos la extensión de archivo en este envío: %1."
 "We can't initialize shipment for delete tracking number.","No podemos inicializar el envío para borrar el número de seguimiento."
 "We can't delete tracking number.","No podemos eliminar el número de seguimiento."
-"We can't load track with retrieving identifier right now.","No podemos cargar la pista con el identificador de recolección en este momento."
+"We can't load track with retrieving identifier right now.","No podemos cargar el seguimiento con el identificador de recuperación en este momento."
 "We can't save the shipment right now.","No podemos guardar el envío en este momento."
 """Shipment Document Validation Error(s):\n"" .","""Error (es) de validación de documentación del pedido: \n""."
 "The shipment has been created.","El envío ha sido creado."
