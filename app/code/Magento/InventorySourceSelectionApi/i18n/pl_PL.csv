@@ -1,0 +1,5 @@
+"Algorithm which provides Source Selections based on predefined priority of Source","Algorytm wybierający źródła na podstawie zdefiniowanego priorytetu źródeł"
+"Inventory Source Selection","Wybór źródła magazynowego"
+"Source Priority","Priorytet źródła"
+"Source selection algorithm result","Wynik algorytmu wyboru źródła"
+"There is no such Source Selection Algorithm implemented: %1","Nie zaimplementowano takiego algorytmu wyboru źródła: %1"

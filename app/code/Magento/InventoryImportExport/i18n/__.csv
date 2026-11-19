@@ -1,0 +1,7 @@
+"""%column"" contains incorrect value","""%column"" contains incorrect value"
+"Given column name ""%columnName"" is not present in collection.","Given column name ""%columnName"" is not present in collection."
+"Missing required column ""%column""","Missing required column ""%column"""
+"No filter processor for ""%type"" given.","No filter processor for ""%type"" given."
+"Source code ""%code"" does not exists","Source code ""%code"" does not exists"
+"There is no backend type specified for column ""%columnName"".","There is no backend type specified for column ""%columnName""."
+"There is no command registered for behavior ""%behavior"".","There is no command registered for behavior ""%behavior""."

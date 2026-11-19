@@ -1,0 +1,6 @@
+"Aggregated inventory available to purchase for a stock. The amount aggregates assigned source's Quantity subtracting the Out-of-Stock Threshold (or MinQty).","Aggregated inventory available to purchase for a stock. The amount aggregates assigned source's Quantity subtracting the Out-of-Stock Threshold (or MinQty)."
+"All unassigned sales channels will be assigned to the Default Stock","All unassigned sales channels will be assigned to the Default Stock"
+"Associated to %1 stocks","Associated to %1 stocks"
+"No manage stock","No manage stock"
+"Product Salable Quantity","Product Salable Quantity"
+"Salable Quantity","Salable Quantity"

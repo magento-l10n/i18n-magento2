@@ -1,0 +1,4 @@
+"""%field"" can not be null.","""%field"" can not be null."
+"""%field"" is expected to be a number.","""%field"" is expected to be a number."
+"Cannot update Reservation %reservation","Cannot update Reservation %reservation"
+"Could not append Reservation","Could not append Reservation"
