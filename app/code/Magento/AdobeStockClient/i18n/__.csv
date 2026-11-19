@@ -1,0 +1,10 @@
+"Adobe API Key is invalid!","Adobe API Key is invalid!"
+"Cannot retrieve the field %1. It's not available in Adobe Stock SDK","Cannot retrieve the field %1. It's not available in Adobe Stock SDK"
+"Adobe API login has expired!","Adobe API login has expired!"
+"Could not retrieve files information.","Could not retrieve files information."
+"Create attributes process failed: %error_message","Create attributes process failed: %error_message"
+"Failed to authenticate to Adobe Stock API. Please correct the API credentials.","Failed to authenticate to Adobe Stock API. Please correct the API credentials."
+"Files ids can not be empty.","Files ids can not be empty."
+"Isolated Only","Isolated Only"
+Orientation,Orientation
+Premium,Premium

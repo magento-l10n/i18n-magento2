@@ -1,0 +1,9 @@
+"Adobe API Key is invalid!","Klucz API Adobe jest nieprawidłowy!"
+"Cannot retrieve the field %1. It's not available in Adobe Stock SDK","Nie można pobrać pola %1. Nie jest dostępne w Adobe Stock SDK"
+"Adobe API login has expired!","Sesja logowania do Adobe API wygasła!"
+"Could not retrieve files information.","Nie można pobrać informacji o plikach."
+"Create attributes process failed: %error_message","Tworzenie atrybutów nie powiodło się: %error_message"
+"Failed to authenticate to Adobe Stock API. Please correct the API credentials.","Nie można uwierzytelnić się w Adobe Stock API. Popraw dane dostępowe API."
+"Files ids can not be empty.","Identyfikatory plików nie mogą być puste."
+"Isolated Only","Tylko izolowane"
+Orientation,Orientacja

@@ -1,0 +1,3 @@
+"Could not fetch data from %tableName","Could not fetch data from %tableName"
+"Could not import media assets for files: %files","Could not import media assets for files: %files"
+"Failed to execute the following synchronizers: %synchronizers","Failed to execute the following synchronizers: %synchronizers"
