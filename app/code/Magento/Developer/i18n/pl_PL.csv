@@ -14,3 +14,5 @@
 "Magento was installed with a table prefix. Please re-install without prefix.","Magento zostało zainstalowane z prefiksem tabeli. Prosimy o ponowną instalację bez prefiksu."
 "Syslog","Syslog"
 "Log to Syslog","Logowanie do Syslog"
+"Modifying this configuration has no effect in production mode.","Zmiana tej konfiguracji nie ma wpływu w trybie produkcyjnym."
+"Template hints are %status","Podpowiedzi szablonów: %status"

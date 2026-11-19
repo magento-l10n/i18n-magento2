@@ -24,3 +24,26 @@
 "Value for multiselect attribute %s contains duplicated values","Value for multiselect attribute %s contains duplicated values"
 "Invalid Stock data for insert","Invalid Stock data for insert"
 "Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: %1","Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: %1"
+"MAP (Manufacturer's Suggested Retail Price) and Product Options Display settings","MAP (Manufacturer's Suggested Retail Price) and Product Options Display settings"
+"To ensure your file can be successfully re-imported, the following systemic data is automatically included and cannot be excluded:","To ensure your file can be successfully re-imported, the following systemic data is automatically included and cannot be excluded:"
+"Additional Images, Swatch Images, and Product Page Visibility","Additional Images, Swatch Images, and Product Page Visibility"
+"Catalog Structure:","Catalog Structure:"
+"Categories, Websites, Custom Options, and Additional Attributes","Categories, Websites, Custom Options, and Additional Attributes"
+"Complex Product Data:","Complex Product Data:"
+"Configurations for Bundle, Configurable, Gift Card, and Downloadable products","Configurations for Bundle, Configurable, Gift Card, and Downloadable products"
+"Core Identifiers:","Core Identifiers:"
+"Could not parse resource url.","Could not parse resource url."
+"Filename is too long; must be %1 characters or less","Filename is too long; must be %1 characters or less"
+"Import images directory must be writable in order to process remote images.","Import images directory must be writable in order to process remote images."
+"Inventory & Stock:","Inventory & Stock:"
+Mandatory,Mandatory
+Margin,Margin
+"Media & Visuals:","Media & Visuals:"
+"Pricing & Display:","Pricing & Display:"
+"Product Relations:","Product Relations:"
+"Related, Up-sell, and Cross-sell product links","Related, Up-sell, and Cross-sell product links"
+Retail,Retail
+"SKU, Store View, Attribute Set, and Product Type","SKU, Store View, Attribute Set, and Product Type"
+Secondary,Secondary
+"The %fieldName value of ""%value"" must be greater than or equal to %minValue.","The %fieldName value of ""%value"" must be greater than or equal to %minValue."
+"Unknown Product Type","Unknown Product Type"

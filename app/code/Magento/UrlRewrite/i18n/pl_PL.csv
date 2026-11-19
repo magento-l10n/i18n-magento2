@@ -71,3 +71,6 @@
 "The selected product isn't associated with the selected store or category.","Wybrany produkt nie jest powiązany z wybranym sklepem lub kategorią."
 "The selected category isn't associated with the selected store.","Wybrana kategoria nie jest powiązana z wybranym sklepem."
 "An error occurred while saving the URL rewrite. Please try to save again.","Wystąpił błąd podczas zapisywania przepisywania adresu URL. Spróbuj zapisać ponownie."
+"Are you sure you want to delete a record #%1?","Czy na pewno usunąć rekord nr %1?"
+"Delete record #%1","Usuń rekord nr %1"
+"Something went wrong while saving the url rewrite.","Wystąpił błąd podczas zapisywania przepisania adresu URL."

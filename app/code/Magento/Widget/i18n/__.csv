@@ -73,3 +73,8 @@ Conditions,Conditions
 "We're sorry, an error has occurred while loading widget options.","We're sorry, an error has occurred while loading widget options."
 Cancel,Cancel
 "Inserting a widget does not create a widget instance.","Inserting a widget does not create a widget instance."
+"Are you sure you want to delete the selected widget(s)?","Are you sure you want to delete the selected widget(s)?"
+"No such entity with instance_id = %instance_id","No such entity with instance_id = %instance_id"
+"No widget instance IDs were provided to be deleted.","No widget instance IDs were provided to be deleted."
+"The specified template ""%1"" is not allowed for this widget type.","The specified template ""%1"" is not allowed for this widget type."
+"Widget(s) with ID(s) %1 were not found","Widget(s) with ID(s) %1 were not found"

@@ -183,3 +183,4 @@
 "This is implemented for the ""%1"" configurable product only.","Jest to zaimplementowane tylko dla konfigurowalnego produktu ""%1""."
 "Contribution must have attributes specified. Enter attributes and try again.","Wkład musi mieć określone atrybuty. Wprowadź atrybuty i spróbuj ponownie."
 "Configurable product ""%1"" does not have sub-products","Konfigurowalny produkt ""%1"" nie ma podproduktów"
+"The value of attribute """"%1"""" must be unique","Wartość cechy """"%1"""" musi być unikalna"

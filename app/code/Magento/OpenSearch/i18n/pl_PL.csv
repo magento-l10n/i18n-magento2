@@ -1,0 +1,7 @@
+"Enable OpenSearch HTTP Auth","Włącz uwierzytelnianie HTTP OpenSearch"
+"OpenSearch HTTP Password","Hasło HTTP OpenSearch"
+"OpenSearch HTTP Username","Nazwa użytkownika HTTP OpenSearch"
+"OpenSearch Index Prefix","Prefiks indeksu OpenSearch"
+"OpenSearch Server Hostname","Nazwa hosta serwera OpenSearch"
+"OpenSearch Server Port","Port serwera OpenSearch"
+"OpenSearch Server Timeout","Limit czasu serwera OpenSearch"

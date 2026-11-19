@@ -1,2 +1,8 @@
 "Close Session","Close Session"
 "You are connected as <strong>%1</strong> on %2","You are connected as <strong>%1</strong> on %2"
+"Admin ID","Admin ID"
+"An error occurred while saving this user.","An error occurred while saving this user."
+"Fail to get authentication data.","Fail to get authentication data."
+"Login as Customer","Login as Customer"
+"Login as Customer is disabled.","Login as Customer is disabled."
+"Login was not successful.","Login was not successful."

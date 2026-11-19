@@ -64,3 +64,8 @@ ID,ID
 "Link for Google","Link for Google"
 "Last Generated","Last Generated"
 Action,Action
+"Batch (Memory Optimized)","Batch (Memory Optimized)"
+"Generation Method","Generation Method"
+"Standard method processes all data in memory. Batch method uses memory-optimized processing for large catalogs.","Standard method processes all data in memory. Batch method uses memory-optimized processing for large catalogs."
+"Store Url Options","Store Url Options"
+"example: ""/media/sitemap/"" for base path (path must be writeable)","example: ""/media/sitemap/"" for base path (path must be writeable)"

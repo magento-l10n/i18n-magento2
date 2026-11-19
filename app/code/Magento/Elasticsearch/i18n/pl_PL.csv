@@ -11,3 +11,6 @@
 "Elasticsearch Server Timeout","Czas odpowiedzi serwera Elasticsearch"
 "Test Connection","Przetestuj połączenie"
 "We were unable to perform the search because of a search engine misconfiguration.","Nie mogliśmy przeprowadzić wyszukiwania z powodu błędnej konfiguracji wyszukiwarki."
+"Created indexer handler must be instance of %1.","Utworzony handler indeksera musi być instancją %1."
+"Minimum Terms to Match","Minimalna liczba pasujących terminów"
+"Value for the field ""%1"" was not saved because of the incorrect format.","Wartość pola ""%1"" nie została zapisana z powodu nieprawidłowego formatu."

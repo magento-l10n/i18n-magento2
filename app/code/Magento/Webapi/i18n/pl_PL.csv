@@ -27,3 +27,7 @@
 "REST and SOAP configurations, generated WSDL file.","Konfiguracje REST i SOAP, wygenerowany plik WSDL."
 "Specified request cannot be processed.","Określone żądanie nie może zostać przetworzone."
 "The consumer isn't authorized to access %resources.","Konsument nie ma uprawnień dostępu do %resources."
+"Default Page Size","Domyślny rozmiar strony"
+"Default number of items a paginated search result.","Domyślna liczba elementów na stronie wyników wyszukiwania."
+"Maximum number of items allowed in an entity's array property.","Maksymalna liczba elementów dozwolona we właściwości tablicowej encji."
+"Web Api Input Limits","Limity danych wejściowych Web API"

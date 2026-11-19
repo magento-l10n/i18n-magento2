@@ -116,3 +116,10 @@ Type,Type
 "The option couldn't be saved.","The option couldn't be saved."
 """%fieldName"" is required. Enter and try again.","""%fieldName"" is required. Enter and try again."
 "The option with ""%1"" ID can't be deleted.","The option with ""%1"" ID can't be deleted."
+"Cannot create shipment as bundle product %1 should be included as well.","Cannot create shipment as bundle product %1 should be included as well."
+"Excl. tax","Excl. tax"
+"Option type (%types) should have only one element.","Option type (%types) should have only one element."
+"Product relations processor must implement %1.","Product relations processor must implement %1."
+"Shopping cart","Shopping cart"
+Sidebar,Sidebar
+thumbnail,thumbnail
