@@ -1,0 +1,5 @@
+"Can not resolve reCAPTCHA parameter.","Can not resolve reCAPTCHA parameter."
+"UI config provider for ""%type"" is not configured.","UI config provider for ""%type"" is not configured."
+"UI config provider must implement %1","UI config provider must implement %1"
+"Validation config provider for ""%type"" is not configured.","Validation config provider for ""%type"" is not configured."
+"Validation config provider must implement %1.","Validation config provider must implement %1."
